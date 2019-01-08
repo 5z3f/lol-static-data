@@ -158,7 +158,7 @@ namespace Riot.StaticData
 
                 ExportData.champions[i].shortBio = championData["shortBio"];
 
-                string squarePortraitPath = "/data/champions/portraits/" + Path.GetFileName((string)championData["squarePortraitPath"]);
+                string squarePortraitPath = "/assets/champions/portraits/" + Path.GetFileName((string)championData["squarePortraitPath"]);
                 ExportData.champions[i].squarePortraitPath = squarePortraitPath;
 
                 if (dlAssets)
@@ -187,7 +187,7 @@ namespace Riot.StaticData
                     ExportData.champions[i].skins[j].rarity = championData["skins"][j]["rarity"];
                     ExportData.champions[i].skins[j].isLegacy = (bool)championData["skins"][j]["isLegacy"];
 
-                    string tilePath = "/data/champions/tiles/" + Path.GetFileName((string)championData["skins"][j]["tilePath"]);
+                    string tilePath = "/assets/champions/tiles/" + Path.GetFileName((string)championData["skins"][j]["tilePath"]);
                     ExportData.champions[i].skins[j].tilePath = tilePath;
 
                     if (dlAssets)
@@ -236,6 +236,7 @@ namespace Riot.StaticData
                 ExportData.icons[i].id = (long)iconCollection[i]["id"];
                 ExportData.icons[i].title = iconCollection[i]["title"];
                 ExportData.icons[i].description = null;
+                ExportData.icons[i].set = null;
 
                 for (int j = 0; j < iconCollection[i]["descriptions"].Count; j++)
                     if ((string)iconCollection[i]["descriptions"][j]["region"] == "riot")
@@ -256,7 +257,7 @@ namespace Riot.StaticData
 
                 ExportData.icons[i].isLegacy = (bool)iconCollection[i]["isLegacy"];
 
-                string iconPath = "/data/icons/" + Path.GetFileName((string)iconCollection[i]["imagePath"]);
+                string iconPath = "/assets/icons/" + Path.GetFileName((string)iconCollection[i]["imagePath"]);
                 ExportData.icons[i].imagePath = iconPath;
 
                 if (dlAssets)
@@ -282,6 +283,7 @@ namespace Riot.StaticData
                 ExportData.wards[i].name = wardCollection[i]["name"];
                 ExportData.wards[i].defaultDescription = wardCollection[i]["description"] > 0 ? wardCollection[i]["description"] : null;
                 ExportData.wards[i].description = null;
+                ExportData.wards[i].set = null;
 
                 for (int j = 0; j < wardCollection[i]["regionalDescriptions"].Count; j++)
                     if ((string)wardCollection[i]["regionalDescriptions"][j]["region"] == "riot")
@@ -300,7 +302,7 @@ namespace Riot.StaticData
 
                 ExportData.wards[i].isLegacy = (bool)wardCollection[i]["isLegacy"];
 
-                string wardPath = "/data/wards/" + Path.GetFileName((string)wardCollection[i]["wardImagePath"]);
+                string wardPath = $"/assets/wards/{(long)wardCollection[i]["id"]}.png";
                 ExportData.wards[i].imagePath = wardPath;
 
                 if (dlAssets)
@@ -325,7 +327,7 @@ namespace Riot.StaticData
                 ExportData.emotes[i].name = emoteCollection[i]["name"];
                 ExportData.emotes[i].description = emoteCollection[i]["description"] > 0 ? emoteCollection[i]["description"] : null;
 
-                string emotePath = "/data/emotes/" + Path.GetFileName((string)emoteCollection[i]["inventoryIcon"]);
+                string emotePath = $"/assets/emotes/{(long)emoteCollection[i]["id"]}.png";
                 ExportData.emotes[i].imagePath = emotePath.Contains(".png") ? emotePath : null;
 
                 if (dlAssets)
@@ -363,7 +365,7 @@ namespace Riot.StaticData
             File.WriteAllText($"static-data.{locale}.json", output, Encoding.UTF8);
 
             // Bitmap portraitCombined = CombineBitmap(bitmaps.ToArray());
-            // portraitCombined.Save(Environment.CurrentDirectory +  @"/data/champions/portraitCombined.bmp", ImageFormat.Bmp);
+            // portraitCombined.Save(Environment.CurrentDirectory +  @"/assets/champions/portraitCombined.bmp", ImageFormat.Bmp);
 
             Console.ReadKey();
         }
