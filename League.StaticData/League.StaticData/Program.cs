@@ -378,10 +378,13 @@ namespace Riot.StaticData
 
             try
             {
-                string uri = webClient.DownloadString(toLeagueAPI ? $"https://127.0.0.1:{port}{url}" : url);
-
-                if (binary && (!File.Exists(fileName) || (File.Exists(fileName) && overwrite))) webClient.DownloadFile(toLeagueAPI ? $"https://127.0.0.1:{port}{url}" : url, fileName);
-                else return deserialize ? JsonConvert.DeserializeObject(uri) : uri;
+                if (binary && (!File.Exists(fileName) || (File.Exists(fileName) && overwrite)))
+                    webClient.DownloadFile(toLeagueAPI ? $"https://127.0.0.1:{port}{url}" : url, fileName);
+                else
+                {
+                    string str = webClient.DownloadString(toLeagueAPI ? $"https://127.0.0.1:{port}{url}" : url);
+                    return deserialize ? JsonConvert.DeserializeObject(str) : str;
+                }
 
                 return true;
             }
