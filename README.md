@@ -23,10 +23,9 @@ Should be working for all riot regions, Garena and Tencent servers are not teste
 
 ### JSON Schema
 
-```json
-
+```txt
 {
-  "version": 8.24,
+  "version": 9.1,
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
