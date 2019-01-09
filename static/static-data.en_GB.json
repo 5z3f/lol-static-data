@@ -1,5 +1,5 @@
 ﻿{
-  "version": 8.24,
+  "version": 9.1,
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -11,11 +11,11 @@
   ],
   "info": {
     "champions": 142,
-    "skins": 918,
-    "chromas": 743,
-    "icons": 1937,
-    "emotes": 361,
-    "wards": 129
+    "skins": 922,
+    "chromas": 756,
+    "icons": 1945,
+    "emotes": 371,
+    "wards": 130
   },
   "data": {
     "champions": [
@@ -1838,7 +1838,7 @@
             "name": "Snow Man Yi",
             "description": "A humble snowman brought to life by the magic of the Poro King, Yi strives to become the most gallant knight in all the landâ€¦ and with the imminent invasion of Ice King Twitch, he might just get his chance.",
             "rarity": "kEpic",
-            "isLegacy": false,
+            "isLegacy": true,
             "tilePath": "/assets/champions/tiles/11017.jpg",
             "chromas": [
               {
@@ -2497,6 +2497,79 @@
               {
                 "id": 15015,
                 "name": "Pizza Delivery Sivir",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15016,
+            "name": "Blood Moon Sivir",
+            "description": "A newly anointed priestess of the Blood Moon cult, Sivir wields a weapon that is both a killing tool and a key to the hellish mirror world where all demons are born. Slowly but surely, it has merged her twinned selves, and now it is no longer clear where the human ends and the monster begins.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/15016.jpg",
+            "chromas": [
+              {
+                "id": 15018,
+                "name": "Blood Moon Sivir",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 15019,
+                "name": "Blood Moon Sivir",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 15020,
+                "name": "Blood Moon Sivir",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 15021,
+                "name": "Blood Moon Sivir",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 15022,
+                "name": "Blood Moon Sivir",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 15023,
+                "name": "Blood Moon Sivir",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 15024,
+                "name": "Blood Moon Sivir",
                 "description": null,
                 "colors": [
                   "#27211C",
@@ -4456,7 +4529,7 @@
             "name": "Ice King Twitch",
             "description": "Twitch is a bitter, hateful creature who has jealously watched the Winterlands from his frozen burrow since time immemorial. Finally driven to the surface by twisted delusions of grandeur, he now seeks to usurp the Poro King, corrupting his subjects with an ancient, icy curse.",
             "rarity": "kEpic",
-            "isLegacy": false,
+            "isLegacy": true,
             "tilePath": "/assets/champions/tiles/29012.jpg",
             "chromas": [
               {
@@ -10183,7 +10256,7 @@
           {
             "id": 81019,
             "name": "SSG Ezreal",
-            "description": "Honoring BeBe's winning performance as Ezreal during the 2012 World Championship.",
+            "description": "Honoring Haru's winning performance as Ezreal during the 2017 World Championship. ",
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/81019.jpg",
@@ -10791,7 +10864,7 @@
           {
             "id": 89010,
             "name": "Solar Eclipse Leona",
-            "description": "Hearken! We beseech thee, O Savage Moon, and deign to bless with the vermillion shadow of thy celestial majesty. May this shield guard against the scourge of dark enchantments, which choke our land. May this blade be the hammer against the servants of witchery and evil. I, Leona, do take this oath forevermore.",
+            "description": "Hearken! We beseech thee, O Cruel Sun, and deign to bless with the cleansing flame of thy celestial majesty. May this shield guard against the scourge of dark enchantments, which choke our land. May this blade be the hammer against the servants of witchery and evil. I, Leona, do take this oath forevermore.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/89010.jpg",
@@ -16663,7 +16736,7 @@
           {
             "id": 236006,
             "name": "PROJECT: Lucian",
-            "description": "Once a sentinel within the Command Line, Lucian has seen PROJECT for what they truly are. His dual ion-core Lightcaster pistols now serve G/NETIC and the human rebellion, bringing down the down their technological oppressors with brutal efficiency.",
+            "description": "Once a sentinel within the Command Line, Lucian has seen PROJECT for what they truly are. His dual ion-core Lightcaster pistols now serve G/NETIC and the human rebellion, bringing down their technological oppressors with brutal efficiency.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/236006.jpg",
@@ -17302,6 +17375,24 @@
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/266003.jpg",
+            "chromas": null
+          },
+          {
+            "id": 266007,
+            "name": "Blood Moon Aatrox",
+            "description": "Ancient manuscripts tracking the orbit of the Blood Moon describe it not as celestial phenomenon, but as a cosmic womb. As the seasons grow shorter and the cult's activity continues to increase, some worry it will give birth to a new kind of demonâ€”a creature helping to bring about its own dark ascendance.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/266007.jpg",
+            "chromas": null
+          },
+          {
+            "id": 266008,
+            "name": "Blood Moon Aatrox Prestige Edition",
+            "description": "Aatrox has been loosed upon the mortal plane. A creature born in the heart of the Blood Moon, he is the progenitor of all demons, and a malignant darkness that will consume the entire world.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/266008.jpg",
             "chromas": null
           }
         ]
@@ -18349,6 +18440,70 @@
               {
                 "id": 555008,
                 "name": "Sand Wraith Pyke",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 555009,
+            "name": "Blood Moon Pyke",
+            "description": "A demonic spearfisher lurking within the darkness of the Blood Moon's mirror dimension, Pyke casts his hooked blade across an endless, liquid night, dragging demons up from the bottom of the world and into their human hosts. Inexorably tied to the Blood Moon, Pyke's sudden appearance in Ionia is a dire omen indeedâ€¦",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/555009.jpg",
+            "chromas": [
+              {
+                "id": 555010,
+                "name": "Blood Moon Pyke",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 555011,
+                "name": "Blood Moon Pyke",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 555012,
+                "name": "Blood Moon Pyke",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 555013,
+                "name": "Blood Moon Pyke",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 555014,
+                "name": "Blood Moon Pyke",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 555015,
+                "name": "Blood Moon Pyke",
                 "description": null,
                 "colors": [
                   "#ECF9F8",
@@ -29688,7 +29843,7 @@
         "set": "Versus",
         "yearReleased": 2018,
         "rarity": "kNoRarity",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3535.jpg"
       },
       {
@@ -29698,7 +29853,7 @@
         "set": "Versus",
         "yearReleased": 2018,
         "rarity": "kNoRarity",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3536.jpg"
       },
       {
@@ -29815,7 +29970,7 @@
         "id": 3548,
         "title": "2018 Rift Rivals Icon",
         "description": "Available in the store to celebrate Rift Rivals 2018.",
-        "set": null,
+        "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kRare",
         "isLegacy": false,
@@ -30218,7 +30373,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3601.jpg"
       },
       {
@@ -30228,7 +30383,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3602.jpg"
       },
       {
@@ -30238,7 +30393,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3603.jpg"
       },
       {
@@ -30248,7 +30403,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3604.jpg"
       },
       {
@@ -30258,7 +30413,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3605.jpg"
       },
       {
@@ -30268,7 +30423,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3606.jpg"
       },
       {
@@ -30298,7 +30453,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3609.jpg"
       },
       {
@@ -30348,7 +30503,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kUltimate",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3614.jpg"
       },
       {
@@ -30358,7 +30513,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kMythic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3615.jpg"
       },
       {
@@ -30368,7 +30523,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3616.jpg"
       },
       {
@@ -30378,7 +30533,7 @@
         "set": "Odyssey",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3617.jpg"
       },
       {
@@ -30398,7 +30553,7 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3620.jpg"
       },
       {
@@ -30415,10 +30570,10 @@
         "id": 3622,
         "title": "World Champion Minions Icon",
         "description": "Unlocked by watching games during the 2018 Worlds event.",
-        "set": null,
+        "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3622.jpg"
       },
       {
@@ -30428,7 +30583,7 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3623.jpg"
       },
       {
@@ -30438,7 +30593,7 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3624.jpg"
       },
       {
@@ -30448,7 +30603,7 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3625.jpg"
       },
       {
@@ -30458,7 +30613,7 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3626.jpg"
       },
       {
@@ -30468,7 +30623,7 @@
         "set": null,
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3627.jpg"
       },
       {
@@ -30478,7 +30633,7 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3628.jpg"
       },
       {
@@ -30488,7 +30643,7 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3630.jpg"
       },
       {
@@ -30498,7 +30653,7 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3631.jpg"
       },
       {
@@ -30508,7 +30663,7 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3632.jpg"
       },
       {
@@ -30518,7 +30673,7 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3633.jpg"
       },
       {
@@ -31948,7 +32103,7 @@
         "set": "Pick'em Poros",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3776.jpg"
       },
       {
@@ -31958,7 +32113,7 @@
         "set": "Pick'em Poros",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3777.jpg"
       },
       {
@@ -31968,67 +32123,67 @@
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3778.jpg"
       },
       {
         "id": 3779,
         "title": "Golden Championship Kha'Zix Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.",
+        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3779.jpg"
       },
       {
         "id": 3780,
         "title": "Golden Championship Sword Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.",
+        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3780.jpg"
       },
       {
         "id": 3781,
         "title": "Golden Championship Lantern Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.",
+        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3781.jpg"
       },
       {
         "id": 3782,
         "title": "Golden Championship Gauntlet Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.",
+        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3782.jpg"
       },
       {
         "id": 3783,
         "title": "Golden Championship Spears Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.",
+        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3783.jpg"
       },
       {
         "id": 3784,
         "title": "Golden Championship Blade Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.",
+        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3784.jpg"
       },
       {
@@ -32108,7 +32263,7 @@
         "set": "Tales from the Rift",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3792.jpg"
       },
       {
@@ -32118,7 +32273,7 @@
         "set": "Tales from the Rift",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3793.jpg"
       },
       {
@@ -32128,7 +32283,7 @@
         "set": "Tales from the Rift",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3794.jpg"
       },
       {
@@ -32184,7 +32339,7 @@
         "set": "K/DA",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3800.jpg"
       },
       {
@@ -32194,7 +32349,7 @@
         "set": "Tales from the Rift",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3801.jpg"
       },
       {
@@ -32204,7 +32359,7 @@
         "set": "Tales from the Rift",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3802.jpg"
       },
       {
@@ -32214,7 +32369,7 @@
         "set": "Tales from the Rift",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3803.jpg"
       },
       {
@@ -32491,7 +32646,7 @@
         "set": "Eclipse",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3841.jpg"
       },
       {
@@ -32501,7 +32656,7 @@
         "set": "Eclipse",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3842.jpg"
       },
       {
@@ -32511,7 +32666,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3844.jpg"
       },
       {
@@ -32521,7 +32676,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3845.jpg"
       },
       {
@@ -32531,7 +32686,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3846.jpg"
       },
       {
@@ -32541,7 +32696,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3847.jpg"
       },
       {
@@ -32551,7 +32706,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3848.jpg"
       },
       {
@@ -32561,7 +32716,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3849.jpg"
       },
       {
@@ -32571,7 +32726,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3851.jpg"
       },
       {
@@ -32581,7 +32736,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3852.jpg"
       },
       {
@@ -32591,7 +32746,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3853.jpg"
       },
       {
@@ -32601,7 +32756,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3854.jpg"
       },
       {
@@ -32611,7 +32766,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3855.jpg"
       },
       {
@@ -32621,7 +32776,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3858.jpg"
       },
       {
@@ -32631,7 +32786,7 @@
         "set": "Snowdown Showdown",
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3859.jpg"
       },
       {
@@ -32641,7 +32796,7 @@
         "set": null,
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3860.jpg"
       },
       {
@@ -32761,7 +32916,7 @@
         "set": null,
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3872.jpg"
       },
       {
@@ -32771,7 +32926,7 @@
         "set": null,
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3873.jpg"
       },
       {
@@ -32781,7 +32936,7 @@
         "set": null,
         "yearReleased": 2018,
         "rarity": "kEpic",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3874.jpg"
       },
       {
@@ -32790,14 +32945,14 @@
         "description": "Earned by completing the first All-Star watch mission.",
         "set": "Esports",
         "yearReleased": 2018,
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3885.jpg"
       },
       {
         "id": 3886,
         "title": "2018 Worlds Commemoration Icon",
         "description": "This icon commemorates the winner of the 2018 Worlds Championship, Invictus Gaming.",
-        "set": null,
+        "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -32810,8 +32965,88 @@
         "set": null,
         "yearReleased": 2018,
         "rarity": "kRare",
-        "isLegacy": true,
+        "isLegacy": false,
         "imagePath": "/assets/icons/3887.jpg"
+      },
+      {
+        "id": 3889,
+        "title": "Blood Moon Pyke Icon",
+        "description": "This icon was released in the store for purchase during 2019.",
+        "set": "Blood Moon",
+        "yearReleased": 2018,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3889.jpg"
+      },
+      {
+        "id": 3890,
+        "title": "Blood Moon Aatrox Icon",
+        "description": "This icon was released in the store for purchase during 2019.",
+        "set": "Blood Moon",
+        "yearReleased": 2018,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3890.jpg"
+      },
+      {
+        "id": 3891,
+        "title": "Blood Moon Sivir Icon",
+        "description": "This icon was released in the store for purchase during 2019.",
+        "set": "Blood Moon",
+        "yearReleased": 2018,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3891.jpg"
+      },
+      {
+        "id": 3892,
+        "title": "Blood Moon Descent Icon",
+        "description": "This icon was released in the store for purchase during 2019.",
+        "set": "Blood Moon",
+        "yearReleased": 2018,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3892.jpg"
+      },
+      {
+        "id": 3895,
+        "title": "Cheering Poro Icon",
+        "description": "Earned by watching at least one regular season game or VoD from any global league.",
+        "set": "Esports",
+        "yearReleased": 2018,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3895.jpg"
+      },
+      {
+        "id": 3896,
+        "title": "Esports and Chill Icon",
+        "description": "Earned by completing 4 watch rewards missions.",
+        "set": "Esports",
+        "yearReleased": 2018,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3896.jpg"
+      },
+      {
+        "id": 3897,
+        "title": "Foam Finger of Destiny Icon",
+        "description": "Earned by watching at least 25 regular season games or VoD from any global league.",
+        "set": "Esports",
+        "yearReleased": 2018,
+        "rarity": "kEpic",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3897.jpg"
+      },
+      {
+        "id": 3898,
+        "title": "Season 9 - Split 1 Icon",
+        "description": "Earned by winning ranked games in Season 9 - Split 1.",
+        "set": "Ranked",
+        "yearReleased": 2018,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3898.jpg"
       },
       {
         "id": 3,
@@ -37729,7 +37964,7 @@
         "id": 0,
         "name": "Default Ward",
         "defaultDescription": "Base Ward Skin",
-        "description": "This ward was released for purchase in the store in 2018 with Dragon Trainer Heimerdinger.",
+        "description": "Unlocked by creating an account in League of Legends.",
         "set": "Starter Pack",
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -38928,7 +39163,7 @@
         "id": 120,
         "name": "Pajama Guardian Ward",
         "defaultDescription": null,
-        "description": "This ward was released for purchase in the store in 2018 with Dragon Trainer Heimerdinger.",
+        "description": "This ward was released for purchase in the store in 2018 with the Pajama Guardian skins.",
         "set": "Star Guardian Season 1",
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -38999,9 +39234,9 @@
         "name": "Unassuming Snowman Ward",
         "defaultDescription": null,
         "description": "This ward was released for purchase in the store during the 2018 Snowdown event.",
-        "set": null,
+        "set": "Snowdown Showdown",
         "rarity": "kNoRarity",
-        "isLegacy": false,
+        "isLegacy": true,
         "imagePath": "/assets/wards/130.png"
       },
       {
@@ -39011,8 +39246,18 @@
         "description": "Unlocked through crafting in the 2018 Snowdown event.",
         "set": "Snowdown Showdown",
         "rarity": "kRare",
-        "isLegacy": false,
+        "isLegacy": true,
         "imagePath": "/assets/wards/131.png"
+      },
+      {
+        "id": 132,
+        "name": "Blood Moon Ward",
+        "defaultDescription": null,
+        "description": "This ward was released for purchase in the store in 2019 with Blood Moon skins.",
+        "set": "Blood Moon",
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/132.png"
       }
     ],
     "emotes": [
@@ -41123,6 +41368,12 @@
         "imagePath": "/assets/emotes/3211.png"
       },
       {
+        "id": 3212,
+        "name": "Teemote",
+        "description": null,
+        "imagePath": "/assets/emotes/3212.png"
+      },
+      {
         "id": 3213,
         "name": "OMG I love it",
         "description": "Rainbow",
@@ -41145,6 +41396,60 @@
         "name": "Haha you fell!",
         "description": "Funny",
         "imagePath": "/assets/emotes/3216.png"
+      },
+      {
+        "id": 3217,
+        "name": "Season 9 - Split 1 - Iron",
+        "description": null,
+        "imagePath": "/assets/emotes/3217.png"
+      },
+      {
+        "id": 3218,
+        "name": "Season 9 - Split 1 - Bronze",
+        "description": null,
+        "imagePath": "/assets/emotes/3218.png"
+      },
+      {
+        "id": 3219,
+        "name": "Season 9 - Split 1 - Silver",
+        "description": null,
+        "imagePath": "/assets/emotes/3219.png"
+      },
+      {
+        "id": 3220,
+        "name": "Season 9 - Split 1 - Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3220.png"
+      },
+      {
+        "id": 3221,
+        "name": "Season 9 - Split 1 - Platinum",
+        "description": null,
+        "imagePath": "/assets/emotes/3221.png"
+      },
+      {
+        "id": 3222,
+        "name": "Season 9 - Split 1 - Diamond",
+        "description": null,
+        "imagePath": "/assets/emotes/3222.png"
+      },
+      {
+        "id": 3223,
+        "name": "Season 9 - Split 1 - Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3223.png"
+      },
+      {
+        "id": 3224,
+        "name": "Season 9 - Split 1 - Grand Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3224.png"
+      },
+      {
+        "id": 3225,
+        "name": "Season 9 - Split 1 - Challenger",
+        "description": null,
+        "imagePath": "/assets/emotes/3225.png"
       },
       {
         "id": 4,

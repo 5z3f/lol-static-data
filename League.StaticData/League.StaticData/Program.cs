@@ -216,9 +216,7 @@ namespace Riot.StaticData
                             ExportData.champions[i].skins[j].chromas[k].colors = championData["skins"][j]["chromas"][k]["colors"];
                         }
                     }
-                    else
-                        ExportData.champions[i].skins[j].chromas = null;
-                
+                    else ExportData.champions[i].skins[j].chromas = null;
                 }
             }
 
@@ -370,7 +368,7 @@ namespace Riot.StaticData
             Console.ReadKey();
         }
 
-        public static dynamic GetRequest(string url, string password = null, string port = null, bool toLeagueAPI = true, bool deserialize = true, bool binary = false, string fileName = null)
+        public static dynamic GetRequest(string url, string password = null, string port = null, bool toLeagueAPI = true, bool deserialize = true, bool binary = false, string fileName = null, bool overwrite = false)
         {
             ServicePointManager.ServerCertificateValidationCallback = delegate { return true; };
             WebClient webClient = new WebClient();
@@ -382,10 +380,8 @@ namespace Riot.StaticData
             {
                 string uri = webClient.DownloadString(toLeagueAPI ? $"https://127.0.0.1:{port}{url}" : url);
 
-                if (binary)
-                    webClient.DownloadFile(toLeagueAPI ? $"https://127.0.0.1:{port}{url}" : url, fileName);
-                else
-                    return deserialize ? JsonConvert.DeserializeObject(uri) : url;
+                if (binary && (!File.Exists(fileName) || (File.Exists(fileName) && overwrite))) webClient.DownloadFile(toLeagueAPI ? $"https://127.0.0.1:{port}{url}" : url, fileName);
+                else return deserialize ? JsonConvert.DeserializeObject(uri) : uri;
 
                 return true;
             }
