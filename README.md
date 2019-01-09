@@ -7,7 +7,7 @@ Should be working for all riot regions, Garena and Tencent servers are not teste
 
 ---
 
-### Data Gathering
+### Available Data
 * Champions
 * Skins
 * Icons
