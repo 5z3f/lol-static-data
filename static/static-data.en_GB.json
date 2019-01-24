@@ -1,5 +1,5 @@
 ﻿{
-  "version": 9.1,
+  "version": 9.2,
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -10,12 +10,12 @@
     "EMOTES"
   ],
   "info": {
-    "champions": 142,
-    "skins": 922,
-    "chromas": 756,
-    "icons": 1945,
-    "emotes": 371,
-    "wards": 130
+    "champions": 143,
+    "skins": 929,
+    "chromas": 791,
+    "icons": 2074,
+    "emotes": 388,
+    "wards": 133
   },
   "data": {
     "champions": [
@@ -790,6 +790,15 @@
                 "colors": [
                   "#55AAFF",
                   "#DDFFFD"
+                ]
+              },
+              {
+                "id": 5026,
+                "name": "Warring Kingdoms Xin Zhao",
+                "description": "Loot exclusive gained from the 2019 Lunar Revel event.",
+                "colors": [
+                  "#FFC948",
+                  "#FFC948"
                 ]
               }
             ]
@@ -3349,6 +3358,15 @@
                 "colors": [
                   "#73BFBE",
                   "#73BFBE"
+                ]
+              },
+              {
+                "id": 19015,
+                "name": "Lunar Guardian Warwick",
+                "description": "Loot exclusive gained from the 2019 Lunar Revel event.",
+                "colors": [
+                  "#FFC948",
+                  "#FFC948"
                 ]
               }
             ]
@@ -8213,7 +8231,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/59005.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 59010,
+                "name": "Warring Kingdoms Jarvan IV",
+                "description": "Loot exclusive gained from the 2019 Lunar Revel event.",
+                "colors": [
+                  "#FFC948",
+                  "#FFC948"
+                ]
+              }
+            ]
           },
           {
             "id": 59006,
@@ -8948,6 +8976,24 @@
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/67011.jpg",
+            "chromas": null
+          },
+          {
+            "id": 67012,
+            "name": "Firecracker Vayne",
+            "description": "Vayne has donned her finest Lunar Revel garb in her endless quest to root out evil everywhere, including citywide celebrations. One would assume it's better not to spend holidays around a grown woman shooting firecrackers out of a metal wrist-pig, but it's been that kind of year.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/67012.jpg",
+            "chromas": null
+          },
+          {
+            "id": 67013,
+            "name": "Firecracker Vayne Prestige Edition",
+            "description": "Vayne has donned her even finer Lunar Revel garb, noting the growing anxiety around her explosive-shooting metal wrist-pig. Fashion upgrades solve all problems.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/67013.jpg",
             "chromas": null
           }
         ]
@@ -13076,6 +13122,70 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/113007.jpg",
             "chromas": null
+          },
+          {
+            "id": 113008,
+            "name": "Firecracker Sejuani",
+            "description": "Charging forth on her giant pig and swinging a whip made from low-grade explosives, Sejuani has firmly cemented herself as the woman to watch this Lunar Revel. Because if you're not watching her she'll trample you, and you'll die.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/113008.jpg",
+            "chromas": [
+              {
+                "id": 113009,
+                "name": "Firecracker Sejuani",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 113010,
+                "name": "Firecracker Sejuani",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 113011,
+                "name": "Firecracker Sejuani",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 113012,
+                "name": "Firecracker Sejuani",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 113013,
+                "name": "Firecracker Sejuani",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 113014,
+                "name": "Firecracker Sejuani",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -13299,6 +13409,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/114022.jpg",
             "chromas": null
+          },
+          {
+            "id": 114023,
+            "name": "Heartpiercer Fiora",
+            "description": null,
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/114023.jpg",
+            "chromas": [
+              {
+                "id": 114024,
+                "name": "Heartpiercer Fiora",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 114025,
+                "name": "Heartpiercer Fiora",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 114026,
+                "name": "Heartpiercer Fiora",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 114027,
+                "name": "Heartpiercer Fiora",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 114028,
+                "name": "Heartpiercer Fiora",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 114029,
+                "name": "Heartpiercer Fiora",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 114030,
+                "name": "Heartpiercer Fiora",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -16664,6 +16847,70 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/223002.jpg",
             "chromas": null
+          },
+          {
+            "id": 223003,
+            "name": "Coin Emperor Tahm Kench",
+            "description": "Craving the smell of coins over all earthly delights, Tahm Kench rises from his kingdom beneath the river every Lunar Revel, seeking bargains with mortals. Though his targets are inevitably left destitute, it is thought that with the proper reverence and careful wording, one can escape his bargains unimaginably wealthy.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/223003.jpg",
+            "chromas": [
+              {
+                "id": 223004,
+                "name": "Coin Emperor Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 223005,
+                "name": "Coin Emperor Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 223006,
+                "name": "Coin Emperor Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 223007,
+                "name": "Coin Emperor Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 223008,
+                "name": "Coin Emperor Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 223009,
+                "name": "Coin Emperor Tahm Kench",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -17298,6 +17545,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/254011.jpg",
             "chromas": null
+          },
+          {
+            "id": 254012,
+            "name": "Heartbreaker Vi",
+            "description": null,
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/254012.jpg",
+            "chromas": [
+              {
+                "id": 254013,
+                "name": "Heartbreaker Vi",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 254014,
+                "name": "Heartbreaker Vi",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 254015,
+                "name": "Heartbreaker Vi",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 254016,
+                "name": "Heartbreaker Vi",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 254017,
+                "name": "Heartbreaker Vi",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 254018,
+                "name": "Heartbreaker Vi",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 254019,
+                "name": "Heartbreaker Vi",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -18246,6 +18566,93 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/516001.jpg",
             "chromas": null
+          }
+        ]
+      },
+      {
+        "id": 517,
+        "name": "Sylas",
+        "alias": "Sylas",
+        "title": "the Unshackled",
+        "shortBio": "Raised in one of Demacia's lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him for turning those same powers against them. Having now broken free, Sylas lives as a hardened revolutionary, using the magic of those around him to destroy the kingdom he once servedâ€¦ and his band of outcast mage followers seems to grow by the day.",
+        "squarePortraitPath": "/assets/champions/portraits/517.png",
+        "roles": [
+          "mage",
+          "assassin"
+        ],
+        "skins": [
+          {
+            "id": 517000,
+            "name": "Sylas (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/517000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 517001,
+            "name": "Lunar Wraith Sylas",
+            "description": "The hateful lord of the lunar wraiths, Sylas has waited eons to invade the celestial realm and depose its godly stewards. What happens to the balance between heaven and earth is not his concern; he simply craves chaos, and the hour of his triumph is fast approaching.",
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/517001.jpg",
+            "chromas": [
+              {
+                "id": 517002,
+                "name": "Lunar Wraith Sylas",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 517003,
+                "name": "Lunar Wraith Sylas",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 517004,
+                "name": "Lunar Wraith Sylas",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 517005,
+                "name": "Lunar Wraith Sylas",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 517006,
+                "name": "Lunar Wraith Sylas",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 517007,
+                "name": "Lunar Wraith Sylas",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -32940,6 +33347,106 @@
         "imagePath": "/assets/icons/3874.jpg"
       },
       {
+        "id": 3875,
+        "title": "Firecracker Sejuani Icon",
+        "description": "Unlocked during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel",
+        "yearReleased": 2018,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3875.jpg"
+      },
+      {
+        "id": 3876,
+        "title": "Firecracker Vayne Icon",
+        "description": "Unlocked during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel",
+        "yearReleased": 2018,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3876.jpg"
+      },
+      {
+        "id": 3877,
+        "title": "Coin Emperor Tahm Kench Icon",
+        "description": "Unlocked during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel",
+        "yearReleased": 2018,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3877.jpg"
+      },
+      {
+        "id": 3878,
+        "title": "Lunar Wraith Sylas Icon",
+        "description": "Unlocked during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel",
+        "yearReleased": 2018,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3878.jpg"
+      },
+      {
+        "id": 3879,
+        "title": "Year of the Pig Icon",
+        "description": "Unlocked during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel",
+        "yearReleased": 2018,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3879.jpg"
+      },
+      {
+        "id": 3880,
+        "title": "Golden Pig Icon",
+        "description": "Unlocked during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel",
+        "yearReleased": 2018,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3880.jpg"
+      },
+      {
+        "id": 3881,
+        "title": "Gold Warring Kingdoms Xin Zhao Icon",
+        "description": "This icon was acquired through Loot during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel",
+        "yearReleased": 2018,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3881.jpg"
+      },
+      {
+        "id": 3882,
+        "title": "Gold Warring Kingdoms Jarvan IV Icon",
+        "description": "This icon was acquired through Loot during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel",
+        "yearReleased": 2018,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3882.jpg"
+      },
+      {
+        "id": 3883,
+        "title": "Gold Lunar Guardian Warwick Icon",
+        "description": "This icon was acquired through Loot during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel",
+        "yearReleased": 2018,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3883.jpg"
+      },
+      {
+        "id": 3884,
+        "title": "Lunar Revel Pass Icon",
+        "description": "Acquired by purchasing the 2019 Lunar Revel Pass during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel",
+        "yearReleased": 2018,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3884.jpg"
+      },
+      {
         "id": 3885,
         "title": "All-Star 2018 Icon",
         "description": "Earned by completing the first All-Star watch mission.",
@@ -32969,11 +33476,21 @@
         "imagePath": "/assets/icons/3887.jpg"
       },
       {
+        "id": 3888,
+        "title": "Golden Spatula Club Icon",
+        "description": "This icon was acquired by being a member of the Golden Spatula Club.",
+        "set": "Game Modes",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3888.jpg"
+      },
+      {
         "id": 3889,
         "title": "Blood Moon Pyke Icon",
         "description": "This icon was released in the store for purchase during 2019.",
         "set": "Blood Moon",
-        "yearReleased": 2018,
+        "yearReleased": 2019,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/3889.jpg"
@@ -32983,7 +33500,7 @@
         "title": "Blood Moon Aatrox Icon",
         "description": "This icon was released in the store for purchase during 2019.",
         "set": "Blood Moon",
-        "yearReleased": 2018,
+        "yearReleased": 2019,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/3890.jpg"
@@ -32993,7 +33510,7 @@
         "title": "Blood Moon Sivir Icon",
         "description": "This icon was released in the store for purchase during 2019.",
         "set": "Blood Moon",
-        "yearReleased": 2018,
+        "yearReleased": 2019,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/3891.jpg"
@@ -33001,9 +33518,9 @@
       {
         "id": 3892,
         "title": "Blood Moon Descent Icon",
-        "description": "This icon was released in the store for purchase during 2019.",
+        "description": "This icon was released in the store for purchase as part of a special bundle alongside 2019 Blood Moon skins.",
         "set": "Blood Moon",
-        "yearReleased": 2018,
+        "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
         "imagePath": "/assets/icons/3892.jpg"
@@ -33040,13 +33557,925 @@
       },
       {
         "id": 3898,
-        "title": "Season 9 - Split 1 Icon",
+        "title": "2019 - Split 1 Icon",
         "description": "Earned by winning ranked games in Season 9 - Split 1.",
         "set": "Ranked",
-        "yearReleased": 2018,
+        "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/3898.jpg"
+      },
+      {
+        "id": 3899,
+        "title": "Heartpiercer Fiora Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Heartbreakers",
+        "yearReleased": 2019,
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3899.jpg"
+      },
+      {
+        "id": 3900,
+        "title": "Heartbreaker Vi Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Heartbreakers",
+        "yearReleased": 2019,
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3900.jpg"
+      },
+      {
+        "id": 3901,
+        "title": "Queen Poro Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Heartbreakers",
+        "yearReleased": 2019,
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3901.jpg"
+      },
+      {
+        "id": 3902,
+        "title": "Season 2019 Commemorative Icon",
+        "description": "Earned by completing the first Season 2019 mission: Start Your Season.",
+        "set": "Ranked",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3902.jpg"
+      },
+      {
+        "id": 3903,
+        "title": "Season 2019 Commemorative Icon Prestige Edition",
+        "description": "This icon was acquired by completing missions at the start of Season 9.",
+        "set": "Ranked",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3903.jpg"
+      },
+      {
+        "id": 3904,
+        "title": "Master's Challenge Season 3",
+        "description": "This reward commemorates the top 2000 players on Master's Challenge shard.",
+        "set": "Special Events",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3904.jpg"
+      },
+      {
+        "id": 3905,
+        "title": "Heartpiercer Fiora Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3905.jpg"
+      },
+      {
+        "id": 3906,
+        "title": "Heartbreaker Vi Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3906.jpg"
+      },
+      {
+        "id": 3907,
+        "title": "Queen Poro Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3907.jpg"
+      },
+      {
+        "id": 3908,
+        "title": "LCS Clutch Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3908.jpg"
+      },
+      {
+        "id": 3909,
+        "title": "LCS Echo Fox",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3909.jpg"
+      },
+      {
+        "id": 3910,
+        "title": "LCS FlyQuest",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3910.jpg"
+      },
+      {
+        "id": 3911,
+        "title": "LCS Golden Guardians",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3911.jpg"
+      },
+      {
+        "id": 3912,
+        "title": "LCS OpTic Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3912.jpg"
+      },
+      {
+        "id": 3913,
+        "title": "LCS Team Liquid",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3913.jpg"
+      },
+      {
+        "id": 3914,
+        "title": "LCS TSM",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3914.jpg"
+      },
+      {
+        "id": 3915,
+        "title": "LEC Rogue",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3915.jpg"
+      },
+      {
+        "id": 3916,
+        "title": "LEC Fnatic",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3916.jpg"
+      },
+      {
+        "id": 3917,
+        "title": "LEC G2",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3917.jpg"
+      },
+      {
+        "id": 3918,
+        "title": "LEC Misfits",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3918.jpg"
+      },
+      {
+        "id": 3919,
+        "title": "LEC Excel",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3919.jpg"
+      },
+      {
+        "id": 3920,
+        "title": "LEC SK Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3920.jpg"
+      },
+      {
+        "id": 3921,
+        "title": "LEC Schalke",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3921.jpg"
+      },
+      {
+        "id": 3922,
+        "title": "LEC Splyce",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3922.jpg"
+      },
+      {
+        "id": 3923,
+        "title": "LEC Origen",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3923.jpg"
+      },
+      {
+        "id": 3924,
+        "title": "LEC Vitality",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3924.jpg"
+      },
+      {
+        "id": 3925,
+        "title": "LPL Bilibili Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3925.jpg"
+      },
+      {
+        "id": 3926,
+        "title": "LPL Edward Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3926.jpg"
+      },
+      {
+        "id": 3927,
+        "title": "LPL FunPlus Phoenix",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3927.jpg"
+      },
+      {
+        "id": 3928,
+        "title": "LPL Invictus Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3928.jpg"
+      },
+      {
+        "id": 3929,
+        "title": "LPL JD Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3929.jpg"
+      },
+      {
+        "id": 3930,
+        "title": "LPL LGD Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3930.jpg"
+      },
+      {
+        "id": 3931,
+        "title": "LPL Oh My God",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3931.jpg"
+      },
+      {
+        "id": 3932,
+        "title": "LPL Royal Never Give Up",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3932.jpg"
+      },
+      {
+        "id": 3933,
+        "title": "LPL Rogue Warriors",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3933.jpg"
+      },
+      {
+        "id": 3934,
+        "title": "LPL SinoDragon Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3934.jpg"
+      },
+      {
+        "id": 3935,
+        "title": "LPL Suning",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3935.jpg"
+      },
+      {
+        "id": 3936,
+        "title": "LPL Snake Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3936.jpg"
+      },
+      {
+        "id": 3937,
+        "title": "LPL Topsports Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3937.jpg"
+      },
+      {
+        "id": 3938,
+        "title": "LPL Victory Five",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3938.jpg"
+      },
+      {
+        "id": 3939,
+        "title": "LPL Vici Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3939.jpg"
+      },
+      {
+        "id": 3940,
+        "title": "LPL Team WE",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3940.jpg"
+      },
+      {
+        "id": 3941,
+        "title": "TCL 1907 FenerbahĂ§e Espor",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3941.jpg"
+      },
+      {
+        "id": 3942,
+        "title": "TCL BahĂ§eĹźehir SuperMassive",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3942.jpg"
+      },
+      {
+        "id": 3943,
+        "title": "TCL BeĹźiktaĹź",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3943.jpg"
+      },
+      {
+        "id": 3944,
+        "title": "TCL Bursaspor Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3944.jpg"
+      },
+      {
+        "id": 3945,
+        "title": "TCL Dark Passage",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3945.jpg"
+      },
+      {
+        "id": 3946,
+        "title": "TCL DoÄźuĹź Ăśni Aurora",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3946.jpg"
+      },
+      {
+        "id": 3947,
+        "title": "TCL GALAKTICOS",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3947.jpg"
+      },
+      {
+        "id": 3948,
+        "title": "TCL Galatasaray Espor",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3948.jpg"
+      },
+      {
+        "id": 3949,
+        "title": "TCL HWA GAMING",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3949.jpg"
+      },
+      {
+        "id": 3950,
+        "title": "TCL Royal Youth",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3950.jpg"
+      },
+      {
+        "id": 3951,
+        "title": "LCK SANDBOX Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3951.jpg"
+      },
+      {
+        "id": 3952,
+        "title": "LCK kt Rolster",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3952.jpg"
+      },
+      {
+        "id": 3953,
+        "title": "LCK KING-ZONE DragonX",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3953.jpg"
+      },
+      {
+        "id": 3954,
+        "title": "LCK Jin Air Greenwings",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3954.jpg"
+      },
+      {
+        "id": 3955,
+        "title": "LCK Hanwha Life Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3955.jpg"
+      },
+      {
+        "id": 3956,
+        "title": "LCK GRIFFIN",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3956.jpg"
+      },
+      {
+        "id": 3957,
+        "title": "LCK Gen.G",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3957.jpg"
+      },
+      {
+        "id": 3958,
+        "title": "LCK Damwon Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3958.jpg"
+      },
+      {
+        "id": 3959,
+        "title": "LCK Afreeca Freecs",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3959.jpg"
+      },
+      {
+        "id": 3960,
+        "title": "LCK SK Telecom T1",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3960.jpg"
+      },
+      {
+        "id": 3961,
+        "title": "OPL Dire Wolves",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3961.jpg"
+      },
+      {
+        "id": 3962,
+        "title": "OPL The Chiefs Esports Club",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3962.jpg"
+      },
+      {
+        "id": 3963,
+        "title": "OPL Legacy",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3963.jpg"
+      },
+      {
+        "id": 3964,
+        "title": "OPL Bombers",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3964.jpg"
+      },
+      {
+        "id": 3965,
+        "title": "OPL Avant Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3965.jpg"
+      },
+      {
+        "id": 3966,
+        "title": "OPL Mammoth",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3966.jpg"
+      },
+      {
+        "id": 3967,
+        "title": "OPL Gravitas",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3967.jpg"
+      },
+      {
+        "id": 3968,
+        "title": "OPL Order",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3968.jpg"
+      },
+      {
+        "id": 3969,
+        "title": "LMS Flash Wolves",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3969.jpg"
+      },
+      {
+        "id": 3970,
+        "title": "LMS CTBC J Team",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3970.jpg"
+      },
+      {
+        "id": 3971,
+        "title": "LMS Hong Kong Attitude",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3971.jpg"
+      },
+      {
+        "id": 3972,
+        "title": "LMS MAD TEAM",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3972.jpg"
+      },
+      {
+        "id": 3973,
+        "title": "LMS G-Rex",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3973.jpg"
+      },
+      {
+        "id": 3974,
+        "title": "LMS ahq e-Sports Club",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3974.jpg"
+      },
+      {
+        "id": 3975,
+        "title": "LMS Alpha Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3975.jpg"
+      },
+      {
+        "id": 3976,
+        "title": "LMS Dragon Gate Team",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3976.jpg"
+      },
+      {
+        "id": 3977,
+        "title": "CBLOL CNB e-Sports Club",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3977.jpg"
+      },
+      {
+        "id": 3978,
+        "title": "CBLOL Flamengo eSports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3978.jpg"
+      },
+      {
+        "id": 3979,
+        "title": "CBLOL INTZ e-Sports Club",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3979.jpg"
+      },
+      {
+        "id": 3980,
+        "title": "CBLOL KaBuM! e-Sports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3980.jpg"
+      },
+      {
+        "id": 3981,
+        "title": "CBLOL ProGaming Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3981.jpg"
+      },
+      {
+        "id": 3982,
+        "title": "CBLOL Redemption eSports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3982.jpg"
+      },
+      {
+        "id": 3983,
+        "title": "CBLOL Uppercut Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3983.jpg"
+      },
+      {
+        "id": 3984,
+        "title": "CBLOL Vivo Keyd",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3984.jpg"
+      },
+      {
+        "id": 3985,
+        "title": "LLA All Knights",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3985.jpg"
+      },
+      {
+        "id": 3986,
+        "title": "LLA Furious Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3986.jpg"
+      },
+      {
+        "id": 3987,
+        "title": "LLA Infinity Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3987.jpg"
+      },
+      {
+        "id": 3988,
+        "title": "LLA Isurus Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3988.jpg"
+      },
+      {
+        "id": 3989,
+        "title": "LLA Kaos Latin Gamers",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3989.jpg"
+      },
+      {
+        "id": 3990,
+        "title": "LLA Pixel Esports Club",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3990.jpg"
+      },
+      {
+        "id": 3991,
+        "title": "LLA Rainbow7",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3991.jpg"
+      },
+      {
+        "id": 3992,
+        "title": "LLA XTEN Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3992.jpg"
+      },
+      {
+        "id": 3993,
+        "title": "LJL DetonatioN FocusMe",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3993.jpg"
+      },
+      {
+        "id": 3994,
+        "title": "LJL Unsold Stuff Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3994.jpg"
+      },
+      {
+        "id": 3995,
+        "title": "LJL V3 Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3995.jpg"
+      },
+      {
+        "id": 3996,
+        "title": "LJL Crest Gaming Act",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3996.jpg"
+      },
+      {
+        "id": 3997,
+        "title": "LJL Burning Core",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3997.jpg"
+      },
+      {
+        "id": 3998,
+        "title": "LJL Axiz",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3998.jpg"
+      },
+      {
+        "id": 3999,
+        "title": "LJL Sngoku Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/3999.jpg"
       },
       {
         "id": 3,
@@ -33057,6 +34486,159 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/3.jpg"
+      },
+      {
+        "id": 4000,
+        "title": "LJL Rascal Jester",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4000.jpg"
+      },
+      {
+        "id": 4001,
+        "title": "LCL Gambit eSports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4001.jpg"
+      },
+      {
+        "id": 4002,
+        "title": "LCL Team Just",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4002.jpg"
+      },
+      {
+        "id": 4003,
+        "title": "LCL M19",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4003.jpg"
+      },
+      {
+        "id": 4004,
+        "title": "LCL Vaevictis eSports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4004.jpg"
+      },
+      {
+        "id": 4005,
+        "title": "LCL Dragon Army",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4005.jpg"
+      },
+      {
+        "id": 4006,
+        "title": "LCL Vega Squadron",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4006.jpg"
+      },
+      {
+        "id": 4007,
+        "title": "LCL ROX",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4007.jpg"
+      },
+      {
+        "id": 4008,
+        "title": "LCL Elements Pro Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4008.jpg"
+      },
+      {
+        "id": 4009,
+        "title": "VCS Sky Gaming Daklak",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4009.jpg"
+      },
+      {
+        "id": 4010,
+        "title": "VCS Cherry Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4010.jpg"
+      },
+      {
+        "id": 4011,
+        "title": "VCS FTV",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4011.jpg"
+      },
+      {
+        "id": 4012,
+        "title": "VCS GAM Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4012.jpg"
+      },
+      {
+        "id": 4013,
+        "title": "VCS EVOS Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4013.jpg"
+      },
+      {
+        "id": 4014,
+        "title": "VCS Friends Forever Gaming",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4014.jpg"
+      },
+      {
+        "id": 4015,
+        "title": "VCS Cerberus Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4015.jpg"
+      },
+      {
+        "id": 4016,
+        "title": "VCS Phong Vu Buffalo",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4016.jpg"
       },
       {
         "id": 4,
@@ -37964,7 +39546,7 @@
         "id": 0,
         "name": "Default Ward",
         "defaultDescription": "Base Ward Skin",
-        "description": "Unlocked by creating an account in League of Legends.",
+        "description": "This icon was released in the store for purchase in 2019.",
         "set": "Starter Pack",
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -39135,7 +40717,7 @@
         "defaultDescription": null,
         "description": "Earned for completing the 2018 Odyssey mission: Crew of the Galaxy.",
         "set": "Odyssey",
-        "rarity": "kNoRarity",
+        "rarity": "kMythic",
         "isLegacy": true,
         "imagePath": "/assets/wards/117.png"
       },
@@ -39190,6 +40772,16 @@
         "imagePath": "/assets/wards/122.png"
       },
       {
+        "id": 123,
+        "name": "Queen Poro Ward",
+        "defaultDescription": null,
+        "description": "This ward was released for purchase in the store during the 2019 Lunar Revel event.",
+        "set": "Heartbreakers",
+        "rarity": "kNoRarity",
+        "isLegacy": true,
+        "imagePath": "/assets/wards/123.png"
+      },
+      {
         "id": 124,
         "name": "Pop Music A-ward",
         "defaultDescription": null,
@@ -39228,6 +40820,26 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/127.png"
+      },
+      {
+        "id": 128,
+        "name": "Year of the Pig Ward",
+        "defaultDescription": null,
+        "description": "This ward was released for purchase in the store during the 2019 Lunar Revel event.",
+        "set": "Lunar Revel: Firecracker",
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/128.png"
+      },
+      {
+        "id": 129,
+        "name": "Golden Year of the Pig Ward Ward",
+        "defaultDescription": null,
+        "description": "Unlocked through crafting in the 2019 Lunar Revel event.",
+        "set": "Lunar Revel: Firecracker",
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/129.png"
       },
       {
         "id": 130,
@@ -41399,57 +43011,159 @@
       },
       {
         "id": 3217,
-        "name": "Season 9 - Split 1 - Iron",
+        "name": "2019 - Split 1 - Iron",
         "description": null,
         "imagePath": "/assets/emotes/3217.png"
       },
       {
         "id": 3218,
-        "name": "Season 9 - Split 1 - Bronze",
+        "name": "2019 - Split 1 - Bronze",
         "description": null,
         "imagePath": "/assets/emotes/3218.png"
       },
       {
         "id": 3219,
-        "name": "Season 9 - Split 1 - Silver",
+        "name": "2019 - Split 1 - Silver",
         "description": null,
         "imagePath": "/assets/emotes/3219.png"
       },
       {
         "id": 3220,
-        "name": "Season 9 - Split 1 - Gold",
+        "name": "2019 - Split 1 - Gold",
         "description": null,
         "imagePath": "/assets/emotes/3220.png"
       },
       {
         "id": 3221,
-        "name": "Season 9 - Split 1 - Platinum",
+        "name": "2019 - Split 1 - Platinum",
         "description": null,
         "imagePath": "/assets/emotes/3221.png"
       },
       {
         "id": 3222,
-        "name": "Season 9 - Split 1 - Diamond",
+        "name": "2019 - Split 1 - Diamond",
         "description": null,
         "imagePath": "/assets/emotes/3222.png"
       },
       {
         "id": 3223,
-        "name": "Season 9 - Split 1 - Master",
+        "name": "2019 - Split 1 - Master",
         "description": null,
         "imagePath": "/assets/emotes/3223.png"
       },
       {
         "id": 3224,
-        "name": "Season 9 - Split 1 - Grand Master",
+        "name": "2019 - Split 1 - Grand Master",
         "description": null,
         "imagePath": "/assets/emotes/3224.png"
       },
       {
         "id": 3225,
-        "name": "Season 9 - Split 1 - Challenger",
+        "name": "2019 - Split 1 - Challenger",
         "description": null,
         "imagePath": "/assets/emotes/3225.png"
+      },
+      {
+        "id": 3226,
+        "name": "Happy Landings",
+        "description": null,
+        "imagePath": "/assets/emotes/3226.png"
+      },
+      {
+        "id": 3227,
+        "name": "Blep Kench",
+        "description": null,
+        "imagePath": "/assets/emotes/3227.png"
+      },
+      {
+        "id": 3228,
+        "name": "Oink",
+        "description": null,
+        "imagePath": "/assets/emotes/3228.png"
+      },
+      {
+        "id": 3229,
+        "name": "How Delicious",
+        "description": "Sylas Lunar Wraith Lick",
+        "imagePath": "/assets/emotes/3229.png"
+      },
+      {
+        "id": 3230,
+        "name": "Happy Landings",
+        "description": null,
+        "imagePath": "/assets/emotes/3230.png"
+      },
+      {
+        "id": 3231,
+        "name": "Blep Kench",
+        "description": null,
+        "imagePath": "/assets/emotes/3231.png"
+      },
+      {
+        "id": 3232,
+        "name": "Oink",
+        "description": null,
+        "imagePath": "/assets/emotes/3232.png"
+      },
+      {
+        "id": 3233,
+        "name": "Squeal!",
+        "description": null,
+        "imagePath": "/assets/emotes/3233.png"
+      },
+      {
+        "id": 3234,
+        "name": "Master's Challenge Season 3",
+        "description": null,
+        "imagePath": "/assets/emotes/3234.png"
+      },
+      {
+        "id": 3235,
+        "name": "Are You Kidding?",
+        "description": "Sylas Angry",
+        "imagePath": "/assets/emotes/3235.png"
+      },
+      {
+        "id": 3236,
+        "name": "Unworthy",
+        "description": "Sylas thumbs down",
+        "imagePath": "/assets/emotes/3236.png"
+      },
+      {
+        "id": 3237,
+        "name": "All According to Plan",
+        "description": "Sylas Thinking",
+        "imagePath": "/assets/emotes/3237.png"
+      },
+      {
+        "id": 3238,
+        "name": "Are You Kidding?",
+        "description": null,
+        "imagePath": "/assets/emotes/3238.png"
+      },
+      {
+        "id": 3239,
+        "name": "Unworthy",
+        "description": null,
+        "imagePath": "/assets/emotes/3239.png"
+      },
+      {
+        "id": 3240,
+        "name": "All According to Plan",
+        "description": null,
+        "imagePath": "/assets/emotes/3240.png"
+      },
+      {
+        "id": 3241,
+        "name": "How Delicious ",
+        "description": null,
+        "imagePath": "/assets/emotes/3241.png"
+      },
+      {
+        "id": 3242,
+        "name": "Squeal!",
+        "description": null,
+        "imagePath": "/assets/emotes/3242.png"
       },
       {
         "id": 4,
