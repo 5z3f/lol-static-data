@@ -1,5 +1,5 @@
 ﻿{
-  "version": 9.2,
+  "version": 9.3,
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,7 +12,7 @@
   "info": {
     "champions": 143,
     "skins": 929,
-    "chromas": 791,
+    "chromas": 768,
     "icons": 2074,
     "emotes": 388,
     "wards": 133
@@ -7814,7 +7814,7 @@
           {
             "id": 56005,
             "name": "Eternum Nocturne",
-            "description": null,
+            "description": "Your worst nightmare, embodied in the form of organic metalâ€”it lingers, watching and waiting for the right moment to shroud all of existence in eternal darkness.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/56005.jpg",
@@ -9217,7 +9217,7 @@
           {
             "id": 69008,
             "name": "Eternum Cassiopeia",
-            "description": null,
+            "description": "In a world overrun by alien machines, this one seems especially intrigued by your presence. Its lithe, metal form slides toward you, begging for your attention. You take one look, andâ€”",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/69008.jpg",
@@ -11793,7 +11793,7 @@
           {
             "id": 99002,
             "name": "Spellthief Lux",
-            "description": null,
+            "description": "She doesn't pull in coin like the Spellthief's Edge, and can't actually steal spells like Sylas, but technically Lux is learning and reproducing illegal magic. Sadly, â€śIllegal Spell Learner Luxâ€ť doesn't have quite the same ring to it.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/99002.jpg",
@@ -13413,7 +13413,7 @@
           {
             "id": 114023,
             "name": "Heartpiercer Fiora",
-            "description": null,
+            "description": "Fiora fancies herself the ultimate rival in all things romanticâ€”a duelist unsurpassed in swordsmanship and love. How ironic that she finally seems to have met her matchâ€¦",
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/114023.jpg",
@@ -13544,7 +13544,7 @@
           {
             "id": 115005,
             "name": "Master Arcanist Ziggs",
-            "description": null,
+            "description": "Ziggs dwells at the crossroads of science and magic, striking an eccentric figure whose collection of enchanted artifacts and forbidden tomes rivals the greatest in the known world. He uses this arcane knowledge to make bombs. Magic bombs. Big ones.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/115005.jpg",
@@ -14250,15 +14250,6 @@
                 ]
               },
               {
-                "id": 121016,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
                 "id": 121017,
                 "name": "Championship Kha'Zix",
                 "description": "This chroma was released for sale during 2018 to support Kaos Latin Gamers during Worlds.",
@@ -14274,33 +14265,6 @@
                 "colors": [
                   "#27211C",
                   "#DF9117"
-                ]
-              },
-              {
-                "id": 121019,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
-                "id": 121020,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
-                "id": 121021,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
                 ]
               },
               {
@@ -14340,39 +14304,12 @@
                 ]
               },
               {
-                "id": 121026,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
-                "id": 121027,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
                 "id": 121028,
                 "name": "Championship Kha'Zix",
                 "description": "This chroma was released for sale during 2018 to support KaBuM! e-Sports during Worlds.",
                 "colors": [
                   "#27211C",
                   "#9F4A25"
-                ]
-              },
-              {
-                "id": 121029,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
                 ]
               },
               {
@@ -14394,33 +14331,6 @@
                 ]
               },
               {
-                "id": 121032,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
-                "id": 121033,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
-                "id": 121034,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
                 "id": 121035,
                 "name": "Championship Kha'Zix",
                 "description": "This chroma was released for sale during 2018 to support Infinity eSports during Worlds.",
@@ -14430,48 +14340,12 @@
                 ]
               },
               {
-                "id": 121036,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
                 "id": 121037,
                 "name": "Championship Kha'Zix",
                 "description": "This chroma was released for sale during 2018 to support G-Rex during Worlds.",
                 "colors": [
                   "#DB1DEC",
                   "#54209B"
-                ]
-              },
-              {
-                "id": 121038,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#D33528",
-                  "#ECF9F8"
-                ]
-              },
-              {
-                "id": 121039,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#E52A8B",
-                  "#27211C"
-                ]
-              },
-              {
-                "id": 121040,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#27211C",
-                  "#ECF9F8"
                 ]
               },
               {
@@ -14502,24 +14376,6 @@
                 ]
               },
               {
-                "id": 121044,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
-                "id": 121045,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
                 "id": 121046,
                 "name": "Championship Kha'Zix",
                 "description": "This chroma was released for sale during 2018 to support Royal Never Give Up during Worlds.",
@@ -14547,39 +14403,12 @@
                 ]
               },
               {
-                "id": 121049,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
-                "id": 121050,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
                 "id": 121051,
                 "name": "Championship Kha'Zix",
                 "description": "This chroma was released for sale during 2018 to support Team Liquid during Worlds.",
                 "colors": [
                   "#243A55",
                   "#ECF9F8"
-                ]
-              },
-              {
-                "id": 121052,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
                 ]
               },
               {
@@ -14598,42 +14427,6 @@
                 "colors": [
                   "#2756CE",
                   "#27211C"
-                ]
-              },
-              {
-                "id": 121055,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
-                "id": 121056,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#27211C",
-                  "#FFEE59"
-                ]
-              },
-              {
-                "id": 121057,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
-                ]
-              },
-              {
-                "id": 121058,
-                "name": "Championship Kha'Zix",
-                "description": null,
-                "colors": [
-                  "#000000",
-                  "#000000"
                 ]
               },
               {
@@ -16851,7 +16644,7 @@
           {
             "id": 223003,
             "name": "Coin Emperor Tahm Kench",
-            "description": "Craving the smell of coins over all earthly delights, Tahm Kench rises from his kingdom beneath the river every Lunar Revel, seeking bargains with mortals. Though his targets are inevitably left destitute, it is thought that with the proper reverence and careful wording, one can escape his bargains unimaginably wealthy.",
+            "description": "Craving the smell of coins over all other earthly delights, Tahm Kench rises from his river kingdom each Lunar Revel, seeking to barter with mortals. Though his targets are almost always left destitute, with the proper reverence and careful wording it is possible to escape his bargains unimaginably wealthy.",
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/223003.jpg",
@@ -17549,7 +17342,7 @@
           {
             "id": 254012,
             "name": "Heartbreaker Vi",
-            "description": null,
+            "description": "Vi plays fast and loose with the rules of love, leaving a long trail of broken hearts (and, sometimes, bodies) in her wake. After many years, she's finally encountered a new rival worthy of her strengthâ€¦ almost too worthy.",
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/254012.jpg",
@@ -18188,7 +17981,7 @@
           {
             "id": 421001,
             "name": "Eternum Rek'Sai",
-            "description": null,
+            "description": "Somewhere, beneath the soil, you hear the scraping of metal. Suddenly, there comes a screechâ€¦ A cry of hungerâ€¦ Then, nothing.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/421001.jpg",
@@ -18593,7 +18386,7 @@
           {
             "id": 517001,
             "name": "Lunar Wraith Sylas",
-            "description": "The hateful lord of the lunar wraiths, Sylas has waited eons to invade the celestial realm and depose its godly stewards. What happens to the balance between heaven and earth is not his concern; he simply craves chaos, and the hour of his triumph is fast approaching.",
+            "description": "The hateful lord of the lunar wraiths, Sylas has waited eons to invade the heavenly realm, and depose its godly stewards. What happens to the balance between heaven and earth is not his concern; he simply craves chaos, and the hour of his triumph is fast approaching.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/517001.jpg",
@@ -33528,7 +33321,7 @@
       {
         "id": 3895,
         "title": "Cheering Poro Icon",
-        "description": "Earned by watching at least one regular season game or VoD from any global league.",
+        "description": "Earned by completing 4 esports weekly watch missions in Spring 2019.",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kRare",
@@ -33538,7 +33331,7 @@
       {
         "id": 3896,
         "title": "Esports and Chill Icon",
-        "description": "Earned by completing 4 watch rewards missions.",
+        "description": "Earned by completing 12 esports weekly watch missions in Spring 2019.",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kRare",
@@ -33548,7 +33341,7 @@
       {
         "id": 3897,
         "title": "Foam Finger of Destiny Icon",
-        "description": "Earned by watching at least 25 regular season games or VoD from any global league.",
+        "description": "Earned by watching a live game or VoD from any global league in Spring 2019",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
@@ -33557,8 +33350,8 @@
       },
       {
         "id": 3898,
-        "title": "2019 - Split 1 Icon",
-        "description": "Earned by winning ranked games in Season 9 - Split 1.",
+        "title": "Season 2019 - Split 1 Icon",
+        "description": "Earned by winning ranked games in Season 2019 - Split 1.",
         "set": "Ranked",
         "yearReleased": 2019,
         "rarity": "kRare",
@@ -33595,7 +33388,7 @@
       {
         "id": 3902,
         "title": "Season 2019 Commemorative Icon",
-        "description": "Earned by completing the first Season 2019 mission: Start Your Season.",
+        "description": "This icon was acquired by completing missions at the start of Season 2019.",
         "set": "Ranked",
         "yearReleased": 2019,
         "rarity": "kRare",
@@ -33604,7 +33397,7 @@
       },
       {
         "id": 3903,
-        "title": "Season 2019 Commemorative Icon Prestige Edition",
+        "title": "This icon was acquired by completing missions at the start of Season 9.",
         "description": "This icon was acquired by completing missions at the start of Season 9.",
         "set": "Ranked",
         "yearReleased": 2019,
@@ -33624,7 +33417,7 @@
       },
       {
         "id": 3905,
-        "title": "Heartpiercer Fiora Icon",
+        "title": "LCS 100 Thieves",
         "description": null,
         "set": null,
         "yearReleased": 2019,
@@ -33633,7 +33426,7 @@
       },
       {
         "id": 3906,
-        "title": "Heartbreaker Vi Icon",
+        "title": "LCS Cloud9",
         "description": null,
         "set": null,
         "yearReleased": 2019,
@@ -33642,7 +33435,7 @@
       },
       {
         "id": 3907,
-        "title": "Queen Poro Icon",
+        "title": "LCS Counter Logic Gaming",
         "description": null,
         "set": null,
         "yearReleased": 2019,
@@ -40833,7 +40626,7 @@
       },
       {
         "id": 129,
-        "name": "Golden Year of the Pig Ward Ward",
+        "name": "Golden Year of the Pig Ward",
         "defaultDescription": null,
         "description": "Unlocked through crafting in the 2019 Lunar Revel event.",
         "set": "Lunar Revel: Firecracker",
