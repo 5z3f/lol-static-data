@@ -61,8 +61,8 @@ namespace Riot.StaticData
 
             string locale = GetRequest("/riotclient/region-locale", lockFileData[3], lockFileData[2])["locale"];
             Console.WriteLine($"\tGetting client locale...\t\t\t\t\tOK");
-            string gameBranch = GetRequest("/system/v1/builds", lockFileData[3], lockFileData[2])["gameBranch"];
-            Console.WriteLine($"\tGetting current game branch...\t\t\t\t\tOK\n\t---");
+            string version = GetRequest("/system/v1/builds", lockFileData[3], lockFileData[2])["version"];
+            Console.WriteLine($"\tGetting current game version...\t\t\t\t\tOK\n\t---");
 
             bool isPatched = GetRequest("/patcher/v1/products/league_of_legends/state", lockFileData[3], lockFileData[2])["percentPatched"] == (double)100.0 ? true : false;
             if (!isPatched)
@@ -139,7 +139,7 @@ namespace Riot.StaticData
 
             for (int i = 0; i < championSummary.Count; i++)
             {
-                dynamic championData = GetRequest($"/lol-game-data/assets/v1/champions/{championSummary[i == 0 ? 1 : i]["id"]}.json", lockFileData[3], lockFileData[2]);
+                dynamic championData = GetRequest($"/lol-game-data/assets/v1/champions/{championSummary[i]["id"]}.json", lockFileData[3], lockFileData[2]);
 
                 ExportData.champions[i] = new ExpandoObject();
                 ExportData.champions[i].id = (ulong)championData["id"];
@@ -344,7 +344,7 @@ namespace Riot.StaticData
             Console.WriteLine($"\tSaved to static-data.{locale}.json \t\t\t\tDONE");
 
             dynamic ExportHeader = new ExpandoObject();
-            ExportHeader.version = Convert.ToDouble(gameBranch);
+            ExportHeader.version = version;
             ExportHeader.locale = locale;
             string[] contentArray = { "CHAMPIONS", "SKINS", "CHROMAS", "ICONS", "WARDS", "EMOTES" };
             ExportHeader.content = contentArray;

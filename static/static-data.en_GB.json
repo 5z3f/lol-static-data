@@ -1,5 +1,5 @@
 ﻿{
-  "version": 9.3,
+  "version": "9.4.264.2938",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -10,136 +10,15 @@
     "EMOTES"
   ],
   "info": {
-    "champions": 143,
-    "skins": 929,
-    "chromas": 768,
-    "icons": 2074,
+    "champions": 142,
+    "skins": 920,
+    "chromas": 783,
+    "icons": 2077,
     "emotes": 388,
     "wards": 133
   },
   "data": {
     "champions": [
-      {
-        "id": 1,
-        "name": "Annie",
-        "alias": "Annie",
-        "title": "the Dark Child",
-        "shortBio": "Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Even in the shadows of the mountains north of Noxus, she is a magical outlier. Her natural affinity for fire manifested early in life through unpredictable, emotional outbursts, though she eventually learned to control these â€śplayful tricks.â€ť Her favorite includes the summoning of her beloved teddy bear, Tibbers, as a fiery protector. Lost in the perpetual innocence of childhood, Annie wanders the dark forests, always looking for someone to play with.",
-        "squarePortraitPath": "/assets/champions/portraits/1.png",
-        "roles": [
-          "mage"
-        ],
-        "skins": [
-          {
-            "id": 1000,
-            "name": "Annie (default)",
-            "description": null,
-            "rarity": "kNoRarity",
-            "isLegacy": false,
-            "tilePath": "/assets/champions/tiles/1000.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1001,
-            "name": "Goth Annie",
-            "description": null,
-            "rarity": "kNoRarity",
-            "isLegacy": false,
-            "tilePath": "/assets/champions/tiles/1001.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1002,
-            "name": "Red Riding Annie",
-            "description": "Over the river and through the woods, to grandmother's house Annie wentâ€”not once suspecting that Warwick the Wolf was waiting for her. Of course, Warwick didn't know Annie could shoot balls of magic flame or summon a fiery bear, so really this was a larger issue with communication.",
-            "rarity": "kNoRarity",
-            "isLegacy": true,
-            "tilePath": "/assets/champions/tiles/1002.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1003,
-            "name": "Annie in Wonderland",
-            "description": "Down the rabbit hole Annie went, following the White Tibbers she had spied at the riverbank, until she emerged in a world much more curious than the one she had left. â€śPerhaps I shall stay,â€ť she said to herselfâ€”and so she did.",
-            "rarity": "kLegendary",
-            "isLegacy": true,
-            "tilePath": "/assets/champions/tiles/1003.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1004,
-            "name": "Prom Queen Annie",
-            "description": null,
-            "rarity": "kNoRarity",
-            "isLegacy": true,
-            "tilePath": "/assets/champions/tiles/1004.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1005,
-            "name": "Frostfire Annie",
-            "description": "Annie is a Winterlands prodigyâ€”a child born with both innate magic and a spirit guardian, the first of her kind in many generations. Though still young, she has already become a joyous fixture in the halls of the Poro King.",
-            "rarity": "kNoRarity",
-            "isLegacy": false,
-            "tilePath": "/assets/champions/tiles/1005.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1006,
-            "name": "Reverse Annie",
-            "description": null,
-            "rarity": "kNoRarity",
-            "isLegacy": false,
-            "tilePath": "/assets/champions/tiles/1006.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1007,
-            "name": "FrankenTibbers Annie",
-            "description": "He's a towering abomination of science and magic. She's an eight year old with a beehive hairdo, and undiagnosed pyromania. Name a more iconic duo. I'll wait.",
-            "rarity": "kNoRarity",
-            "isLegacy": true,
-            "tilePath": "/assets/champions/tiles/1007.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1008,
-            "name": "Panda Annie",
-            "description": "Annie is a big part of Lunar Revel festivities, using her pyromancy to set off scores of high powered fireworks. Her panda bear Tibbers hauls the rockets for her, mauling anyone who tries to make off with even the smallest sparkler.",
-            "rarity": "kNoRarity",
-            "isLegacy": false,
-            "tilePath": "/assets/champions/tiles/1008.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1009,
-            "name": "Sweetheart Annie",
-            "description": "Sugar, spice, and everything nice: that's what Sweetheart Annie is made of! Tibbers is made of fire-resistant cotton blend and the insatiable hunger of a shadow bear, but he's still good for a hug or two. Probably just one, actually.",
-            "rarity": "kNoRarity",
-            "isLegacy": true,
-            "tilePath": "/assets/champions/tiles/1009.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1010,
-            "name": "Hextech Annie",
-            "description": "A scientific prodigy even among the intellectuals of the Hextech renaissance, Annie's beautiful, living warbears are among the most prized innovations of the era. Her most mysterious creation, Tibbers, is always close at handâ€”her confidant, friend, and monstrous bodyguard.",
-            "rarity": "kMythic",
-            "isLegacy": false,
-            "tilePath": "/assets/champions/tiles/1010.jpg",
-            "chromas": null
-          },
-          {
-            "id": 1011,
-            "name": "Super Galaxy Annie",
-            "description": "The youngest human ever to be named a Super Galaxy cadet, Annie proved her mettle the day she turned her teddy bear into a self-piloting mech. Despite serious concerns over her highly combustible designs and volatile programming, Annie's Mecha-Tibbers went into full production. Desperate times call for destructive measures.",
-            "rarity": "kEpic",
-            "isLegacy": false,
-            "tilePath": "/assets/champions/tiles/1011.jpg",
-            "chromas": null
-          }
-        ]
-      },
       {
         "id": 1,
         "name": "Annie",
@@ -3456,6 +3335,79 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/20007.jpg",
             "chromas": null
+          },
+          {
+            "id": 20008,
+            "name": "Papercraft Nunu & Willump",
+            "description": "One day, Nunu awoke to a world made entirely of paper, with his mother nowhere to be seen. He took a square off the wall, folded it into a wild Willump, and said â€śNow we will go find mom!â€ť Willump agreed, and the two embarked upon a grand adventureâ€¦",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/20008.jpg",
+            "chromas": [
+              {
+                "id": 20009,
+                "name": "Papercraft Nunu & Willump",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 20010,
+                "name": "Papercraft Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 20011,
+                "name": "Papercraft Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 20012,
+                "name": "Papercraft Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 20013,
+                "name": "Papercraft Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 20014,
+                "name": "Papercraft Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 20015,
+                "name": "Papercraft Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -5309,6 +5261,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/34007.jpg",
             "chromas": null
+          },
+          {
+            "id": 34008,
+            "name": "Papercraft Anivia",
+            "description": "At the tallest paper mountain in the whole paper world, Nunu and Willump found a great paper phoenix. â€śYou cannot go to the top of the mountain,â€ť said the phoenix, â€śor your mother will be very angry.â€ť So Nunu and Willump thought and thought, but they couldn't find any way to get pastâ€¦",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/34008.jpg",
+            "chromas": [
+              {
+                "id": 34009,
+                "name": "Papercraft Anivia",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 34010,
+                "name": "Papercraft Anivia",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 34011,
+                "name": "Papercraft Anivia",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 34012,
+                "name": "Papercraft Anivia",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 34013,
+                "name": "Papercraft Anivia",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 34014,
+                "name": "Papercraft Anivia",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 34015,
+                "name": "Papercraft Anivia",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 34016,
+                "name": "Papercraft Anivia",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -34432,6 +34466,36 @@
         "yearReleased": 2019,
         "isLegacy": true,
         "imagePath": "/assets/icons/4016.jpg"
+      },
+      {
+        "id": 4017,
+        "title": "Papercraft Anivia Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4017.jpg"
+      },
+      {
+        "id": 4018,
+        "title": "Papercraft Nunu Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4018.jpg"
+      },
+      {
+        "id": 4019,
+        "title": "Papercraft Willump Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4019.jpg"
       },
       {
         "id": 4,
