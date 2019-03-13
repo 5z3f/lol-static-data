@@ -370,7 +370,7 @@ namespace Riot.StaticData
             ExportHeader.info.skins = skinCount - championSummary.Count;
             ExportHeader.info.chromas = chromaCount;
             ExportHeader.info.icons = iconCollection.Count;
-            ExportHeader.info.emotes = emoteCollection.Count - 1;
+            ExportHeader.info.emotes = emoteCollection.Count;
             ExportHeader.info.wards = wardCollection.Count;
 
             ExportHeader.data = ExportData;
