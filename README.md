@@ -1,9 +1,9 @@
 # League.StaticData
-Simple tool for gathering static data from League of Legends client, mainly writted for my needs\
+Simple tool for gathering static data from League of Legends client, mainly writted for own needs\
 **Using League Client API**
 
-Should be working for all riot regions, Garena and Tencent servers are not tested\
-**A ready json file for en_GB locale with assets is available under /static/ dir**
+Should be working for all regions supported by RiotGames, Garena and Tencent servers are not tested\
+**A ready json file for en_GB locale is available under /static/ dir**
 
 ---
 
@@ -25,7 +25,7 @@ Should be working for all riot regions, Garena and Tencent servers are not teste
 
 ```txt
 {
-  "version": 9.1,
+  "version": "9.5.266.4070",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
