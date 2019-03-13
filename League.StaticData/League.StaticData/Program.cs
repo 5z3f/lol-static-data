@@ -5,6 +5,7 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Dynamic;
 using System.IO;
+using System.IO.Compression;
 using System.Linq;
 using System.Net;
 using System.Text;
@@ -133,6 +134,9 @@ namespace Riot.StaticData
             int skinCount = 0;
             int chromaCount = 0;
 
+            if ((long)championSummary[0]["id"] == -1)
+                championSummary[0].Remove(); // non existing champion id
+
             dynamic ExportData = new ExpandoObject();
             ExportData.champions = new ExpandoObject();
             ExportData.champions = new dynamic[championSummary.Count];
@@ -142,7 +146,7 @@ namespace Riot.StaticData
                 dynamic championData = GetRequest($"/lol-game-data/assets/v1/champions/{championSummary[i]["id"]}.json", lockFileData[3], lockFileData[2]);
 
                 ExportData.champions[i] = new ExpandoObject();
-                ExportData.champions[i].id = (ulong)championData["id"];
+                ExportData.champions[i].id = (long)championData["id"];
                 ExportData.champions[i].name = championData["name"];
                 ExportData.champions[i].alias = championData["alias"];
                 ExportData.champions[i].title = championData["title"];
@@ -313,6 +317,12 @@ namespace Riot.StaticData
             ClearLastLine();
             Console.WriteLine(dlAssets ? "\tDownloading assets and building ward structure...\t\tOK" : "\tBuilding ward structure...\t\t\t\t\tOK");
 
+            for (int i = 0; i < emoteCollection.Count; i++)
+            {
+                if ((long)emoteCollection[i]["id"] == 0)
+                    emoteCollection[i].Remove(); // removing test emote
+            }
+
             ExportData.emotes = new ExpandoObject();
             ExportData.emotes = new dynamic[emoteCollection.Count];
 
@@ -339,6 +349,12 @@ namespace Riot.StaticData
                 }
             }
 
+            if (dlAssets)
+            {
+                CreateIfMissing(Environment.CurrentDirectory + $"/compressed/{version}.zip");
+                ZipFile.CreateFromDirectory(Environment.CurrentDirectory + "/assets", Environment.CurrentDirectory + $"/compressed/{version}.zip");
+            }
+
             ClearLastLine();
             Console.WriteLine(dlAssets ? "\tDownloading assets and building emote structure...\t\tOK\n\t---" : "\tBuilding emote structure...\t\t\t\t\tOK\n\t---");
             Console.WriteLine($"\tSaved to static-data.{locale}.json \t\t\t\tDONE");
@@ -350,8 +366,8 @@ namespace Riot.StaticData
             ExportHeader.content = contentArray;
 
             ExportHeader.info = new ExpandoObject();
-            ExportHeader.info.champions = championSummary.Count - 1;
-            ExportHeader.info.skins = skinCount - (championSummary.Count - 1);
+            ExportHeader.info.champions = championSummary.Count;
+            ExportHeader.info.skins = skinCount - championSummary.Count;
             ExportHeader.info.chromas = chromaCount;
             ExportHeader.info.icons = iconCollection.Count;
             ExportHeader.info.emotes = emoteCollection.Count - 1;
@@ -372,6 +388,7 @@ namespace Riot.StaticData
         {
             ServicePointManager.ServerCertificateValidationCallback = delegate { return true; };
             WebClient webClient = new WebClient();
+            webClient.Encoding = Encoding.UTF8;
             webClient.Headers[HttpRequestHeader.Accept] = "application/json";
             webClient.Headers[HttpRequestHeader.UserAgent] = "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36";
             if (toLeagueAPI) webClient.Headers[HttpRequestHeader.Authorization] = "Basic " + Convert.ToBase64String(Encoding.ASCII.GetBytes($"riot:{password}"));
@@ -385,6 +402,8 @@ namespace Riot.StaticData
                     string str = webClient.DownloadString(toLeagueAPI ? $"https://127.0.0.1:{port}{url}" : url);
                     return deserialize ? JsonConvert.DeserializeObject(str) : str;
                 }
+
+                webClient.Dispose();
 
                 return true;
             }
