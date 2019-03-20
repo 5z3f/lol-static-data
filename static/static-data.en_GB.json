@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.5.266.4070",
+  "version": "9.6.267.4221",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -11,11 +11,11 @@
   ],
   "info": {
     "champions": 143,
-    "skins": 921,
-    "chromas": 797,
-    "icons": 2078,
-    "emotes": 390,
-    "wards": 133
+    "skins": 926,
+    "chromas": 818,
+    "icons": 2094,
+    "emotes": 393,
+    "wards": 135
   },
   "data": {
     "champions": [
@@ -603,7 +603,7 @@
           {
             "id": 5004,
             "name": "Winged Hussar Xin Zhao",
-            "description": null,
+            "description": "A member of the vaunted winged hussars, Xin Zhao is one of the last standard bearers of a military order tracing its roots back to the late 17th century. Of course, his progenitors didn't ride an army of armored black pegasi into battle, but you know how it is.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/5004.jpg",
@@ -996,7 +996,7 @@
           {
             "id": 7002,
             "name": "Prestigious LeBlanc",
-            "description": null,
+            "description": "LeBlanc is currently evading an international manhunt after making a jet liner filled with passengers disappear, then realizing she had no idea where they went or how to bring them back.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/7002.jpg",
@@ -1183,7 +1183,7 @@
           {
             "id": 8002,
             "name": "Marquis Vladimir",
-            "description": null,
+            "description": "At the last ball he attended, Vladimir stole everyone's heart. Strangely enough, no one has heard or seen those attendees since…",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/8002.jpg",
@@ -1490,7 +1490,7 @@
             "chromas": [
               {
                 "id": 10010,
-                "name": "",
+                "name": "Viridian Kayle",
                 "description": null,
                 "colors": [
                   "#DF9117",
@@ -1499,7 +1499,7 @@
               },
               {
                 "id": 10011,
-                "name": "",
+                "name": "Viridian Kayle",
                 "description": null,
                 "colors": [
                   "#6ABBEE",
@@ -1508,7 +1508,7 @@
               },
               {
                 "id": 10012,
-                "name": "",
+                "name": "Viridian Kayle",
                 "description": null,
                 "colors": [
                   "#ECF9F8",
@@ -1517,7 +1517,7 @@
               },
               {
                 "id": 10013,
-                "name": "",
+                "name": "Viridian Kayle",
                 "description": null,
                 "colors": [
                   "#E58BA5",
@@ -1526,7 +1526,7 @@
               },
               {
                 "id": 10014,
-                "name": "",
+                "name": "Viridian Kayle",
                 "description": null,
                 "colors": [
                   "#27211C",
@@ -1866,7 +1866,7 @@
           {
             "id": 12003,
             "name": "Matador Alistar",
-            "description": null,
+            "description": "Man's greatest battle is the one he must fight within himself, unless he's a matador who is also a giant bull. Then the battle is more literal.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/12003.jpg",
@@ -2174,7 +2174,7 @@
           {
             "id": 14003,
             "name": "Lumberjack Sion",
-            "description": null,
+            "description": "He's a lumberjack, and he's okay.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/14003.jpg",
@@ -2788,7 +2788,7 @@
           {
             "id": 17007,
             "name": "Panda Teemo",
-            "description": null,
+            "description": "Pandas aren't naturally aggressive towards humans, but this isn't a panda. It's Teemo dressed as a panda. Stay alert.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/17007.jpg",
@@ -2948,7 +2948,7 @@
           {
             "id": 18003,
             "name": "Firefighter Tristana",
-            "description": null,
+            "description": "Recently featured on this year's “most Yordle-y firefighters” calendar, Tristana will gladly leap into the flames regardless of whether anyone is supporting her. Often she'll go despite her support. Firefighter support. She fights fires.",
             "rarity": "kLegendary",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/18003.jpg",
@@ -3844,7 +3844,7 @@
           {
             "id": 23003,
             "name": "Viking Tryndamere",
-            "description": null,
+            "description": "Vikings believed that death in battle was a ticket to the eternal realm of Valhalla. Tryndamere's signature ability is being unable to die. You… you're seeing the issue here, right?",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/23003.jpg",
@@ -3862,7 +3862,7 @@
           {
             "id": 23005,
             "name": "Sultan Tryndamere",
-            "description": null,
+            "description": "Tryndamere is a ruler from a distant land, and tales of his impossible strength and distinctive mustache have reached even the farthest-flung city-states. As is the rule rather than the exception with rulers from distant lands, his hat is exceptional.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/23005.jpg",
@@ -3948,7 +3948,7 @@
           {
             "id": 24003,
             "name": "Angler Jax",
-            "description": null,
+            "description": "Nothing quite like the peace of the great outdoors, waiting for that perfect bite—and then violently ripping a fish out of the water before hitting it with his fishing rod.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/24003.jpg",
@@ -4249,7 +4249,7 @@
           {
             "id": 26002,
             "name": "Groovy Zilean",
-            "description": null,
+            "description": "Consistently in a near-comatose state from peering across the space-time continuum, Zilean's more recent hobbies include being terrible at hacky-sack, paying way too much for a ticket for awful music festivals, and ordering too many pizzas. He also owns New Age bookstore, which is closed most days.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/26002.jpg",
@@ -4780,7 +4780,7 @@
           {
             "id": 31002,
             "name": "Gentleman Cho'Gath",
-            "description": null,
+            "description": "Prior to indulging in the delectable taste of his victims, Cho'Gath prefers to invite them to his humble 40-acre mansion. There, he offers scones and jam, with a spot of tea… so his guests may savor their last meal before becoming one themselves.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/31002.jpg",
@@ -5506,7 +5506,7 @@
           {
             "id": 35006,
             "name": "Masked Shaco",
-            "description": null,
+            "description": "A practitioner of masked dance drama, many of Shaco's performances begin as social commentary on the plight of the working class, and end with a random audience member being stabbed in the spine. It's a show worth seeing if you don't think about that last part.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/35006.jpg",
@@ -5565,7 +5565,7 @@
           {
             "id": 36003,
             "name": "Corporate Mundo",
-            "description": null,
+            "description": "Mundo's actually planning a large layoff for the company he just acquired, but it doesn't matter. He literally beat someone to death in the lobby this morning and no one did anything. People watched.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/36003.jpg",
@@ -6121,7 +6121,7 @@
           {
             "id": 40005,
             "name": "Forecast Janna",
-            "description": null,
+            "description": "Janna has survived the market downswing in televised news for at least the last decade, but even in her relatively cushy position, the viewers are getting older and the weather is getting freakier. Might be time to put her meteorology degree to good use, and… fight the sky!",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/40005.jpg",
@@ -6298,7 +6298,7 @@
           {
             "id": 41003,
             "name": "Sailor Gangplank",
-            "description": null,
+            "description": "O, Bilgewater has been my home,<br>Since last time I was sailing!<br>But I'll not stay another day,<br>I'd sooner be out whaling.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/41003.jpg",
@@ -6325,7 +6325,7 @@
           {
             "id": 41006,
             "name": "Sultan Gangplank",
-            "description": null,
+            "description": "Gangplank is a ruler from a distant land, and tales of his battle prowess and flowing red beard have reached even the farthest-flung city-states. As all rulers from distant lands, he also sports a snappy hat.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/41006.jpg",
@@ -6632,6 +6632,79 @@
                 "colors": [
                   "#E58BA5",
                   "#E58BA5"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 42018,
+            "name": "Corgi Corki",
+            "description": "A dog trainer with some impractical ideas about canine aerodynamics, Corki has entered the world's foremost pet show with a flight-enabled Pembroke Welsh Corgi. Why has he done this? What does he hope to gain? Is he really a Yordle, or just a very small man? These are all important questions.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/42018.jpg",
+            "chromas": [
+              {
+                "id": 42019,
+                "name": "Corgi Corki",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 42020,
+                "name": "Corgi Corki",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 42021,
+                "name": "Corgi Corki",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 42022,
+                "name": "Corgi Corki",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 42023,
+                "name": "Corgi Corki",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 42024,
+                "name": "Corgi Corki",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 42025,
+                "name": "Corgi Corki",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
                 ]
               }
             ]
@@ -6975,7 +7048,7 @@
           {
             "id": 48001,
             "name": "Lil' Slugger Trundle",
-            "description": null,
+            "description": "Unable to let go of being rejected from the major and minor leagues, Trundle has joined a little league team after saying he was thirteen years old on an admission form. Trundle is an eleven-foot-tall ice troll who enjoys allying with evil wizards and biting people to death. Practice has been… interesting.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/48001.jpg",
@@ -7390,7 +7463,7 @@
           {
             "id": 53003,
             "name": "Boom Boom Blitzcrank",
-            "description": null,
+            "description": "His fists are named “boom” and “boom,” proving that robots are a perfect facsimile of human life.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/53003.jpg",
@@ -7408,7 +7481,7 @@
           {
             "id": 53005,
             "name": "Definitely Not Blitzcrank",
-            "description": null,
+            "description": "I, not a robot.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/53005.jpg",
@@ -7558,7 +7631,7 @@
           {
             "id": 54001,
             "name": "Shamrock Malphite",
-            "description": null,
+            "description": "Malphite is a twenty-ton rock man who used to be part of an even larger rock that was destroyed, leaving him orphaned on a distinctly un-rocklike plane of existence. The guy could use a little luck.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/54001.jpg",
@@ -8026,7 +8099,7 @@
           {
             "id": 57006,
             "name": "Meowkai",
-            "description": null,
+            "description": "Maokai has, at long last, embraced his role as a giant, haunted scratching post.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/57006.jpg",
@@ -8149,7 +8222,7 @@
           {
             "id": 58002,
             "name": "Outback Renekton",
-            "description": null,
+            "description": "Crikey, what a ripper.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/58002.jpg",
@@ -8903,7 +8976,7 @@
           {
             "id": 64004,
             "name": "Muay Thai Lee Sin",
-            "description": null,
+            "description": "Known as “the art of eight limbs”, Muay Thai is a multidisciplinary fighting style practiced by boxers for centuries. Lee Sin, who has mastered many forms of hand-to-hand combat, is among its greatest champions.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/64004.jpg",
@@ -9062,7 +9135,7 @@
           {
             "id": 67002,
             "name": "Aristocrat Vayne",
-            "description": null,
+            "description": "Vayne never imagined slaying monsters would bring her fame and fortune. Now that she has them, she finds it terribly difficult to return to a life when her crossbow and arrows weren't made from pure gold.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/67002.jpg",
@@ -9516,7 +9589,7 @@
           {
             "id": 74005,
             "name": "Hazmat Heimerdinger",
-            "description": null,
+            "description": "Sometimes, when he's alone at night, Heimerdinger wonders if the reason his head is so big is all that exposure to Zaun Grey. Then he gets tired, and rests his giant head against an equally giant pillow.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/74005.jpg",
@@ -9630,7 +9703,7 @@
           {
             "id": 75006,
             "name": "Archduke Nasus",
-            "description": null,
+            "description": "In primary school, Nasus was told an old dog couldn't learn new tricks. Now, in his older years as an accomplished statesman, painter, and composer, he wonders if there is truth in those words. After all, he simply cannot seem to get his chamber orchestra to listen to his directions.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/75006.jpg",
@@ -9821,7 +9894,7 @@
           {
             "id": 77001,
             "name": "Black Belt Udyr",
-            "description": null,
+            "description": "The best way to tell people you're good at punching is to have a giant screen-printed fist on your clothes. That's a karate fact.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/77001.jpg",
@@ -9848,7 +9921,7 @@
           {
             "id": 77004,
             "name": "Definitely Not Udyr",
-            "description": null,
+            "description": "Wear the onesie. Become the beast.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/77004.jpg",
@@ -10084,7 +10157,7 @@
           {
             "id": 79006,
             "name": "Oktoberfest Gragas",
-            "description": null,
+            "description": "Gragas is the world's premier authority on beverages. Here, at the international beverage festival and funfair, he's drinking a lot of them.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/79006.jpg",
@@ -10152,7 +10225,7 @@
           {
             "id": 80001,
             "name": "Myrmidon Pantheon",
-            "description": null,
+            "description": "Legend says the Myrmidons were created out of an ant colony by the gods, giving them unmatched strength and ability in combat. Pantheon also craves fruit slices and sugar water. It's an ant thing.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/80001.jpg",
@@ -10605,6 +10678,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/83003.jpg",
             "chromas": null
+          },
+          {
+            "id": 83004,
+            "name": "Meowrick",
+            "description": "A cat fancier hailing from the Forsaken Aisles of a Pets Supreme Superstore, Yorick does not have any unresolved issues involving or related to cats. Yorick is a perfectly normal gentleman dressed as a cat, surrounded by cats, who can call upon the esoteric powers of a giant, floating cat. You know, normal gentleman stuff.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/83004.jpg",
+            "chromas": [
+              {
+                "id": 83005,
+                "name": "Meowrick",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 83006,
+                "name": "Meowrick",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 83007,
+                "name": "Meowrick",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 83008,
+                "name": "Meowrick",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 83009,
+                "name": "Meowrick",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 83010,
+                "name": "Meowrick",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 83011,
+                "name": "Meowrick",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -12173,7 +12319,7 @@
           {
             "id": 102002,
             "name": "Boneclaw Shyvana",
-            "description": null,
+            "description": "Many hunters claim Shyvana holds an unfair advantage when it comes to slaying the giant beasts that roam the land. Shyvana herself cares little about their opinions, preferring instead to channel her rage into her true form—a massive, fire-breathing dragon… that proves the hunters' point.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/102002.jpg",
@@ -12251,7 +12397,7 @@
           {
             "id": 103001,
             "name": "Dynasty Ahri",
-            "description": null,
+            "description": "Ahri's dynasty is one of stylish traditional fashion, and wrecking opponents with deadly spirit magic. Why have one when you can have both?",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/103001.jpg",
@@ -12716,7 +12862,7 @@
           {
             "id": 105003,
             "name": "Fisherman Fizz",
-            "description": null,
+            "description": "Call me Fishmael.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/105003.jpg",
@@ -12785,6 +12931,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 105014,
+            "name": "Fuzz Fizz",
+            "description": "Well, that's horrifying.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/105014.jpg",
+            "chromas": null
+          },
+          {
+            "id": 105015,
+            "name": "Fuzz Fizz Prestige Edition",
+            "description": "There's something deeply unnerving about a bipedal Cocker Spaniel mix running around society unchecked, stabbing pedestrians with a tennis ball grabber, and summoning other, bigger dogs out of the ground. And yet, here we all are. Together.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/105015.jpg",
+            "chromas": null
           }
         ]
       },
@@ -13001,6 +13165,79 @@
                 "colors": [
                   "#DF9117",
                   "#DF9117"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 107015,
+            "name": "Pretty Kitty Rengar",
+            "description": "Once again, the prettiest kitty… is the deadliest.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/107015.jpg",
+            "chromas": [
+              {
+                "id": 107016,
+                "name": "Pretty Kitty Rengar",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 107017,
+                "name": "Pretty Kitty Rengar",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 107018,
+                "name": "Pretty Kitty Rengar",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 107019,
+                "name": "Pretty Kitty Rengar",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 107020,
+                "name": "Pretty Kitty Rengar",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 107021,
+                "name": "Pretty Kitty Rengar",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 107022,
+                "name": "Pretty Kitty Rengar",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -13252,7 +13489,7 @@
           {
             "id": 113002,
             "name": "Darkrider Sejuani",
-            "description": null,
+            "description": "Every army of the dead needs its cavalry. From atop the reanimated hulk of a savage drüvask, Sejuani leads hosts of cruel, lost souls, hellbent on shaping the world in Death's image.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/113002.jpg",
@@ -14097,7 +14334,7 @@
           {
             "id": 119003,
             "name": "Primetime Draven",
-            "description": null,
+            "description": "Down in the bot lane, we're seeing a seminal performance from Draven, already bullying both opposing laners into turret. There's the dive! Draven picks up the support kill—turret refuses to aggro him out of respect—there's the double kill, and, yes, the turret has self-destructed in terror! Masterful play by Draven, let's see it again.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/119003.jpg",
@@ -14170,7 +14407,7 @@
           {
             "id": 119006,
             "name": "Draven Draven",
-            "description": null,
+            "description": "Not Draven, Draaaaaaven.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/119006.jpg",
@@ -15806,7 +16043,7 @@
           {
             "id": 150002,
             "name": "Gentleman Gnar",
-            "description": null,
+            "description": "Some believe Gnar's wealth came from his groundbreaking research into economics and linguistics. Others question whether his investors favor him purely for his undeniable charm. Either way, he now finds himself receiving award after award—the latest being a sculpture of him in ice, rumored to never melt.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/150002.jpg",
@@ -16138,7 +16375,7 @@
           {
             "id": 161003,
             "name": "Definitely Not Vel'Koz",
-            "description": null,
+            "description": "I'm not a laser squid, I'm a man!",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/161003.jpg",
@@ -17873,7 +18110,7 @@
           {
             "id": 268002,
             "name": "Gravelord Azir",
-            "description": null,
+            "description": "In the service of Death rises Gravelord Azir! He who knows neither victory nor defeat, for even the bloodiest of battles strengthen his undying legions.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/268002.jpg",
@@ -34643,6 +34880,126 @@
         "imagePath": "/assets/icons/4019.jpg"
       },
       {
+        "id": 4020,
+        "title": "Yorick Cat Icon",
+        "description": "This icon was released in the store for purchase during the 2019 April Fool's event. ",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4020.jpg"
+      },
+      {
+        "id": 4021,
+        "title": "Rengar Cat Icon",
+        "description": "This icon was released in the store for purchase during the 2019 April Fool's event. ",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4021.jpg"
+      },
+      {
+        "id": 4022,
+        "title": "",
+        "description": "Earned by completing the first cats vs dogs mission.",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4022.jpg"
+      },
+      {
+        "id": 4023,
+        "title": "Pretty Kitty Rengar Icon",
+        "description": "This icon was released in the store for purchase during the 2019 April Fool's event. ",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4023.jpg"
+      },
+      {
+        "id": 4024,
+        "title": "Meowrick Icon",
+        "description": "This icon was released in the store for purchase during the 2019 April Fool's event. ",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4024.jpg"
+      },
+      {
+        "id": 4025,
+        "title": "Corki Corgi Icon",
+        "description": "This icon was released in the store for purchase during the 2019 April Fool's event. ",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4025.jpg"
+      },
+      {
+        "id": 4026,
+        "title": "Fizz Spaniel Icon",
+        "description": "This icon was released in the store for purchase during the 2019 April Fool's event. ",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4026.jpg"
+      },
+      {
+        "id": 4027,
+        "title": "Royal Doggo Icon",
+        "description": "Earned by completing the first cats vs dogs mission.",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4027.jpg"
+      },
+      {
+        "id": 4028,
+        "title": "Fuzz Fizz Icon",
+        "description": "This icon was released in the store for purchase during the 2019 April Fool's event. ",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4028.jpg"
+      },
+      {
+        "id": 4029,
+        "title": "Corgi Corki Icon",
+        "description": "This icon was released in the store for purchase during the 2019 April Fool's event. ",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4029.jpg"
+      },
+      {
+        "id": 4030,
+        "title": "Kisses Icon",
+        "description": "This icon was unlocked during the 2019 April Fool's event. ",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4030.jpg"
+      },
+      {
+        "id": 4031,
+        "title": "Golden Dogs vs Cats Icon",
+        "description": "Earned by completing the first mission in the Impossible chain.",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4031.jpg"
+      },
+      {
         "id": 4050,
         "title": "Sisters of Justice Icon",
         "description": "Earned by playing a game with Kayle and Morgana on the same team, or by winning 5 games.",
@@ -34651,6 +35008,46 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4050.jpg"
+      },
+      {
+        "id": 4051,
+        "title": "Best In Show Icon",
+        "description": "This icon was granted via loot during the 2019 April Fool's event.",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4051.jpg"
+      },
+      {
+        "id": 4052,
+        "title": "Golden Cat Icon",
+        "description": "Earned by completing the Cat mission chain.",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4052.jpg"
+      },
+      {
+        "id": 4053,
+        "title": "Golden Dog Icon",
+        "description": "Earned by completing the Dog mission chain",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4053.jpg"
+      },
+      {
+        "id": 4054,
+        "title": "Platinum Dogs vs Cats Icon",
+        "description": "Earned by completing the Impossible Mission chain.",
+        "set": "April Fools",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4054.jpg"
       },
       {
         "id": 4,
@@ -40882,6 +41279,26 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/132.png"
+      },
+      {
+        "id": 133,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/133.png"
+      },
+      {
+        "id": 134,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/134.png"
       }
     ],
     "emotes": [
@@ -43176,6 +43593,24 @@
         "name": "Squeal!",
         "description": null,
         "imagePath": "/assets/emotes/3242.png"
+      },
+      {
+        "id": 3243,
+        "name": "BORF",
+        "description": null,
+        "imagePath": "/assets/emotes/3243.png"
+      },
+      {
+        "id": 3244,
+        "name": "Mine!",
+        "description": null,
+        "imagePath": "/assets/emotes/3244.png"
+      },
+      {
+        "id": 3245,
+        "name": "Dogs vs Cats",
+        "description": null,
+        "imagePath": "/assets/emotes/3245.png"
       },
       {
         "id": 3246,
