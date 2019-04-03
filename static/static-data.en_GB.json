@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.6.267.4221",
+  "version": "9.7.269.2243",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -11,10 +11,10 @@
   ],
   "info": {
     "champions": 143,
-    "skins": 926,
-    "chromas": 818,
-    "icons": 2094,
-    "emotes": 393,
+    "skins": 928,
+    "chromas": 826,
+    "icons": 2103,
+    "emotes": 402,
     "wards": 135
   },
   "data": {
@@ -341,7 +341,7 @@
           {
             "id": 3003,
             "name": "Commando Galio",
-            "description": null,
+            "description": "Issues with the military industrial complex notwithstanding, why would a government put all its petricite resources into a giant statue that punches things? Or a pair of sunglasses big enough for one to wear?",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/3003.jpg",
@@ -576,7 +576,7 @@
           {
             "id": 5001,
             "name": "Commando Xin Zhao",
-            "description": null,
+            "description": "An expert at jungle warfare, Xin Zhao can harpoon a fruit from the rainforest canopy at a hundred yards. He just chooses not to, because it gets fruit chunks all over his spear.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/5001.jpg",
@@ -821,7 +821,7 @@
         "squarePortraitPath": "/assets/champions/portraits/6.png",
         "roles": [
           "fighter",
-          "marksman"
+          "tank"
         ],
         "skins": [
           {
@@ -1158,8 +1158,7 @@
         "shortBio": "A fiend with a thirst for mortal blood, Vladimir has influenced the affairs of Noxus since the empire's earliest days. In addition to unnaturally extending his life, his mastery of hemomancy allows him to control the minds and bodies of others as easily as his own. In the flamboyant salons of the Noxian aristocracy, this has enabled him to build a fanatical cult of personality around himself—while in the lowest back alleys, it allows him to bleed his enemies dry.",
         "squarePortraitPath": "/assets/champions/portraits/8.png",
         "roles": [
-          "mage",
-          "tank"
+          "mage"
         ],
         "skins": [
           {
@@ -2957,7 +2956,7 @@
           {
             "id": 18004,
             "name": "Guerilla Tristana",
-            "description": null,
+            "description": "The beauty of guerilla warfare is attacking an enemy that has their guard down, is unfamiliar with the terrain, and doesn't know who—or what—is engaging them. The beauty of being a two foot tall Yordle with a cannon the size of a mastiff hound is that no enemy would ever understand what hit them anyway.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/18004.jpg",
@@ -4335,7 +4334,7 @@
           {
             "id": 27004,
             "name": "Mad Scientist Singed",
-            "description": null,
+            "description": "Everyone thinks Singed is crazy. In reality, he's just a normal scientist with a penchant for bright neon colors.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/27004.jpg",
@@ -6316,7 +6315,7 @@
           {
             "id": 41005,
             "name": "Special Forces Gangplank",
-            "description": null,
+            "description": "How special are the special forces? Let's put it this way: they're the only unit in the military with unlimited access to oranges.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/41005.jpg",
@@ -6484,7 +6483,7 @@
           {
             "id": 42001,
             "name": "UFO Corki",
-            "description": null,
+            "description": "Everyone said this model wouldn't fly, but Corki's never let himself be discouraged by others being reasonable.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/42001.jpg",
@@ -8390,7 +8389,7 @@
           {
             "id": 59001,
             "name": "Commando Jarvan IV",
-            "description": null,
+            "description": "Yes, those are guns strapped to Jarvan's arms and legs. No, he can't shoot them.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/59001.jpg",
@@ -8467,6 +8466,15 @@
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/59008.jpg",
+            "chromas": null
+          },
+          {
+            "id": 59009,
+            "name": "Hextech Jarvan IV",
+            "description": "The Hextech Renaissance appealed not only to those with backgrounds in science, but also to those looking for an escape from their day-to-day lives. For the young Prince Jarvan, it presented the chance to enhance his martial skill—with technology that would have never been accepted within his father's kingdom.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/59009.jpg",
             "chromas": null
           }
         ]
@@ -9553,7 +9561,7 @@
           {
             "id": 74001,
             "name": "Alien Invader Heimerdinger",
-            "description": null,
+            "description": "No one believed Heimerdinger when he tried to warn them about the invaders from outer space. They believed when he took off the wig.",
             "rarity": "kLegendary",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/74001.jpg",
@@ -9775,7 +9783,7 @@
         "squarePortraitPath": "/assets/champions/portraits/76.png",
         "roles": [
           "assassin",
-          "fighter"
+          "mage"
         ],
         "skins": [
           {
@@ -11050,7 +11058,7 @@
           {
             "id": 86003,
             "name": "Commando Garen",
-            "description": null,
+            "description": "Most commandos excel at amphibious attacks and military paragliding. This one spins very fast toward things while holding a giant sword. It's basically the same.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/86003.jpg",
@@ -11349,8 +11357,7 @@
         "shortBio": "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive. Adopted by the notorious Du Couteau family, he now plies his deadly trade at the empire's command, assassinating enemy leaders, captains, and heroes… as well as any Noxian foolish enough to earn the scorn of their masters.",
         "squarePortraitPath": "/assets/champions/portraits/91.png",
         "roles": [
-          "assassin",
-          "fighter"
+          "assassin"
         ],
         "skins": [
           {
@@ -12120,7 +12127,7 @@
           {
             "id": 99003,
             "name": "Commando Lux",
-            "description": null,
+            "description": "Soundproof ear protectors, a multispectral heat visor, lace-up knee-high boots, and a double-sided flamethrower that shoots lasers instead of fire? Lux really does have it all.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/99003.jpg",
@@ -13925,7 +13932,7 @@
           {
             "id": 115001,
             "name": "Mad Scientist Ziggs",
-            "description": null,
+            "description": "The last time Ziggs plugged two electromagnetic charges into his brain, he almost exploded. Maybe, three will do the trick.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/115001.jpg",
@@ -14518,8 +14525,7 @@
         "shortBio": "The Void grows, and the Void adapts—in none of its myriad spawn are these truths more apparent than Kha'Zix. Evolution drives the core of this mutating horror, born to survive and to slay the strong. Where it struggles to do so, it grows new, more effective ways to counter and kill its prey. Initially a mindless beast, Kha'Zix's intelligence has developed as much as its form. Now, the creature plans out its hunts, and even utilizes the visceral terror it engenders in its victims.",
         "squarePortraitPath": "/assets/champions/portraits/121.png",
         "roles": [
-          "assassin",
-          "fighter"
+          "assassin"
         ],
         "skins": [
           {
@@ -14938,7 +14944,7 @@
           {
             "id": 122004,
             "name": "Dunkmaster Darius",
-            "description": null,
+            "description": "Sporting over a hundred different endorsement deals and tens of millions of fans the world over, Darius has transformed himself from a showy basketball prodigy to the world's leading authority on dunking. He has recently perfected the Dunktown Express, where he dunks so hard that all public transit on the planet simultaneously explodes.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/122004.jpg",
@@ -15387,7 +15393,7 @@
         "squarePortraitPath": "/assets/champions/portraits/133.png",
         "roles": [
           "marksman",
-          "fighter"
+          "assassin"
         ],
         "skins": [
           {
@@ -15522,8 +15528,7 @@
         "shortBio": "Aurelion Sol once graced the vast emptiness of the cosmos with celestial wonders of his own devising. Now, he is forced to wield his awesome power at the behest of a space-faring empire that tricked him into servitude. Desiring a return to his star-forging ways, Aurelion Sol will drag the very stars from the sky, if he must, in order to regain his freedom.",
         "squarePortraitPath": "/assets/champions/portraits/136.png",
         "roles": [
-          "mage",
-          "fighter"
+          "mage"
         ],
         "skins": [
           {
@@ -16733,7 +16738,8 @@
         "shortBio": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most powerful of messages: terror.",
         "squarePortraitPath": "/assets/champions/portraits/202.png",
         "roles": [
-          "marksman"
+          "marksman",
+          "mage"
         ],
         "skins": [
           {
@@ -17226,8 +17232,7 @@
         "shortBio": "Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia's magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form—a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order.",
         "squarePortraitPath": "/assets/champions/portraits/238.png",
         "roles": [
-          "assassin",
-          "fighter"
+          "assassin"
         ],
         "skins": [
           {
@@ -18498,6 +18503,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/427001.jpg",
             "chromas": null
+          },
+          {
+            "id": 427002,
+            "name": "Dunkmaster Ivern",
+            "description": "Daisy and Ivern first started as a basketball doubles pair on the mean streets of Kumungu jungle—but then a chance encounter with then-NBA commissioner John Brambleback pushed them both into the national spotlight. They've been tearing up the court on the professional circuit ever since.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/427002.jpg",
+            "chromas": [
+              {
+                "id": 427003,
+                "name": "Dunkmaster Ivern",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 427004,
+                "name": "Dunkmaster Ivern",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 427005,
+                "name": "Dunkmaster Ivern",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 427006,
+                "name": "Dunkmaster Ivern",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 427007,
+                "name": "Dunkmaster Ivern",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 427008,
+                "name": "Dunkmaster Ivern",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 427009,
+                "name": "Dunkmaster Ivern",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 427010,
+                "name": "Dunkmaster Ivern",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -34901,7 +34988,7 @@
       },
       {
         "id": 4022,
-        "title": "",
+        "title": "Royal Kitty Icon",
         "description": "Earned by completing the first cats vs dogs mission.",
         "set": "April Fools",
         "yearReleased": 2019,
@@ -34935,7 +35022,7 @@
         "description": "This icon was released in the store for purchase during the 2019 April Fool's event. ",
         "set": "April Fools",
         "yearReleased": 2019,
-        "rarity": "kRare",
+        "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4025.jpg"
       },
@@ -34985,7 +35072,7 @@
         "description": "This icon was unlocked during the 2019 April Fool's event. ",
         "set": null,
         "yearReleased": 2019,
-        "rarity": "kRare",
+        "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4030.jpg"
       },
@@ -35048,6 +35135,96 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4054.jpg"
+      },
+      {
+        "id": 4057,
+        "title": "Season 2019 - Split 2 Icon",
+        "description": "Earned by winning ranked games in Season 2019 - Split 2.",
+        "set": "Ranked",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4057.jpg"
+      },
+      {
+        "id": 4058,
+        "title": "OPL Split 1 Finals Icon",
+        "description": "Earned by completing the OPL Split 1 Finals 2019 mission or purchased in store",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4058.jpg"
+      },
+      {
+        "id": 4059,
+        "title": "LCS Spring Split Finals Icon",
+        "description": "Earned by completing the LCS Spring Finals 2019 mission or purchased in store",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4059.jpg"
+      },
+      {
+        "id": 4060,
+        "title": "TCL Winter Split Finals Icon",
+        "description": "Earned by completing the 2019 TCL Winter Finals mission or purchased in store",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4060.jpg"
+      },
+      {
+        "id": 4061,
+        "title": "LEC Spring Split Finals Icon",
+        "description": "Earned by completing the 2019 LEC Spring Finals mission or purchased in store",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4061.jpg"
+      },
+      {
+        "id": 4062,
+        "title": "LJL Spring Split Finals Icon",
+        "description": "Earned by completing the 2019 LJL Spring Finals mission or purchased in store",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4062.jpg"
+      },
+      {
+        "id": 4063,
+        "title": "LLA Opening Split Finals Icon",
+        "description": "Earned by completing the 2019 LLA Opening Split Finals mission or purchased in store",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4063.jpg"
+      },
+      {
+        "id": 4064,
+        "title": "CBLoL 1st Split Finals Icon",
+        "description": "Earned by completing the 2019 CBLoL 1st Split Finals mission or purchased in store",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4064.jpg"
+      },
+      {
+        "id": 4080,
+        "title": "Bilgewater 2019 Icon",
+        "description": "This icon was rewarded for completing the Bilgewater 2019 missions.",
+        "set": "Factions",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4080.jpg"
       },
       {
         "id": 4,
@@ -41282,9 +41459,9 @@
       },
       {
         "id": 133,
-        "name": "",
+        "name": "Cat Lover Ward",
         "defaultDescription": null,
-        "description": "This icon was released in the store for purchase in 2019.",
+        "description": "This ward was released during the 2019 April Fool's event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -41292,9 +41469,9 @@
       },
       {
         "id": 134,
-        "name": "",
+        "name": "Dog Lover Ward",
         "defaultDescription": null,
-        "description": "This icon was released in the store for purchase in 2019.",
+        "description": "This ward was released during the 2019 April Fool's event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -43623,6 +43800,60 @@
         "name": "Fired Up",
         "description": null,
         "imagePath": "/assets/emotes/3247.png"
+      },
+      {
+        "id": 3248,
+        "name": "2019 - Split 2 - Iron",
+        "description": null,
+        "imagePath": "/assets/emotes/3248.png"
+      },
+      {
+        "id": 3249,
+        "name": "2019 - Split 2 - Bronze",
+        "description": null,
+        "imagePath": "/assets/emotes/3249.png"
+      },
+      {
+        "id": 3250,
+        "name": "2019 - Split 2 - Silver",
+        "description": null,
+        "imagePath": "/assets/emotes/3250.png"
+      },
+      {
+        "id": 3251,
+        "name": "2019 - Split 2 - Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3251.png"
+      },
+      {
+        "id": 3252,
+        "name": "2019 - Split 2 - Platinum",
+        "description": null,
+        "imagePath": "/assets/emotes/3252.png"
+      },
+      {
+        "id": 3253,
+        "name": "2019 - Split 2 - Diamond",
+        "description": null,
+        "imagePath": "/assets/emotes/3253.png"
+      },
+      {
+        "id": 3254,
+        "name": "2019 - Split 2 - Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3254.png"
+      },
+      {
+        "id": 3255,
+        "name": "2019 - Split 2 - Grand Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3255.png"
+      },
+      {
+        "id": 3256,
+        "name": "2019 - Split 2 - Challenger",
+        "description": null,
+        "imagePath": "/assets/emotes/3256.png"
       },
       {
         "id": 4,
