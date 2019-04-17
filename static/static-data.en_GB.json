@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.7.269.2243",
+  "version": "9.8.270.8833",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -11,11 +11,11 @@
   ],
   "info": {
     "champions": 143,
-    "skins": 928,
-    "chromas": 826,
-    "icons": 2103,
-    "emotes": 402,
-    "wards": 135
+    "skins": 937,
+    "chromas": 831,
+    "icons": 2122,
+    "emotes": 405,
+    "wards": 137
   },
   "data": {
     "champions": [
@@ -1147,6 +1147,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 7019,
+            "name": "Invictus Gaming LeBlanc",
+            "description": "Honoring Rookie's winning performance as LeBlanc during the 2018 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/7019.jpg",
+            "chromas": null
           }
         ]
       },
@@ -2015,6 +2024,25 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/12019.jpg",
             "chromas": null
+          },
+          {
+            "id": 12020,
+            "name": "Conqueror Alistar",
+            "description": "Commemorating the 2018 Mid-Season Invitational in Europe.",
+            "rarity": "kRare",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/12020.jpg",
+            "chromas": [
+              {
+                "id": 12021,
+                "name": "Conqueror Alistar",
+                "description": "Loot exclusive gained during the 2019 MSI Event.",
+                "colors": [
+                  "#FFC948",
+                  "#FFC948"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -2060,7 +2088,7 @@
           {
             "id": 13003,
             "name": "Uncle Ryze",
-            "description": null,
+            "description": "Uncle Ryze wants YOU… to get on the rift!",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/13003.jpg",
@@ -4456,10 +4484,19 @@
           {
             "id": 28006,
             "name": "K/DA Evelynn",
-            "description": "No one is as deliciously volatile as Evelynn. She's a diva who drives divisiveness in the media—they love her one day and hate her the next, her name a permanent fixture of tabloid headlines. She is a born superstar, and the foundation of K/DA's sound.",
+            "description": "With that wild in her veins, K/DA Evelynn stomps into the spotlight, shimmering in a custom golden outfit from the Pop Music Awards. Only 'winning, winning' now.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/28006.jpg",
+            "chromas": null
+          },
+          {
+            "id": 28007,
+            "name": "K/DA Evelynn Prestige Edition",
+            "description": "With that wild in her veins, K/DA Evelynn stomps into the spotlight, shimmering in a custom golden outfit from the Pop Music Awards. Only 'winning, winning' now.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/28007.jpg",
             "chromas": null
           }
         ]
@@ -5347,7 +5384,7 @@
           {
             "id": 34007,
             "name": "Festival Queen Anivia",
-            "description": null,
+            "description": "For one week a year, Anivia takes a break from being a prophetic ice spirit of the Freljord, and takes off for warmer climes… somewhere people will appreciate her samba.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/34007.jpg",
@@ -5874,7 +5911,7 @@
           {
             "id": 38002,
             "name": "Deep One Kassadin",
-            "description": null,
+            "description": "“Kassadin vanished at sea over fifty years ago. Whatever you saw down there—if you did see anything—it can't have been the same man I watched fall into the drink. And if it was… gods help us.”",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/38002.jpg",
@@ -6057,6 +6094,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 39015,
+            "name": "Invictus Gaming Irelia",
+            "description": "Honoring Duke's winning performance as Irelia during the 2018 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/39015.jpg",
+            "chromas": null
           }
         ]
       },
@@ -6792,7 +6838,17 @@
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/43007.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 43010,
+                "name": "Conqueror Karma",
+                "description": "Loot exclusive gained during the 2019 MSI Event.",
+                "colors": [
+                  "#FFC948",
+                  "#FFC948"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -7639,7 +7695,7 @@
           {
             "id": 54002,
             "name": "Coral Reef Malphite",
-            "description": null,
+            "description": "“When I was young, I used to watch our ships sail back to port—but of late can't bring myself to look. For every vessel that docks, another runs aground of coral that was not there before. It's as though even the seabed has turned against us, slowly moving toward some unfathomable end.”",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/54002.jpg",
@@ -9865,7 +9921,17 @@
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/76008.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 76010,
+                "name": "Challenger Nidalee",
+                "description": "Loot exclusive gained during the 2019 MSI Event.",
+                "colors": [
+                  "#FFC948",
+                  "#FFC948"
+                ]
+              }
+            ]
           },
           {
             "id": 76009,
@@ -11810,7 +11876,7 @@
           {
             "id": 96006,
             "name": "Deep Sea Kog'Maw",
-            "description": null,
+            "description": "“Perhaps my old mind was deceived by the fury of the storm. Yet as we sank, I glimpsed a field of lights beneath the waves, a thousand eyes of wicked alabaster… they were dark things tearing into the flesh of our crew as if all they ever knew was hunger.”",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/96006.jpg",
@@ -12499,7 +12565,17 @@
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/103005.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 103018,
+                "name": "Challenger Ahri",
+                "description": "Loot exclusive gained during the 2019 MSI Event.",
+                "colors": [
+                  "#FFC948",
+                  "#FFC948"
+                ]
+              }
+            ]
           },
           {
             "id": 103006,
@@ -13329,11 +13405,21 @@
           {
             "id": 110007,
             "name": "Conqueror Varus",
-            "description": null,
+            "description": "Commemorating the 2018 Mid-Season Invitational in Europe.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/110007.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 110008,
+                "name": "Conqueror Varus",
+                "description": "Loot exclusive gained during the 2019 MSI Event.",
+                "colors": [
+                  "#FFC948",
+                  "#FFC948"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -13361,7 +13447,7 @@
           {
             "id": 111001,
             "name": "Abyssal Nautilus",
-            "description": null,
+            "description": "“Never once have I sailed these waves looking for missing divers. Something unnatural lives in the depths, and I fear what it does to these lost souls.”",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/111001.jpg",
@@ -13514,7 +13600,7 @@
           {
             "id": 113004,
             "name": "Bear Cavalry Sejuani",
-            "description": null,
+            "description": "Sejuani has taken to battle on an armored, one-eyed warbear the size of a shed, while swinging a land mine on a chain, wearing a delightfully vintage red-star hat. Good luck out there!",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/113004.jpg",
@@ -13906,6 +13992,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 114031,
+            "name": "Invictus Gaming Fiora",
+            "description": "Honoring TheShy's winning performance as Fiora during the 2018 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/114031.jpg",
+            "chromas": null
           }
         ]
       },
@@ -15939,6 +16034,15 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/145015.jpg",
             "chromas": null
+          },
+          {
+            "id": 145016,
+            "name": "Invictus Gaming Kai'Sa",
+            "description": "Honoring JackeyLove's winning performance as Kai'Sa during the 2018 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/145016.jpg",
+            "chromas": null
           }
         ]
       },
@@ -16531,6 +16635,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 164010,
+            "name": "Invictus Gaming Camille",
+            "description": "Honoring Ning's winning performance as Camille during the 2018 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/164010.jpg",
+            "chromas": null
           }
         ]
       },
@@ -17353,6 +17466,15 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/238011.jpg",
             "chromas": null
+          },
+          {
+            "id": 238013,
+            "name": "Galaxy Slayer Zed",
+            "description": "Zed was a promising Templar before he became host to the hivemind of ora and imbued with its alien essence. Able to morph his body into living weapons, he now sees himself as the perfect life form, deserving of all ora and destined to cleanse the galaxy of the weak.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/238013.jpg",
+            "chromas": null
           }
         ]
       },
@@ -18010,7 +18132,7 @@
           {
             "id": 267007,
             "name": "Deep Sea Nami",
-            "description": null,
+            "description": "“I saw her! Where light ceases and one is alone with the cold darkness and the sea, she appeared before me—a wordless, ancient thing, pulsing with an unearthly luster as vicious shapes twisted in the gloom beyond.”",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/267007.jpg",
@@ -18165,7 +18287,7 @@
           {
             "id": 412001,
             "name": "Deep Terror Thresh",
-            "description": null,
+            "description": "“If there really was a kingdom beneath the sea, it must have been destroyed long ago. How else do you explain the revenants that prey upon these shores? How else does that thing—Thresh—exist, trapping our souls in his accursed diving bell?”",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/412001.jpg",
@@ -18780,6 +18902,15 @@
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/497003.jpg",
+            "chromas": null
+          },
+          {
+            "id": 497004,
+            "name": "Invictus Gaming Rakan",
+            "description": "Honoring Baolan's winning performance as Rakan during the 2018 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/497004.jpg",
             "chromas": null
           }
         ]
@@ -35087,6 +35218,86 @@
         "imagePath": "/assets/icons/4031.jpg"
       },
       {
+        "id": 4032,
+        "title": "Galaxy Slayer Zed Icon",
+        "description": "Earned by purchasing the Galaxy Slayer Zed Set in the store.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4032.jpg"
+      },
+      {
+        "id": 4033,
+        "title": "Invictus Gaming Camille Icon",
+        "description": "Honoring Ning's winning Camille in the 2018 World Championship.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4033.jpg"
+      },
+      {
+        "id": 4034,
+        "title": "Invictus Gaming Fiora Icon",
+        "description": "Honoring TheShy's winning Fiora in the 2018 World Championship.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4034.jpg"
+      },
+      {
+        "id": 4035,
+        "title": "Invictus Gaming Kai'Sa Icon",
+        "description": "Honoring JackeyLove's winning Kai'Sa in the 2018 World Championship.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4035.jpg"
+      },
+      {
+        "id": 4036,
+        "title": "Invictus Gaming LeBlanc Icon",
+        "description": "Honoring Rookie's winning LeBlanc in the 2018 World Championship.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4036.jpg"
+      },
+      {
+        "id": 4037,
+        "title": "Invictus Gaming Rakan Icon",
+        "description": "Honoring Baolan's winning Rakan in the 2018 World Championship.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4037.jpg"
+      },
+      {
+        "id": 4038,
+        "title": "Invictus Gaming Irelia Icon",
+        "description": "Honoring Duke's winning Irelia in the 2018 World Championship.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4038.jpg"
+      },
+      {
+        "id": 4039,
+        "title": "Conqueror Alistar Icon",
+        "description": "Earned by purchasing the Conqueror Alistar Set in the store.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4039.jpg"
+      },
+      {
         "id": 4050,
         "title": "Sisters of Justice Icon",
         "description": "Earned by playing a game with Kayle and Morgana on the same team, or by winning 5 games.",
@@ -35135,6 +35346,26 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4054.jpg"
+      },
+      {
+        "id": 4055,
+        "title": "Challenger Nidalee Icon",
+        "description": "Unlocked through crafting during the 2019 MSI event.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4055.jpg"
+      },
+      {
+        "id": 4056,
+        "title": "Challenger Ahri Icon",
+        "description": "Unlocked through crafting during the 2019 MSI event.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4056.jpg"
       },
       {
         "id": 4057,
@@ -35225,6 +35456,96 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4080.jpg"
+      },
+      {
+        "id": 4081,
+        "title": "Poronaut Icon",
+        "description": "Earned by participating in the 2019 Cosmonautics Day event (region exclusive).",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4081.jpg"
+      },
+      {
+        "id": 4082,
+        "title": "Full Of Stars Icon",
+        "description": "Earned by participating in the 2019 Cosmonautics Day event (region exclusive).",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4082.jpg"
+      },
+      {
+        "id": 4083,
+        "title": "IG World Champions Merch Icon",
+        "description": "Earned by purchasing IG Champions Team Minifigures.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4083.jpg"
+      },
+      {
+        "id": 4091,
+        "title": "Golden Challenger Nidalee Icon",
+        "description": "Unlocked through crafting during the 2019 MSI event.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4091.jpg"
+      },
+      {
+        "id": 4092,
+        "title": "Golden Challenger Ahri Icon",
+        "description": "Unlocked through crafting during the 2019 MSI event.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4092.jpg"
+      },
+      {
+        "id": 4093,
+        "title": "Golden Conqueror Alistar Icon",
+        "description": "Unlocked through crafting during the 2019 MSI event.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4093.jpg"
+      },
+      {
+        "id": 4094,
+        "title": "Golden Conqueror Varus Icon",
+        "description": "Unlocked through crafting during the 2019 MSI event.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4094.jpg"
+      },
+      {
+        "id": 4095,
+        "title": "Golden Conqueror Karma Icon",
+        "description": "Unlocked through crafting during the 2019 MSI event.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4095.jpg"
+      },
+      {
+        "id": 4096,
+        "title": "IG World Champions Icon",
+        "description": "This icon was released in the store for purchase during the 2019 MSI event.",
+        "set": "Esports",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4096.jpg"
       },
       {
         "id": 4,
@@ -41476,6 +41797,26 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/134.png"
+      },
+      {
+        "id": 135,
+        "name": "2019 Conqueror Ward",
+        "defaultDescription": null,
+        "description": "This ward was released in the store for purchase during the 2019 MSI event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/135.png"
+      },
+      {
+        "id": 137,
+        "name": "Championship Hot Dog Ward",
+        "defaultDescription": null,
+        "description": "This ward was released in the store for purchase during the 2019 MSI event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/137.png"
       }
     ],
     "emotes": [
@@ -43854,6 +44195,24 @@
         "name": "2019 - Split 2 - Challenger",
         "description": null,
         "imagePath": "/assets/emotes/3256.png"
+      },
+      {
+        "id": 3257,
+        "name": "Worthy Adversary",
+        "description": null,
+        "imagePath": "/assets/emotes/3257.png"
+      },
+      {
+        "id": 3258,
+        "name": "Wonderful...",
+        "description": null,
+        "imagePath": "/assets/emotes/3258.png"
+      },
+      {
+        "id": 3259,
+        "name": "Impressive!",
+        "description": null,
+        "imagePath": "/assets/emotes/3259.png"
       },
       {
         "id": 4,
