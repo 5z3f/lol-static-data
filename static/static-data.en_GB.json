@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.8.270.8833",
+  "version": "9.9.272.6103",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,8 +13,8 @@
     "champions": 143,
     "skins": 937,
     "chromas": 831,
-    "icons": 2122,
-    "emotes": 405,
+    "icons": 2131,
+    "emotes": 409,
     "wards": 137
   },
   "data": {
@@ -1150,7 +1150,7 @@
           },
           {
             "id": 7019,
-            "name": "Invictus Gaming LeBlanc",
+            "name": "iG LeBlanc",
             "description": "Honoring Rookie's winning performance as LeBlanc during the 2018 World Championship.",
             "rarity": "kEpic",
             "isLegacy": true,
@@ -6097,7 +6097,7 @@
           },
           {
             "id": 39015,
-            "name": "Invictus Gaming Irelia",
+            "name": "iG Irelia",
             "description": "Honoring Duke's winning performance as Irelia during the 2018 World Championship.",
             "rarity": "kEpic",
             "isLegacy": true,
@@ -13995,7 +13995,7 @@
           },
           {
             "id": 114031,
-            "name": "Invictus Gaming Fiora",
+            "name": "iG Fiora",
             "description": "Honoring TheShy's winning performance as Fiora during the 2018 World Championship.",
             "rarity": "kEpic",
             "isLegacy": true,
@@ -16037,7 +16037,7 @@
           },
           {
             "id": 145016,
-            "name": "Invictus Gaming Kai'Sa",
+            "name": "iG Kai'Sa",
             "description": "Honoring JackeyLove's winning performance as Kai'Sa during the 2018 World Championship.",
             "rarity": "kEpic",
             "isLegacy": true,
@@ -16638,7 +16638,7 @@
           },
           {
             "id": 164010,
-            "name": "Invictus Gaming Camille",
+            "name": "iG Camille",
             "description": "Honoring Ning's winning performance as Camille during the 2018 World Championship.",
             "rarity": "kEpic",
             "isLegacy": true,
@@ -18906,7 +18906,7 @@
           },
           {
             "id": 497004,
-            "name": "Invictus Gaming Rakan",
+            "name": "iG Rakan",
             "description": "Honoring Baolan's winning performance as Rakan during the 2018 World Championship.",
             "rarity": "kEpic",
             "isLegacy": true,
@@ -35229,7 +35229,7 @@
       },
       {
         "id": 4033,
-        "title": "Invictus Gaming Camille Icon",
+        "title": "iG Camille Icon",
         "description": "Honoring Ning's winning Camille in the 2018 World Championship.",
         "set": "Esports",
         "yearReleased": 2019,
@@ -35239,7 +35239,7 @@
       },
       {
         "id": 4034,
-        "title": "Invictus Gaming Fiora Icon",
+        "title": "iG Fiora Icon",
         "description": "Honoring TheShy's winning Fiora in the 2018 World Championship.",
         "set": "Esports",
         "yearReleased": 2019,
@@ -35249,7 +35249,7 @@
       },
       {
         "id": 4035,
-        "title": "Invictus Gaming Kai'Sa Icon",
+        "title": "iG Kai'Sa Icon",
         "description": "Honoring JackeyLove's winning Kai'Sa in the 2018 World Championship.",
         "set": "Esports",
         "yearReleased": 2019,
@@ -35259,7 +35259,7 @@
       },
       {
         "id": 4036,
-        "title": "Invictus Gaming LeBlanc Icon",
+        "title": "iG LeBlanc Icon",
         "description": "Honoring Rookie's winning LeBlanc in the 2018 World Championship.",
         "set": "Esports",
         "yearReleased": 2019,
@@ -35269,7 +35269,7 @@
       },
       {
         "id": 4037,
-        "title": "Invictus Gaming Rakan Icon",
+        "title": "iG Rakan Icon",
         "description": "Honoring Baolan's winning Rakan in the 2018 World Championship.",
         "set": "Esports",
         "yearReleased": 2019,
@@ -35279,7 +35279,7 @@
       },
       {
         "id": 4038,
-        "title": "Invictus Gaming Irelia Icon",
+        "title": "iG Irelia Icon",
         "description": "Honoring Duke's winning Irelia in the 2018 World Championship.",
         "set": "Esports",
         "yearReleased": 2019,
@@ -35488,6 +35488,76 @@
         "imagePath": "/assets/icons/4083.jpg"
       },
       {
+        "id": 4084,
+        "title": "Trials 2019 Pass Icon",
+        "description": "Acquired by purchasing the 2019 Trials Pass during the 2019 Trials event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4084.jpg"
+      },
+      {
+        "id": 4085,
+        "title": "Golden Trials 2019 Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4085.jpg"
+      },
+      {
+        "id": 4086,
+        "title": "The Faceless Icon",
+        "description": "Unlocked during the 2019 Trials event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4086.jpg"
+      },
+      {
+        "id": 4087,
+        "title": "The Warband Icon",
+        "description": "Unlocked during the 2019 Trials event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4087.jpg"
+      },
+      {
+        "id": 4088,
+        "title": "The United Icon",
+        "description": "Unlocked during the 2019 Trials event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4088.jpg"
+      },
+      {
+        "id": 4089,
+        "title": "The Council Icon",
+        "description": "Unlocked during the 2019 Trials event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4089.jpg"
+      },
+      {
+        "id": 4090,
+        "title": "The Trials Icon",
+        "description": "Unlocked during the 2019 Trials event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4090.jpg"
+      },
+      {
         "id": 4091,
         "title": "Golden Challenger Nidalee Icon",
         "description": "Unlocked through crafting during the 2019 MSI event.",
@@ -35546,6 +35616,26 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4096.jpg"
+      },
+      {
+        "id": 4097,
+        "title": "LST MEGA",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4097.jpg"
+      },
+      {
+        "id": 4153,
+        "title": "LEC G2 Esports",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4153.jpg"
       },
       {
         "id": 4,
@@ -44213,6 +44303,30 @@
         "name": "Impressive!",
         "description": null,
         "imagePath": "/assets/emotes/3259.png"
+      },
+      {
+        "id": 3260,
+        "name": "The Council",
+        "description": null,
+        "imagePath": "/assets/emotes/3260.png"
+      },
+      {
+        "id": 3261,
+        "name": "The United",
+        "description": null,
+        "imagePath": "/assets/emotes/3261.png"
+      },
+      {
+        "id": 3262,
+        "name": "The Faceless",
+        "description": null,
+        "imagePath": "/assets/emotes/3262.png"
+      },
+      {
+        "id": 3263,
+        "name": "The Warband",
+        "description": null,
+        "imagePath": "/assets/emotes/3263.png"
       },
       {
         "id": 4,
