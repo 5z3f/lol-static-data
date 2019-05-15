@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.9.272.6103",
+  "version": "9.10.273.9316",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -10,12 +10,12 @@
     "EMOTES"
   ],
   "info": {
-    "champions": 143,
-    "skins": 937,
-    "chromas": 831,
-    "icons": 2131,
-    "emotes": 409,
-    "wards": 137
+    "champions": 144,
+    "skins": 944,
+    "chromas": 865,
+    "icons": 2142,
+    "emotes": 423,
+    "wards": 139
   },
   "data": {
     "champions": [
@@ -42,7 +42,7 @@
           {
             "id": 1001,
             "name": "Goth Annie",
-            "description": null,
+            "description": "Her mother is dead. Her father is dead. But Annie remains, seeing beauty in the dark.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/1001.jpg",
@@ -173,7 +173,7 @@
           {
             "id": 2002,
             "name": "Glacial Olaf",
-            "description": null,
+            "description": "The villagers thought it was an avalanche. Then they saw the axe.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/2002.jpg",
@@ -1182,7 +1182,7 @@
           {
             "id": 8001,
             "name": "Count Vladimir",
-            "description": null,
+            "description": "Once upon a time, in the heart of a dark and gloomy castle, there lived an eternally youthful count who the people greatly feared. Every night, a terrible red mist would seep into the villages, and some poor soul would vanish without a trace—another life lost to Vladimir's growing appetites.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/8001.jpg",
@@ -2028,7 +2028,7 @@
           {
             "id": 12020,
             "name": "Conqueror Alistar",
-            "description": "Commemorating the 2018 Mid-Season Invitational in Europe.",
+            "description": "Commemorating the 2019 Mid-Season Invitational in Asia.",
             "rarity": "kRare",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/12020.jpg",
@@ -2192,7 +2192,7 @@
           {
             "id": 14002,
             "name": "Barbarian Sion",
-            "description": null,
+            "description": "Avoiding every social cue his roleplaying group throws his way, Sion has repeatedly rolled barbarians only to die immediately after rejoining the table. At this point he's spent more time working on character sheets than actually playing Rift Quest, and it shows: his newest barbarian's backstory reads, “Is a barbarian.”",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/14002.jpg",
@@ -2806,7 +2806,7 @@
           {
             "id": 17006,
             "name": "Super Teemo",
-            "description": null,
+            "description": "Evildoers beware! The archvillain-turned-superhero Teemo knows how you think—and he's ready to strike back in the name of peace and justice! With a single deafening blast, Teemo's super sigil bursts open to envelop foes in a specially formulated toxin, leaving them ready for capture and incarceration! Thanks, Teemo!",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/17006.jpg",
@@ -3226,7 +3226,7 @@
           {
             "id": 19005,
             "name": "Feral Warwick",
-            "description": null,
+            "description": "Another of Singed's vile henchmen, Warwick is never far from his villainous master. Given wolf powers after being bitten by a radioactive wolf, Warwick has been further augmented by Singed's evil research! Will our brave heroes ever be able to stop him?!",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/19005.jpg",
@@ -3711,7 +3711,7 @@
           {
             "id": 22004,
             "name": "Queen Ashe",
-            "description": null,
+            "description": "A radiant queen once venerated as a figure reborn from legend, Ashe rules her people as the visionary leader of two great Freljordian houses. Yet two equally driven rivals oppose her queendom, as a rising darkness threatens to consume them all.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/22004.jpg",
@@ -3862,7 +3862,7 @@
           {
             "id": 23002,
             "name": "King Tryndamere",
-            "description": null,
+            "description": "A proud king who was once known only as a brutal highland swordsman, Tryndamere rules his people as the martial protector of two great Freljordian houses. Yet every day he resists the pull of an intangible evil at his back, as he has not forgotten a certain blood debt that he vowed to see repaid.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/23002.jpg",
@@ -3925,7 +3925,7 @@
           {
             "id": 23009,
             "name": "Chemtech Tryndamere",
-            "description": null,
+            "description": "A monstrous experiment created by the villainous Singed, Tryndamere was irrevocably changed when he fell into a vat of volatile chemicals. Wherever Singed goes, Tryndamere follows—yet another dastardly villain battling against New Valoran's bravest heroes!",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/23009.jpg",
@@ -4371,7 +4371,7 @@
           {
             "id": 27005,
             "name": "Augmented Singed",
-            "description": null,
+            "description": "A dastardly villain lurking in the dark corners of New Valoran, the mild-mannered Dr. Peter Singed was transformed by a volatile chemical of his own invention—becoming the superhuman criminal known only as… Singed! Can anyone stop this vile malefactor before it's too late?!",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/27005.jpg",
@@ -4484,7 +4484,7 @@
           {
             "id": 28006,
             "name": "K/DA Evelynn",
-            "description": "With that wild in her veins, K/DA Evelynn stomps into the spotlight, shimmering in a custom golden outfit from the Pop Music Awards. Only 'winning, winning' now.",
+            "description": "No one is as deliciously volatile as Evelynn. She's a diva who drives divisiveness in the media—they love her one day and hate her the next, her name a permanent fixture of tabloid headlines. She is a born superstar, and the foundation of K/DA's sound.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/28006.jpg",
@@ -4543,7 +4543,7 @@
           {
             "id": 29003,
             "name": "Medieval Twitch",
-            "description": null,
+            "description": "An assassin-for-hire living beneath Dread Fortress Zaun, Twitch is a disgusting malefactor who has tipped every one of his killing implements in moist, toxic garbage. He excitedly awaits each contract, eager to kill, steal, and destroy as much as he can.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/29003.jpg",
@@ -4966,7 +4966,7 @@
           {
             "id": 32003,
             "name": "Emumu",
-            "description": null,
+            "description": "When your friends let you down, the best thing to do is start a rock band driven by hard emotions.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/32003.jpg",
@@ -4993,7 +4993,7 @@
           {
             "id": 32006,
             "name": "Little Knight Amumu",
-            "description": null,
+            "description": "A diminutive knight whose heart is brave and true, Sir Amumu of Shurima wants only to see peace reign the land in his lifetime. Considering that he's an undying, mummified princeling, he'll probably succeed.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/32006.jpg",
@@ -5619,7 +5619,7 @@
           {
             "id": 36005,
             "name": "Executioner Mundo",
-            "description": null,
+            "description": "Mundo is a man of few words, only appearing in public after donning his infamous executioner's cowl. Where this mad giant came from, and what he wants, no one can say… but he loves to execute prisoners, and does so as he pleases.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/36005.jpg",
@@ -6971,7 +6971,7 @@
           {
             "id": 45001,
             "name": "White Mage Veigar",
-            "description": null,
+            "description": "A master of healing magic residing within an ancient cathedral, Veigar self-identifies as a dastardly archvillain rather than the pious cleric he clearly is. His magic has cured ailments and dispelled curses from across the land, much to his chagrin.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/45001.jpg",
@@ -7007,7 +7007,7 @@
           {
             "id": 45005,
             "name": "Baron Von Veigar",
-            "description": null,
+            "description": "Ruler of the New Bandle Republic, Veigar considers himself the ultimate dark power of the wasteland—an evil so great that no man, woman, or creature would ever dare challenge his authority. Recently, he fixed up a water purifier and an electric grid for the city, too. An electric grid… OF EVIL!",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/45005.jpg",
@@ -7016,7 +7016,7 @@
           {
             "id": 45006,
             "name": "Superb Villain Veigar",
-            "description": null,
+            "description": "The villainous Veigar is at it again! Reigning from the top floor of the Veigar Company skyscraper, the criminal mastermind hatches the vilest plans New Valoran has ever seen! Yet even when his schemes are foiled, he always escapes punishment, biding his time until his next chance to strike!",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/45006.jpg",
@@ -7722,7 +7722,7 @@
           {
             "id": 54005,
             "name": "Glacial Malphite",
-            "description": null,
+            "description": "That's no glacier…",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/54005.jpg",
@@ -8005,6 +8005,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/55010.jpg",
             "chromas": null
+          },
+          {
+            "id": 55012,
+            "name": "Battle Academia Katarina",
+            "description": "Katarina is a rough-edged loner who stays far away from the politics of Durandal Academy. A 2nd year student with a chip on her shoulder, she is also a top member of the Assassin Club—the only club on campus allowed to kill opponents in school-sanctioned duels. Few other students ever dare approach her.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/55012.jpg",
+            "chromas": [
+              {
+                "id": 55013,
+                "name": "Battle Academia Katarina",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 55014,
+                "name": "Battle Academia Katarina",
+                "description": "Loot exclusive gained during the 2019 Trials event.",
+                "colors": [
+                  "#111112",
+                  "#EAF1F4"
+                ]
+              },
+              {
+                "id": 55015,
+                "name": "Battle Academia Katarina",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 55016,
+                "name": "Battle Academia Katarina",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 55017,
+                "name": "Battle Academia Katarina",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 55018,
+                "name": "Battle Academia Katarina",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 55019,
+                "name": "Battle Academia Katarina",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 55020,
+                "name": "Battle Academia Katarina",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -8032,7 +8114,7 @@
           {
             "id": 56001,
             "name": "Frozen Terror Nocturne",
-            "description": null,
+            "description": "Somewhere, hidden beneath the enormous ice caps, lurks a demon fueled by the terror of those foolish enough to enter his domain.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/56001.jpg",
@@ -8627,7 +8709,7 @@
           {
             "id": 61001,
             "name": "Gothic Orianna",
-            "description": null,
+            "description": "Her father gave her the light of life—and yet, Orianna always preferred the dark.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/61001.jpg",
@@ -8817,7 +8899,7 @@
           {
             "id": 63001,
             "name": "Apocalyptic Brand",
-            "description": null,
+            "description": "Before the devastation of Runeterra, Kegan Rodhe was a search-and-rescue specialist deployed to active wildfire zones. When the bombs went off, the world vanished in the blink of an eye—and Rodhe along with it. All that was left was the empty wasteland… and a monstrous creature of living flame, calling itself Brand.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/63001.jpg",
@@ -8835,7 +8917,7 @@
           {
             "id": 63003,
             "name": "Cryocore Brand",
-            "description": null,
+            "description": "An elite soldier of a military wetworks unit, Kegan Rodhe was left behind enemy lines deep in the frozen arctic! But instead of dying, Rodhe found himself captured by a cabal of evil scientists, whose brutal experiments transformed him into the diabolical villain Cryocore!",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/63003.jpg",
@@ -9626,7 +9708,7 @@
           {
             "id": 74002,
             "name": "Blast Zone Heimerdinger",
-            "description": null,
+            "description": "An eccentric scientist living in the New Bandle Republic, Heimerdinger has not yet told anyone he may have developed “a large pre-war bomb or two” for “one or more rogue governments”. He would prefer tinkering in a city that is not actively trying to kill him.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/74002.jpg",
@@ -10045,7 +10127,7 @@
           {
             "id": 78003,
             "name": "Blacksmith Poppy",
-            "description": null,
+            "description": "A famously gruff blacksmith working under the tutelage of Sir Ornn of the Freljord, Poppy wields a hammer imbued with a powerful magic that she believes is destined for the weapon for an unknown hero. Little does she know the hammer is the weapon, and the hero… is herself.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/78003.jpg",
@@ -10635,6 +10717,15 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/81020.jpg",
             "chromas": null
+          },
+          {
+            "id": 81021,
+            "name": "Battle Academia Ezreal",
+            "description": "A young orphan initially thought devoid of any superhuman abilities, Ezreal had resigned himself to a normal life once he graduated middle school. But an encounter with a deadly threat awakened his slumbering potential, and now he finds himself a 1st year at the prestigious Durandal God-Weapon Academy, where he's joined the ragtag Battle Club.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/81021.jpg",
+            "chromas": null
           }
         ]
       },
@@ -11019,7 +11110,7 @@
           {
             "id": 85004,
             "name": "Kennen M.D.",
-            "description": null,
+            "description": "Why run with scissors when you can throw scalpels?",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/85004.jpg",
@@ -11046,7 +11137,7 @@
           {
             "id": 85007,
             "name": "Super Kennen",
-            "description": null,
+            "description": "Coming to a store near you: the new Super Kennen action figure! At 6″ tall, the new Super Kennen is fully articulated, with dazzling lightning bolt action! Add this fitting tribute to New Valoran's bravest hero to your collection today!",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/85007.jpg",
@@ -12016,7 +12107,7 @@
           {
             "id": 98001,
             "name": "Frozen Shen",
-            "description": null,
+            "description": "Enduring the bitter cold, Shen roams the ice caps with his twin blades, hunting the terrifying demon hidden deep underneath.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/98001.jpg",
@@ -12034,7 +12125,7 @@
           {
             "id": 98003,
             "name": "Surgeon Shen",
-            "description": null,
+            "description": "Rest assured, anesthesia won't be part of the operation.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/98003.jpg",
@@ -12175,7 +12266,7 @@
           {
             "id": 99001,
             "name": "Sorceress Lux",
-            "description": null,
+            "description": "An aspiring mage from the Demacian Dukedom, Lux has traveled across the land in her quest to lighten the lives of the peasantry with magic. Though her efforts are often met with suspicion at first, tales of her 'miracles' are beginning to reach the ruling class of the Dukedom itself…",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/99001.jpg",
@@ -12297,6 +12388,24 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/99014.jpg",
+            "chromas": null
+          },
+          {
+            "id": 99015,
+            "name": "Battle Academia Lux",
+            "description": "A 1st year at the Durandal God-Weapon Academy, Lux maintains an upbeat attitude no matter the odds. Despite her freshman position in the Sorcery Club, Lux wields a tremendous amount of magical power that even the Academy's senior staff can't quite explain.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/99015.jpg",
+            "chromas": null
+          },
+          {
+            "id": 99016,
+            "name": "Battle Academia Lux Prestige Edition",
+            "description": "A 1st year at the Durandal God-Weapon Academy, Lux maintains an upbeat attitude no matter the odds. Despite her freshman position in the Sorcery Club, Lux wields a tremendous amount of magical power that even the Academy's senior staff can't quite explain.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/99016.jpg",
             "chromas": null
           }
         ]
@@ -12872,6 +12981,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 104025,
+            "name": "Battle Professor Graves",
+            "description": "Graves is a salty ex-soldier who served in the Durandal military before he reluctantly became a professor. Following his discovery of something deep behind enemy lines, he received an offer to teach at the Academy from the God-Weapon itself. His hallmark cigar-munching, dispassionate teaching etiquette is a small price to pay for his decades of experience.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/104025.jpg",
+            "chromas": [
+              {
+                "id": 104027,
+                "name": "Battle Professor Graves",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 104028,
+                "name": "Battle Professor Graves",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 104029,
+                "name": "Battle Professor Graves",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 104030,
+                "name": "Battle Professor Graves",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 104031,
+                "name": "Battle Professor Graves",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 104032,
+                "name": "Battle Professor Graves",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 104033,
+                "name": "Battle Professor Graves",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 104034,
+                "name": "Battle Professor Graves",
+                "description": "Loot exclusive gained during the 2019 Trials event.",
+                "colors": [
+                  "#111112",
+                  "#EAF1F4"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -12927,7 +13118,7 @@
           {
             "id": 105001,
             "name": "Atlantean Fizz",
-            "description": null,
+            "description": "“When I was very young, my grandfather told me stories of Atlantis—of their high temples and great undersea army, and their great General Fizz. Grandfather remembered it as it was, you see, and not the silent mausoleum it has become.”",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/105001.jpg",
@@ -15021,7 +15212,7 @@
           {
             "id": 122002,
             "name": "Bioforge Darius",
-            "description": null,
+            "description": "To save his own life after being exposed to a cloud of radioactive space gas, investment banker Donald D. Darius was forced to build a suit containing the strange mixture. But the chemicals from beyond the stars warped his weakened mind, twisting him into the brutal villain known as Bioforge!",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/122002.jpg",
@@ -15176,6 +15367,97 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/126004.jpg",
             "chromas": null
+          },
+          {
+            "id": 126005,
+            "name": "Battle Academia Jayce",
+            "description": "A prestigious 2nd year whose face is known throughout the wider city of Durandal, Jayce is the class president, head of the world-renowned Luminary Club, and prodigious inventor of miraculous Jayce-branded technologies. He hopes his inventions will prevent the kind of tragedy that struck him in his youth, though he refuses to speak about what that was.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/126005.jpg",
+            "chromas": [
+              {
+                "id": 126006,
+                "name": "Battle Academia Jayce",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 126007,
+                "name": "Battle Academia Jayce",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 126008,
+                "name": "Battle Academia Jayce",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 126009,
+                "name": "Battle Academia Jayce",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 126010,
+                "name": "Battle Academia Jayce",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 126011,
+                "name": "Battle Academia Jayce",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 126012,
+                "name": "Battle Academia Jayce",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 126013,
+                "name": "Battle Academia Jayce",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 126014,
+                "name": "Battle Academia Jayce",
+                "description": "Loot exclusive gained during the 2019 Trials event.",
+                "colors": [
+                  "#111112",
+                  "#EAF1F4"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -15503,7 +15785,7 @@
           {
             "id": 133001,
             "name": "Phoenix Quinn",
-            "description": null,
+            "description": "The daring duo Quinn and the phoenix Valor are always near when crime is afoot! Combining their legendary powers, they clean up the streets of New Valoran with a well-placed arrows and the burning flames of justice!",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/133001.jpg",
@@ -15571,7 +15853,7 @@
           {
             "id": 134002,
             "name": "Atlantean Syndra",
-            "description": null,
+            "description": "“The Atlanteans were skilled in magic, we know that much is true. But the extent of their power is truly unfathomable… to this day we cannot know if they persist in some forgotten corner of the world, reanimated by whatever dark thing has taken their once-proud city.”",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/134002.jpg",
@@ -17502,7 +17784,7 @@
           {
             "id": 240001,
             "name": "Sir Kled",
-            "description": null,
+            "description": "Sir Prince Chevalier Archduke Lord Double-Earl Kled (or Sir Kled, for short) is a half-mad knight from the aptly named Kingdom of Kled, which contains exactly two subjects: Kled, and his cowardly avian mount, Skarl. Together, the pair ravage the countryside to 'reclaim' Kled's 'land', which apparently is… all land, everywhere.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/240001.jpg",
@@ -18260,6 +18542,120 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/268004.jpg",
             "chromas": null
+          }
+        ]
+      },
+      {
+        "id": 350,
+        "name": "Yuumi",
+        "alias": "Yuumi",
+        "title": "the Magical Cat",
+        "shortBio": "A magical cat from Bandle City, Yuumi was once the familiar of a yordle enchantress, Norra. When her master mysteriously disappeared, Yuumi became the Keeper of Norra's sentient Book of Thresholds, traveling through portals in its pages to search for her. Yearning for affection, Yuumi seeks friendly companions to partner with on her journey, protecting them with luminous shields and fierce resolve. While Book strives to keep her on task, Yuumi is often drawn to worldly comforts, such as naps and fish. In the end, however, she always returns to her quest to find her friend.",
+        "squarePortraitPath": "/assets/champions/portraits/350.png",
+        "roles": [
+          "support",
+          "mage"
+        ],
+        "skins": [
+          {
+            "id": 350000,
+            "name": "Yuumi (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/350000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 350001,
+            "name": "Battle Principal Yuumi",
+            "description": "Following the disappearance of two principals, Yuumi has stepped in as the acting head of Durandal Academy until either individual can be found and re-instated. As a powerful channeler of magic, she uses the academic registry book as a focus object to generate apocalyptic levels of energy… often while perched on a terrified student's head.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/350001.jpg",
+            "chromas": [
+              {
+                "id": 350002,
+                "name": "Battle Principal Yuumi",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 350003,
+                "name": "Battle Principal Yuumi",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 350004,
+                "name": "Battle Principal Yuumi",
+                "description": null,
+                "colors": [
+                  "#85827F",
+                  "#85827F"
+                ]
+              },
+              {
+                "id": 350005,
+                "name": "Battle Principal Yuumi",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 350006,
+                "name": "Battle Principal Yuumi",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 350007,
+                "name": "Battle Principal Yuumi",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 350008,
+                "name": "Battle Principal Yuumi",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 350009,
+                "name": "Battle Principal Yuumi",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 350010,
+                "name": "Battle Principal Yuumi",
+                "description": "Loot exclusive gained during the 2019 Trials event.",
+                "colors": [
+                  "#111112",
+                  "#EAF1F4"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -35628,6 +36024,116 @@
         "imagePath": "/assets/icons/4097.jpg"
       },
       {
+        "id": 4098,
+        "title": "Battle Academia Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4098.jpg"
+      },
+      {
+        "id": 4099,
+        "title": "Battle Academia Ezreal Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4099.jpg"
+      },
+      {
+        "id": 4100,
+        "title": "Battle Academia Lux Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4100.jpg"
+      },
+      {
+        "id": 4101,
+        "title": "Battle Academia Jayce Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4101.jpg"
+      },
+      {
+        "id": 4102,
+        "title": "Battle Professor Graves Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4102.jpg"
+      },
+      {
+        "id": 4103,
+        "title": "Battle Principal Yuumi Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4103.jpg"
+      },
+      {
+        "id": 4104,
+        "title": "Battle Academia Katarina Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4104.jpg"
+      },
+      {
+        "id": 4105,
+        "title": "Battle Academia Formal Jayce Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4105.jpg"
+      },
+      {
+        "id": 4106,
+        "title": "Battle Academia Formal Graves Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4106.jpg"
+      },
+      {
+        "id": 4107,
+        "title": "Battle Academia Formal Yuumi Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4107.jpg"
+      },
+      {
+        "id": 4108,
+        "title": "Battle Academia Formal Katarina Icon",
+        "description": "This icon was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4108.jpg"
+      },
+      {
         "id": 4153,
         "title": "LEC G2 Esports",
         "description": null,
@@ -41899,6 +42405,16 @@
         "imagePath": "/assets/wards/135.png"
       },
       {
+        "id": 136,
+        "name": "Battle Academia Durandal Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": "Battle Acadamia",
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/136.png"
+      },
+      {
         "id": 137,
         "name": "Championship Hot Dog Ward",
         "defaultDescription": null,
@@ -41907,6 +42423,16 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/wards/137.png"
+      },
+      {
+        "id": 138,
+        "name": "Battle Academia Desk Ward",
+        "defaultDescription": null,
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Battle Acadamia",
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/138.png"
       }
     ],
     "emotes": [
@@ -43987,6 +44513,30 @@
         "imagePath": "/assets/emotes/3202.png"
       },
       {
+        "id": 3203,
+        "name": "Hype Pengu Blue",
+        "description": null,
+        "imagePath": "/assets/emotes/3203.png"
+      },
+      {
+        "id": 3204,
+        "name": "Hype Pengu Red",
+        "description": null,
+        "imagePath": "/assets/emotes/3204.png"
+      },
+      {
+        "id": 3205,
+        "name": "Hype Pengu Purple",
+        "description": null,
+        "imagePath": "/assets/emotes/3205.png"
+      },
+      {
+        "id": 3206,
+        "name": "Hype Pengu Orange",
+        "description": null,
+        "imagePath": "/assets/emotes/3206.png"
+      },
+      {
         "id": 3207,
         "name": "OMG I love it",
         "description": "Rainbow",
@@ -44327,6 +44877,66 @@
         "name": "The Warband",
         "description": null,
         "imagePath": "/assets/emotes/3263.png"
+      },
+      {
+        "id": 3264,
+        "name": "The Golden Council",
+        "description": null,
+        "imagePath": "/assets/emotes/3264.png"
+      },
+      {
+        "id": 3265,
+        "name": "The Golden United",
+        "description": null,
+        "imagePath": "/assets/emotes/3265.png"
+      },
+      {
+        "id": 3266,
+        "name": "The Golden Faceless",
+        "description": null,
+        "imagePath": "/assets/emotes/3266.png"
+      },
+      {
+        "id": 3267,
+        "name": "The Golden Warband",
+        "description": null,
+        "imagePath": "/assets/emotes/3267.png"
+      },
+      {
+        "id": 3268,
+        "name": "B-baka!",
+        "description": null,
+        "imagePath": "/assets/emotes/3268.png"
+      },
+      {
+        "id": 3269,
+        "name": "All for you",
+        "description": null,
+        "imagePath": "/assets/emotes/3269.png"
+      },
+      {
+        "id": 3270,
+        "name": "Never Again",
+        "description": "Never Again",
+        "imagePath": "/assets/emotes/3270.png"
+      },
+      {
+        "id": 3271,
+        "name": "What the Bread?",
+        "description": "What the Bread?",
+        "imagePath": "/assets/emotes/3271.png"
+      },
+      {
+        "id": 3272,
+        "name": "Dislike",
+        "description": "Dislike",
+        "imagePath": "/assets/emotes/3272.png"
+      },
+      {
+        "id": 3273,
+        "name": "It me",
+        "description": "It me",
+        "imagePath": "/assets/emotes/3273.png"
       },
       {
         "id": 4,
