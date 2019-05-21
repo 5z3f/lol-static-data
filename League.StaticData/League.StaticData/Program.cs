@@ -153,7 +153,7 @@ namespace Riot.StaticData
 
                 for (int j = 0; j < championAdditionalInfo["champions"].Count; j++)
                 {
-                    if (championAdditionalInfo["champions"][j]["slug"] == championData["alias"])
+                    if (championAdditionalInfo["champions"][j]["slug"] == Convert.ToString(championData["alias"]).ToLower())
                     {
                         ExportData.champions[i].releaseDate = championAdditionalInfo["champions"][j]["release-date"];
                         ExportData.champions[i].associatedFactionSlug = championAdditionalInfo["champions"][j]["associated-faction-slug"];
