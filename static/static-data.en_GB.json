@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.10.274.6044",
+  "version": "9.11.276.1040",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -11,10 +11,10 @@
   ],
   "info": {
     "champions": 144,
-    "skins": 944,
-    "chromas": 865,
-    "icons": 2142,
-    "emotes": 423,
+    "skins": 945,
+    "chromas": 873,
+    "icons": 2205,
+    "emotes": 448,
     "wards": 139
   },
   "data": {
@@ -356,7 +356,7 @@
           {
             "id": 3004,
             "name": "Gatekeeper Galio",
-            "description": null,
+            "description": "One of the great dukes of Hell, Galio stands before his kingdom's black gates as the judge of all sinners, casting souls into their proper torments. Attempting to invoke him generally ends in tragedy, as he's several hundred feet tall and refuses to shrink in the service of mortals.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/3004.jpg",
@@ -3196,6 +3196,88 @@
                 "colors": [
                   "#2756CE",
                   "#2756CE"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18024,
+            "name": "Little Demon Tristana",
+            "description": "A witch who is now one of the great queens of Hell, Tristana commands a vast army of lesser demons and rules the twin Aspects of Ruin and Woe. Mortals attempting to invoke her will find a variety of tempting contracts, but signers beware: Tristana's ultimate goal is bathing her signatories—as well as the world—in hellfire.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/18024.jpg",
+            "chromas": [
+              {
+                "id": 18025,
+                "name": "Little Demon Tristana",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 18026,
+                "name": "Little Demon Tristana",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 18027,
+                "name": "Little Demon Tristana",
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 18028,
+                "name": "Little Demon Tristana",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 18029,
+                "name": "Little Demon Tristana",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 18030,
+                "name": "Little Demon Tristana",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 18031,
+                "name": "Little Demon Tristana",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 18032,
+                "name": "Little Demon Tristana",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
                 ]
               }
             ]
@@ -6176,7 +6258,7 @@
           {
             "id": 39015,
             "name": "iG Irelia",
-            "description": "Honoring Duke's winning performance as Irelia during the 2018 World Championship.",
+            "description": "Honoring Duke's winning performance as Irelia during the 2018 World Championship. This is Duke's second World Champion skin, following his win with SKT at the 2016 World Championship.",
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/39015.jpg",
@@ -10879,7 +10961,7 @@
         "alias": "Mordekaiser",
         "title": "the Iron Revenant",
         "releaseDate": "2010-02-24",
-        "associatedFactionSlug": "shadow-isles",
+        "associatedFactionSlug": "noxus",
         "shortBio": "The baleful revenant Mordekaiser is among the most terrifying and hateful spirits haunting the Shadow Isles. He has existed for countless centuries, shielded from true death by necromantic sorcery and the force of his own dark will. Those who dare face Mordekaiser in battle risk a horrific curse: He enslaves his victims' souls to become instruments of destruction.",
         "squarePortraitPath": "/assets/champions/portraits/82.png",
         "roles": [
@@ -12570,7 +12652,7 @@
           {
             "id": 99016,
             "name": "Battle Academia Lux Prestige Edition",
-            "description": "A 1st year at the Durandal God-Weapon Academy, Lux maintains an upbeat attitude no matter the odds. Despite her freshman position in the Sorcery Club, Lux wields a tremendous amount of magical power that even the Academy's senior staff can't quite explain.",
+            "description": "Now in her second year at Durandal Academy, Lux has been hardened by the harrowing trials, losses, and betrayals that punctuated her freshman experience. Following the climactic clash with a certain Rogue God-Weapon, Lux has mastered her powers and risen to take her place as head of the Sorcery Club, as well as the new class president.",
             "rarity": "kMythic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/99016.jpg",
@@ -18396,7 +18478,7 @@
           {
             "id": 254004,
             "name": "Demon Vi",
-            "description": null,
+            "description": "One of the great generals of Hell, Vi brutalizes the tormented with acts of martial savagery, arbitrarily raining lazy blows upon the damned. Invoking her in the mortal realm must be done cautiously, as she responds only to a worthy opponent… and only for so long.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/254004.jpg",
@@ -36132,6 +36214,156 @@
         "imagePath": "/assets/icons/4064.jpg"
       },
       {
+        "id": 4065,
+        "title": "Pyke Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4065.jpg"
+      },
+      {
+        "id": 4066,
+        "title": "Graves Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4066.jpg"
+      },
+      {
+        "id": 4067,
+        "title": "Illaoi Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4067.jpg"
+      },
+      {
+        "id": 4068,
+        "title": "Nautilus Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4068.jpg"
+      },
+      {
+        "id": 4069,
+        "title": "Tahm Kench Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4069.jpg"
+      },
+      {
+        "id": 4070,
+        "title": "Akali Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4070.jpg"
+      },
+      {
+        "id": 4071,
+        "title": "Lee Sin Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4071.jpg"
+      },
+      {
+        "id": 4072,
+        "title": "Ahri Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4072.jpg"
+      },
+      {
+        "id": 4073,
+        "title": "Yasuo Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4073.jpg"
+      },
+      {
+        "id": 4074,
+        "title": "Irelia Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4074.jpg"
+      },
+      {
+        "id": 4075,
+        "title": "Darius Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4075.jpg"
+      },
+      {
+        "id": 4076,
+        "title": "Draven Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4076.jpg"
+      },
+      {
+        "id": 4077,
+        "title": "Riven Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4077.jpg"
+      },
+      {
+        "id": 4078,
+        "title": "Sion Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4078.jpg"
+      },
+      {
+        "id": 4079,
+        "title": "Swain Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Champies",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/icons/4079.jpg"
+      },
+      {
         "id": 4080,
         "title": "Bilgewater 2019 Icon",
         "description": "This icon was rewarded for completing the Bilgewater 2019 missions.",
@@ -36315,7 +36547,7 @@
         "id": 4098,
         "title": "Battle Academia Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -36325,7 +36557,7 @@
         "id": 4099,
         "title": "Battle Academia Ezreal Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -36335,7 +36567,7 @@
         "id": 4100,
         "title": "Battle Academia Lux Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -36345,7 +36577,7 @@
         "id": 4101,
         "title": "Battle Academia Jayce Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -36355,7 +36587,7 @@
         "id": 4102,
         "title": "Battle Professor Graves Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -36365,7 +36597,7 @@
         "id": 4103,
         "title": "Battle Principal Yuumi Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -36375,7 +36607,7 @@
         "id": 4104,
         "title": "Battle Academia Katarina Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -36385,7 +36617,7 @@
         "id": 4105,
         "title": "Battle Academia Formal Jayce Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -36395,7 +36627,7 @@
         "id": 4106,
         "title": "Battle Academia Formal Graves Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -36405,7 +36637,7 @@
         "id": 4107,
         "title": "Battle Academia Formal Yuumi Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -36422,6 +36654,446 @@
         "imagePath": "/assets/icons/4108.jpg"
       },
       {
+        "id": 4109,
+        "title": "2019 TSM Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the TSM 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4109.jpg"
+      },
+      {
+        "id": 4110,
+        "title": "2019 TSM Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the TSM 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4110.jpg"
+      },
+      {
+        "id": 4111,
+        "title": "2019 Echo Fox Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Echo Fox 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4111.jpg"
+      },
+      {
+        "id": 4112,
+        "title": "2019 Echo Fox Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Echo Fox 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4112.jpg"
+      },
+      {
+        "id": 4113,
+        "title": "2019 100 Thieves Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the 100 Thieves 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4113.jpg"
+      },
+      {
+        "id": 4114,
+        "title": "2019 100 Thieves Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the 100 Thieves 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4114.jpg"
+      },
+      {
+        "id": 4115,
+        "title": "2019 Cloud9 Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Cloud9 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4115.jpg"
+      },
+      {
+        "id": 4116,
+        "title": "2019 Cloud9 Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Cloud9 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4116.jpg"
+      },
+      {
+        "id": 4117,
+        "title": "2019 CLG Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the CLG 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4117.jpg"
+      },
+      {
+        "id": 4118,
+        "title": "2019 CLG Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the CLG 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4118.jpg"
+      },
+      {
+        "id": 4119,
+        "title": "2019 Team Liquid Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Team Liquid 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4119.jpg"
+      },
+      {
+        "id": 4120,
+        "title": "2019 Team Liquid Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Team Liquid 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4120.jpg"
+      },
+      {
+        "id": 4121,
+        "title": "2019 OpTic Gaming Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the OpTic Gaming 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4121.jpg"
+      },
+      {
+        "id": 4122,
+        "title": "2019 OpTic Gaming Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the OpTic Gaming 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4122.jpg"
+      },
+      {
+        "id": 4123,
+        "title": "2019 Golden Guardians Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Golden Guardians 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4123.jpg"
+      },
+      {
+        "id": 4124,
+        "title": "2019 Golden Guardians Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Golden Guardians 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4124.jpg"
+      },
+      {
+        "id": 4125,
+        "title": "2019 FlyQuest Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the FlyQuest 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4125.jpg"
+      },
+      {
+        "id": 4126,
+        "title": "2019 FlyQuest Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the FlyQuest 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4126.jpg"
+      },
+      {
+        "id": 4127,
+        "title": "2019 Clutch Gaming Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Clutch Gaming 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4127.jpg"
+      },
+      {
+        "id": 4128,
+        "title": "2019 Clutch Gaming Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Clutch Gaming 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4128.jpg"
+      },
+      {
+        "id": 4129,
+        "title": "2019 Excel Esports Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Excel Esports 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4129.jpg"
+      },
+      {
+        "id": 4130,
+        "title": "2019 Excel Esports Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Excel Esports 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4130.jpg"
+      },
+      {
+        "id": 4131,
+        "title": "2019 Fnatic Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Fnatic 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4131.jpg"
+      },
+      {
+        "id": 4132,
+        "title": "2019 Fnatic Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Fnatic 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4132.jpg"
+      },
+      {
+        "id": 4133,
+        "title": "2019 G2 Esports Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the G2 Esports 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4133.jpg"
+      },
+      {
+        "id": 4134,
+        "title": "2019 G2 Esports Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the G2 Esports 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4134.jpg"
+      },
+      {
+        "id": 4135,
+        "title": "2019 Misfits Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Misfits 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4135.jpg"
+      },
+      {
+        "id": 4136,
+        "title": "2019 Misfits Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Misfits 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4136.jpg"
+      },
+      {
+        "id": 4137,
+        "title": "2019 Origen Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Origen 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4137.jpg"
+      },
+      {
+        "id": 4138,
+        "title": "2019 Origen Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Origen 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4138.jpg"
+      },
+      {
+        "id": 4139,
+        "title": "2019 Rogue Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Rogue 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4139.jpg"
+      },
+      {
+        "id": 4140,
+        "title": "2019 Rogue Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Rogue 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4140.jpg"
+      },
+      {
+        "id": 4141,
+        "title": "2019 Schalke 04 Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Schalke 04 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4141.jpg"
+      },
+      {
+        "id": 4142,
+        "title": "2019 Schalke 04 Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Schalke 04 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4142.jpg"
+      },
+      {
+        "id": 4143,
+        "title": "2019 SK Gaming Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the SK Gaming 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4143.jpg"
+      },
+      {
+        "id": 4144,
+        "title": "2019 SK Gaming Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the SK Gaming 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4144.jpg"
+      },
+      {
+        "id": 4145,
+        "title": "2019 Splyce Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Splyce 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4145.jpg"
+      },
+      {
+        "id": 4146,
+        "title": "2019 Splyce Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Splyce 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4146.jpg"
+      },
+      {
+        "id": 4147,
+        "title": "2019 Vitality Level 1 Icon",
+        "description": "Unlocked by reaching Level 1 in the Vitality 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4147.jpg"
+      },
+      {
+        "id": 4148,
+        "title": "2019 Vitality Level 2 Icon",
+        "description": "Unlocked by reaching Level 2 in the Vitality 2019 Summer Team Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4148.jpg"
+      },
+      {
+        "id": 4149,
+        "title": "Pro Poro Icon",
+        "description": "Unlocked by reaching Level 1 in the 2019 Summer Fan Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4149.jpg"
+      },
+      {
+        "id": 4150,
+        "title": "Scr-eemo Icon",
+        "description": "Unlocked by reaching Level 2 in the 2019 Summer Fan Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4150.jpg"
+      },
+      {
+        "id": 4151,
+        "title": "Cheering Pengu Icon",
+        "description": "Unlocked by reaching Level 1 in the 2019 Summer Esports Watch Missions",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4151.jpg"
+      },
+      {
+        "id": 4152,
+        "title": "Fan Club Icon",
+        "description": "Unlocked by reaching Level 2 in the 2019 Summer Esports Watch Missions",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4152.jpg"
+      },
+      {
         "id": 4153,
         "title": "LEC G2 Esports",
         "description": null,
@@ -36430,6 +37102,46 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4153.jpg"
+      },
+      {
+        "id": 4154,
+        "title": "Little Demon Tristana Icon",
+        "description": "Granted to players who voted in the 2019 Player's Choice Tristana poll.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4154.jpg"
+      },
+      {
+        "id": 4155,
+        "title": "Dragon Boat Poro Icon",
+        "description": "This icon was released in the store for purchase in 2019, and was also available as a mission reward during the Sweet and Savory versus event. ",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4155.jpg"
+      },
+      {
+        "id": 4156,
+        "title": "Savory Rice Dumpling Poro Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4156.jpg"
+      },
+      {
+        "id": 4157,
+        "title": "Sweet Rice Dumpling Poro Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4157.jpg"
       },
       {
         "id": 4,
@@ -41337,7 +42049,7 @@
         "id": 0,
         "name": "Default Ward",
         "defaultDescription": "Base Ward Skin",
-        "description": "This icon was released in the store for purchase in 2019.",
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
         "set": "Starter Pack",
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -42696,7 +43408,7 @@
         "id": 136,
         "name": "Battle Academia Durandal Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was released in the store for purchase during the 2019 Trials event.",
         "set": "Battle Acadamia",
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -42716,7 +43428,7 @@
         "id": 138,
         "name": "Battle Academia Desk Ward",
         "defaultDescription": null,
-        "description": "This icon was released in the store for purchase in 2019.",
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
         "set": "Battle Acadamia",
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -45225,6 +45937,156 @@
         "name": "It me",
         "description": "It me",
         "imagePath": "/assets/emotes/3273.png"
+      },
+      {
+        "id": 3274,
+        "name": "My Word",
+        "description": null,
+        "imagePath": "/assets/emotes/3274.png"
+      },
+      {
+        "id": 3275,
+        "name": "OH BOY",
+        "description": null,
+        "imagePath": "/assets/emotes/3275.png"
+      },
+      {
+        "id": 3276,
+        "name": "Me-ow",
+        "description": null,
+        "imagePath": "/assets/emotes/3276.png"
+      },
+      {
+        "id": 3280,
+        "name": "GOlaf",
+        "description": null,
+        "imagePath": "/assets/emotes/3280.png"
+      },
+      {
+        "id": 3281,
+        "name": "Number One Fan",
+        "description": null,
+        "imagePath": "/assets/emotes/3281.png"
+      },
+      {
+        "id": 3282,
+        "name": "2019 TSM",
+        "description": null,
+        "imagePath": "/assets/emotes/3282.png"
+      },
+      {
+        "id": 3283,
+        "name": "2019 Team Liquid",
+        "description": null,
+        "imagePath": "/assets/emotes/3283.png"
+      },
+      {
+        "id": 3284,
+        "name": "2019 OpTic Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3284.png"
+      },
+      {
+        "id": 3285,
+        "name": "2019 100 Thieves",
+        "description": null,
+        "imagePath": "/assets/emotes/3285.png"
+      },
+      {
+        "id": 3286,
+        "name": "2019 CLG",
+        "description": null,
+        "imagePath": "/assets/emotes/3286.png"
+      },
+      {
+        "id": 3287,
+        "name": "2019 Clutch Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3287.png"
+      },
+      {
+        "id": 3288,
+        "name": "2019 Cloud9",
+        "description": null,
+        "imagePath": "/assets/emotes/3288.png"
+      },
+      {
+        "id": 3289,
+        "name": "2019 Echo Fox",
+        "description": null,
+        "imagePath": "/assets/emotes/3289.png"
+      },
+      {
+        "id": 3290,
+        "name": "2019 FlyQuest",
+        "description": null,
+        "imagePath": "/assets/emotes/3290.png"
+      },
+      {
+        "id": 3291,
+        "name": "2019 Golden Guardians",
+        "description": null,
+        "imagePath": "/assets/emotes/3291.png"
+      },
+      {
+        "id": 3292,
+        "name": "2019 Fnatic",
+        "description": null,
+        "imagePath": "/assets/emotes/3292.png"
+      },
+      {
+        "id": 3293,
+        "name": "2019 G2 Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3293.png"
+      },
+      {
+        "id": 3294,
+        "name": "2019 Misfits",
+        "description": null,
+        "imagePath": "/assets/emotes/3294.png"
+      },
+      {
+        "id": 3295,
+        "name": "2019 Origen",
+        "description": null,
+        "imagePath": "/assets/emotes/3295.png"
+      },
+      {
+        "id": 3296,
+        "name": "2019 Rogue",
+        "description": null,
+        "imagePath": "/assets/emotes/3296.png"
+      },
+      {
+        "id": 3297,
+        "name": "2019 Schalke 04",
+        "description": null,
+        "imagePath": "/assets/emotes/3297.png"
+      },
+      {
+        "id": 3298,
+        "name": "2019 SK Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3298.png"
+      },
+      {
+        "id": 3299,
+        "name": "2019 Splyce",
+        "description": null,
+        "imagePath": "/assets/emotes/3299.png"
+      },
+      {
+        "id": 3300,
+        "name": "2019 Vitality",
+        "description": null,
+        "imagePath": "/assets/emotes/3300.png"
+      },
+      {
+        "id": 3301,
+        "name": "2019 Excel Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3301.png"
       },
       {
         "id": 4,
