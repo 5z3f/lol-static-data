@@ -47,7 +47,9 @@ namespace Riot.StaticData
             Console.WriteLine($"\tSearching for LeagueClient...\t\t\t\t\tFOUND\n\t---");
             string LeagueExecutablePath = pGame.MainModule.FileName;
 
-            string LeagueRootDir = Path.GetFullPath(Path.Combine(LeagueExecutablePath, @"..\..\..\..\..\..\..\"));
+            string LeagueRootDir = LeagueExecutablePath.Contains("RADS") 
+                ? Path.GetFullPath(Path.Combine(LeagueExecutablePath, @"..\..\..\..\..\..\..\")) : Path.GetDirectoryName(LeagueExecutablePath);
+
             string[] lockFileData = null;
 
             using (FileStream fileStream = File.Open(LeagueRootDir + "/lockfile", FileMode.Open, FileAccess.Read, FileShare.ReadWrite))

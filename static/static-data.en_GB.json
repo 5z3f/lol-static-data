@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.11.276.1040",
+  "version": "9.12.277.6038",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -11,11 +11,11 @@
   ],
   "info": {
     "champions": 144,
-    "skins": 945,
-    "chromas": 873,
-    "icons": 2205,
-    "emotes": 448,
-    "wards": 139
+    "skins": 948,
+    "chromas": 891,
+    "icons": 2240,
+    "emotes": 464,
+    "wards": 186
   },
   "data": {
     "champions": [
@@ -5708,6 +5708,70 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/35007.jpg",
             "chromas": null
+          },
+          {
+            "id": 35008,
+            "name": "Dark Star Shaco",
+            "description": "Shaco was once a region of space known for raucous celebration, wiped clean by the Dark Star and reborn into the mocking visage of a jester. His twisted cackling reaches inhabited systems long before he does, provoking visions of destruction, and societal breakdowns that will soon feed his endless hunger.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/35008.jpg",
+            "chromas": [
+              {
+                "id": 35009,
+                "name": "Dark Star Shaco",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 35010,
+                "name": "Dark Star Shaco",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 35011,
+                "name": "Dark Star Shaco",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 35012,
+                "name": "Dark Star Shaco",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 35013,
+                "name": "Dark Star Shaco",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 35014,
+                "name": "Dark Star Shaco",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -7014,6 +7078,88 @@
                 "colors": [
                   "#FFC948",
                   "#FFC948"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 43008,
+            "name": "Dark Star Karma",
+            "description": "Karma was a galaxy-spanning civilization dedicated to pacifism and personal enlightenment, unceremoniously erased from reality and reborn as a star-consuming horror. Devouring entire galactic systems, she enforces a dread order upon the cosmos, meditating in the vast oceans of emptiness where once there were stars.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/43008.jpg",
+            "chromas": [
+              {
+                "id": 43011,
+                "name": "Dark Star Karma",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 43012,
+                "name": "Dark Star Karma",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
+                ]
+              },
+              {
+                "id": 43013,
+                "name": "Dark Star Karma",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 43014,
+                "name": "Dark Star Karma",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 43015,
+                "name": "Dark Star Karma",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 43016,
+                "name": "Dark Star Karma",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 43017,
+                "name": "Dark Star Karma",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 43018,
+                "name": "Dark Star Karma",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
                 ]
               }
             ]
@@ -10962,7 +11108,7 @@
         "title": "the Iron Revenant",
         "releaseDate": "2010-02-24",
         "associatedFactionSlug": "noxus",
-        "shortBio": "The baleful revenant Mordekaiser is among the most terrifying and hateful spirits haunting the Shadow Isles. He has existed for countless centuries, shielded from true death by necromantic sorcery and the force of his own dark will. Those who dare face Mordekaiser in battle risk a horrific curse: He enslaves his victims' souls to become instruments of destruction.",
+        "shortBio": "Twice slain and thrice born, Mordekaiser is a brutal warlord from a foregone epoch who uses his necromantic sorcery to bind souls into an eternity of servitude. Few now remain who remember his earlier conquests, or know the true extent of his powers—but there are some ancient souls that do, and they fear the day when he may return to claim dominion over both the living and the dead.",
         "squarePortraitPath": "/assets/champions/portraits/82.png",
         "roles": [
           "fighter"
@@ -11007,7 +11153,7 @@
           {
             "id": 82004,
             "name": "Lord Mordekaiser",
-            "description": null,
+            "description": "Some of Mordekaiser's party complain that the Dark Paladin class is horribly overpowered and should be banned, despite its official inclusion in the latest Riftquest expansion. The rest of them are still waiting to discover the Dark Paladin's secret, redeeming, tragic backstory—but all they've been getting is a lot of murder instead.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/82004.jpg",
@@ -17331,6 +17477,42 @@
                   "#ECF9F8",
                   "#ECF9F8"
                 ]
+              },
+              {
+                "id": 201020,
+                "name": "Dragonslayer Braum",
+                "description": "Obtained by completing missions via the purchasable Fan Pass. Only available in BR, LATAM, OC, TR, and JP regions.",
+                "colors": [
+                  "#D33528",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 201021,
+                "name": "Dragonslayer Braum",
+                "description": "Obtained by completing missions via the purchasable Team Pass. Only available in LCS and LEC regions.",
+                "colors": [
+                  "#DF6C0E",
+                  "#0DCADB"
+                ]
+              },
+              {
+                "id": 201022,
+                "name": "Dragonslayer Braum",
+                "description": "Obtained by completing missions via the purchasable Team Pass. Only available in LCS and LEC regions.",
+                "colors": [
+                  "#6ABBEE",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 201023,
+                "name": "Dragonslayer Braum",
+                "description": "This chroma is only available in LPL regions.",
+                "colors": [
+                  "#D33528",
+                  "#ECF9F8"
+                ]
               }
             ]
           },
@@ -17502,6 +17684,15 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/202004.jpg",
+            "chromas": null
+          },
+          {
+            "id": 202005,
+            "name": "Dark Cosmic Jhin",
+            "description": "Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now, his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/202005.jpg",
             "chromas": null
           }
         ]
@@ -37144,6 +37335,356 @@
         "imagePath": "/assets/icons/4157.jpg"
       },
       {
+        "id": 4161,
+        "title": "Dark Cosmic Jhin Icon",
+        "description": "This icon was acquired by purchasing one of the Dark Star bundles in 2019.",
+        "set": "Dark Star",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4161.jpg"
+      },
+      {
+        "id": 4162,
+        "title": "Dark Star Shaco Icon",
+        "description": "This icon was released in the store for purchase alongside the 2019 Dark Star skins.",
+        "set": "Dark Star",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4162.jpg"
+      },
+      {
+        "id": 4163,
+        "title": "Dark Star Karma Icon",
+        "description": "This icon was released in the store for purchase alongside the 2019 Dark Star skins.",
+        "set": "Dark Star",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4163.jpg"
+      },
+      {
+        "id": 4164,
+        "title": "2019 Bilibili Gaming Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4164.jpg"
+      },
+      {
+        "id": 4165,
+        "title": "2019 Bilibili Gaming Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4165.jpg"
+      },
+      {
+        "id": 4166,
+        "title": "2019 Dominus Esports Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4166.jpg"
+      },
+      {
+        "id": 4167,
+        "title": "2019 Dominus Esports Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4167.jpg"
+      },
+      {
+        "id": 4168,
+        "title": "2019 Edward Gaming Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4168.jpg"
+      },
+      {
+        "id": 4169,
+        "title": "2019 Edward Gaming Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4169.jpg"
+      },
+      {
+        "id": 4170,
+        "title": "2019 FunPlus Phoenix Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4170.jpg"
+      },
+      {
+        "id": 4171,
+        "title": "2019 FunPlus Phoenix Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4171.jpg"
+      },
+      {
+        "id": 4172,
+        "title": "2019 Invictus Gaming Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4172.jpg"
+      },
+      {
+        "id": 4173,
+        "title": "2019 Invictus Gaming Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4173.jpg"
+      },
+      {
+        "id": 4174,
+        "title": "2019 JD Gaming Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4174.jpg"
+      },
+      {
+        "id": 4175,
+        "title": "2019 JD Gaming Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4175.jpg"
+      },
+      {
+        "id": 4176,
+        "title": "2019 LGD Gaming Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4176.jpg"
+      },
+      {
+        "id": 4177,
+        "title": "2019 LGD Gaming Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4177.jpg"
+      },
+      {
+        "id": 4178,
+        "title": "2019 LNG Esports Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4178.jpg"
+      },
+      {
+        "id": 4179,
+        "title": "2019 LNG Esports Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4179.jpg"
+      },
+      {
+        "id": 4180,
+        "title": "2019 Oh My God Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4180.jpg"
+      },
+      {
+        "id": 4181,
+        "title": "2019 Oh My God Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4181.jpg"
+      },
+      {
+        "id": 4182,
+        "title": "2019 Royal Never Give Up Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4182.jpg"
+      },
+      {
+        "id": 4183,
+        "title": "2019 Royal Never Give Up Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4183.jpg"
+      },
+      {
+        "id": 4184,
+        "title": "2019 Rogue Warriors Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4184.jpg"
+      },
+      {
+        "id": 4185,
+        "title": "2019 Rogue Warriors Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4185.jpg"
+      },
+      {
+        "id": 4186,
+        "title": "2019 Suning Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4186.jpg"
+      },
+      {
+        "id": 4187,
+        "title": "2019 Suning Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4187.jpg"
+      },
+      {
+        "id": 4188,
+        "title": "2019 TOP Esports Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4188.jpg"
+      },
+      {
+        "id": 4189,
+        "title": "2019 TOP Esports Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4189.jpg"
+      },
+      {
+        "id": 4190,
+        "title": "2019 Victory Five Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4190.jpg"
+      },
+      {
+        "id": 4191,
+        "title": "2019 Victory Five Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4191.jpg"
+      },
+      {
+        "id": 4192,
+        "title": "2019 Vici Gaming Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4192.jpg"
+      },
+      {
+        "id": 4193,
+        "title": "2019 Vici Gaming Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4193.jpg"
+      },
+      {
+        "id": 4194,
+        "title": "2019 Team WE Level 1 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4194.jpg"
+      },
+      {
+        "id": 4195,
+        "title": "2019 Team WE Level 2 Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4195.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -43433,6 +43974,476 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/138.png"
+      },
+      {
+        "id": 140,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/140.png"
+      },
+      {
+        "id": 142,
+        "name": "TSM Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/142.png"
+      },
+      {
+        "id": 143,
+        "name": "Echo Fox Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/143.png"
+      },
+      {
+        "id": 144,
+        "name": "100 Thieves Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/144.png"
+      },
+      {
+        "id": 145,
+        "name": "Cloud9 Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/145.png"
+      },
+      {
+        "id": 146,
+        "name": "CLG Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/146.png"
+      },
+      {
+        "id": 147,
+        "name": "Team Liquid Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/147.png"
+      },
+      {
+        "id": 148,
+        "name": "Team OpTic Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/148.png"
+      },
+      {
+        "id": 149,
+        "name": "Golden Guardians Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/149.png"
+      },
+      {
+        "id": 150,
+        "name": "FlyQuest Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/150.png"
+      },
+      {
+        "id": 151,
+        "name": "Clutch Gaming Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/151.png"
+      },
+      {
+        "id": 152,
+        "name": "Excel Esports Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/152.png"
+      },
+      {
+        "id": 153,
+        "name": "Fnatic Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/153.png"
+      },
+      {
+        "id": 154,
+        "name": "G2 Esports Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/154.png"
+      },
+      {
+        "id": 155,
+        "name": "Misfits Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/155.png"
+      },
+      {
+        "id": 156,
+        "name": "Origen Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/156.png"
+      },
+      {
+        "id": 157,
+        "name": "Rogue Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/157.png"
+      },
+      {
+        "id": 158,
+        "name": "Schalke 04 Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/158.png"
+      },
+      {
+        "id": 159,
+        "name": "SK Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/159.png"
+      },
+      {
+        "id": 160,
+        "name": "Splyce Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/160.png"
+      },
+      {
+        "id": 161,
+        "name": "Vitality Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/161.png"
+      },
+      {
+        "id": 162,
+        "name": "Fan Pass Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/162.png"
+      },
+      {
+        "id": 163,
+        "name": "Bilibili Gaming Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/163.png"
+      },
+      {
+        "id": 164,
+        "name": "Dominus Esports Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/164.png"
+      },
+      {
+        "id": 165,
+        "name": "Edward Gaming Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/165.png"
+      },
+      {
+        "id": 166,
+        "name": "FunPlus Phoenix Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/166.png"
+      },
+      {
+        "id": 167,
+        "name": "Invictus Gaming Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/167.png"
+      },
+      {
+        "id": 168,
+        "name": "JD Gaming Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/168.png"
+      },
+      {
+        "id": 169,
+        "name": "LGD Gaming Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/169.png"
+      },
+      {
+        "id": 170,
+        "name": "LNG Esports Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/170.png"
+      },
+      {
+        "id": 171,
+        "name": "Oh My God Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/171.png"
+      },
+      {
+        "id": 172,
+        "name": "Royal Never Give Up Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/172.png"
+      },
+      {
+        "id": 173,
+        "name": "Rogue Warriors Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/173.png"
+      },
+      {
+        "id": 174,
+        "name": "Suning Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/174.png"
+      },
+      {
+        "id": 175,
+        "name": "TOP Esports Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/175.png"
+      },
+      {
+        "id": 176,
+        "name": "Victory Five Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/176.png"
+      },
+      {
+        "id": 177,
+        "name": "Vici Gaming Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/177.png"
+      },
+      {
+        "id": 178,
+        "name": "Team WE Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/178.png"
+      },
+      {
+        "id": 179,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/179.png"
+      },
+      {
+        "id": 180,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/180.png"
+      },
+      {
+        "id": 181,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/181.png"
+      },
+      {
+        "id": 182,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/182.png"
+      },
+      {
+        "id": 183,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/183.png"
+      },
+      {
+        "id": 184,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/184.png"
+      },
+      {
+        "id": 185,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/185.png"
+      },
+      {
+        "id": 186,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/186.png"
+      },
+      {
+        "id": 187,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/187.png"
       }
     ],
     "emotes": [
@@ -46087,6 +47098,102 @@
         "name": "2019 Excel Esports",
         "description": null,
         "imagePath": "/assets/emotes/3301.png"
+      },
+      {
+        "id": 3318,
+        "name": "2019 Bilibili Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3318.png"
+      },
+      {
+        "id": 3319,
+        "name": "2019 Dominus Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3319.png"
+      },
+      {
+        "id": 3320,
+        "name": "2019 Edward Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3320.png"
+      },
+      {
+        "id": 3321,
+        "name": "2019 FunPlus Phoenix",
+        "description": null,
+        "imagePath": "/assets/emotes/3321.png"
+      },
+      {
+        "id": 3322,
+        "name": "2019 Invictus Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3322.png"
+      },
+      {
+        "id": 3323,
+        "name": "2019 JD Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3323.png"
+      },
+      {
+        "id": 3324,
+        "name": "2019 LGD Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3324.png"
+      },
+      {
+        "id": 3325,
+        "name": "2019 LNG Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3325.png"
+      },
+      {
+        "id": 3326,
+        "name": "2019 Oh My God",
+        "description": null,
+        "imagePath": "/assets/emotes/3326.png"
+      },
+      {
+        "id": 3327,
+        "name": "2019 Royal Never Give Up",
+        "description": null,
+        "imagePath": "/assets/emotes/3327.png"
+      },
+      {
+        "id": 3328,
+        "name": "2019 Rogue Warriors",
+        "description": null,
+        "imagePath": "/assets/emotes/3328.png"
+      },
+      {
+        "id": 3329,
+        "name": "2019 Suning",
+        "description": null,
+        "imagePath": "/assets/emotes/3329.png"
+      },
+      {
+        "id": 3330,
+        "name": "2019 TOP Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3330.png"
+      },
+      {
+        "id": 3331,
+        "name": "2019 Victory Five",
+        "description": null,
+        "imagePath": "/assets/emotes/3331.png"
+      },
+      {
+        "id": 3332,
+        "name": "2019 Vici Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3332.png"
+      },
+      {
+        "id": 3333,
+        "name": "2019 Team WE",
+        "description": null,
+        "imagePath": "/assets/emotes/3333.png"
       },
       {
         "id": 4,
