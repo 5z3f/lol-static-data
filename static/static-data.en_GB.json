@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.12.277.6038",
+  "version": "9.13.279.7717",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -10,12 +10,12 @@
     "EMOTES"
   ],
   "info": {
-    "champions": 144,
-    "skins": 948,
-    "chromas": 891,
-    "icons": 2240,
-    "emotes": 464,
-    "wards": 186
+    "champions": 145,
+    "skins": 953,
+    "chromas": 917,
+    "icons": 2265,
+    "emotes": 468,
+    "wards": 187
   },
   "data": {
     "champions": [
@@ -3734,6 +3734,15 @@
                   "#B51717",
                   "#222DC8"
                 ]
+              },
+              {
+                "id": 21019,
+                "name": "Arcade Miss Fortune",
+                "description": "Loot exclusive gained during the 2019 Arcade event.",
+                "colors": [
+                  "#A5FFF8",
+                  "#D87BFF"
+                ]
               }
             ]
           },
@@ -6012,7 +6021,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/37005.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 37016,
+                "name": "Arcade Sona",
+                "description": "Loot exclusive gained during the 2019 Arcade event.",
+                "colors": [
+                  "#A5FFF8",
+                  "#D87BFF"
+                ]
+              }
+            ]
           },
           {
             "id": 37006,
@@ -7769,6 +7788,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 51019,
+            "name": "Arcade Caitlyn",
+            "description": "Acclaimed hero of the “Sniper Cop” rail shooter series, Caitlyn enforced the laws of Arcadia prior  to the Battle Boss uprising. She brings her sharp eye and eager trigger finger to the fight to save her world, only stopping briefly to turn her gun away from the screen for a reload.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/51019.jpg",
+            "chromas": null
+          },
+          {
+            "id": 51020,
+            "name": "Arcade Caitlyn Prestige Edition",
+            "description": "Appearing most recently in “Sniper Cop 7” as a golden-clad secret character, Caitlyn's popularity has finally transcended games as a medium.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/51020.jpg",
+            "chromas": null
           }
         ]
       },
@@ -7994,7 +8031,7 @@
         "alias": "Malphite",
         "title": "Shard of the Monolith",
         "releaseDate": "2009-09-02 ",
-        "associatedFactionSlug": "unaffiliated",
+        "associatedFactionSlug": "ixtal",
         "shortBio": "A massive creature of living stone, Malphite struggles to impose blessed order on a chaotic world. Birthed as a servitor-shard to an otherworldly obelisk known as the Monolith, he used his tremendous elemental strength to maintain and protect his progenitor, but ultimately failed. The only survivor of the destruction that followed, Malphite now endures Runeterra's soft folk and their fluid temperaments, while struggling to find a new role worthy of the last of his kind.",
         "squarePortraitPath": "/assets/champions/portraits/54.png",
         "roles": [
@@ -10278,7 +10315,7 @@
         "alias": "Nidalee",
         "title": "the Bestial Huntress",
         "releaseDate": "2009-12-17",
-        "associatedFactionSlug": "shurima",
+        "associatedFactionSlug": "ixtal",
         "shortBio": "Raised in the deepest jungle, Nidalee is a master tracker who can shapeshift into a ferocious cougar at will. Neither wholly woman nor beast, she viciously defends her territory from any and all trespassers, with carefully placed traps and deft spear throws. She cripples her quarry before pouncing on them in feline form—the lucky few who survive tell tales of a wild woman with razor-sharp instincts, and even sharper claws...",
         "squarePortraitPath": "/assets/champions/portraits/76.png",
         "roles": [
@@ -12247,7 +12284,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92006.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 92021,
+                "name": "Arcade Riven",
+                "description": "Loot exclusive gained during the 2019 Arcade event.",
+                "colors": [
+                  "#A5FFF8",
+                  "#D87BFF"
+                ]
+              }
+            ]
           },
           {
             "id": 92007,
@@ -13708,7 +13755,7 @@
         "alias": "Rengar",
         "title": "the Pridestalker",
         "releaseDate": "2012-08-21",
-        "associatedFactionSlug": "shurima",
+        "associatedFactionSlug": "ixtal",
         "shortBio": "Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha'Zix, the void creature who scratched out his eye. Rengar stalks his prey neither for food nor glory, but for the sheer beauty of the pursuit.",
         "squarePortraitPath": "/assets/champions/portraits/107.png",
         "roles": [
@@ -16592,7 +16639,7 @@
         "alias": "Zyra",
         "title": "Rise of the Thorns",
         "releaseDate": "2012-07-24",
-        "associatedFactionSlug": "shurima",
+        "associatedFactionSlug": "ixtal",
         "shortBio": "Born in an ancient, sorcerous catastrophe, Zyra is the wrath of nature given form—an alluring hybrid of plant and human, kindling new life with every step. She views the many mortals of Valoran as little more than prey for her seeded progeny, and thinks nothing of slaying them with flurries of deadly spines. Though her true purpose has not been revealed, Zyra wanders the world, indulging her most primal urges to colonize, and strangle all other life from it.",
         "squarePortraitPath": "/assets/champions/portraits/143.png",
         "roles": [
@@ -16777,6 +16824,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/145016.jpg",
             "chromas": null
+          },
+          {
+            "id": 145017,
+            "name": "Arcade Kai'Sa",
+            "description": "A bounty hunter and ex-soldier hailing from the hellish multidirectional shooter “PixelVoid II,” Kai'Sa was called back to the Arcadian theater after the Battle Bosses infected her game. As she is unmatched at killing screen-covering boss monsters with massive health pools, invading “PixelVoid II” may have been a severe miscalculation.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/145017.jpg",
+            "chromas": [
+              {
+                "id": 145018,
+                "name": "Arcade Kai'Sa",
+                "description": "Loot exclusive gained during the 2019 Arcade event.",
+                "colors": [
+                  "#A5FFF8",
+                  "#D87BFF"
+                ]
+              },
+              {
+                "id": 145019,
+                "name": "Arcade Kai'Sa",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 145020,
+                "name": "Arcade Kai'Sa",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 145021,
+                "name": "Arcade Kai'Sa",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 145022,
+                "name": "Arcade Kai'Sa",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 145023,
+                "name": "Arcade Kai'Sa",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 145024,
+                "name": "Arcade Kai'Sa",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 145025,
+                "name": "Arcade Kai'Sa",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -17177,6 +17306,88 @@
                 "colors": [
                   "#E58BA5",
                   "#E58BA5"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 157017,
+            "name": "Battle Boss Yasuo",
+            "description": "One-time protagonist of the 1979 cult classic “Hasagi,” Yasuo was infected with Veigar's malignant code after the Battle Boss takeover of Arcadia. He maintains his impossibly complex gameplay patterns and high-damage attacks, but now fights for the forces of evil.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/157017.jpg",
+            "chromas": [
+              {
+                "id": 157019,
+                "name": "Battle Boss Yasuo",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
+                ]
+              },
+              {
+                "id": 157020,
+                "name": "Battle Boss Yasuo",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 157021,
+                "name": "Battle Boss Yasuo",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 157022,
+                "name": "Battle Boss Yasuo",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 157023,
+                "name": "Battle Boss Yasuo",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 157024,
+                "name": "Battle Boss Yasuo",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 157025,
+                "name": "Battle Boss Yasuo",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 157026,
+                "name": "Battle Boss Yasuo",
+                "description": "Loot exclusive gained during the 2019 Arcade event.",
+                "colors": [
+                  "#A5FFF8",
+                  "#D87BFF"
                 ]
               }
             ]
@@ -18564,6 +18775,104 @@
                 "colors": [
                   "#FFEE59",
                   "#FFEE59"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 246,
+        "name": "Qiyana",
+        "alias": "Qiyana",
+        "title": "Empress of the Elements",
+        "releaseDate": "2019-06-07",
+        "associatedFactionSlug": "ixtal",
+        "shortBio": "In the jungle city of Ixaocan, Qiyana plots her own ruthless path to the high seat of the Yun Tal. Last in line to succeed her parents, she faces those who stand in her way with brash confidence and unprecedented mastery over elemental magic. With the land itself obeying her every command, Qiyana sees herself as the greatest elementalist in the history of Ixaocan—and by that right, deserving of not only a city, but an empire.",
+        "squarePortraitPath": "/assets/champions/portraits/246.png",
+        "roles": [
+          "assassin",
+          "fighter"
+        ],
+        "skins": [
+          {
+            "id": 246000,
+            "name": "Qiyana (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/246000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 246001,
+            "name": "Battle Boss Qiyana",
+            "description": "A princess constantly in need of saving in the 1981 arcade port of “Super Ixaocan Bros.,” Qiyana needed very little convincing to empower herself with malignant Battle Boss code. She wasted no time testing her newfound abilities on the aforementioned Super Ixaocan Brothers. They're dead now. She lives in their castle.",
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/246001.jpg",
+            "chromas": [
+              {
+                "id": 246003,
+                "name": "Battle Boss Qiyana",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 246004,
+                "name": "Battle Boss Qiyana",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 246005,
+                "name": "Battle Boss Qiyana",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 246006,
+                "name": "Battle Boss Qiyana",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 246007,
+                "name": "Battle Boss Qiyana",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 246008,
+                "name": "Battle Boss Qiyana",
+                "description": "Loot exclusive gained during the 2019 Arcade event.",
+                "colors": [
+                  "#A5FFF8",
+                  "#D87BFF"
+                ]
+              },
+              {
+                "id": 246009,
+                "name": "Battle Boss Qiyana",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -20042,7 +20351,7 @@
         "alias": "Neeko",
         "title": "the Curious Chameleon",
         "releaseDate": "2018-11-19T08:00:26Z",
-        "associatedFactionSlug": "unaffiliated",
+        "associatedFactionSlug": "ixtal",
         "shortBio": "Hailing from a long lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others, even absorbing something of their emotional state to tell friend from foe in an instant. No one is ever sure where—or who—Neeko might be, but those who intend to do her harm will soon witness her true colors revealed, and feel the full power of her primordial spirit magic unleashed upon them.",
         "squarePortraitPath": "/assets/champions/portraits/518.png",
         "roles": [
@@ -37685,6 +37994,256 @@
         "imagePath": "/assets/icons/4195.jpg"
       },
       {
+        "id": 4196,
+        "title": "Masters Challenge Season 4",
+        "description": "This reward commemorates the top 2000 players on Master's Challenge shard.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4196.jpg"
+      },
+      {
+        "id": 4197,
+        "title": "Arcade Kai'Sa Icon",
+        "description": "This icon was acquired during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4197.jpg"
+      },
+      {
+        "id": 4198,
+        "title": "Arcade Caitlyn Icon",
+        "description": "This icon was acquired during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4198.jpg"
+      },
+      {
+        "id": 4199,
+        "title": "Battle Boss Yasuo Icon",
+        "description": "This icon was acquired during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4199.jpg"
+      },
+      {
+        "id": 4200,
+        "title": "Pixel Arcade Poro Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4200.jpg"
+      },
+      {
+        "id": 4201,
+        "title": "Corrupted Arcade Poro Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4201.jpg"
+      },
+      {
+        "id": 4202,
+        "title": "Arcade Miss Fortune Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4202.jpg"
+      },
+      {
+        "id": 4203,
+        "title": "Arcade Riven Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4203.jpg"
+      },
+      {
+        "id": 4204,
+        "title": "Battle Boss Qiyana Icon",
+        "description": "This icon was acquired during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4204.jpg"
+      },
+      {
+        "id": 4205,
+        "title": "Arcade Sona Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4205.jpg"
+      },
+      {
+        "id": 4206,
+        "title": "Arcade Star Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4206.jpg"
+      },
+      {
+        "id": 4207,
+        "title": "Golden Cup Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4207.jpg"
+      },
+      {
+        "id": 4208,
+        "title": "Chroma Battle Boss Yasuo Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4208.jpg"
+      },
+      {
+        "id": 4209,
+        "title": "Chroma Arcade Kai'Sa Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4209.jpg"
+      },
+      {
+        "id": 4210,
+        "title": "Chroma Battle Boss Qiyana Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade event.",
+        "set": "Arcade",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4210.jpg"
+      },
+      {
+        "id": 4211,
+        "title": "Shadow Isles Hauntling Icon",
+        "description": "This icon was acquired by purchasing the Shadow Isles Hauntling Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4211.jpg"
+      },
+      {
+        "id": 4212,
+        "title": "Demacian Silverwing Icon",
+        "description": "This icon was acquired by purchasing the Demacian Silverwing Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4212.jpg"
+      },
+      {
+        "id": 4213,
+        "title": "Molten Furyhorn Icon",
+        "description": "This icon was acquired by purchasing the Molten Furyhorn Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4213.jpg"
+      },
+      {
+        "id": 4214,
+        "title": "Soft-nosed Molediver Icon",
+        "description": "This icon was acquired by purchasing the Soft-nosed Molediver Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4214.jpg"
+      },
+      {
+        "id": 4215,
+        "title": "Sentinel Runespirit Icon",
+        "description": "This icon was acquired by purchasing the Sentinel Runespirit Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4215.jpg"
+      },
+      {
+        "id": 4216,
+        "title": "Pengu Featherknight Icon",
+        "description": "This icon was acquired by purchasing the Pengu Featherknight Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4216.jpg"
+      },
+      {
+        "id": 4217,
+        "title": "Tier 1 TFT Launch Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4217.jpg"
+      },
+      {
+        "id": 4218,
+        "title": "Tier 2 TFT Launch Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4218.jpg"
+      },
+      {
+        "id": 4219,
+        "title": "Tier 3 TFT Launch Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4219.jpg"
+      },
+      {
+        "id": 4220,
+        "title": "Tier 4 TFT Launch Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4220.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -42590,7 +43149,7 @@
         "id": 0,
         "name": "Default Ward",
         "defaultDescription": "Base Ward Skin",
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": "Starter Pack",
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -43969,17 +44528,27 @@
         "id": 138,
         "name": "Battle Academia Desk Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": "Battle Acadamia",
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/138.png"
       },
       {
+        "id": 139,
+        "name": "Arcade 2019 Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired during the 2019 Arcade event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/139.png"
+      },
+      {
         "id": 140,
         "name": "",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -43989,7 +44558,7 @@
         "id": 142,
         "name": "TSM Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -43999,7 +44568,7 @@
         "id": 143,
         "name": "Echo Fox Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44009,7 +44578,7 @@
         "id": 144,
         "name": "100 Thieves Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44019,7 +44588,7 @@
         "id": 145,
         "name": "Cloud9 Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44029,7 +44598,7 @@
         "id": 146,
         "name": "CLG Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44039,7 +44608,7 @@
         "id": 147,
         "name": "Team Liquid Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44049,7 +44618,7 @@
         "id": 148,
         "name": "Team OpTic Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44059,7 +44628,7 @@
         "id": 149,
         "name": "Golden Guardians Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44069,7 +44638,7 @@
         "id": 150,
         "name": "FlyQuest Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44079,7 +44648,7 @@
         "id": 151,
         "name": "Clutch Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44089,7 +44658,7 @@
         "id": 152,
         "name": "Excel Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44099,7 +44668,7 @@
         "id": 153,
         "name": "Fnatic Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44109,7 +44678,7 @@
         "id": 154,
         "name": "G2 Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44119,7 +44688,7 @@
         "id": 155,
         "name": "Misfits Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44129,7 +44698,7 @@
         "id": 156,
         "name": "Origen Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44139,7 +44708,7 @@
         "id": 157,
         "name": "Rogue Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44149,7 +44718,7 @@
         "id": 158,
         "name": "Schalke 04 Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44159,7 +44728,7 @@
         "id": 159,
         "name": "SK Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44169,7 +44738,7 @@
         "id": 160,
         "name": "Splyce Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44179,7 +44748,7 @@
         "id": 161,
         "name": "Vitality Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44189,7 +44758,7 @@
         "id": 162,
         "name": "Fan Pass Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44199,7 +44768,7 @@
         "id": 163,
         "name": "Bilibili Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44209,7 +44778,7 @@
         "id": 164,
         "name": "Dominus Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44219,7 +44788,7 @@
         "id": 165,
         "name": "Edward Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44229,7 +44798,7 @@
         "id": 166,
         "name": "FunPlus Phoenix Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44239,7 +44808,7 @@
         "id": 167,
         "name": "Invictus Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44249,7 +44818,7 @@
         "id": 168,
         "name": "JD Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44259,7 +44828,7 @@
         "id": 169,
         "name": "LGD Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44269,7 +44838,7 @@
         "id": 170,
         "name": "LNG Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44279,7 +44848,7 @@
         "id": 171,
         "name": "Oh My God Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44289,7 +44858,7 @@
         "id": 172,
         "name": "Royal Never Give Up Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44299,7 +44868,7 @@
         "id": 173,
         "name": "Rogue Warriors Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44309,7 +44878,7 @@
         "id": 174,
         "name": "Suning Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44319,7 +44888,7 @@
         "id": 175,
         "name": "TOP Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44329,7 +44898,7 @@
         "id": 176,
         "name": "Victory Five Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44339,7 +44908,7 @@
         "id": 177,
         "name": "Vici Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44349,7 +44918,7 @@
         "id": 178,
         "name": "Team WE Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44359,7 +44928,7 @@
         "id": 179,
         "name": "",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44369,7 +44938,7 @@
         "id": 180,
         "name": "",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44379,7 +44948,7 @@
         "id": 181,
         "name": "",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44389,7 +44958,7 @@
         "id": 182,
         "name": "",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44399,7 +44968,7 @@
         "id": 183,
         "name": "",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44409,7 +44978,7 @@
         "id": 184,
         "name": "",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44419,7 +44988,7 @@
         "id": 185,
         "name": "",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44429,7 +44998,7 @@
         "id": 186,
         "name": "",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -44439,7 +45008,7 @@
         "id": 187,
         "name": "",
         "defaultDescription": null,
-        "description": "This ward was acquired through Loot during the 2019 Trials event.",
+        "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46968,6 +47537,24 @@
         "imagePath": "/assets/emotes/3276.png"
       },
       {
+        "id": 3277,
+        "name": "Animated D'Pengu",
+        "description": null,
+        "imagePath": "/assets/emotes/3277.png"
+      },
+      {
+        "id": 3278,
+        "name": "Animated K.O.",
+        "description": null,
+        "imagePath": "/assets/emotes/3278.png"
+      },
+      {
+        "id": 3279,
+        "name": "Game Over",
+        "description": null,
+        "imagePath": "/assets/emotes/3279.png"
+      },
+      {
         "id": 3280,
         "name": "GOlaf",
         "description": null,
@@ -47194,6 +47781,12 @@
         "name": "2019 Team WE",
         "description": null,
         "imagePath": "/assets/emotes/3333.png"
+      },
+      {
+        "id": 3337,
+        "name": "Master's Challenge Season 4",
+        "description": null,
+        "imagePath": "/assets/emotes/3337.png"
       },
       {
         "id": 4,
