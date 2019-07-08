@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.13.279.7717",
+  "version": "9.13.280.4632",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -7,7 +7,9 @@
     "CHROMAS",
     "ICONS",
     "WARDS",
-    "EMOTES"
+    "EMOTES",
+    "COMPANIONS",
+    "TFTMAPSKINS"
   ],
   "info": {
     "champions": 145,
@@ -15,7 +17,9 @@
     "chromas": 917,
     "icons": 2265,
     "emotes": 468,
-    "wards": 187
+    "wards": 187,
+    "tftcompanions": 109,
+    "tftmapskins": 4
   },
   "data": {
     "champions": [
@@ -47823,6 +47827,906 @@
         "name": "Happy to See You",
         "description": null,
         "imagePath": "/assets/emotes/998.png"
+      }
+    ],
+    "tftcompanions": [
+      {
+        "id": 1016,
+        "name": "Shadowmask Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/1016.png"
+      },
+      {
+        "id": 1017,
+        "name": "Shadowmask Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/1017.png"
+      },
+      {
+        "id": 1018,
+        "name": "Shadowmask Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/1018.png"
+      },
+      {
+        "id": 1007,
+        "name": "Lunar Claw Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/1007.png"
+      },
+      {
+        "id": 1008,
+        "name": "Lunar Claw Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/1008.png"
+      },
+      {
+        "id": 1009,
+        "name": "Lunar Claw Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/1009.png"
+      },
+      {
+        "id": 1004,
+        "name": "Fireborn Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/1004.png"
+      },
+      {
+        "id": 1005,
+        "name": "Fireborn Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/1005.png"
+      },
+      {
+        "id": 1006,
+        "name": "Fireborn Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/1006.png"
+      },
+      {
+        "id": 1010,
+        "name": "Toxic Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/1010.png"
+      },
+      {
+        "id": 1011,
+        "name": "Toxic Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/1011.png"
+      },
+      {
+        "id": 1012,
+        "name": "Toxic Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/1012.png"
+      },
+      {
+        "id": 1013,
+        "name": "Dark Matter Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/1013.png"
+      },
+      {
+        "id": 1014,
+        "name": "Dark Matter Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/1014.png"
+      },
+      {
+        "id": 1015,
+        "name": "Dark Matter Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/1015.png"
+      },
+      {
+        "id": 1001,
+        "name": "Shadow Isles Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/1001.png"
+      },
+      {
+        "id": 1002,
+        "name": "Shadow Isles Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/1002.png"
+      },
+      {
+        "id": 1003,
+        "name": "Shadow Isles Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/1003.png"
+      },
+      {
+        "id": 2001,
+        "name": "Demacian Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/2001.png"
+      },
+      {
+        "id": 2002,
+        "name": "Demacian Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/2002.png"
+      },
+      {
+        "id": 2003,
+        "name": "Demacian Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/2003.png"
+      },
+      {
+        "id": 2016,
+        "name": "Lost Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/2016.png"
+      },
+      {
+        "id": 2017,
+        "name": "Lost Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/2017.png"
+      },
+      {
+        "id": 2018,
+        "name": "Lost Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/2018.png"
+      },
+      {
+        "id": 2004,
+        "name": "Snow Cherry Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/2004.png"
+      },
+      {
+        "id": 2005,
+        "name": "Snow Cherry Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/2005.png"
+      },
+      {
+        "id": 2006,
+        "name": "Snow Cherry Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/2006.png"
+      },
+      {
+        "id": 2013,
+        "name": "Tropical Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/2013.png"
+      },
+      {
+        "id": 2014,
+        "name": "Tropical Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/2014.png"
+      },
+      {
+        "id": 2015,
+        "name": "Tropical Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/2015.png"
+      },
+      {
+        "id": 2010,
+        "name": "Rosebloom Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/2010.png"
+      },
+      {
+        "id": 2011,
+        "name": "Rosebloom Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/2011.png"
+      },
+      {
+        "id": 2012,
+        "name": "Rosebloom Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/2012.png"
+      },
+      {
+        "id": 2007,
+        "name": "Dawnglow Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/2007.png"
+      },
+      {
+        "id": 2008,
+        "name": "Dawnglow Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/2008.png"
+      },
+      {
+        "id": 2009,
+        "name": "Dawnglow Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/2009.png"
+      },
+      {
+        "id": 3016,
+        "name": "Tundra Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3016.png"
+      },
+      {
+        "id": 3017,
+        "name": "Tundra Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/3017.png"
+      },
+      {
+        "id": 3018,
+        "name": "Tundra Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/3018.png"
+      },
+      {
+        "id": 3007,
+        "name": "Willowbark Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3007.png"
+      },
+      {
+        "id": 3008,
+        "name": "Willowbark Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/3008.png"
+      },
+      {
+        "id": 3009,
+        "name": "Willowbark Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/3009.png"
+      },
+      {
+        "id": 3013,
+        "name": "Sugarcone Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3013.png"
+      },
+      {
+        "id": 3014,
+        "name": "Sugarcone Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/3014.png"
+      },
+      {
+        "id": 3015,
+        "name": "Sugarcone Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/3015.png"
+      },
+      {
+        "id": 3010,
+        "name": "Lionheart Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3010.png"
+      },
+      {
+        "id": 3011,
+        "name": "Lionheart Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/3011.png"
+      },
+      {
+        "id": 3012,
+        "name": "Lionheart Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/3012.png"
+      },
+      {
+        "id": 3001,
+        "name": "Molten Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3001.png"
+      },
+      {
+        "id": 3002,
+        "name": "Molten Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/3002.png"
+      },
+      {
+        "id": 3003,
+        "name": "Molten Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/3003.png"
+      },
+      {
+        "id": 3004,
+        "name": "Void-marked Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3004.png"
+      },
+      {
+        "id": 3005,
+        "name": "Void-marked Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/3005.png"
+      },
+      {
+        "id": 3006,
+        "name": "Void-marked Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/3006.png"
+      },
+      {
+        "id": 4013,
+        "name": "Clumsy Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4013.png"
+      },
+      {
+        "id": 4014,
+        "name": "Clumsy Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/4014.png"
+      },
+      {
+        "id": 4015,
+        "name": "Clumsy Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/4015.png"
+      },
+      {
+        "id": 4010,
+        "name": "Fresh-water Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4010.png"
+      },
+      {
+        "id": 4011,
+        "name": "Fresh-water Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/4011.png"
+      },
+      {
+        "id": 4012,
+        "name": "Fresh-water Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/4012.png"
+      },
+      {
+        "id": 4001,
+        "name": "Soft-nosed Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4001.png"
+      },
+      {
+        "id": 4002,
+        "name": "Soft-nosed Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/4002.png"
+      },
+      {
+        "id": 4003,
+        "name": "Soft-nosed Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/4003.png"
+      },
+      {
+        "id": 4007,
+        "name": "Skydance Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4007.png"
+      },
+      {
+        "id": 4008,
+        "name": "Skydance Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/4008.png"
+      },
+      {
+        "id": 4009,
+        "name": "Skydance Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/4009.png"
+      },
+      {
+        "id": 4004,
+        "name": "Blazebattle Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4004.png"
+      },
+      {
+        "id": 4005,
+        "name": "Blazebattle Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/4005.png"
+      },
+      {
+        "id": 4006,
+        "name": "Blazebattle Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/4006.png"
+      },
+      {
+        "id": 4016,
+        "name": "Toxic Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4016.png"
+      },
+      {
+        "id": 4017,
+        "name": "Toxic Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/4017.png"
+      },
+      {
+        "id": 4018,
+        "name": "Toxic Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/4018.png"
+      },
+      {
+        "id": 5010,
+        "name": "Black Mist Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/5010.png"
+      },
+      {
+        "id": 5011,
+        "name": "Black Mist Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/5011.png"
+      },
+      {
+        "id": 5012,
+        "name": "Black Mist Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/5012.png"
+      },
+      {
+        "id": 5001,
+        "name": "Sentinel Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/5001.png"
+      },
+      {
+        "id": 5002,
+        "name": "Sentinel Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/5002.png"
+      },
+      {
+        "id": 5003,
+        "name": "Sentinel Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/5003.png"
+      },
+      {
+        "id": 5013,
+        "name": "Glacial Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/5013.png"
+      },
+      {
+        "id": 5014,
+        "name": "Glacial Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/5014.png"
+      },
+      {
+        "id": 5015,
+        "name": "Glacial Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/5015.png"
+      },
+      {
+        "id": 5004,
+        "name": "Brambleback Runespirit",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Runespirit",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/5004.png"
+      },
+      {
+        "id": 5005,
+        "name": "Brambleback Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/5005.png"
+      },
+      {
+        "id": 5006,
+        "name": "Brambleback Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/5006.png"
+      },
+      {
+        "id": 5007,
+        "name": "Seedling Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/5007.png"
+      },
+      {
+        "id": 5008,
+        "name": "Seedling Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/5008.png"
+      },
+      {
+        "id": 5009,
+        "name": "Seedling Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/5009.png"
+      },
+      {
+        "id": 5016,
+        "name": "Sakura Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/5016.png"
+      },
+      {
+        "id": 5017,
+        "name": "Sakura Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/5017.png"
+      },
+      {
+        "id": 5018,
+        "name": "Sakura Runespirit",
+        "description": "A mysterious and mischievous Runespirit.",
+        "species": "Runespirit",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/5018.png"
+      },
+      {
+        "id": 6001,
+        "name": "Pengu Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6001.png"
+      },
+      {
+        "id": 6002,
+        "name": "Pengu Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6002.png"
+      },
+      {
+        "id": 6003,
+        "name": "Pengu Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6003.png"
+      },
+      {
+        "id": 6004,
+        "name": "Ravenlord Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6004.png"
+      },
+      {
+        "id": 6005,
+        "name": "Ravenlord Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6005.png"
+      },
+      {
+        "id": 6006,
+        "name": "Ravenlord Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6006.png"
+      },
+      {
+        "id": 6007,
+        "name": "True Ice Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6007.png"
+      },
+      {
+        "id": 6008,
+        "name": "True Ice Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6008.png"
+      },
+      {
+        "id": 6009,
+        "name": "True Ice Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6009.png"
+      },
+      {
+        "id": 6016,
+        "name": "Sakura Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6016.png"
+      },
+      {
+        "id": 6017,
+        "name": "Sakura Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6017.png"
+      },
+      {
+        "id": 6018,
+        "name": "Sakura Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6018.png"
+      },
+      {
+        "id": 6010,
+        "name": "Extra Spicy Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6010.png"
+      },
+      {
+        "id": 6011,
+        "name": "Extra Spicy Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6011.png"
+      },
+      {
+        "id": 6012,
+        "name": "Extra Spicy Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6012.png"
+      },
+      {
+        "id": 6013,
+        "name": "Cheeper Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6013.png"
+      },
+      {
+        "id": 6014,
+        "name": "Cheeper Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6014.png"
+      },
+      {
+        "id": 6015,
+        "name": "Cheeper Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6015.png"
+      },
+      {
+        "id": 1,
+        "name": "River Sprite",
+        "description": "River Sprite",
+        "species": "River Sprite",
+        "level": 0,
+        "imagePath": "/assets/tftcompanions/1.png"
+      }
+    ],
+    "tftmapskins": [
+      {
+        "id": 1,
+        "name": "Default Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/1.png"
+      },
+      {
+        "id": 2,
+        "name": "Runic Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/2.png"
+      },
+      {
+        "id": 3,
+        "name": "Rift Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/3.png"
+      },
+      {
+        "id": 4,
+        "name": "Arrowhead Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/4.png"
       }
     ]
   }

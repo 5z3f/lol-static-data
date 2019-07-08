@@ -19,7 +19,8 @@ namespace Riot.StaticData
         {
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.WriteLine("\n\tLeague of Legends Static Data Gathering Tool | 1.0");
+            Console.Clear();
+            Console.WriteLine("\n\tLeague of Legends Static Data Gathering Tool | 1.0.1");
             Console.WriteLine("\t_______________________________________________________________________\n\n");
 
             int tries = 1;
@@ -57,7 +58,7 @@ namespace Riot.StaticData
                 while (!streamReader.EndOfStream)
                     lockFileData = streamReader.ReadToEnd().Split(':');
 
-            Console.WriteLine($"\tWould you like to download assets? [y/N]");
+            Console.WriteLine($"\tWould you like to save assets? [y/N]");
             Console.Write("\t>> ");
             bool dlAssets = (Console.ReadLine() == "y") ? true : false;
             ClearLastLine(); ClearLastLine();
@@ -100,7 +101,13 @@ namespace Riot.StaticData
             Console.WriteLine($"\tGetting ward skin sets...\t\t\t\t\tOK");
 
             dynamic emoteCollection = GetRequest($"/lol-game-data/assets/v1/summoner-emotes.json", lockFileData[3], lockFileData[2]);
-            Console.WriteLine($"\tGetting summoner emotes...\t\t\t\t\tOK\n\t---");
+            Console.WriteLine($"\tGetting summoner emotes...\t\t\t\t\tOK");
+
+            dynamic tftmapCollection = GetRequest($"/lol-game-data/assets/v1/tftmapskins.json", lockFileData[3], lockFileData[2]);
+            Console.WriteLine($"\tGetting tft map skins...\t\t\t\t\tOK");
+
+            dynamic tftcompanionCollection = GetRequest($"/lol-game-data/assets/v1/companions.json", lockFileData[3], lockFileData[2]);
+            Console.WriteLine($"\tGetting tft companions...\t\t\t\t\tOK\n\t---");
 
             #region WadTesting
             /*
@@ -322,7 +329,7 @@ namespace Riot.StaticData
             for (int i = 0; i < emoteCollection.Count; i++)
             {
                 if ((long)emoteCollection[i]["id"] == 0)
-                    emoteCollection[i].Remove(); // removing test emote
+                    emoteCollection[i].Remove(); // remove test emote
             }
 
             ExportData.emotes = new ExpandoObject();
@@ -338,7 +345,7 @@ namespace Riot.StaticData
                 ExportData.emotes[i].description = emoteCollection[i]["description"] > 0 ? emoteCollection[i]["description"] : null;
 
                 string emotePath = $"/assets/emotes/{(long)emoteCollection[i]["id"]}.png";
-                ExportData.emotes[i].imagePath = emotePath.Contains(".png") ? emotePath : null;
+                ExportData.emotes[i].imagePath = emotePath;
 
                 if (dlAssets)
                 {
@@ -351,6 +358,66 @@ namespace Riot.StaticData
                 }
             }
 
+            ClearLastLine();
+            Console.WriteLine(dlAssets ? "\tDownloading assets and building emote structure...\t\tOK" : "\tBuilding emote structure...\t\t\t\t\tOK");
+
+            ExportData.tftcompanions = new ExpandoObject();
+            ExportData.tftcompanions = new dynamic[tftcompanionCollection.Count];
+
+            Console.WriteLine(dlAssets ? "\tDownloading assets and building tft companion structure...\tWORKING" : "\tBuilding tft companion structure...\t\t\t\tWORKING");
+
+            for (int i = 0; i < tftcompanionCollection.Count; i++)
+            {
+                ExportData.tftcompanions[i] = new ExpandoObject();
+                ExportData.tftcompanions[i].id = (long)tftcompanionCollection[i]["itemId"];
+                ExportData.tftcompanions[i].name = tftcompanionCollection[i]["name"];
+                ExportData.tftcompanions[i].description = tftcompanionCollection[i]["description"] > 0 ? tftcompanionCollection[i]["description"] : null;
+                ExportData.tftcompanions[i].species = tftcompanionCollection[i]["speciesName"];
+                ExportData.tftcompanions[i].level = (int)tftcompanionCollection[i]["level"];
+
+                string companionPath = $"/assets/tftcompanions/{(long)tftcompanionCollection[i]["itemId"]}.png";
+                ExportData.tftcompanions[i].imagePath = companionPath;
+
+                if (dlAssets)
+                {
+                    string apiPath = (string)tftcompanionCollection[i]["loadoutsIcon"];
+                    if (apiPath.Contains(".png"))
+                    {
+                        CreateIfMissing(Environment.CurrentDirectory + companionPath);
+                        GetRequest((string)tftcompanionCollection[i]["loadoutsIcon"], lockFileData[3], lockFileData[2], true, false, true, Environment.CurrentDirectory + companionPath);
+                    }
+                }
+            }
+
+            ClearLastLine();
+            Console.WriteLine(dlAssets ? "\tDownloading assets and building tft companion structure...\tOK" : "\tBuilding tft companion structure...\t\t\t\tOK");
+
+            ExportData.tftmapskins = new ExpandoObject();
+            ExportData.tftmapskins = new dynamic[tftmapCollection.Count];
+
+            Console.WriteLine(dlAssets ? "\tDownloading assets and building tft map skin structure...\tWORKING" : "\tBuilding tft map skin structure...\t\t\t\tWORKING");
+
+            for (int i = 0; i < tftmapCollection.Count; i++)
+            {
+                ExportData.tftmapskins[i] = new ExpandoObject();
+                ExportData.tftmapskins[i].id = (long)tftmapCollection[i]["itemId"];
+                ExportData.tftmapskins[i].name = tftmapCollection[i]["name"];
+                ExportData.tftmapskins[i].description = tftmapCollection[i]["description"] > 0 ? tftmapCollection[i]["description"] : null;
+
+                string tftmapskinPath = $"/assets/tftmapskins/{(long)tftmapCollection[i]["itemId"]}.png";
+                ExportData.tftmapskins[i].imagePath = tftmapskinPath;
+
+                if (dlAssets)
+                {
+                    string apiPath = (string)tftmapCollection[i]["loadoutsIcon"];
+                    if (apiPath.Contains(".png"))
+                    {
+                        CreateIfMissing(Environment.CurrentDirectory + tftmapskinPath);
+                        GetRequest((string)tftmapCollection[i]["loadoutsIcon"], lockFileData[3], lockFileData[2], true, false, true, Environment.CurrentDirectory + tftmapskinPath);
+                    }
+                }
+            }
+
             if (dlAssets)
             {
                 CreateIfMissing(Environment.CurrentDirectory + $"/compressed/{version}.zip");
@@ -358,13 +425,12 @@ namespace Riot.StaticData
             }
 
             ClearLastLine();
-            Console.WriteLine(dlAssets ? "\tDownloading assets and building emote structure...\t\tOK\n\t---" : "\tBuilding emote structure...\t\t\t\t\tOK\n\t---");
-            Console.WriteLine($"\tSaved to static-data.{locale}.json \t\t\t\tDONE");
+            Console.WriteLine(dlAssets ? "\tDownloading assets and building tft map skin structure...\tOK\n\t---" : "\tBuilding tft map skin structure...\t\t\t\tOK\n\t---");
 
             dynamic ExportHeader = new ExpandoObject();
             ExportHeader.version = version;
             ExportHeader.locale = locale;
-            string[] contentArray = { "CHAMPIONS", "SKINS", "CHROMAS", "ICONS", "WARDS", "EMOTES" };
+            string[] contentArray = { "CHAMPIONS", "SKINS", "CHROMAS", "ICONS", "WARDS", "EMOTES", "COMPANIONS", "TFTMAPSKINS" };
             ExportHeader.content = contentArray;
 
             ExportHeader.info = new ExpandoObject();
@@ -374,11 +440,25 @@ namespace Riot.StaticData
             ExportHeader.info.icons = iconCollection.Count;
             ExportHeader.info.emotes = emoteCollection.Count;
             ExportHeader.info.wards = wardCollection.Count;
+            ExportHeader.info.tftcompanions = tftcompanionCollection.Count;
+            ExportHeader.info.tftmapskins = tftmapCollection.Count;
 
             ExportHeader.data = ExportData;
 
             string output = JsonConvert.SerializeObject(ExportHeader, Formatting.Indented);
             File.WriteAllText($"static-data.{locale}.json", output, Encoding.UTF8);
+
+            Console.WriteLine($"\tProcessed {ExportHeader.info.champions + ExportHeader.info.skins + ExportHeader.info.chromas + ExportHeader.info.icons + ExportHeader.info.wards + ExportHeader.info.emotes + ExportHeader.info.tftcompanions + ExportHeader.info.tftmapskins} rows:" +
+                $"\n\t* champions\t\t\t\t\t\t\t{ExportHeader.info.champions}" +
+                $"\n\t* skins\t\t\t\t\t\t\t\t{ExportHeader.info.skins}" +
+                $"\n\t* chromas\t\t\t\t\t\t\t{ExportHeader.info.chromas}" +
+                $"\n\t* icons\t\t\t\t\t\t\t\t{ExportHeader.info.icons}" +
+                $"\n\t* wards\t\t\t\t\t\t\t\t{ExportHeader.info.wards}" +
+                $"\n\t* emotes\t\t\t\t\t\t\t{ExportHeader.info.emotes}" +
+                $"\n\t* tft companions\t\t\t\t\t\t{ExportHeader.info.tftcompanions}" +
+                $"\n\t* tft map skins\t\t\t\t\t\t\t{ExportHeader.info.tftmapskins}\n\t---");
+
+            Console.WriteLine($"\tSaved to static-data.{locale}.json \t\t\t\tDONE");
 
             // Bitmap portraitCombined = CombineBitmap(bitmaps.ToArray());
             // portraitCombined.Save(Environment.CurrentDirectory +  @"/assets/champions/portraitCombined.bmp", ImageFormat.Bmp);
@@ -430,6 +510,22 @@ namespace Riot.StaticData
             return strRarity;
         }
 
+        public static void CreateIfMissing(string path)
+        {
+            bool folderExists = Directory.Exists(Path.GetDirectoryName(path));
+            if (!folderExists) Directory.CreateDirectory(Path.GetDirectoryName(path));
+        }
+
+        public static void ClearLastLine()
+        {
+            Console.SetCursorPosition(0, Console.CursorTop - 1);
+            int currentLineCursor = Console.CursorTop;
+            Console.SetCursorPosition(0, Console.CursorTop);
+            Console.Write(new string(' ', Console.WindowWidth));
+            Console.SetCursorPosition(0, currentLineCursor);
+        }
+
+        /*
         static string GetStringBetween(this string token, string first, string second)
         {
             if (!token.Contains(first)) return "";
@@ -437,12 +533,6 @@ namespace Riot.StaticData
             if (!afterFirst.Contains(second)) return "";
             var result = afterFirst.Split(new[] { second }, StringSplitOptions.None)[0];
             return result;
-        }
-
-        public static void CreateIfMissing(string path)
-        {
-            bool folderExists = Directory.Exists(Path.GetDirectoryName(path));
-            if (!folderExists) Directory.CreateDirectory(Path.GetDirectoryName(path));
         }
 
         public static Bitmap CombineBitmap(string[] files)
@@ -493,15 +583,6 @@ namespace Riot.StaticData
             }
         }
 
-        public static void ClearLastLine()
-        {
-            Console.SetCursorPosition(0, Console.CursorTop - 1);
-            int currentLineCursor = Console.CursorTop;
-            Console.SetCursorPosition(0, Console.CursorTop);
-            Console.Write(new string(' ', Console.WindowWidth));
-            Console.SetCursorPosition(0, currentLineCursor);
-        }
-
         static string BytesToString(long byteCount)
         {
             string[] suf = { "B", "KB", "MB", "GB", "TB", "PB", "EB" };
@@ -514,6 +595,6 @@ namespace Riot.StaticData
             double num = Math.Round(bytes / Math.Pow(1024, place), 2);
             return (Math.Sign(byteCount) * num).ToString() + suf[place];
         }
-
+        */
     }
 }

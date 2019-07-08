@@ -5,6 +5,8 @@ Simple tool for gathering static data from League of Legends client, mainly writ
 Should be working for all regions supported by RiotGames, Garena and Tencent servers are not tested\
 **A ready json file for en_GB locale is available under /static/ dir**
 
+![prev-gif](prev.gif)
+
 ---
 
 ### Available Data
@@ -13,6 +15,8 @@ Should be working for all regions supported by RiotGames, Garena and Tencent ser
 * Icons
 * Wards
 * Emotes
+* TFT Companions
+* TFT Map Skins
 
 ### Assets
 * Champion Portraits
@@ -20,12 +24,14 @@ Should be working for all regions supported by RiotGames, Garena and Tencent ser
 * Icon Images
 * Ward Images 
 * Emote Images
+* TFT Companion Images
+* TFT Map Skin Images
 
 ### JSON Schema
 
 ```txt
 {
-  "version": "9.5.266.4070",
+  "version": "9.13.280.4632",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -94,6 +100,26 @@ Should be working for all regions supported by RiotGames, Garena and Tencent ser
         "name": "Nice Try",
         "description": null,
         "imagePath": "/assets/emotes/1030.png"
+      },
+      ...
+    ],
+    "tftcompanions": [
+      {
+        "id": 1016,
+        "name": "Shadowmask Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/1016.png"
+      },
+      ...
+    ],
+    "tftmapskins": [
+      {
+        "id": 1,
+        "name": "Default Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/1.png"
       },
       ...
     ]
