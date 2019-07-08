@@ -430,7 +430,7 @@ namespace Riot.StaticData
             dynamic ExportHeader = new ExpandoObject();
             ExportHeader.version = version;
             ExportHeader.locale = locale;
-            string[] contentArray = { "CHAMPIONS", "SKINS", "CHROMAS", "ICONS", "WARDS", "EMOTES", "COMPANIONS", "TFTMAPSKINS" };
+            string[] contentArray = { "CHAMPIONS", "SKINS", "CHROMAS", "ICONS", "WARDS", "EMOTES", "TFTCOMPANIONS", "TFTMAPSKINS" };
             ExportHeader.content = contentArray;
 
             ExportHeader.info = new ExpandoObject();
