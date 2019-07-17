@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.13.280.4632",
+  "version": "9.14.282.267",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,11 +13,11 @@
   ],
   "info": {
     "champions": 145,
-    "skins": 953,
-    "chromas": 917,
-    "icons": 2265,
-    "emotes": 468,
-    "wards": 187,
+    "skins": 955,
+    "chromas": 931,
+    "icons": 2276,
+    "emotes": 470,
+    "wards": 188,
     "tftcompanions": 109,
     "tftmapskins": 4
   },
@@ -11707,6 +11707,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/86013.jpg",
             "chromas": null
+          },
+          {
+            "id": 86014,
+            "name": "Demacia Vice Garen",
+            "description": "As chrome eagles cry and steel panthers growl, lightning hot justice is delivered nightly by Detective Garen Stryker on the neon-drenched streets. A black belt in Ionian martial arts, this katana wielding cop pushes it to the limit with every case... for Demacia!",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/86014.jpg",
+            "chromas": [
+              {
+                "id": 86015,
+                "name": "Demacia Vice Garen",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 86016,
+                "name": "Demacia Vice Garen",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 86017,
+                "name": "Demacia Vice Garen",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 86018,
+                "name": "Demacia Vice Garen",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 86019,
+                "name": "Demacia Vice Garen",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 86020,
+                "name": "Demacia Vice Garen",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 86021,
+                "name": "Demacia Vice Garen",
+                "description": "Loot exclusive gained during the 2019 Demacia Vice event.",
+                "colors": [
+                  "#611B9E",
+                  "#19E888"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -17904,7 +17977,7 @@
           {
             "id": 202005,
             "name": "Dark Cosmic Jhin",
-            "description": "Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now, his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art.",
+            "description": "Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/202005.jpg",
@@ -18352,6 +18425,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/236008.jpg",
             "chromas": null
+          },
+          {
+            "id": 236009,
+            "name": "Demacia Vice Lucian",
+            "description": "Half man, half machine, and all justice, Detective Lucian Phoenix fights crime under the pastel palm trees of Demacia. Rebuilt out of polished chrome and gilded Piltovan carbon fiber following a fatal gunfight, this technological marvel dispenses vaporwave vengeance as a neon beacon of law and order.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/236009.jpg",
+            "chromas": [
+              {
+                "id": 236010,
+                "name": "Demacia Vice Lucian",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 236011,
+                "name": "Demacia Vice Lucian",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 236012,
+                "name": "Demacia Vice Lucian",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 236013,
+                "name": "Demacia Vice Lucian",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 236014,
+                "name": "Demacia Vice Lucian",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 236015,
+                "name": "Demacia Vice Lucian",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 236016,
+                "name": "Demacia Vice Lucian",
+                "description": "Loot exclusive gained during the 2019 Demacia Vice event.",
+                "colors": [
+                  "#611B9E",
+                  "#19E888"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -18812,7 +18958,7 @@
             "id": 246001,
             "name": "Battle Boss Qiyana",
             "description": "A princess constantly in need of saving in the 1981 arcade port of “Super Ixaocan Bros.,” Qiyana needed very little convincing to empower herself with malignant Battle Boss code. She wasted no time testing her newfound abilities on the aforementioned Super Ixaocan Brothers. They're dead now. She lives in their castle.",
-            "rarity": "kNoRarity",
+            "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/246001.jpg",
             "chromas": [
@@ -30062,7 +30208,7 @@
       },
       {
         "id": 3338,
-        "title": "2018 LPL OHMYGOD",
+        "title": "Call Me!",
         "description": "This icon was released in the store for purchase during the 2018 esports season.",
         "set": "eSports Teams",
         "yearReleased": 2018,
@@ -30072,7 +30218,7 @@
       },
       {
         "id": 3339,
-        "title": "2018 LPL JD Gaming",
+        "title": "Think About It",
         "description": "This icon was released in the store for purchase during the 2018 esports season.",
         "set": "eSports Teams",
         "yearReleased": 2018,
@@ -34233,7 +34379,7 @@
       {
         "id": 3779,
         "title": "Golden Championship Kha'Zix Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
+        "description": "Unlocked through crafting during the 2018 Worlds event.",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
@@ -34243,7 +34389,7 @@
       {
         "id": 3780,
         "title": "Golden Championship Sword Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
+        "description": "Unlocked through crafting during the 2018 Worlds event.",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
@@ -34253,7 +34399,7 @@
       {
         "id": 3781,
         "title": "Golden Championship Lantern Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
+        "description": "Unlocked through crafting during the 2018 Worlds event.",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
@@ -34263,7 +34409,7 @@
       {
         "id": 3782,
         "title": "Golden Championship Gauntlet Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
+        "description": "Unlocked through crafting during the 2018 Worlds event.",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
@@ -34273,7 +34419,7 @@
       {
         "id": 3783,
         "title": "Golden Championship Spears Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
+        "description": "Unlocked through crafting during the 2018 Worlds event.",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
@@ -34283,7 +34429,7 @@
       {
         "id": 3784,
         "title": "Golden Championship Blade Icon",
-        "description": "Unlocked through crafting during the 2018 Worlds event.\\n",
+        "description": "Unlocked through crafting during the 2018 Worlds event.",
         "set": "Esports",
         "yearReleased": 2018,
         "rarity": "kEpic",
@@ -37590,7 +37736,7 @@
       {
         "id": 4152,
         "title": "Fan Club Icon",
-        "description": "Unlocked by reaching Level 2 in the 2019 Summer Esports Watch Missions",
+        "description": "Unlocked by reaching Level 3 in the 2019 Summer Esports Watch Missions",
         "set": null,
         "yearReleased": 2019,
         "rarity": "kNoRarity",
@@ -37646,6 +37792,36 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4157.jpg"
+      },
+      {
+        "id": 4158,
+        "title": "2019 LCS Team Pass Icon",
+        "description": "This icon was earned by completing the level 3 LCS Team Pass mission.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4158.jpg"
+      },
+      {
+        "id": 4159,
+        "title": "2019 LEC Team Pass Icon",
+        "description": "This icon was earned by completing the level 3 LEC Team Pass mission.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4159.jpg"
+      },
+      {
+        "id": 4160,
+        "title": "2019 Fan Pass Icon",
+        "description": "This icon was earned by completing the level 3 Fan Pass mission.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4160.jpg"
       },
       {
         "id": 4161,
@@ -38246,6 +38422,86 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4220.jpg"
+      },
+      {
+        "id": 4221,
+        "title": "Demacia Vice Garen Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade Event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4221.jpg"
+      },
+      {
+        "id": 4222,
+        "title": "Demacia Vice Lucian Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade Event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4222.jpg"
+      },
+      {
+        "id": 4223,
+        "title": "Demacia Vice Garen Border Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade Event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4223.jpg"
+      },
+      {
+        "id": 4224,
+        "title": "Demacia Vice Lucian Border Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade Event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4224.jpg"
+      },
+      {
+        "id": 4225,
+        "title": "Demacia Vice Neon Sun Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade Event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4225.jpg"
+      },
+      {
+        "id": 4226,
+        "title": "Gamer Poro Icon",
+        "description": "Awarded for completing Back in the League mission.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4226.jpg"
+      },
+      {
+        "id": 4227,
+        "title": "Legendary Handshake Icon",
+        "description": "This icon was acquired through Loot during the 2019 Arcade event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4227.jpg"
+      },
+      {
+        "id": 4228,
+        "title": "Gamer Poro Icon",
+        "description": "Awarded for completing Back in the League mission.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4228.jpg"
       },
       {
         "id": 4,
@@ -44559,6 +44815,16 @@
         "imagePath": "/assets/wards/140.png"
       },
       {
+        "id": 141,
+        "name": "Demacia Vice Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired during the 2019 Arcade event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/141.png"
+      },
+      {
         "id": 142,
         "name": "TSM Ward",
         "defaultDescription": null,
@@ -47791,6 +48057,18 @@
         "name": "Master's Challenge Season 4",
         "description": null,
         "imagePath": "/assets/emotes/3337.png"
+      },
+      {
+        "id": 3338,
+        "name": "Call Me!",
+        "description": "game_summoner_emote_description_3338",
+        "imagePath": "/assets/emotes/3338.png"
+      },
+      {
+        "id": 3339,
+        "name": "Think About It",
+        "description": "game_summoner_emote_description_3339",
+        "imagePath": "/assets/emotes/3339.png"
       },
       {
         "id": 4,
