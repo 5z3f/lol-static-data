@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.14.282.267",
+  "version": "9.15.283.4011",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,11 +13,11 @@
   ],
   "info": {
     "champions": 145,
-    "skins": 955,
-    "chromas": 931,
-    "icons": 2276,
-    "emotes": 470,
-    "wards": 188,
+    "skins": 961,
+    "chromas": 968,
+    "icons": 2294,
+    "emotes": 492,
+    "wards": 189,
     "tftcompanions": 109,
     "tftmapskins": 4
   },
@@ -3446,6 +3446,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 19016,
+            "name": "PROJECT: Warwick",
+            "description": "Plucked from the wastelands by a PROJECT research cell, Warwick has been irrevocably transformed into a horrifying new stage of transhuman evolution—a weaponized monster stripped of all remorse, and programmed solely for violent suppression. Through the meddling of the ragtag outsiders, he escaped before being completed, and now rampages indiscriminately across the City.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/19016.jpg",
+            "chromas": [
+              {
+                "id": 19026,
+                "name": "PROJECT: Warwick",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
+                ]
+              },
+              {
+                "id": 19027,
+                "name": "PROJECT: Warwick",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 19028,
+                "name": "PROJECT: Warwick",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 19029,
+                "name": "PROJECT: Warwick",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 19030,
+                "name": "PROJECT: Warwick",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 19031,
+                "name": "PROJECT: Warwick",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 19032,
+                "name": "PROJECT: Warwick",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 19033,
+                "name": "PROJECT: Warwick",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 19034,
+                "name": "PROJECT: Warwick",
+                "description": "Loot exclusive gained during the 2019 PROJECT event.",
+                "colors": [
+                  "#FF5500",
+                  "#162B30"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -6349,6 +6440,24 @@
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/39015.jpg",
+            "chromas": null
+          },
+          {
+            "id": 39016,
+            "name": "PROJECT: Irelia",
+            "description": "A PROJECT castoff who found sanctuary in the lawless wastes, Irelia has led other outcasts like her as they attempt to survive corporate assassins, murderous old-world technology, and widespread ecological collapse. Knowing Warwick could destroy everything she holds dear, she joins the attack on the City to end PROJECT once and for all.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/39016.jpg",
+            "chromas": null
+          },
+          {
+            "id": 39017,
+            "name": "PROJECT: Irelia Prestige Edition",
+            "description": "There are moments when Irelia and the other outcasts remember who they once were, before PROJECT exiled them into a wasteland filled with sand-blasted monuments to corporate greed. These memories are fleeting, the last flickering images of a long-compromised humanity.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/39017.jpg",
             "chromas": null
           }
         ]
@@ -11475,6 +11584,97 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/84013.jpg",
             "chromas": null
+          },
+          {
+            "id": 84014,
+            "name": "PROJECT: Akali",
+            "description": "A cutting-edge PROJECT subject who somehow escaped the City's boundaries, Akali brings dire warnings of an untested superweapon to those living in the wasteland beyond. With time running out and no other options, these outcasts join her in an attempt to take the mega-corporation down… suspicious that their newfound ally might in fact be a double agent.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/84014.jpg",
+            "chromas": [
+              {
+                "id": 84016,
+                "name": "PROJECT: Akali",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 84017,
+                "name": "PROJECT: Akali",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 84018,
+                "name": "PROJECT: Akali",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 84019,
+                "name": "PROJECT: Akali",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 84020,
+                "name": "PROJECT: Akali",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 84021,
+                "name": "PROJECT: Akali",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 84022,
+                "name": "PROJECT: Akali",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 84023,
+                "name": "PROJECT: Akali",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 84024,
+                "name": "PROJECT: Akali",
+                "description": "Loot exclusive gained during the 2019 PROJECT event.",
+                "colors": [
+                  "#FF5500",
+                  "#162B30"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -14562,7 +14762,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/114004.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 114040,
+                "name": "PROJECT: Fiora",
+                "description": "Loot exclusive gained during the 2019 PROJECT event.",
+                "colors": [
+                  "#FF5500",
+                  "#162B30"
+                ]
+              }
+            ]
           },
           {
             "id": 114005,
@@ -18221,6 +18431,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 222020,
+            "name": "PROJECT: Jinx",
+            "description": "Jinx volunteered for PROJECT conversion, never expecting that a critical power failure would scramble her memory core, leaving her a psychopath driven by the manic voices in her head. Seemingly obsessed with destruction for its own sake, she has begun to show signs of something far more sinister than mere memory fragmentation: the cold, calculating influence of Program.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/222020.jpg",
+            "chromas": [
+              {
+                "id": 222021,
+                "name": "PROJECT: Jinx",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 222022,
+                "name": "PROJECT: Jinx",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 222023,
+                "name": "PROJECT: Jinx",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 222024,
+                "name": "PROJECT: Jinx",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 222025,
+                "name": "PROJECT: Jinx",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 222026,
+                "name": "PROJECT: Jinx",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 222027,
+                "name": "PROJECT: Jinx",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 222028,
+                "name": "PROJECT: Jinx",
+                "description": "Loot exclusive gained during the 2019 PROJECT event.",
+                "colors": [
+                  "#FF5500",
+                  "#162B30"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -18406,7 +18698,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/236006.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 236017,
+                "name": "PROJECT: Lucian",
+                "description": "Loot exclusive gained during the 2019 PROJECT event.",
+                "colors": [
+                  "#FF5500",
+                  "#162B30"
+                ]
+              }
+            ]
           },
           {
             "id": 236007,
@@ -18603,7 +18905,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/238003.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 238014,
+                "name": "PROJECT: Zed",
+                "description": "Loot exclusive gained during the 2019 PROJECT event.",
+                "colors": [
+                  "#FF5500",
+                  "#162B30"
+                ]
+              }
+            ]
           },
           {
             "id": 238010,
@@ -20758,6 +21070,88 @@
                 "colors": [
                   "#ECF9F8",
                   "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 555016,
+            "name": "PROJECT: Pyke",
+            "description": "An early PROJECT prototype, Pyke's untested upgrades left him violently unstable—too much so for his handlers, who junked him and threw his remains outside the walls of the City. Yet his cybernetic brain survived, rebuilding Pyke with salvaged scrap parts from all around him, and now their fragmented, overlapping memories mix with his own as they scream out for revenge.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/555016.jpg",
+            "chromas": [
+              {
+                "id": 555017,
+                "name": "PROJECT: Pyke",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 555018,
+                "name": "PROJECT: Pyke",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 555019,
+                "name": "PROJECT: Pyke",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 555020,
+                "name": "PROJECT: Pyke",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 555021,
+                "name": "PROJECT: Pyke",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 555022,
+                "name": "PROJECT: Pyke",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 555023,
+                "name": "PROJECT: Pyke",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 555024,
+                "name": "PROJECT: Pyke",
+                "description": "Loot exclusive gained during the 2019 PROJECT event.",
+                "colors": [
+                  "#FF5500",
+                  "#162B30"
                 ]
               }
             ]
@@ -28615,6 +29009,16 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/3176.jpg"
+      },
+      {
+        "id": 3177,
+        "title": "Master's Challenge Season 1",
+        "description": "This reward commemorates the top 2000 players on Master's Challenge shard.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kUltimate",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/3177.jpg"
       },
       {
         "id": 3178,
@@ -38504,6 +38908,176 @@
         "imagePath": "/assets/icons/4228.jpg"
       },
       {
+        "id": 4229,
+        "title": "PROJECT: Reckoning Pass Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4229.jpg"
+      },
+      {
+        "id": 4230,
+        "title": "PROJECT: Reckoning Icon",
+        "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4230.jpg"
+      },
+      {
+        "id": 4231,
+        "title": "PROJECT: Irelia Icon",
+        "description": "This icon was acquired during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4231.jpg"
+      },
+      {
+        "id": 4232,
+        "title": "PROJECT: Jinx Icon",
+        "description": "This icon was acquired during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4232.jpg"
+      },
+      {
+        "id": 4233,
+        "title": "PROJECT: Warwick Icon",
+        "description": "This icon was acquired during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4233.jpg"
+      },
+      {
+        "id": 4234,
+        "title": "PROJECT: Akali Icon",
+        "description": "This icon was acquired during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4234.jpg"
+      },
+      {
+        "id": 4235,
+        "title": "PROJECT: Pyke Icon",
+        "description": "This icon was acquired during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4235.jpg"
+      },
+      {
+        "id": 4236,
+        "title": "PROJECT: Warwick Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4236.jpg"
+      },
+      {
+        "id": 4237,
+        "title": "PROJECT: Akali Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4237.jpg"
+      },
+      {
+        "id": 4238,
+        "title": "PROJECT: Jinx Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4238.jpg"
+      },
+      {
+        "id": 4239,
+        "title": "PROJECT: Fiora Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4239.jpg"
+      },
+      {
+        "id": 4240,
+        "title": "PROJECT: Lucian Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4240.jpg"
+      },
+      {
+        "id": 4241,
+        "title": "PROJECT: Zed Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4241.jpg"
+      },
+      {
+        "id": 4242,
+        "title": "PROJECT: Pyke Mission Icon",
+        "description": "This icon was rewarded for completing the final PROJECT Pyke mission during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4242.jpg"
+      },
+      {
+        "id": 4243,
+        "title": "PROJECT: Mission Icon",
+        "description": "This icon was rewarded for completing the final PROJECT mission during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4243.jpg"
+      },
+      {
+        "id": 4244,
+        "title": "Season 2019 - Split 3 Icon",
+        "description": "Earned by winning ranked games in Season 2019 - Split 3.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4244.jpg"
+      },
+      {
+        "id": 4245,
+        "title": "PROJECT: Pyke Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4245.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -45283,6 +45857,16 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/187.png"
+      },
+      {
+        "id": 189,
+        "name": "PROJECT: Reckoning Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 PROJECT event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/189.png"
       }
     ],
     "emotes": [
@@ -47957,6 +48541,66 @@
         "imagePath": "/assets/emotes/3301.png"
       },
       {
+        "id": 3302,
+        "name": "2019 Afreeca Freecs",
+        "description": null,
+        "imagePath": "/assets/emotes/3302.png"
+      },
+      {
+        "id": 3303,
+        "name": "2019 DAMWON Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3303.png"
+      },
+      {
+        "id": 3304,
+        "name": "2019 Gen.G",
+        "description": null,
+        "imagePath": "/assets/emotes/3304.png"
+      },
+      {
+        "id": 3305,
+        "name": "2019 GRIFFIN",
+        "description": null,
+        "imagePath": "/assets/emotes/3305.png"
+      },
+      {
+        "id": 3306,
+        "name": "2019 Hanwha Life Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3306.png"
+      },
+      {
+        "id": 3307,
+        "name": "2019 Jin Air Greenwings",
+        "description": null,
+        "imagePath": "/assets/emotes/3307.png"
+      },
+      {
+        "id": 3308,
+        "name": "2019 KING-ZONE DragonX",
+        "description": null,
+        "imagePath": "/assets/emotes/3308.png"
+      },
+      {
+        "id": 3309,
+        "name": "2019 kt Rolster",
+        "description": null,
+        "imagePath": "/assets/emotes/3309.png"
+      },
+      {
+        "id": 3310,
+        "name": "2019 SANDBOX Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3310.png"
+      },
+      {
+        "id": 3311,
+        "name": "2019 SK telecom T1",
+        "description": null,
+        "imagePath": "/assets/emotes/3311.png"
+      },
+      {
         "id": 3318,
         "name": "2019 Bilibili Gaming",
         "description": null,
@@ -48053,6 +48697,24 @@
         "imagePath": "/assets/emotes/3333.png"
       },
       {
+        "id": 3334,
+        "name": "Watch Yourself",
+        "description": null,
+        "imagePath": "/assets/emotes/3334.png"
+      },
+      {
+        "id": 3335,
+        "name": "Hush Now",
+        "description": null,
+        "imagePath": "/assets/emotes/3335.png"
+      },
+      {
+        "id": 3336,
+        "name": "Bang!",
+        "description": null,
+        "imagePath": "/assets/emotes/3336.png"
+      },
+      {
         "id": 3337,
         "name": "Master's Challenge Season 4",
         "description": null,
@@ -48069,6 +48731,60 @@
         "name": "Think About It",
         "description": "game_summoner_emote_description_3339",
         "imagePath": "/assets/emotes/3339.png"
+      },
+      {
+        "id": 3340,
+        "name": "2019 - Split 3 - Iron",
+        "description": null,
+        "imagePath": "/assets/emotes/3340.png"
+      },
+      {
+        "id": 3341,
+        "name": "2019 - Split 3 - Bronze",
+        "description": null,
+        "imagePath": "/assets/emotes/3341.png"
+      },
+      {
+        "id": 3342,
+        "name": "2019 - Split 3 - Silver",
+        "description": null,
+        "imagePath": "/assets/emotes/3342.png"
+      },
+      {
+        "id": 3343,
+        "name": "2019 - Split 3 - Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3343.png"
+      },
+      {
+        "id": 3344,
+        "name": "2019 - Split 3 - Platinum",
+        "description": null,
+        "imagePath": "/assets/emotes/3344.png"
+      },
+      {
+        "id": 3345,
+        "name": "2019 - Split 3 - Diamond",
+        "description": null,
+        "imagePath": "/assets/emotes/3345.png"
+      },
+      {
+        "id": 3346,
+        "name": "2019 - Split 3 - Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3346.png"
+      },
+      {
+        "id": 3347,
+        "name": "2019 - Split 3 - Grand Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3347.png"
+      },
+      {
+        "id": 3348,
+        "name": "2019 - Split 3 - Challenger",
+        "description": null,
+        "imagePath": "/assets/emotes/3348.png"
       },
       {
         "id": 4,
