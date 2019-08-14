@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.15.283.4011",
+  "version": "9.16.284.8446",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,13 +13,13 @@
   ],
   "info": {
     "champions": 145,
-    "skins": 961,
-    "chromas": 968,
-    "icons": 2294,
+    "skins": 963,
+    "chromas": 970,
+    "icons": 2315,
     "emotes": 492,
     "wards": 189,
-    "tftcompanions": 109,
-    "tftmapskins": 4
+    "tftcompanions": 163,
+    "tftmapskins": 7
   },
   "data": {
     "champions": [
@@ -3318,7 +3318,17 @@
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/19001.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 19018,
+                "name": "Grey Warwick",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              }
+            ]
           },
           {
             "id": 19002,
@@ -4791,7 +4801,17 @@
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/29003.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 29021,
+                "name": "Medieval Twitch",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              }
+            ]
           },
           {
             "id": 29004,
@@ -5555,6 +5575,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 33016,
+            "name": "Hextech Rammus",
+            "description": "Even the most renowned Hextech artificer must bow to the creativity and perfection of nature. After crafting each of Rammus's arcs to mimic the golden spiral, the creature proved so efficient at rolling... it escaped the moment its creator put down her wrench.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/33016.jpg",
+            "chromas": null
           }
         ]
       },
@@ -10596,6 +10625,15 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/77004.jpg",
             "chromas": null
+          },
+          {
+            "id": 77005,
+            "name": "Dragon Oracle Udyr",
+            "description": "To know the dragon spirit is to hold tightly to an ember that still burns. Only through discipline has Udyr survived such magic, seeking not to master the dragons—as many before him—but to channel their flame into a blaze hot enough to fuel his own rebirth.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/77005.jpg",
+            "chromas": null
           }
         ]
       },
@@ -10879,10 +10917,10 @@
         "id": 80,
         "name": "Pantheon",
         "alias": "Pantheon",
-        "title": "the Artisan of War",
+        "title": "the Unbreakable Spear",
         "releaseDate": "2010-02-02",
         "associatedFactionSlug": "mount-targon",
-        "shortBio": "The peerless warrior known as Pantheon is a nigh-unstoppable paragon of battle. He was born among the Rakkor, a warlike people living on the flanks of Mount Targon, and after climbing the mountain's treacherous peak and being deemed worthy, he was chosen to become the earthly incarnation of the celestial Aspect of War. Imbued with inhuman power, he relentlessly seeks the enemies of Targon, leaving only corpses in his wake.",
+        "shortBio": "Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn resilience that goes along with it. Atreus now opposes the divine as Pantheon reborn, his unbreakable will fueling the fallen Aspect's weapons on the field of battle.",
         "squarePortraitPath": "/assets/champions/portraits/80.png",
         "roles": [
           "fighter",
@@ -10901,7 +10939,7 @@
           {
             "id": 80001,
             "name": "Myrmidon Pantheon",
-            "description": "Legend says the Myrmidons were created out of an ant colony by the gods, giving them unmatched strength and ability in combat. Pantheon also craves fruit slices and sugar water. It's an ant thing.",
+            "description": "“They say the Myrmidons were shaped by the gods—that Zeus himself quickened life into magma. But then, the Myrmidons marched. They marched against us. And in the ash of their skin, the fire of their merciless eyes, I saw all the wars that humanity had wrought. That they... were us.”",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/80001.jpg",
@@ -10910,7 +10948,7 @@
           {
             "id": 80002,
             "name": "Ruthless Pantheon",
-            "description": null,
+            "description": "You can't run from your past. Not when it's riding you down from the back of a doombuggy, scrap-spear raised. Hunting for the dregs of the Vandal gang across the wastes, it's said they're the only ones who know his name, and what happened that night… when he became ruthless.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/80002.jpg",
@@ -10919,7 +10957,7 @@
           {
             "id": 80003,
             "name": "Perseus Pantheon",
-            "description": null,
+            "description": "Favored by the gods, Perseus gathered five sacred artifacts, and even tamed the wild pegasus, all in his quest to rescue fair Andromeda—only to turn the relics against those same gods when they unleashed the Gorgons upon humanity.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/80003.jpg",
@@ -10937,7 +10975,7 @@
           {
             "id": 80005,
             "name": "Glaive Warrior Pantheon",
-            "description": null,
+            "description": "Born of a wolf, and bearing the wolf's standard into battle, this Dacian glaive warrior fights in the cold of the Carpathian Mountains—knowing that the blood of his enemies will keep him warm.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/80005.jpg",
@@ -10946,7 +10984,7 @@
           {
             "id": 80006,
             "name": "Dragonslayer Pantheon",
-            "description": "When dragon fire consumed the world, heroes rose from the embers and cast down the beasts of legend. These warriors passed into history, then myth… but Pantheon alone remained, the last of the ancient dragonslayers.",
+            "description": "When dragon fire consumed the world, heroes rose from the embers and cast down the beasts of legend. These warriors passed into history, then myth… until Pantheon alone remained, the last of the ancient dragonslayers, swearing upon the skies eternal revenge.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/80006.jpg",
@@ -11018,7 +11056,7 @@
           },
           {
             "id": 80007,
-            "name": "Slayer Pantheon",
+            "name": "Zombie Slayer Pantheon",
             "description": "A former mechanic at the same auto body shop Jinx once worked at, Pantheon dreamed of switching careers… until a mutagenic virus turned everyone else into zombies. Slicing monsters in half with a chainsaw-spear is way more fun than replacing windshield wipers, anyway.",
             "rarity": "kNoRarity",
             "isLegacy": true,
@@ -18343,7 +18381,7 @@
           },
           {
             "id": 222003,
-            "name": "Slayer Jinx",
+            "name": "Zombie Slayer Jinx",
             "description": "When a mutagenic virus turned the world into an undead purgatory, no one was more excited than Jinx. No laws, no civilization, not even a thin veneer of polite society had survived—just a numberless horde of slime-vomiting bullet sponges and all the ammo she can forage. It's paradise.",
             "rarity": "kEpic",
             "isLegacy": true,
@@ -38911,7 +38949,7 @@
         "id": 4229,
         "title": "PROJECT: Reckoning Pass Icon",
         "description": "This icon was released as a bundle exclusive during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -38921,7 +38959,7 @@
         "id": 4230,
         "title": "PROJECT: Reckoning Icon",
         "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -38931,7 +38969,7 @@
         "id": 4231,
         "title": "PROJECT: Irelia Icon",
         "description": "This icon was acquired during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -38941,7 +38979,7 @@
         "id": 4232,
         "title": "PROJECT: Jinx Icon",
         "description": "This icon was acquired during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -38951,7 +38989,7 @@
         "id": 4233,
         "title": "PROJECT: Warwick Icon",
         "description": "This icon was acquired during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -38961,7 +38999,7 @@
         "id": 4234,
         "title": "PROJECT: Akali Icon",
         "description": "This icon was acquired during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -38971,7 +39009,7 @@
         "id": 4235,
         "title": "PROJECT: Pyke Icon",
         "description": "This icon was acquired during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -38981,7 +39019,7 @@
         "id": 4236,
         "title": "PROJECT: Warwick Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -38991,7 +39029,7 @@
         "id": 4237,
         "title": "PROJECT: Akali Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -39001,7 +39039,7 @@
         "id": 4238,
         "title": "PROJECT: Jinx Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -39011,7 +39049,7 @@
         "id": 4239,
         "title": "PROJECT: Fiora Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -39021,7 +39059,7 @@
         "id": 4240,
         "title": "PROJECT: Lucian Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -39031,7 +39069,7 @@
         "id": 4241,
         "title": "PROJECT: Zed Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -39041,7 +39079,7 @@
         "id": 4242,
         "title": "PROJECT: Pyke Mission Icon",
         "description": "This icon was rewarded for completing the final PROJECT Pyke mission during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -39051,7 +39089,7 @@
         "id": 4243,
         "title": "PROJECT: Mission Icon",
         "description": "This icon was rewarded for completing the final PROJECT mission during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -39071,11 +39109,221 @@
         "id": 4245,
         "title": "PROJECT: Pyke Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 PROJECT event.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
         "imagePath": "/assets/icons/4245.jpg"
+      },
+      {
+        "id": 4250,
+        "title": "KING-ZONE DragonX Icon",
+        "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4250.jpg"
+      },
+      {
+        "id": 4251,
+        "title": "Afreeca Freecs Icon",
+        "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4251.jpg"
+      },
+      {
+        "id": 4252,
+        "title": "DAMWON Gaming Icon",
+        "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4252.jpg"
+      },
+      {
+        "id": 4253,
+        "title": "Gen.G Icon",
+        "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4253.jpg"
+      },
+      {
+        "id": 4254,
+        "title": "GRIFFIN Icon",
+        "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4254.jpg"
+      },
+      {
+        "id": 4255,
+        "title": "Hanwha Life Esports Icon",
+        "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4255.jpg"
+      },
+      {
+        "id": 4256,
+        "title": "Jin Air Greenwings Icon",
+        "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4256.jpg"
+      },
+      {
+        "id": 4257,
+        "title": "kt Rolster Icon",
+        "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4257.jpg"
+      },
+      {
+        "id": 4258,
+        "title": "SANDBOX Gaming Icon",
+        "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4258.jpg"
+      },
+      {
+        "id": 4259,
+        "title": "SK telecom T1 Icon",
+        "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4259.jpg"
+      },
+      {
+        "id": 4270,
+        "title": "What's in the Box Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4270.jpg"
+      },
+      {
+        "id": 4271,
+        "title": "Pirate's Bounty Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4271.jpg"
+      },
+      {
+        "id": 4272,
+        "title": "3-Star Awesome Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4272.jpg"
+      },
+      {
+        "id": 4273,
+        "title": "Pass 2 Champion Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4273.jpg"
+      },
+      {
+        "id": 4274,
+        "title": "Pengu Portal Party Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4274.jpg"
+      },
+      {
+        "id": 4275,
+        "title": "Dueling Spatulas Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4275.jpg"
+      },
+      {
+        "id": 4276,
+        "title": "Jeweled Protector Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4276.jpg"
+      },
+      {
+        "id": 4277,
+        "title": "Moontipped Hushtail Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4277.jpg"
+      },
+      {
+        "id": 4278,
+        "title": "Jade Paddlemar Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4278.jpg"
+      },
+      {
+        "id": 4279,
+        "title": "Grey Warwick Sapphire Chroma Icon",
+        "description": "Earned by reaching Honor 5.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4279.jpg"
+      },
+      {
+        "id": 4280,
+        "title": "Medieval Twitch Sapphire Chroma Icon",
+        "description": "Earned by reaching Honor 5.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4280.jpg"
       },
       {
         "id": 4,
@@ -45380,7 +45628,7 @@
       },
       {
         "id": 140,
-        "name": "",
+        "name": "SK telecom T1 Ward",
         "defaultDescription": null,
         "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
@@ -45770,7 +46018,7 @@
       },
       {
         "id": 179,
-        "name": "",
+        "name": "KING-ZONE DragonX Ward",
         "defaultDescription": null,
         "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
@@ -45780,7 +46028,7 @@
       },
       {
         "id": 180,
-        "name": "",
+        "name": "Afreeca Freecs Ward",
         "defaultDescription": null,
         "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
@@ -45790,7 +46038,7 @@
       },
       {
         "id": 181,
-        "name": "",
+        "name": "DAMWON Gaming Ward",
         "defaultDescription": null,
         "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
@@ -45800,7 +46048,7 @@
       },
       {
         "id": 182,
-        "name": "",
+        "name": "Gen.G Ward",
         "defaultDescription": null,
         "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
@@ -45810,7 +46058,7 @@
       },
       {
         "id": 183,
-        "name": "",
+        "name": "GRIFFIN Ward",
         "defaultDescription": null,
         "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
@@ -45820,7 +46068,7 @@
       },
       {
         "id": 184,
-        "name": "",
+        "name": "Hanwha Life Esports Ward",
         "defaultDescription": null,
         "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
@@ -45830,7 +46078,7 @@
       },
       {
         "id": 185,
-        "name": "",
+        "name": "Jin Air Greenwings Ward",
         "defaultDescription": null,
         "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
@@ -45840,7 +46088,7 @@
       },
       {
         "id": 186,
-        "name": "",
+        "name": "kt Rolster Ward",
         "defaultDescription": null,
         "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
@@ -45850,7 +46098,7 @@
       },
       {
         "id": 187,
-        "name": "",
+        "name": "SANDBOX Gaming Ward",
         "defaultDescription": null,
         "description": "This ward was acquired during the 2019 Arcade event.",
         "set": null,
@@ -48825,6 +49073,150 @@
     ],
     "tftcompanions": [
       {
+        "id": 7004,
+        "name": "Fierce Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/7004.png"
+      },
+      {
+        "id": 7005,
+        "name": "Fierce Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/7005.png"
+      },
+      {
+        "id": 7006,
+        "name": "Fierce Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/7006.png"
+      },
+      {
+        "id": 7001,
+        "name": "Jeweled Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/7001.png"
+      },
+      {
+        "id": 7002,
+        "name": "Jeweled Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/7002.png"
+      },
+      {
+        "id": 7003,
+        "name": "Jeweled Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/7003.png"
+      },
+      {
+        "id": 7013,
+        "name": "Reigning Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/7013.png"
+      },
+      {
+        "id": 7014,
+        "name": "Reigning Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/7014.png"
+      },
+      {
+        "id": 7015,
+        "name": "Reigning Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/7015.png"
+      },
+      {
+        "id": 7007,
+        "name": "Shadowgem Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/7007.png"
+      },
+      {
+        "id": 7008,
+        "name": "Shadowgem Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/7008.png"
+      },
+      {
+        "id": 7009,
+        "name": "Shadowgem Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/7009.png"
+      },
+      {
+        "id": 7010,
+        "name": "Skygem Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/7010.png"
+      },
+      {
+        "id": 7011,
+        "name": "Skygem Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/7011.png"
+      },
+      {
+        "id": 7012,
+        "name": "Skygem Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/7012.png"
+      },
+      {
+        "id": 7016,
+        "name": "Sunborn Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/7016.png"
+      },
+      {
+        "id": 7017,
+        "name": "Sunborn Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/7017.png"
+      },
+      {
+        "id": 7018,
+        "name": "Sunborn Protector",
+        "description": "A young, fuzzy Protector.",
+        "species": "Protector",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/7018.png"
+      },
+      {
         "id": 1016,
         "name": "Shadowmask Hauntling",
         "description": "The spookiest of the Little Legends.",
@@ -49689,12 +50081,300 @@
         "imagePath": "/assets/tftcompanions/6015.png"
       },
       {
+        "id": 9016,
+        "name": "Eternal Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/9016.png"
+      },
+      {
+        "id": 9017,
+        "name": "Eternal Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/9017.png"
+      },
+      {
+        "id": 9018,
+        "name": "Eternal Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/9018.png"
+      },
+      {
+        "id": 9004,
+        "name": "Fae Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/9004.png"
+      },
+      {
+        "id": 9005,
+        "name": "Fae Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/9005.png"
+      },
+      {
+        "id": 9006,
+        "name": "Fae Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/9006.png"
+      },
+      {
+        "id": 9010,
+        "name": "Mistberry Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/9010.png"
+      },
+      {
+        "id": 9011,
+        "name": "Mistberry Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/9011.png"
+      },
+      {
+        "id": 9012,
+        "name": "Mistberry Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/9012.png"
+      },
+      {
+        "id": 9007,
+        "name": "Monarch Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/9007.png"
+      },
+      {
+        "id": 9008,
+        "name": "Monarch Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/9008.png"
+      },
+      {
+        "id": 9009,
+        "name": "Monarch Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/9009.png"
+      },
+      {
+        "id": 9001,
+        "name": "Moontipped Hushtail",
+        "description": "A young, fuzzy Protector.",
+        "species": "Hushtail",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/9001.png"
+      },
+      {
+        "id": 9002,
+        "name": "Moontipped Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/9002.png"
+      },
+      {
+        "id": 9003,
+        "name": "Moontipped Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/9003.png"
+      },
+      {
+        "id": 9013,
+        "name": "Untamed Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/9013.png"
+      },
+      {
+        "id": 9014,
+        "name": "Untamed Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/9014.png"
+      },
+      {
+        "id": 9015,
+        "name": "Untamed Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/9015.png"
+      },
+      {
         "id": 1,
         "name": "River Sprite",
         "description": "River Sprite",
         "species": "River Sprite",
         "level": 0,
         "imagePath": "/assets/tftcompanions/1.png"
+      },
+      {
+        "id": 8007,
+        "name": "Caldera Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8007.png"
+      },
+      {
+        "id": 8008,
+        "name": "Caldera Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8008.png"
+      },
+      {
+        "id": 8009,
+        "name": "Caldera Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8009.png"
+      },
+      {
+        "id": 8004,
+        "name": "Glamorous Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8004.png"
+      },
+      {
+        "id": 8005,
+        "name": "Glamorous Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8005.png"
+      },
+      {
+        "id": 8006,
+        "name": "Glamorous Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8006.png"
+      },
+      {
+        "id": 8001,
+        "name": "Jade Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8001.png"
+      },
+      {
+        "id": 8002,
+        "name": "Jade Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8002.png"
+      },
+      {
+        "id": 8003,
+        "name": "Jade Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8003.png"
+      },
+      {
+        "id": 8013,
+        "name": "Rosebloom Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8013.png"
+      },
+      {
+        "id": 8014,
+        "name": "Rosebloom Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8014.png"
+      },
+      {
+        "id": 8015,
+        "name": "Rosebloom Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8015.png"
+      },
+      {
+        "id": 8010,
+        "name": "Tidepool Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8010.png"
+      },
+      {
+        "id": 8011,
+        "name": "Tidepool Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8011.png"
+      },
+      {
+        "id": 8012,
+        "name": "Tidepool Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8012.png"
+      },
+      {
+        "id": 8016,
+        "name": "Yuletide Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8016.png"
+      },
+      {
+        "id": 8017,
+        "name": "Yuletide Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8017.png"
+      },
+      {
+        "id": 8018,
+        "name": "Yuletide Paddlemar",
+        "description": "A snoozing Paddlemar.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8018.png"
       }
     ],
     "tftmapskins": [
@@ -49721,6 +50401,24 @@
         "name": "Arrowhead Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/4.png"
+      },
+      {
+        "id": 5,
+        "name": "Basic Draconic Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/5.png"
+      },
+      {
+        "id": 6,
+        "name": "Basic Verdant Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/6.png"
+      },
+      {
+        "id": 7,
+        "name": "Basic Summoners' Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/7.png"
       }
     ]
   }
