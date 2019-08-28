@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.16.284.8446",
+  "version": "9.17.286.7872",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,10 +13,10 @@
   ],
   "info": {
     "champions": 145,
-    "skins": 963,
-    "chromas": 970,
-    "icons": 2315,
-    "emotes": 492,
+    "skins": 969,
+    "chromas": 1010,
+    "icons": 2324,
+    "emotes": 495,
     "wards": 189,
     "tftcompanions": 163,
     "tftmapskins": 7
@@ -435,6 +435,61 @@
                 "colors": [
                   "#5F432B",
                   "#5F432B"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3013,
+            "name": "Infernal Galio",
+            "description": "A black-hearted monstrosity leading the hellish Infernal hordes, Galio is titanic even by the standards of his fiery kin. His steps melt the very bedrock beneath him, swallowing entire armies without so much as a second thought.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/3013.jpg",
+            "chromas": [
+              {
+                "id": 3014,
+                "name": "Infernal Galio",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 3015,
+                "name": "Infernal Galio",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 3016,
+                "name": "Infernal Galio",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 3017,
+                "name": "Infernal Galio",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 3018,
+                "name": "Infernal Galio",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -5488,7 +5543,7 @@
           {
             "id": 33006,
             "name": "Full Metal Rammus",
-            "description": null,
+            "description": "Those who make it to the Full Metal Robot Fighting League—the premier institution for gear-crunching, robot-on-robot violence—must often face off against the fearsome Full Metal Rammus. It is an initial rite of passage, faced by every contender-bot, that leaves entire arenas in tremors...",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/33006.jpg",
@@ -7555,6 +7610,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 45013,
+            "name": "Elderwood Veigar",
+            "description": "A small number of the Elderwood's children remain largely unaffected by the growing influence of the Coven, to the relief of scholars and storytellers alike. Unfortunately, those particular children are some of the most whimsical and dangerous, including among their number the insane goblin Veigar and his cursed, hallucinogenic toadstools.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/45013.jpg",
+            "chromas": [
+              {
+                "id": 45014,
+                "name": "Elderwood Veigar",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 45015,
+                "name": "Elderwood Veigar",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 45016,
+                "name": "Elderwood Veigar",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 45017,
+                "name": "Elderwood Veigar",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 45018,
+                "name": "Elderwood Veigar",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 45019,
+                "name": "Elderwood Veigar",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 45020,
+                "name": "Elderwood Veigar",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 45021,
+                "name": "Elderwood Veigar",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 45022,
+                "name": "Elderwood Veigar",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -8675,6 +8821,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/56006.jpg",
             "chromas": null
+          },
+          {
+            "id": 56007,
+            "name": "Elderwood Nocturne",
+            "description": "The great corpses of the Old Gods fed the land, and in time even the Elderwood would come to grow over their putrid rot–hiding it, perhaps, for a time. But the Gods never truly died and, with the resurgence of the Coven, one has risen again–Nocturne, the Eternal Nightmare.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/56007.jpg",
+            "chromas": [
+              {
+                "id": 56008,
+                "name": "Elderwood Nocturne",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 56009,
+                "name": "Elderwood Nocturne",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 56010,
+                "name": "Elderwood Nocturne",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 56011,
+                "name": "Elderwood Nocturne",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 56012,
+                "name": "Elderwood Nocturne",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 56013,
+                "name": "Elderwood Nocturne",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 56014,
+                "name": "Elderwood Nocturne",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 56015,
+                "name": "Elderwood Nocturne",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -10966,7 +11194,7 @@
           {
             "id": 80004,
             "name": "Full Metal Pantheon",
-            "description": null,
+            "description": "A former Full Metal Robot Fighting League champion (2x reign, 14 title defenses), Pantheon was forced to retire in disgrace after a scandal involving Targon Fabrications. Reemerging from retirement to face the chosen champion, Jayce, Pantheon may be damaged, but has found that revenge adequately charges his weapon systems.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/80004.jpg",
@@ -12995,6 +13223,61 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/98015.jpg",
             "chromas": null
+          },
+          {
+            "id": 98016,
+            "name": "Infernal Shen",
+            "description": "An Infernal warrior risen from the raging depths of the underworld, Shen appears on battlefields in the blink of an eye, shielding his fellow titans from even the most well-organized resistance.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/98016.jpg",
+            "chromas": [
+              {
+                "id": 98017,
+                "name": "Infernal Shen",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 98018,
+                "name": "Infernal Shen",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 98019,
+                "name": "Infernal Shen",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 98020,
+                "name": "Infernal Shen",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 98021,
+                "name": "Infernal Shen",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -13494,6 +13777,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/103016.jpg",
             "chromas": null
+          },
+          {
+            "id": 103017,
+            "name": "Elderwood Ahri",
+            "description": "Fables of the trickster spirit Ahri have been part of mankind's history for countless generations. Fair-skinned and eternally youthful, she is portrayed as a curious, quizzical member of the Elderwood's feyfolk… though in recent years her heart has hardened, as she fights a growing corruption within her ancestral home.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/103017.jpg",
+            "chromas": [
+              {
+                "id": 103019,
+                "name": "Elderwood Ahri",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 103020,
+                "name": "Elderwood Ahri",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 103021,
+                "name": "Elderwood Ahri",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 103022,
+                "name": "Elderwood Ahri",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 103023,
+                "name": "Elderwood Ahri",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 103024,
+                "name": "Elderwood Ahri",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 103025,
+                "name": "Elderwood Ahri",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 103026,
+                "name": "Elderwood Ahri",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -14385,6 +14750,61 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 110009,
+            "name": "Infernal Varus",
+            "description": "The Infernal Varus rips massive gouts of magma from the foundation of the earth, before firing them in volleys at those who would fight back against him. Each arrow lands with the ferocity of an exploding volcano, reducing all resistance to ash.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/110009.jpg",
+            "chromas": [
+              {
+                "id": 110010,
+                "name": "Infernal Varus",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 110011,
+                "name": "Infernal Varus",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 110012,
+                "name": "Infernal Varus",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 110013,
+                "name": "Infernal Varus",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 110014,
+                "name": "Infernal Varus",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -14483,7 +14903,7 @@
           {
             "id": 112001,
             "name": "Full Machine Viktor",
-            "description": null,
+            "description": "Created from the same circuitry as the Full Metal champion, Jayce, Viktor was cast into the tunnels beneath the robot fighting arenas to serve as a janitoribot—while his twin was groomed for glory, simulcast en español. Upgrading himself with the cast-offs of the destroyed, he has sworn la venganza.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/112001.jpg",
@@ -16141,7 +16561,7 @@
           {
             "id": 126001,
             "name": "Full Metal Jayce",
-            "description": null,
+            "description": "Backed by RiotCorp as the Full Metal Fighting League's first corporately sanctioned champion, Jayce has dethroned Pantheon and won the hearts of audiences worldwide—especially those who realize they gain 15 Riot Points every time they cheer his cyclonic blasts.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/126001.jpg",
@@ -30650,7 +31070,7 @@
       },
       {
         "id": 3338,
-        "title": "Call Me!",
+        "title": "2018 LPL OHMYGOD",
         "description": "This icon was released in the store for purchase during the 2018 esports season.",
         "set": "eSports Teams",
         "yearReleased": 2018,
@@ -30660,7 +31080,7 @@
       },
       {
         "id": 3339,
-        "title": "Think About It",
+        "title": "2018 LPL JD Gaming",
         "description": "This icon was released in the store for purchase during the 2018 esports season.",
         "set": "eSports Teams",
         "yearReleased": 2018,
@@ -39116,6 +39536,46 @@
         "imagePath": "/assets/icons/4245.jpg"
       },
       {
+        "id": 4246,
+        "title": "Cracked Crownguard Icon",
+        "description": "This icon was acquired by completing 2019 Lux Comic missions.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4246.jpg"
+      },
+      {
+        "id": 4247,
+        "title": "Crownguard Icon",
+        "description": "This icon was acquired by completing 2019 Lux Comic missions.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4247.jpg"
+      },
+      {
+        "id": 4248,
+        "title": "Embellished Demacia Crest",
+        "description": "This icon was acquired by completing 2019 Lux Comic missions.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4248.jpg"
+      },
+      {
+        "id": 4249,
+        "title": "Demacia Crest",
+        "description": "This icon was acquired by completing 2019 Lux Comic missions.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4249.jpg"
+      },
+      {
         "id": 4250,
         "title": "KING-ZONE DragonX Icon",
         "description": "This icon was released in the store for purchase during the 2019 Esports regular season.",
@@ -39278,7 +39738,7 @@
       {
         "id": 4276,
         "title": "Jeweled Protector Icon",
-        "description": null,
+        "description": "This icon was acquired by purchasing the Jeweled Protector Species Egg!",
         "set": null,
         "yearReleased": 2019,
         "rarity": "kNoRarity",
@@ -39288,7 +39748,7 @@
       {
         "id": 4277,
         "title": "Moontipped Hushtail Icon",
-        "description": null,
+        "description": "This icon was acquired by purchasing the Moontipped Hushtail Species Egg!",
         "set": null,
         "yearReleased": 2019,
         "rarity": "kNoRarity",
@@ -39298,7 +39758,7 @@
       {
         "id": 4278,
         "title": "Jade Paddlemar Icon",
-        "description": null,
+        "description": "This icon was acquired by purchasing the Jade Paddlemar Species Egg!",
         "set": null,
         "yearReleased": 2019,
         "rarity": "kNoRarity",
@@ -39324,6 +39784,56 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4280.jpg"
+      },
+      {
+        "id": 4281,
+        "title": "Elderwood Ahri Icon",
+        "description": "This icon was acquired by purchasing one of the Elderwood bundles in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4281.jpg"
+      },
+      {
+        "id": 4282,
+        "title": "Elderwood Nocturne Icon",
+        "description": "This icon was acquired by purchasing one of the Elderwood bundles in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4282.jpg"
+      },
+      {
+        "id": 4283,
+        "title": "Elderwood Veigar Icon",
+        "description": "This icon was acquired by purchasing one of the Elderwood bundles in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4283.jpg"
+      },
+      {
+        "id": 4284,
+        "title": "Full Harvest Nasus Icon",
+        "description": "This icon was earned by completing 2019 festival mission.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4284.jpg"
+      },
+      {
+        "id": 4285,
+        "title": "Songpyeon Poro Icon",
+        "description": "This icon was acquired by purchasing 2019 festival item.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4285.jpg"
       },
       {
         "id": 4,
@@ -48970,13 +49480,13 @@
       },
       {
         "id": 3338,
-        "name": "Call Me!",
+        "name": "2018 LPL OHMYGOD",
         "description": "game_summoner_emote_description_3338",
         "imagePath": "/assets/emotes/3338.png"
       },
       {
         "id": 3339,
-        "name": "Think About It",
+        "name": "2018 LPL JD Gaming",
         "description": "game_summoner_emote_description_3339",
         "imagePath": "/assets/emotes/3339.png"
       },
@@ -49033,6 +49543,24 @@
         "name": "2019 - Split 3 - Challenger",
         "description": null,
         "imagePath": "/assets/emotes/3348.png"
+      },
+      {
+        "id": 3349,
+        "name": "See Ya!",
+        "description": null,
+        "imagePath": "/assets/emotes/3349.png"
+      },
+      {
+        "id": 3350,
+        "name": "Looking for This?",
+        "description": null,
+        "imagePath": "/assets/emotes/3350.png"
+      },
+      {
+        "id": 3352,
+        "name": "Good as Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3352.png"
       },
       {
         "id": 4,
