@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.17.286.7872",
+  "version": "9.18.288.4125",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,12 +13,12 @@
   ],
   "info": {
     "champions": 145,
-    "skins": 969,
-    "chromas": 1010,
-    "icons": 2324,
-    "emotes": 495,
-    "wards": 189,
-    "tftcompanions": 163,
+    "skins": 974,
+    "chromas": 1024,
+    "icons": 2343,
+    "emotes": 499,
+    "wards": 191,
+    "tftcompanions": 217,
     "tftmapskins": 7
   },
   "data": {
@@ -17375,6 +17375,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 142009,
+            "name": "Star Guardian Zoe",
+            "description": "A member of the ancient, first group of Star Guardians, Zoe's heart desired not love, but chaos -- twisting her newfound power into a malignant expression of cosmic madness. After numberless eons of hunting the First Star's chosen, she has finally come to Valoran City, hoping to destroy the latest generation of Guardians as she has countless others.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/142009.jpg",
+            "chromas": [
+              {
+                "id": 142010,
+                "name": "Star Guardian Zoe",
+                "description": "Loot exclusive gained during the 2019 Star Guardian event.",
+                "colors": [
+                  "#9F4A25",
+                  "#9F4A25"
+                ]
+              },
+              {
+                "id": 142011,
+                "name": "Star Guardian Zoe",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 142012,
+                "name": "Star Guardian Zoe",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 142013,
+                "name": "Star Guardian Zoe",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 142014,
+                "name": "Star Guardian Zoe",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 142015,
+                "name": "Star Guardian Zoe",
+                "description": null,
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 142016,
+                "name": "Star Guardian Zoe",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 142017,
+                "name": "Star Guardian Zoe",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21088,6 +21170,43 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/497004.jpg",
             "chromas": null
+          },
+          {
+            "id": 497005,
+            "name": "Star Guardian Rakan",
+            "description": "Many years ago, Rakan was destroyed in the fight against Zoe, alongside his lover Xayah. The pair were then resurrected and turned against their allies -- a fact Rakan seems keenly aware of. Biding his time to strike, he has a plan to purify the darkness from Xayah's heart... though the price may be losing himself to evil forever.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/497005.jpg",
+            "chromas": [
+              {
+                "id": 497006,
+                "name": "Star Guardian Rakan",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 497007,
+                "name": "Star Guardian Rakan",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 497008,
+                "name": "Star Guardian Rakan",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21139,6 +21258,43 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/498003.jpg",
             "chromas": null
+          },
+          {
+            "id": 498004,
+            "name": "Star Guardian Xayah",
+            "description": "Many years ago, Xayah was destroyed in the fight against Zoe, alongside her lover Rakan. The pair were then resurrected and turned against their allies -- a change Xayah seems almost happy about. Blaming the Star Guardians for abandoning her to die, she has taken a bitter, personal stand against them, even as doubts begin to creep in...",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/498004.jpg",
+            "chromas": [
+              {
+                "id": 498005,
+                "name": "Star Guardian Xayah",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 498006,
+                "name": "Star Guardian Xayah",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 498007,
+                "name": "Star Guardian Xayah",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21369,6 +21525,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 518010,
+            "name": "Star Guardian Neeko",
+            "description": "A member of Ahri's original team of Star Guardians, Neeko watched her teammates fall against Zoe's dark powers, going into hiding when she, too, was thought dead. Revealing herself to the newly assembled Star Guardians at the eve of their greatest battle, the wide-eyed adventurer has vowed that this time, she won't run.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/518010.jpg",
+            "chromas": null
+          },
+          {
+            "id": 518011,
+            "name": "Star Guardian Neeko Prestige Edition",
+            "description": "A member of Ahri's original team of Star Guardians, Neeko watched her teammates fall against Zoe's dark powers, going into hiding when she, too, was thought dead. Revealing herself to the newly assembled Star Guardians at the eve of their greatest battle, the wide-eyed adventurer has vowed that this time, she won't run.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/518011.jpg",
+            "chromas": null
           }
         ]
       },
@@ -39739,7 +39913,7 @@
         "id": 4276,
         "title": "Jeweled Protector Icon",
         "description": "This icon was acquired by purchasing the Jeweled Protector Species Egg!",
-        "set": null,
+        "set": "Little Legends",
         "yearReleased": 2019,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -39749,7 +39923,7 @@
         "id": 4277,
         "title": "Moontipped Hushtail Icon",
         "description": "This icon was acquired by purchasing the Moontipped Hushtail Species Egg!",
-        "set": null,
+        "set": "Little Legends",
         "yearReleased": 2019,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -39759,7 +39933,7 @@
         "id": 4278,
         "title": "Jade Paddlemar Icon",
         "description": "This icon was acquired by purchasing the Jade Paddlemar Species Egg!",
-        "set": null,
+        "set": "Little Legends",
         "yearReleased": 2019,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -39834,6 +40008,196 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4285.jpg"
+      },
+      {
+        "id": 4286,
+        "title": "DJ Sona Icon",
+        "description": "This icon was earned by making a merch purchase.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4286.jpg"
+      },
+      {
+        "id": 4288,
+        "title": "Star Guardian 2019 Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Star Guardian",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4288.jpg"
+      },
+      {
+        "id": 4289,
+        "title": "Saki Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 Star Guardian event.",
+        "set": "Star Guardian",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4289.jpg"
+      },
+      {
+        "id": 4290,
+        "title": "Riku Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 Star Guardian event.",
+        "set": "Star Guardian",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4290.jpg"
+      },
+      {
+        "id": 4291,
+        "title": "Ran Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 Star Guardian event.",
+        "set": "Star Guardian",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4291.jpg"
+      },
+      {
+        "id": 4292,
+        "title": "Towa Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 Star Guardian event.",
+        "set": "Star Guardian",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4292.jpg"
+      },
+      {
+        "id": 4293,
+        "title": "Star Guardian Xayah Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Star Guardian",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4293.jpg"
+      },
+      {
+        "id": 4294,
+        "title": "Star Guardian Rakan Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": "Star Guardian",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4294.jpg"
+      },
+      {
+        "id": 4295,
+        "title": "Little Legend Dango Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Dango Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4295.jpg"
+      },
+      {
+        "id": 4296,
+        "title": "Little Legend Fuwa Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Fuwa Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4296.jpg"
+      },
+      {
+        "id": 4297,
+        "title": "Little Legend Shisa Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Shisa Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4297.jpg"
+      },
+      {
+        "id": 4298,
+        "title": "Golden Spatula Drumstick Icon",
+        "description": "This icon will be earned by participating in the CN 8th anniversary engagement event, via the completion of some missions.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4298.jpg"
+      },
+      {
+        "id": 4299,
+        "title": "Lamian Master Volibear Icon",
+        "description": "This icon will be earned by participating in the CN 8th anniversary engagement event, via the completion of some missions.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4299.jpg"
+      },
+      {
+        "id": 4300,
+        "title": "Claw Machine Blitzcrank Icon",
+        "description": "This icon will be earned by participating in the CN 8th anniversary engagement event, via the completion of some missions.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4300.jpg"
+      },
+      {
+        "id": 4301,
+        "title": "Support Welcome Poro",
+        "description": "Purchased as part of new role-based bundle packs.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4301.jpg"
+      },
+      {
+        "id": 4302,
+        "title": "Jungle Welcome Poro",
+        "description": "Purchased as part of new role-based bundle packs.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4302.jpg"
+      },
+      {
+        "id": 4303,
+        "title": "Mid Welcome Poro",
+        "description": "Purchased as part of new role-based bundle packs.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4303.jpg"
+      },
+      {
+        "id": 4304,
+        "title": "Top Welcome Poro",
+        "description": "Purchased as part of new role-based bundle packs.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4304.jpg"
+      },
+      {
+        "id": 4305,
+        "title": "Bot Welcome Poro",
+        "description": "Purchased as part of new role-based bundle packs.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4305.jpg"
       },
       {
         "id": 4,
@@ -46140,7 +46504,7 @@
         "id": 140,
         "name": "SK telecom T1 Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46160,7 +46524,7 @@
         "id": 142,
         "name": "TSM Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46170,7 +46534,7 @@
         "id": 143,
         "name": "Echo Fox Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46180,7 +46544,7 @@
         "id": 144,
         "name": "100 Thieves Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46190,7 +46554,7 @@
         "id": 145,
         "name": "Cloud9 Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46200,7 +46564,7 @@
         "id": 146,
         "name": "CLG Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46210,7 +46574,7 @@
         "id": 147,
         "name": "Team Liquid Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46220,7 +46584,7 @@
         "id": 148,
         "name": "Team OpTic Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46230,7 +46594,7 @@
         "id": 149,
         "name": "Golden Guardians Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46240,7 +46604,7 @@
         "id": 150,
         "name": "FlyQuest Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46250,7 +46614,7 @@
         "id": 151,
         "name": "Clutch Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46260,7 +46624,7 @@
         "id": 152,
         "name": "Excel Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46270,7 +46634,7 @@
         "id": 153,
         "name": "Fnatic Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46280,7 +46644,7 @@
         "id": 154,
         "name": "G2 Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46290,7 +46654,7 @@
         "id": 155,
         "name": "Misfits Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46300,7 +46664,7 @@
         "id": 156,
         "name": "Origen Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46310,7 +46674,7 @@
         "id": 157,
         "name": "Rogue Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46320,7 +46684,7 @@
         "id": 158,
         "name": "Schalke 04 Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46330,7 +46694,7 @@
         "id": 159,
         "name": "SK Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46340,7 +46704,7 @@
         "id": 160,
         "name": "Splyce Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46350,7 +46714,7 @@
         "id": 161,
         "name": "Vitality Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46360,7 +46724,7 @@
         "id": 162,
         "name": "Fan Pass Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46370,7 +46734,7 @@
         "id": 163,
         "name": "Bilibili Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46380,7 +46744,7 @@
         "id": 164,
         "name": "Dominus Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46390,7 +46754,7 @@
         "id": 165,
         "name": "Edward Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46400,7 +46764,7 @@
         "id": 166,
         "name": "FunPlus Phoenix Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46410,7 +46774,7 @@
         "id": 167,
         "name": "Invictus Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46420,7 +46784,7 @@
         "id": 168,
         "name": "JD Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46430,7 +46794,7 @@
         "id": 169,
         "name": "LGD Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46440,7 +46804,7 @@
         "id": 170,
         "name": "LNG Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46450,7 +46814,7 @@
         "id": 171,
         "name": "Oh My God Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46460,7 +46824,7 @@
         "id": 172,
         "name": "Royal Never Give Up Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46470,7 +46834,7 @@
         "id": 173,
         "name": "Rogue Warriors Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46480,7 +46844,7 @@
         "id": 174,
         "name": "Suning Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46490,7 +46854,7 @@
         "id": 175,
         "name": "TOP Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46500,7 +46864,7 @@
         "id": 176,
         "name": "Victory Five Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46510,7 +46874,7 @@
         "id": 177,
         "name": "Vici Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46520,7 +46884,7 @@
         "id": 178,
         "name": "Team WE Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46530,7 +46894,7 @@
         "id": 179,
         "name": "KING-ZONE DragonX Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46540,7 +46904,7 @@
         "id": 180,
         "name": "Afreeca Freecs Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46550,7 +46914,7 @@
         "id": 181,
         "name": "DAMWON Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46560,7 +46924,7 @@
         "id": 182,
         "name": "Gen.G Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46570,7 +46934,7 @@
         "id": 183,
         "name": "GRIFFIN Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46580,7 +46944,7 @@
         "id": 184,
         "name": "Hanwha Life Esports Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46590,7 +46954,7 @@
         "id": 185,
         "name": "Jin Air Greenwings Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46600,7 +46964,7 @@
         "id": 186,
         "name": "kt Rolster Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -46610,11 +46974,21 @@
         "id": 187,
         "name": "SANDBOX Gaming Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was released in the store for purchase during the 2019 Esports regular season.",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/187.png"
+      },
+      {
+        "id": 188,
+        "name": "Star Guardian 2019 Ward",
+        "defaultDescription": null,
+        "description": "This ward was released in the store for purchase in 2019.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/188.png"
       },
       {
         "id": 189,
@@ -46625,6 +46999,16 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/189.png"
+      },
+      {
+        "id": 190,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward was acquired during the 2019 Arcade event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/190.png"
       }
     ],
     "emotes": [
@@ -49563,6 +49947,30 @@
         "imagePath": "/assets/emotes/3352.png"
       },
       {
+        "id": 3353,
+        "name": "Riku Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3353.png"
+      },
+      {
+        "id": 3354,
+        "name": "Towa Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3354.png"
+      },
+      {
+        "id": 3355,
+        "name": "Ran Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3355.png"
+      },
+      {
+        "id": 3356,
+        "name": "Saki Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3356.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -50607,6 +51015,438 @@
         "species": "Featherknight",
         "level": 3,
         "imagePath": "/assets/tftcompanions/6015.png"
+      },
+      {
+        "id": 10004,
+        "name": "Bubblegum Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/10004.png"
+      },
+      {
+        "id": 10005,
+        "name": "Bubblegum Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/10005.png"
+      },
+      {
+        "id": 10006,
+        "name": "Bubblegum Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/10006.png"
+      },
+      {
+        "id": 10001,
+        "name": "Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/10001.png"
+      },
+      {
+        "id": 10002,
+        "name": "Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/10002.png"
+      },
+      {
+        "id": 10003,
+        "name": "Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/10003.png"
+      },
+      {
+        "id": 10007,
+        "name": "Gingersnap Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/10007.png"
+      },
+      {
+        "id": 10008,
+        "name": "Gingersnap Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/10008.png"
+      },
+      {
+        "id": 10009,
+        "name": "Gingersnap Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/10009.png"
+      },
+      {
+        "id": 10010,
+        "name": "Lemondrop Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/10010.png"
+      },
+      {
+        "id": 10011,
+        "name": "Lemondrop Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/10011.png"
+      },
+      {
+        "id": 10012,
+        "name": "Lemondrop Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/10012.png"
+      },
+      {
+        "id": 10013,
+        "name": "Limeberry Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/10013.png"
+      },
+      {
+        "id": 10014,
+        "name": "Limeberry Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/10014.png"
+      },
+      {
+        "id": 10015,
+        "name": "Limeberry Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/10015.png"
+      },
+      {
+        "id": 10016,
+        "name": "Sugar Crash Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/10016.png"
+      },
+      {
+        "id": 10017,
+        "name": "Sugar Crash Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/10017.png"
+      },
+      {
+        "id": 10018,
+        "name": "Sugar Crash Dango",
+        "description": "Dango is the hungriest of all the Little Legends.",
+        "species": "Dango",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/10018.png"
+      },
+      {
+        "id": 11016,
+        "name": "Daystar Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/11016.png"
+      },
+      {
+        "id": 11017,
+        "name": "Daystar Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/11017.png"
+      },
+      {
+        "id": 11018,
+        "name": "Daystar Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/11018.png"
+      },
+      {
+        "id": 11010,
+        "name": "Eclipse Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/11010.png"
+      },
+      {
+        "id": 11011,
+        "name": "Eclipse Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/11011.png"
+      },
+      {
+        "id": 11012,
+        "name": "Eclipse Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/11012.png"
+      },
+      {
+        "id": 11013,
+        "name": "Firecracker Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/11013.png"
+      },
+      {
+        "id": 11014,
+        "name": "Firecracker Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/11014.png"
+      },
+      {
+        "id": 11015,
+        "name": "Firecracker Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/11015.png"
+      },
+      {
+        "id": 11001,
+        "name": "Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/11001.png"
+      },
+      {
+        "id": 11002,
+        "name": "Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/11002.png"
+      },
+      {
+        "id": 11003,
+        "name": "Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/11003.png"
+      },
+      {
+        "id": 11004,
+        "name": "Last Wish Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/11004.png"
+      },
+      {
+        "id": 11005,
+        "name": "Last Wish Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/11005.png"
+      },
+      {
+        "id": 11006,
+        "name": "Last Wish Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/11006.png"
+      },
+      {
+        "id": 11007,
+        "name": "Lovestruck Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/11007.png"
+      },
+      {
+        "id": 11008,
+        "name": "Lovestruck Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/11008.png"
+      },
+      {
+        "id": 11009,
+        "name": "Lovestruck Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/11009.png"
+      },
+      {
+        "id": 12016,
+        "name": "Corrupted Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/12016.png"
+      },
+      {
+        "id": 12017,
+        "name": "Corrupted Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/12017.png"
+      },
+      {
+        "id": 12018,
+        "name": "Corrupted Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/12018.png"
+      },
+      {
+        "id": 12013,
+        "name": "Firecracker Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/12013.png"
+      },
+      {
+        "id": 12014,
+        "name": "Firecracker Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/12014.png"
+      },
+      {
+        "id": 12015,
+        "name": "Firecracker Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/12015.png"
+      },
+      {
+        "id": 12004,
+        "name": "Heroic Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/12004.png"
+      },
+      {
+        "id": 12005,
+        "name": "Heroic Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/12005.png"
+      },
+      {
+        "id": 12006,
+        "name": "Heroic Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/12006.png"
+      },
+      {
+        "id": 12007,
+        "name": "Littlest Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/12007.png"
+      },
+      {
+        "id": 12008,
+        "name": "Littlest Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/12008.png"
+      },
+      {
+        "id": 12009,
+        "name": "Littlest Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/12009.png"
+      },
+      {
+        "id": 12001,
+        "name": "Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/12001.png"
+      },
+      {
+        "id": 12002,
+        "name": "Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/12002.png"
+      },
+      {
+        "id": 12003,
+        "name": "Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/12003.png"
+      },
+      {
+        "id": 12010,
+        "name": "Sundrop Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/12010.png"
+      },
+      {
+        "id": 12011,
+        "name": "Sundrop Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/12011.png"
+      },
+      {
+        "id": 12012,
+        "name": "Sundrop Shisa",
+        "description": "Shisa aims to protect the Star Guardians and all those in its care",
+        "species": "Shisa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/12012.png"
       },
       {
         "id": 9016,
