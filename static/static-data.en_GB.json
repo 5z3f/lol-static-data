@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.18.288.4125",
+  "version": "9.19.290.4926",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,10 +13,10 @@
   ],
   "info": {
     "champions": 145,
-    "skins": 974,
-    "chromas": 1024,
-    "icons": 2343,
-    "emotes": 499,
+    "skins": 980,
+    "chromas": 1041,
+    "icons": 2388,
+    "emotes": 534,
     "wards": 191,
     "tftcompanions": 217,
     "tftmapskins": 7
@@ -2241,6 +2241,25 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/13010.jpg",
             "chromas": null
+          },
+          {
+            "id": 13011,
+            "name": "Championship Ryze",
+            "description": null,
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/13011.jpg",
+            "chromas": [
+              {
+                "id": 13012,
+                "name": "Championship Ryze",
+                "description": "This chroma was released as a Loot exclusive during a Worlds event.",
+                "colors": [
+                  "#FFC948",
+                  "#FFC948"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -4059,7 +4078,7 @@
               {
                 "id": 22010,
                 "name": "Championship Ashe",
-                "description": "Redeemed with Worlds Tokens from the 2017 World Championship: Chase Your Legend missions.",
+                "description": "This chroma was released as a Loot exclusive during a Worlds event.",
                 "colors": [
                   "#FFEE59",
                   "#FFEE59"
@@ -4541,6 +4560,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/25011.jpg",
             "chromas": null
+          },
+          {
+            "id": 25017,
+            "name": "Majestic Empress Morgana",
+            "description": "A feared sorceress queen from the heavenly kingdoms, Morgana looked on with disdain as Irelia sealed away the power of a dragon. Crushing her in combat, Morgana soon realized the young demigoddess had hidden that power away, and now ruthlessly searches for a way to return it to its rightful owner.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/25017.jpg",
+            "chromas": [
+              {
+                "id": 25018,
+                "name": "Majestic Empress Morgana",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 25019,
+                "name": "Majestic Empress Morgana",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 25020,
+                "name": "Majestic Empress Morgana",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 25021,
+                "name": "Majestic Empress Morgana",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 25022,
+                "name": "Majestic Empress Morgana",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 25023,
+                "name": "Majestic Empress Morgana",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 25024,
+                "name": "Majestic Empress Morgana",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#E0FFFF",
+                  "#C50041"
+                ]
+              },
+              {
+                "id": 25025,
+                "name": "Majestic Empress Morgana",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -5469,6 +5570,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 32023,
+            "name": "Hextech Amumu",
+            "description": "A mechanical boy intended as a playmate for wealthy children, Amumu has been long forgotten in the advent of newer and more advanced Hextech innovations. But a child has feelings, and within his artificial mind something has begun to awaken that will change the history of Hextech forever.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/32023.jpg",
+            "chromas": null
           }
         ]
       },
@@ -12850,7 +12960,7 @@
               {
                 "id": 92019,
                 "name": "Championship Riven 2016",
-                "description": "This chroma was released as a Loot exclusive during 2018.",
+                "description": "This chroma was released as a Loot exclusive during a Worlds event.",
                 "colors": [
                   "#FFEE59",
                   "#FFEE59"
@@ -12874,6 +12984,24 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92018.jpg",
+            "chromas": null
+          },
+          {
+            "id": 92020,
+            "name": "Valiant Sword Riven",
+            "description": "Riven trained with Morgana in the arts of politics and war for many years, but where Riven walked the path of justice, Morgana envisioned a world ruled by the gods alone—ultimately defeating their master and assuming the title of empress. Now tasked with bringing her friend to heel, Riven must face Morgana in combat… or join her.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/92020.jpg",
+            "chromas": null
+          },
+          {
+            "id": 92022,
+            "name": "Valiant Sword Riven Prestige Edition",
+            "description": "Riven trained with Morgana in the arts of politics and war for many years, but where Riven walked the path of justice, Morgana envisioned a world ruled by the gods alone—ultimately defeating their master and assuming the title of empress. Now tasked with bringing her friend to heel, Riven must face Morgana in combat… or join her.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/92022.jpg",
             "chromas": null
           }
         ]
@@ -13581,7 +13709,7 @@
               {
                 "id": 102007,
                 "name": "Championship Shyvana",
-                "description": "This chroma was released as a Loot exclusive during 2018.",
+                "description": "This chroma was released as a Loot exclusive during a Worlds event.",
                 "colors": [
                   "#FFEE59",
                   "#FFEE59"
@@ -16147,7 +16275,7 @@
               {
                 "id": 121012,
                 "name": "Championship Kha'Zix",
-                "description": "This chroma was released as a Loot exclusive during 2018.",
+                "description": "This chroma was released as a Loot exclusive during a Worlds event.",
                 "colors": [
                   "#FFEE59",
                   "#FFEE59"
@@ -17387,7 +17515,7 @@
               {
                 "id": 142010,
                 "name": "Star Guardian Zoe",
-                "description": "Loot exclusive gained during the 2019 Star Guardian event.",
+                "description": null,
                 "colors": [
                   "#9F4A25",
                   "#9F4A25"
@@ -17432,7 +17560,7 @@
               {
                 "id": 142015,
                 "name": "Star Guardian Zoe",
-                "description": null,
+                "description": "This chroma was released as a bundle exclusive in 2019.",
                 "colors": [
                   "#D33528",
                   "#D33528"
@@ -17450,7 +17578,7 @@
               {
                 "id": 142017,
                 "name": "Star Guardian Zoe",
-                "description": null,
+                "description": "Obtained through Influencer audience giveaways.",
                 "colors": [
                   "#2DA130",
                   "#2DA130"
@@ -19468,7 +19596,7 @@
               {
                 "id": 238012,
                 "name": "Championship Zed",
-                "description": "This chroma was released as a Loot exclusive during 2018.",
+                "description": "This chroma was released as a Loot exclusive during a Worlds event.",
                 "colors": [
                   "#FFEE59",
                   "#FFEE59"
@@ -20327,6 +20455,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 267015,
+            "name": "Splendid Staff Nami",
+            "description": "When the demigoddess Irelia was bested by a heavenly empress, the seal over Talon's draconic power began to weaken… allowing some of his magic to leak into the world. Once a mere fish who dreamed of being a dragon, Nami has received some of this power, and has found her true form beginning to awaken.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/267015.jpg",
+            "chromas": [
+              {
+                "id": 267016,
+                "name": "Splendid Staff Nami",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 267017,
+                "name": "Splendid Staff Nami",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 267018,
+                "name": "Splendid Staff Nami",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 267019,
+                "name": "Splendid Staff Nami",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 267020,
+                "name": "Splendid Staff Nami",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 267021,
+                "name": "Splendid Staff Nami",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 267022,
+                "name": "Splendid Staff Nami",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#E0FFFF",
+                  "#C50041"
+                ]
+              },
+              {
+                "id": 267023,
+                "name": "Splendid Staff Nami",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -20550,7 +20760,7 @@
               {
                 "id": 412012,
                 "name": "Championship Thresh",
-                "description": "This chroma was released as a Loot exclusive during 2018.",
+                "description": "This chroma was released as a Loot exclusive during a Worlds event.",
                 "colors": [
                   "#FFEE59",
                   "#FFEE59"
@@ -21004,7 +21214,7 @@
               {
                 "id": 429004,
                 "name": "Championship Kalista",
-                "description": "This chroma was released as a Loot exclusive during 2018.",
+                "description": "This chroma was released as a Loot exclusive during a Worlds event.",
                 "colors": [
                   "#FFEE59",
                   "#FFEE59"
@@ -21538,7 +21748,7 @@
           {
             "id": 518011,
             "name": "Star Guardian Neeko Prestige Edition",
-            "description": "A member of Ahri's original team of Star Guardians, Neeko watched her teammates fall against Zoe's dark powers, going into hiding when she, too, was thought dead. Revealing herself to the newly assembled Star Guardians at the eve of their greatest battle, the wide-eyed adventurer has vowed that this time, she won't run.",
+            "description": "Neeko and the Star Guardians emerge from their battle forever changed, friendships reforged in the face of stunning victory and brutal loss. They will save their lost companion—perhaps not now, but one day—and they will do it together.",
             "rarity": "kMythic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/518011.jpg",
@@ -40200,6 +40410,456 @@
         "imagePath": "/assets/icons/4305.jpg"
       },
       {
+        "id": 4306,
+        "title": "2019 Worlds Team Liquid Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4306.jpg"
+      },
+      {
+        "id": 4308,
+        "title": "2019 Worlds Cloud9 Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4308.jpg"
+      },
+      {
+        "id": 4310,
+        "title": "2019 Worlds Clutch Gaming Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4310.jpg"
+      },
+      {
+        "id": 4312,
+        "title": "2019 Worlds G2 Esports Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4312.jpg"
+      },
+      {
+        "id": 4313,
+        "title": "2019 Worlds Fnatic Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4313.jpg"
+      },
+      {
+        "id": 4314,
+        "title": "2019 Worlds Origen Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4314.jpg"
+      },
+      {
+        "id": 4315,
+        "title": "2019 Worlds Splyce Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4315.jpg"
+      },
+      {
+        "id": 4316,
+        "title": "2019 Worlds Schalke 04 Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4316.jpg"
+      },
+      {
+        "id": 4317,
+        "title": "2019 Worlds SK telecom T1 Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4317.jpg"
+      },
+      {
+        "id": 4318,
+        "title": "2019 Worlds GRIFFIN Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4318.jpg"
+      },
+      {
+        "id": 4320,
+        "title": "2019 Worlds DAMWON Gaming Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4320.jpg"
+      },
+      {
+        "id": 4323,
+        "title": "2019 Worlds J Team Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4323.jpg"
+      },
+      {
+        "id": 4324,
+        "title": "2019 Worlds ahq e-Sports Club Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4324.jpg"
+      },
+      {
+        "id": 4327,
+        "title": "2019 Worlds Hong Kong Attitude Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4327.jpg"
+      },
+      {
+        "id": 4329,
+        "title": "2019 Worlds Invictus Gaming Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4329.jpg"
+      },
+      {
+        "id": 4331,
+        "title": "2019 Worlds FunPlus Phoenix Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4331.jpg"
+      },
+      {
+        "id": 4333,
+        "title": "2019 Worlds Royal Never Give Up Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4333.jpg"
+      },
+      {
+        "id": 4335,
+        "title": "2019 Worlds GAM Esports Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4335.jpg"
+      },
+      {
+        "id": 4336,
+        "title": "2019 Worlds Lowkey Esports Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4336.jpg"
+      },
+      {
+        "id": 4337,
+        "title": "2019 Worlds Team Flash Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4337.jpg"
+      },
+      {
+        "id": 4338,
+        "title": "2019 Worlds Liyab Esports Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4338.jpg"
+      },
+      {
+        "id": 4340,
+        "title": "2019 Worlds MEGA Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4340.jpg"
+      },
+      {
+        "id": 4342,
+        "title": "2019 Worlds Axis Empire Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4342.jpg"
+      },
+      {
+        "id": 4344,
+        "title": "2019 Worlds Royal Youth Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4344.jpg"
+      },
+      {
+        "id": 4345,
+        "title": "2019 Worlds Unicorns of Love Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4345.jpg"
+      },
+      {
+        "id": 4346,
+        "title": "2019 Worlds Vega Squadron Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4346.jpg"
+      },
+      {
+        "id": 4347,
+        "title": "2019 Worlds Isurus Gaming Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4347.jpg"
+      },
+      {
+        "id": 4348,
+        "title": "2019 Worlds Flamengo eSports Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4348.jpg"
+      },
+      {
+        "id": 4350,
+        "title": "2019 Worlds MAMMOTH Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4350.jpg"
+      },
+      {
+        "id": 4351,
+        "title": "2019 Worlds V3 Esports Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4351.jpg"
+      },
+      {
+        "id": 4352,
+        "title": "2019 Worlds DetonatioN FocusMe Icon",
+        "description": "Part of the team supporter bundle for Worlds 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4352.jpg"
+      },
+      {
+        "id": 4353,
+        "title": "Pick'em Master 2019 Icon",
+        "description": "Earned by scoring at least 34 points during Worlds Pick'em 2019",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4353.jpg"
+      },
+      {
+        "id": 4354,
+        "title": "Worlds 2019 Event Icon",
+        "description": "This icon was acquired through missions during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4354.jpg"
+      },
+      {
+        "id": 4355,
+        "title": "Worlds 2019 Event Pass Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4355.jpg"
+      },
+      {
+        "id": 4357,
+        "title": "Worlds 2019 Event Prestige Points Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4357.jpg"
+      },
+      {
+        "id": 4358,
+        "title": "Valiant Sword Riven Border Icon",
+        "description": "This icon was acquired during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4358.jpg"
+      },
+      {
+        "id": 4359,
+        "title": "Splendid Staff Nami Border Icon",
+        "description": "This icon was acquired during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4359.jpg"
+      },
+      {
+        "id": 4360,
+        "title": "Majestic Empress Morgana Border Icon",
+        "description": "This icon was acquired during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4360.jpg"
+      },
+      {
+        "id": 4361,
+        "title": "Splendid Staff Nami Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4361.jpg"
+      },
+      {
+        "id": 4362,
+        "title": "Majestic Empress Morgana Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4362.jpg"
+      },
+      {
+        "id": 4363,
+        "title": "Immortal Journey 2019 Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4363.jpg"
+      },
+      {
+        "id": 4364,
+        "title": "Elder Dragon Merch Icon",
+        "description": "Acquired by making a purchase in the Riot Games online merch store",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4364.jpg"
+      },
+      {
+        "id": 4365,
+        "title": "Championship Ryze Border Icon",
+        "description": "This icon was acquired during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4365.jpg"
+      },
+      {
+        "id": 4366,
+        "title": "Championship Ryze Gold Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4366.jpg"
+      },
+      {
+        "id": 4367,
+        "title": "Championship Ashe Gold Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4367.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -47002,9 +47662,9 @@
       },
       {
         "id": 190,
-        "name": "",
+        "name": "2019 Championship Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "Unlocked during the 2019 Worlds event.﻿",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -49941,6 +50601,12 @@
         "imagePath": "/assets/emotes/3350.png"
       },
       {
+        "id": 3351,
+        "name": "Let me out! Animated Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3351.png"
+      },
+      {
         "id": 3352,
         "name": "Good as Gold",
         "description": null,
@@ -49969,6 +50635,210 @@
         "name": "Saki Emote",
         "description": null,
         "imagePath": "/assets/emotes/3356.png"
+      },
+      {
+        "id": 3357,
+        "name": "UWU",
+        "description": null,
+        "imagePath": "/assets/emotes/3357.png"
+      },
+      {
+        "id": 3358,
+        "name": "Don't Make Me Laugh",
+        "description": null,
+        "imagePath": "/assets/emotes/3358.png"
+      },
+      {
+        "id": 3359,
+        "name": "Worlds Event Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3359.png"
+      },
+      {
+        "id": 3360,
+        "name": "Worlds 2019 TL",
+        "description": null,
+        "imagePath": "/assets/emotes/3360.png"
+      },
+      {
+        "id": 3362,
+        "name": "Worlds 2019 C9",
+        "description": null,
+        "imagePath": "/assets/emotes/3362.png"
+      },
+      {
+        "id": 3364,
+        "name": "Worlds 2019 CG",
+        "description": null,
+        "imagePath": "/assets/emotes/3364.png"
+      },
+      {
+        "id": 3366,
+        "name": "Worlds 2019 G2",
+        "description": null,
+        "imagePath": "/assets/emotes/3366.png"
+      },
+      {
+        "id": 3367,
+        "name": "Worlds 2019 FNC",
+        "description": null,
+        "imagePath": "/assets/emotes/3367.png"
+      },
+      {
+        "id": 3368,
+        "name": "Worlds 2019 OG",
+        "description": null,
+        "imagePath": "/assets/emotes/3368.png"
+      },
+      {
+        "id": 3369,
+        "name": "Worlds 2019 SPY",
+        "description": null,
+        "imagePath": "/assets/emotes/3369.png"
+      },
+      {
+        "id": 3370,
+        "name": "Worlds 2019 S04",
+        "description": null,
+        "imagePath": "/assets/emotes/3370.png"
+      },
+      {
+        "id": 3371,
+        "name": "Worlds 2019 SKT",
+        "description": null,
+        "imagePath": "/assets/emotes/3371.png"
+      },
+      {
+        "id": 3372,
+        "name": "Worlds 2019 GRF",
+        "description": null,
+        "imagePath": "/assets/emotes/3372.png"
+      },
+      {
+        "id": 3374,
+        "name": "Worlds 2019 DWG",
+        "description": null,
+        "imagePath": "/assets/emotes/3374.png"
+      },
+      {
+        "id": 3377,
+        "name": "Worlds 2019 JT",
+        "description": null,
+        "imagePath": "/assets/emotes/3377.png"
+      },
+      {
+        "id": 3378,
+        "name": "Worlds 2019 AHQ",
+        "description": null,
+        "imagePath": "/assets/emotes/3378.png"
+      },
+      {
+        "id": 3381,
+        "name": "Worlds 2019 HKA",
+        "description": null,
+        "imagePath": "/assets/emotes/3381.png"
+      },
+      {
+        "id": 3383,
+        "name": "Worlds 2019 IG",
+        "description": null,
+        "imagePath": "/assets/emotes/3383.png"
+      },
+      {
+        "id": 3385,
+        "name": "Worlds 2019 FPX",
+        "description": null,
+        "imagePath": "/assets/emotes/3385.png"
+      },
+      {
+        "id": 3387,
+        "name": "Worlds 2019 RNG",
+        "description": null,
+        "imagePath": "/assets/emotes/3387.png"
+      },
+      {
+        "id": 3389,
+        "name": "Worlds 2019 GAM",
+        "description": null,
+        "imagePath": "/assets/emotes/3389.png"
+      },
+      {
+        "id": 3390,
+        "name": "Worlds 2019 LK",
+        "description": null,
+        "imagePath": "/assets/emotes/3390.png"
+      },
+      {
+        "id": 3391,
+        "name": "Worlds 2019 FL",
+        "description": null,
+        "imagePath": "/assets/emotes/3391.png"
+      },
+      {
+        "id": 3392,
+        "name": "Worlds 2019 LYB",
+        "description": null,
+        "imagePath": "/assets/emotes/3392.png"
+      },
+      {
+        "id": 3394,
+        "name": "Worlds 2019 MEGA",
+        "description": null,
+        "imagePath": "/assets/emotes/3394.png"
+      },
+      {
+        "id": 3396,
+        "name": "Worlds 2019 AXE",
+        "description": null,
+        "imagePath": "/assets/emotes/3396.png"
+      },
+      {
+        "id": 3398,
+        "name": "Worlds 2019 RY",
+        "description": null,
+        "imagePath": "/assets/emotes/3398.png"
+      },
+      {
+        "id": 3399,
+        "name": "Worlds 2019 UOL",
+        "description": null,
+        "imagePath": "/assets/emotes/3399.png"
+      },
+      {
+        "id": 3400,
+        "name": "Worlds 2019 VEG",
+        "description": null,
+        "imagePath": "/assets/emotes/3400.png"
+      },
+      {
+        "id": 3401,
+        "name": "Worlds 2019 ISG",
+        "description": null,
+        "imagePath": "/assets/emotes/3401.png"
+      },
+      {
+        "id": 3402,
+        "name": "Worlds 2019 FLA",
+        "description": null,
+        "imagePath": "/assets/emotes/3402.png"
+      },
+      {
+        "id": 3404,
+        "name": "Worlds 2019 MMM",
+        "description": null,
+        "imagePath": "/assets/emotes/3404.png"
+      },
+      {
+        "id": 3405,
+        "name": "Worlds 2019 V3",
+        "description": null,
+        "imagePath": "/assets/emotes/3405.png"
+      },
+      {
+        "id": 3406,
+        "name": "Worlds 2019 DFM",
+        "description": null,
+        "imagePath": "/assets/emotes/3406.png"
       },
       {
         "id": 4,
