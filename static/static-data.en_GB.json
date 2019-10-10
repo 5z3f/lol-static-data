@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.19.290.4926",
+  "version": "9.20.292.351",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,13 +13,13 @@
   ],
   "info": {
     "champions": 145,
-    "skins": 980,
-    "chromas": 1041,
-    "icons": 2388,
-    "emotes": 534,
-    "wards": 191,
+    "skins": 983,
+    "chromas": 1058,
+    "icons": 2400,
+    "emotes": 537,
+    "wards": 193,
     "tftcompanions": 217,
-    "tftmapskins": 7
+    "tftmapskins": 8
   },
   "data": {
     "champions": [
@@ -2245,7 +2245,7 @@
           {
             "id": 13011,
             "name": "Championship Ryze",
-            "description": null,
+            "description": "Celebrating the 2019 Championship in Europe.",
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/13011.jpg",
@@ -4137,6 +4137,61 @@
                 "colors": [
                   "#D33528",
                   "#D33528"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 22017,
+            "name": "High Noon Ashe",
+            "description": "A mechanical angel built at the dawn of the pioneer age, Ashe is fueled by the blood of deities gunned down in the infamous land rush that destroyed Heaven. She has adopted a devil-may-care attitude as she seeks adventure, choosing to forgive and protect the same mankind that forever robbed itself of eternal paradise.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/22017.jpg",
+            "chromas": [
+              {
+                "id": 22018,
+                "name": "High Noon Ashe",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 22019,
+                "name": "High Noon Ashe",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 22020,
+                "name": "High Noon Ashe",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 22021,
+                "name": "High Noon Ashe",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#95ECFF",
+                  "#C33C3E"
+                ]
+              },
+              {
+                "id": 22022,
+                "name": "High Noon Ashe",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
                 ]
               }
             ]
@@ -12403,7 +12458,7 @@
           {
             "id": 89003,
             "name": "Iron Solari Leona",
-            "description": null,
+            "description": "She who bears the Iron Solari into battle bears the weight of history—as iron gives way to steel, and steel to eternity.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/89003.jpg",
@@ -12998,7 +13053,7 @@
           {
             "id": 92022,
             "name": "Valiant Sword Riven Prestige Edition",
-            "description": "Riven trained with Morgana in the arts of politics and war for many years, but where Riven walked the path of justice, Morgana envisioned a world ruled by the gods alone—ultimately defeating their master and assuming the title of empress. Now tasked with bringing her friend to heel, Riven must face Morgana in combat… or join her.",
+            "description": "Riven's destiny is greater than she knows. One day she will determine the fate of the heavens, land, and sea, and awaken the slumbering power of the dragon within her.",
             "rarity": "kMythic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92022.jpg",
@@ -16148,6 +16203,61 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/120007.jpg",
             "chromas": null
+          },
+          {
+            "id": 120008,
+            "name": "High Noon Hecarim",
+            "description": "When Heaven was destroyed by mortal men, it was only a matter of time until Hell overflowed onto the prairie, bringing with it all the devils who had waited so patiently to escape their confinement. Hecarim and his black riders revel in this newfound freedom, razing everything before them to ash as they stampede across the frontier.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/120008.jpg",
+            "chromas": [
+              {
+                "id": 120009,
+                "name": "High Noon Hecarim",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 120010,
+                "name": "High Noon Hecarim",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#95ECFF",
+                  "#C33C3E"
+                ]
+              },
+              {
+                "id": 120011,
+                "name": "High Noon Hecarim",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 120012,
+                "name": "High Noon Hecarim",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 120013,
+                "name": "High Noon Hecarim",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -16660,6 +16770,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/122015.jpg",
             "chromas": null
+          },
+          {
+            "id": 122016,
+            "name": "High Noon Darius",
+            "description": "The once-human Darius was a terrifying manhunter, feared throughout the West for his cunning and brutality. Famously defeated by his brother in a widely publicized duel, his wounded pride eventually twisted into obsession, leading him to strike a deal with the devil Hecarim...",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/122016.jpg",
+            "chromas": [
+              {
+                "id": 122017,
+                "name": "High Noon Darius",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 122018,
+                "name": "High Noon Darius",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 122019,
+                "name": "High Noon Darius",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 122020,
+                "name": "High Noon Darius",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 122021,
+                "name": "High Noon Darius",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 122022,
+                "name": "High Noon Darius",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 122023,
+                "name": "High Noon Darius",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#95ECFF",
+                  "#C33C3E"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -40860,6 +41043,126 @@
         "imagePath": "/assets/icons/4367.jpg"
       },
       {
+        "id": 4368,
+        "title": "What's in the Orb Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 0,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4368.jpg"
+      },
+      {
+        "id": 4369,
+        "title": "Sparring Glove Punch Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 0,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4369.jpg"
+      },
+      {
+        "id": 4370,
+        "title": "Pass 3 Champion Icon",
+        "description": "Earned through the TFT Beta Pass",
+        "set": null,
+        "yearReleased": 0,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4370.jpg"
+      },
+      {
+        "id": 4371,
+        "title": "High Noon Hecarim Border Icon",
+        "description": "This icon was awarded during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4371.jpg"
+      },
+      {
+        "id": 4372,
+        "title": "High Noon Ashe Border Icon",
+        "description": "This icon was awarded during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4372.jpg"
+      },
+      {
+        "id": 4373,
+        "title": "High Noon Darius Border Icon",
+        "description": "This icon was awarded during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4373.jpg"
+      },
+      {
+        "id": 4374,
+        "title": "High Noon Hecarim Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4374.jpg"
+      },
+      {
+        "id": 4375,
+        "title": "High Noon Ashe Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4375.jpg"
+      },
+      {
+        "id": 4376,
+        "title": "High Noon Darius Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4376.jpg"
+      },
+      {
+        "id": 4377,
+        "title": "High Noon 2019 Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4377.jpg"
+      },
+      {
+        "id": 4378,
+        "title": "10th Anniversary Summoner Icon",
+        "description": "This icon was awarded for playing during League of Legends' 10 Year Anniversary event!",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4378.jpg"
+      },
+      {
+        "id": 4380,
+        "title": "2019 MSI G2 Winners Icon",
+        "description": "G2 Commemorative icon for winning MSI 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4380.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -47665,10 +47968,30 @@
         "name": "2019 Championship Ward",
         "defaultDescription": null,
         "description": "Unlocked during the 2019 Worlds event.﻿",
-        "set": null,
-        "rarity": "kNoRarity",
-        "isLegacy": false,
+        "set": "World Championship",
+        "rarity": "kRare",
+        "isLegacy": true,
         "imagePath": "/assets/wards/190.png"
+      },
+      {
+        "id": 191,
+        "name": "Frontier Devil Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired during the 2019 Worlds event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": true,
+        "imagePath": "/assets/wards/191.png"
+      },
+      {
+        "id": 193,
+        "name": "10th Anniversary Ward",
+        "defaultDescription": null,
+        "description": "This ward was awarded for playing during the 10th Anniversary celebration",
+        "set": null,
+        "rarity": "kMythic",
+        "isLegacy": true,
+        "imagePath": "/assets/wards/193.png"
       }
     ],
     "emotes": [
@@ -50650,7 +50973,7 @@
       },
       {
         "id": 3359,
-        "name": "Worlds Event Emote",
+        "name": "Worlds 2019 Emote",
         "description": null,
         "imagePath": "/assets/emotes/3359.png"
       },
@@ -50839,6 +51162,24 @@
         "name": "Worlds 2019 DFM",
         "description": null,
         "imagePath": "/assets/emotes/3406.png"
+      },
+      {
+        "id": 3407,
+        "name": "One Corn Chip Animated",
+        "description": null,
+        "imagePath": "/assets/emotes/3407.png"
+      },
+      {
+        "id": 3408,
+        "name": "What in Tarnation",
+        "description": null,
+        "imagePath": "/assets/emotes/3408.png"
+      },
+      {
+        "id": 3409,
+        "name": "Happy 10th Anniversary!",
+        "description": null,
+        "imagePath": "/assets/emotes/3409.png"
       },
       {
         "id": 4,
@@ -52657,6 +52998,12 @@
         "name": "Basic Summoners' Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/7.png"
+      },
+      {
+        "id": 8,
+        "name": "Storm Rift Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/8.png"
       }
     ]
   }
