@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.20.292.351",
+  "version": "9.21.294.813",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,11 +13,11 @@
   ],
   "info": {
     "champions": 145,
-    "skins": 983,
-    "chromas": 1058,
-    "icons": 2400,
-    "emotes": 537,
-    "wards": 193,
+    "skins": 988,
+    "chromas": 1069,
+    "icons": 2405,
+    "emotes": 541,
+    "wards": 194,
     "tftcompanions": 217,
     "tftmapskins": 8
   },
@@ -142,6 +142,15 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/1011.jpg",
+            "chromas": null
+          },
+          {
+            "id": 1012,
+            "name": "Annie-Versary",
+            "description": "Ten years of epic outplays, last second turnarounds, and brutal throws - and we couldn't have done it without each and every one of you. Annie is ready to usher in the festivities, and Teemo… has been lifting, I see. Happy 10!",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/1012.jpg",
             "chromas": null
           }
         ]
@@ -3969,6 +3978,24 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/21017.jpg",
             "chromas": null
+          },
+          {
+            "id": 21018,
+            "name": "Bewitching Miss Fortune ",
+            "description": "Having wrestled control of the lion's share of sweets from ghastly spirits and unruly children alike, Miss Fortune now rules over the night. Her reign is one filled with revelry and mischief.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/21018.jpg",
+            "chromas": null
+          },
+          {
+            "id": 21020,
+            "name": "Bewitching Miss Fortune Prestige Edition",
+            "description": "Having wrestled control of the lion's share of sweets from ghastly spirits and unruly children alike, Miss Fortune now rules over the night. Her reign is one filled with revelry and mischief.",
+            "rarity": "kMythic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/21020.jpg",
+            "chromas": null
           }
         ]
       },
@@ -6528,6 +6555,70 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/38005.jpg",
             "chromas": null
+          },
+          {
+            "id": 38006,
+            "name": "Count Kassadin",
+            "description": "A grim, lonely man who lives on a grim, lonely street, Kassadin is the one whom all kids avoid on All Hallows' Eve; for in his presence, there are no treats nor sweets to be found.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/38006.jpg",
+            "chromas": [
+              {
+                "id": 38008,
+                "name": "Count Kassadin",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 38009,
+                "name": "Count Kassadin",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 38010,
+                "name": "Count Kassadin",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 38011,
+                "name": "Count Kassadin",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 38012,
+                "name": "Count Kassadin",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 38013,
+                "name": "Count Kassadin",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -8475,6 +8566,70 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/53021.jpg",
             "chromas": null
+          },
+          {
+            "id": 53022,
+            "name": "Witch's Brew Blitzcrank",
+            "description": "Once nothing but a simple cauldron, Blitzcrank was enchanted, brought to life in order to assist Miss Fortune in her beguiling bewitchments.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/53022.jpg",
+            "chromas": [
+              {
+                "id": 53023,
+                "name": "Witch's Brew Blitzcrank",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 53024,
+                "name": "Witch's Brew Blitzcrank",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 53025,
+                "name": "Witch's Brew Blitzcrank",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 53026,
+                "name": "Witch's Brew Blitzcrank",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 53027,
+                "name": "Witch's Brew Blitzcrank",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 53028,
+                "name": "Witch's Brew Blitzcrank",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -12067,15 +12222,6 @@
                 "colors": [
                   "#9C68D7",
                   "#9C68D7"
-                ]
-              },
-              {
-                "id": 84021,
-                "name": "PROJECT: Akali",
-                "description": null,
-                "colors": [
-                  "#E58BA5",
-                  "#E58BA5"
                 ]
               },
               {
@@ -19480,7 +19626,7 @@
         "alias": "Lucian",
         "title": "the Purifier",
         "releaseDate": "2013-08-22",
-        "associatedFactionSlug": "demacia",
+        "associatedFactionSlug": "runeterra",
         "shortBio": "Once a Sentinel of Light, Lucian is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. Consumed by the need to avenge his dead wife, he will not rest until Thresh, the specter who holds her soul, is destroyed. Merciless and single-minded, Lucian allows nothing to stand in the path of this vengeance—anyone or anything foolish enough to try is blown away by an overwhelming barrage of magical gunfire.",
         "squarePortraitPath": "/assets/champions/portraits/236.png",
         "roles": [
@@ -38726,7 +38872,7 @@
         "id": 4108,
         "title": "Battle Academia Formal Katarina Icon",
         "description": "This icon was acquired through Loot during the 2019 Trials event.",
-        "set": null,
+        "set": "Battle Academia",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -41047,7 +41193,7 @@
         "title": "What's in the Orb Icon",
         "description": "Earned through the TFT Beta Pass",
         "set": null,
-        "yearReleased": 0,
+        "yearReleased": 2019,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4368.jpg"
@@ -41057,7 +41203,7 @@
         "title": "Sparring Glove Punch Icon",
         "description": "Earned through the TFT Beta Pass",
         "set": null,
-        "yearReleased": 0,
+        "yearReleased": 2019,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4369.jpg"
@@ -41067,7 +41213,7 @@
         "title": "Pass 3 Champion Icon",
         "description": "Earned through the TFT Beta Pass",
         "set": null,
-        "yearReleased": 0,
+        "yearReleased": 2019,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4370.jpg"
@@ -41153,6 +41299,16 @@
         "imagePath": "/assets/icons/4378.jpg"
       },
       {
+        "id": 4379,
+        "title": "summoner_icon_title_4379",
+        "description": "",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4379.jpg"
+      },
+      {
         "id": 4380,
         "title": "2019 MSI G2 Winners Icon",
         "description": "G2 Commemorative icon for winning MSI 2019.",
@@ -41161,6 +41317,46 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4380.jpg"
+      },
+      {
+        "id": 4381,
+        "title": "Bewitching Miss Fortune Border Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 Tales from the Rift event.",
+        "set": "Tales from the Rift",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4381.jpg"
+      },
+      {
+        "id": 4382,
+        "title": "Witch's Brew Blitzcrank Border Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 Tales from the Rift event.",
+        "set": "Tales from the Rift",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4382.jpg"
+      },
+      {
+        "id": 4383,
+        "title": "Count Kassadin Border Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 Tales from the Rift event.",
+        "set": "Tales from the Rift",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4383.jpg"
+      },
+      {
+        "id": 4384,
+        "title": "Tales from the Rift 2019 Icon",
+        "description": "This icon was released during the 2019 Tales from the Rift event.",
+        "set": "Tales from the Rift",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4384.jpg"
       },
       {
         "id": 4,
@@ -47447,7 +47643,7 @@
         "id": 138,
         "name": "Battle Academia Desk Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was acquired through Loot during the 2019 Trials event.",
         "set": "Battle Acadamia",
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -47992,6 +48188,16 @@
         "rarity": "kMythic",
         "isLegacy": true,
         "imagePath": "/assets/wards/193.png"
+      },
+      {
+        "id": 194,
+        "name": "Tales From the Rift 2019 Ward",
+        "defaultDescription": null,
+        "description": "This ward was released during the 2019 Tales from the Rift event.",
+        "set": "Tales From the Rift",
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/194.png"
       }
     ],
     "emotes": [
@@ -51180,6 +51386,30 @@
         "name": "Happy 10th Anniversary!",
         "description": null,
         "imagePath": "/assets/emotes/3409.png"
+      },
+      {
+        "id": 3410,
+        "name": "Making Mischief",
+        "description": null,
+        "imagePath": "/assets/emotes/3410.png"
+      },
+      {
+        "id": 3411,
+        "name": "Trick or Treat",
+        "description": null,
+        "imagePath": "/assets/emotes/3411.png"
+      },
+      {
+        "id": 3412,
+        "name": "Boo!",
+        "description": null,
+        "imagePath": "/assets/emotes/3412.png"
+      },
+      {
+        "id": 3413,
+        "name": "I Won!",
+        "description": null,
+        "imagePath": "/assets/emotes/3413.png"
       },
       {
         "id": 4,
