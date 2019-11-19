@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.21.294.813",
+  "version": "9.22.297.3335",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,14 +12,14 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 145,
-    "skins": 988,
-    "chromas": 1069,
-    "icons": 2405,
-    "emotes": 541,
-    "wards": 194,
-    "tftcompanions": 217,
-    "tftmapskins": 8
+    "champions": 146,
+    "skins": 994,
+    "chromas": 1098,
+    "icons": 2418,
+    "emotes": 543,
+    "wards": 195,
+    "tftcompanions": 271,
+    "tftmapskins": 15
   },
   "data": {
     "champions": [
@@ -12225,6 +12225,15 @@
                 ]
               },
               {
+                "id": 84021,
+                "name": "PROJECT: Akali",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
                 "id": 84022,
                 "name": "PROJECT: Akali",
                 "description": null,
@@ -12249,6 +12258,79 @@
                 "colors": [
                   "#FF5500",
                   "#162B30"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 84015,
+            "name": "True Damage Akali",
+            "description": "After the worldwide success of K/DA, Akali made it her mission to recruit accomplished and up-and-coming artists to form a new supergroup: True Damage. Never before has a crew been comprised of such diverse talent, ranging from natural lyricists to renowned producers to legendary vocalists—all ready to disrupt the music industry.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/84015.jpg",
+            "chromas": [
+              {
+                "id": 84025,
+                "name": "True Damage Akali",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 84026,
+                "name": "True Damage Akali",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 84027,
+                "name": "True Damage Akali",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 84028,
+                "name": "True Damage Akali",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 84029,
+                "name": "True Damage Akali",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 84030,
+                "name": "True Damage Akali",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 84031,
+                "name": "True Damage Akali",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#BD1357",
+                  "#19182A"
                 ]
               }
             ]
@@ -18675,6 +18757,79 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 157018,
+            "name": "True Damage Yasuo",
+            "description": "As enigmatic as he is skilled, Yasuo is the veteran producer all others turn to for inspiration. His beats transcend genre, painting whole universes with wild textures of sound. Notoriously selective about his collaborations, Yasuo sees True Damage as his platform to revolutionize how society experiences music.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/157018.jpg",
+            "chromas": [
+              {
+                "id": 157027,
+                "name": "True Damage Yasuo",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 157028,
+                "name": "True Damage Yasuo",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 157029,
+                "name": "True Damage Yasuo",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 157030,
+                "name": "True Damage Yasuo",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 157031,
+                "name": "True Damage Yasuo",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 157032,
+                "name": "True Damage Yasuo",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 157033,
+                "name": "True Damage Yasuo",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#BD1357",
+                  "#19182A"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -19621,13 +19776,111 @@
         ]
       },
       {
+        "id": 235,
+        "name": "Senna",
+        "alias": "Senna",
+        "title": "the Redeemer",
+        "releaseDate": "2019-10-20",
+        "associatedFactionSlug": "runeterra",
+        "shortBio": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.",
+        "squarePortraitPath": "/assets/champions/portraits/235.png",
+        "roles": [
+          "marksman",
+          "mage"
+        ],
+        "skins": [
+          {
+            "id": 235000,
+            "name": "Senna (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/235000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 235001,
+            "name": "True Damage Senna",
+            "description": "Senna rose to fame with her stunning vocal range and iconic sense of style, but when a shady adversary from her past imprisoned her in a restrictive record deal that took away her creative independence, she vanished from the spotlight. After years of living in the shadows, she now emerges as the lead singer of True Damage with her mind set on defining her legacy on her own terms.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/235001.jpg",
+            "chromas": [
+              {
+                "id": 235002,
+                "name": "True Damage Senna",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#BD1357",
+                  "#19182A"
+                ]
+              },
+              {
+                "id": 235003,
+                "name": "True Damage Senna",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 235004,
+                "name": "True Damage Senna",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 235005,
+                "name": "True Damage Senna",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 235006,
+                "name": "True Damage Senna",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 235007,
+                "name": "True Damage Senna",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 235008,
+                "name": "True Damage Senna",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": 236,
         "name": "Lucian",
         "alias": "Lucian",
         "title": "the Purifier",
         "releaseDate": "2013-08-22",
         "associatedFactionSlug": "runeterra",
-        "shortBio": "Once a Sentinel of Light, Lucian is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. Consumed by the need to avenge his dead wife, he will not rest until Thresh, the specter who holds her soul, is destroyed. Merciless and single-minded, Lucian allows nothing to stand in the path of this vengeance—anyone or anything foolish enough to try is blown away by an overwhelming barrage of magical gunfire.",
+        "shortBio": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single-minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
         "squarePortraitPath": "/assets/champions/portraits/236.png",
         "roles": [
           "marksman"
@@ -20237,6 +20490,79 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 245019,
+            "name": "True Damage Ekko",
+            "description": "A boy genius from the rough streets, Ekko turned to music as a way to express himself. His prodigious lyricism and technological savvy could have bought him a way out, but instead, he chose to stay and uplift his neighborhood. Now, he fiercely resists the temptations of fame and glory, garnering a following among the young and hopeful who see him as an avatar for their own potential.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/245019.jpg",
+            "chromas": [
+              {
+                "id": 245020,
+                "name": "True Damage Ekko",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 245021,
+                "name": "True Damage Ekko",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 245022,
+                "name": "True Damage Ekko",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#BD1357",
+                  "#19182A"
+                ]
+              },
+              {
+                "id": 245023,
+                "name": "True Damage Ekko",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 245024,
+                "name": "",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 245025,
+                "name": "True Damage Ekko",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 245026,
+                "name": "True Damage Ekko",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -20335,6 +20661,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 246002,
+            "name": "True Damage Qiyana",
+            "description": "Qiyana is the daughter of Latin music royalty. With her family's esteemed reputation, she has an easy path to superstardom—and yet, she has her eyes set on something grander. With her brash confidence and rebellious persona, she is determined to change the game in not just music, but the entirety of pop culture.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/246002.jpg",
+            "chromas": null
+          },
+          {
+            "id": 246010,
+            "name": "True Damage Qiyana Prestige Edition",
+            "description": "Always a fixture in the spotlight, Qiyana dressed to impress at True Damage's sold-out concert in Paris. While the paparazzi swarmed her with photos and questions, she reveled in the attention, knowing this was only the beginning of her empire of celebrity.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/246010.jpg",
+            "chromas": null
           }
         ]
       },
@@ -21053,7 +21397,7 @@
         "title": "the Chain Warden",
         "releaseDate": "2013-01-23",
         "associatedFactionSlug": "shadow-isles",
-        "shortBio": "Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he sought a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.",
+        "shortBio": "Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.",
         "squarePortraitPath": "/assets/champions/portraits/412.png",
         "roles": [
           "support",
@@ -41300,8 +41644,8 @@
       },
       {
         "id": 4379,
-        "title": "summoner_icon_title_4379",
-        "description": "",
+        "title": "Annie-Versary Border Icon",
+        "description": "This icon was awarded for playing during the 10th Anniversary celebration.",
         "set": null,
         "yearReleased": 2019,
         "rarity": "kMythic",
@@ -41357,6 +41701,136 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4384.jpg"
+      },
+      {
+        "id": 4389,
+        "title": "True Damage Akali Border Icon",
+        "description": "This icon was awarded during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4389.jpg"
+      },
+      {
+        "id": 4390,
+        "title": "True Damage Yasuo Border Icon",
+        "description": "This icon was awarded during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4390.jpg"
+      },
+      {
+        "id": 4391,
+        "title": "True Damage Ekko Border Icon",
+        "description": "This icon was awarded during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4391.jpg"
+      },
+      {
+        "id": 4392,
+        "title": "True Damage Senna Border Icon",
+        "description": "This icon was awarded during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4392.jpg"
+      },
+      {
+        "id": 4393,
+        "title": "True Damage Qiyana Border Icon",
+        "description": "This icon was awarded during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4393.jpg"
+      },
+      {
+        "id": 4394,
+        "title": "True Damage Yasuo Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4394.jpg"
+      },
+      {
+        "id": 4395,
+        "title": "True Damage Senna Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4395.jpg"
+      },
+      {
+        "id": 4396,
+        "title": "True Damage Akali Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4396.jpg"
+      },
+      {
+        "id": 4397,
+        "title": "True Damage Ekko Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4397.jpg"
+      },
+      {
+        "id": 4398,
+        "title": "True Damage Icon",
+        "description": "This icon was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4398.jpg"
+      },
+      {
+        "id": 4400,
+        "title": "Little Legend Ossia Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Ossia Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4400.jpg"
+      },
+      {
+        "id": 4401,
+        "title": "Little Legend Melisma Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Melisma Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4401.jpg"
+      },
+      {
+        "id": 4402,
+        "title": "Little Legend QiQi Icon",
+        "description": "This icon was acquired by purchasing the Little Legend QiQi Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4402.jpg"
       },
       {
         "id": 4,
@@ -48180,6 +48654,16 @@
         "imagePath": "/assets/wards/191.png"
       },
       {
+        "id": 192,
+        "name": "True Damage Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired through Loot during the 2019 Worlds event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/192.png"
+      },
+      {
         "id": 193,
         "name": "10th Anniversary Ward",
         "defaultDescription": null,
@@ -51412,6 +51896,18 @@
         "imagePath": "/assets/emotes/3413.png"
       },
       {
+        "id": 3414,
+        "name": "Animated Unimpressed!",
+        "description": null,
+        "imagePath": "/assets/emotes/3414.png"
+      },
+      {
+        "id": 3415,
+        "name": "No Sweat!",
+        "description": null,
+        "imagePath": "/assets/emotes/3415.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -51449,6 +51945,150 @@
       }
     ],
     "tftcompanions": [
+      {
+        "id": 13010,
+        "name": "Beatmaker Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/13010.png"
+      },
+      {
+        "id": 13011,
+        "name": "Beatmaker Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/13011.png"
+      },
+      {
+        "id": 13012,
+        "name": "Beatmaker Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/13012.png"
+      },
+      {
+        "id": 13001,
+        "name": "Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/13001.png"
+      },
+      {
+        "id": 13002,
+        "name": "Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/13002.png"
+      },
+      {
+        "id": 13003,
+        "name": "Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/13003.png"
+      },
+      {
+        "id": 13007,
+        "name": "Pop Queen Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/13007.png"
+      },
+      {
+        "id": 13008,
+        "name": "Pop Queen Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/13008.png"
+      },
+      {
+        "id": 13009,
+        "name": "Pop Queen Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/13009.png"
+      },
+      {
+        "id": 13013,
+        "name": "Prodigy Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/13013.png"
+      },
+      {
+        "id": 13014,
+        "name": "Prodigy Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/13014.png"
+      },
+      {
+        "id": 13015,
+        "name": "Prodigy Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/13015.png"
+      },
+      {
+        "id": 13016,
+        "name": "Pumped Up Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/13016.png"
+      },
+      {
+        "id": 13017,
+        "name": "Pumped Up Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/13017.png"
+      },
+      {
+        "id": 13018,
+        "name": "Pumped Up Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/13018.png"
+      },
+      {
+        "id": 13004,
+        "name": "Soloist Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/13004.png"
+      },
+      {
+        "id": 13005,
+        "name": "Soloist Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/13005.png"
+      },
+      {
+        "id": 13006,
+        "name": "Soloist Ossia",
+        "description": "Ossia embodies cool. It commands rhyme and rhythm with an effortless flow that makes even the greatest Little Legends jealous.",
+        "species": "Ossia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/13006.png"
+      },
       {
         "id": 7004,
         "name": "Fierce Protector",
@@ -52458,6 +53098,150 @@
         "imagePath": "/assets/tftcompanions/6015.png"
       },
       {
+        "id": 14016,
+        "name": "Bass Queen QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/14016.png"
+      },
+      {
+        "id": 14017,
+        "name": "Bass Queen QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/14017.png"
+      },
+      {
+        "id": 14018,
+        "name": "Bass Queen QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/14018.png"
+      },
+      {
+        "id": 14010,
+        "name": "Beatmaker QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/14010.png"
+      },
+      {
+        "id": 14011,
+        "name": "Beatmaker QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/14011.png"
+      },
+      {
+        "id": 14012,
+        "name": "Beatmaker QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/14012.png"
+      },
+      {
+        "id": 14004,
+        "name": "Hardhitter QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/14004.png"
+      },
+      {
+        "id": 14005,
+        "name": "Hardhitter QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/14005.png"
+      },
+      {
+        "id": 14006,
+        "name": "Hardhitter QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/14006.png"
+      },
+      {
+        "id": 14013,
+        "name": "Prodigy QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/14013.png"
+      },
+      {
+        "id": 14014,
+        "name": "Prodigy QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/14014.png"
+      },
+      {
+        "id": 14015,
+        "name": "Prodigy QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/14015.png"
+      },
+      {
+        "id": 14001,
+        "name": "QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/14001.png"
+      },
+      {
+        "id": 14002,
+        "name": "QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/14002.png"
+      },
+      {
+        "id": 14003,
+        "name": "QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/14003.png"
+      },
+      {
+        "id": 14007,
+        "name": "Soloist QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/14007.png"
+      },
+      {
+        "id": 14008,
+        "name": "Soloist QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/14008.png"
+      },
+      {
+        "id": 14009,
+        "name": "Soloist QiQi",
+        "description": "QiQi's hobbies include looking good and turning heads. Whether it's music, fashion or battling fierce enemies, QiQi always takes center stage.",
+        "species": "QiQi",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/14009.png"
+      },
+      {
         "id": 10004,
         "name": "Bubblegum Dango",
         "description": "Dango is the hungriest of all the Little Legends.",
@@ -52890,6 +53674,150 @@
         "imagePath": "/assets/tftcompanions/12012.png"
       },
       {
+        "id": 15010,
+        "name": "Beatmaker Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/15010.png"
+      },
+      {
+        "id": 15011,
+        "name": "Beatmaker Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/15011.png"
+      },
+      {
+        "id": 15012,
+        "name": "Beatmaker Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/15012.png"
+      },
+      {
+        "id": 15004,
+        "name": "Hardhitter Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/15004.png"
+      },
+      {
+        "id": 15005,
+        "name": "Hardhitter Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/15005.png"
+      },
+      {
+        "id": 15006,
+        "name": "Hardhitter Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/15006.png"
+      },
+      {
+        "id": 15001,
+        "name": "Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/15001.png"
+      },
+      {
+        "id": 15002,
+        "name": "Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/15002.png"
+      },
+      {
+        "id": 15003,
+        "name": "Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/15003.png"
+      },
+      {
+        "id": 15007,
+        "name": "Pop Queen Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/15007.png"
+      },
+      {
+        "id": 15008,
+        "name": "Pop Queen Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/15008.png"
+      },
+      {
+        "id": 15009,
+        "name": "Pop Queen Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/15009.png"
+      },
+      {
+        "id": 15013,
+        "name": "Prodigy Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/15013.png"
+      },
+      {
+        "id": 15014,
+        "name": "Prodigy Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/15014.png"
+      },
+      {
+        "id": 15015,
+        "name": "Prodigy Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/15015.png"
+      },
+      {
+        "id": 15016,
+        "name": "Shadow Beat Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/15016.png"
+      },
+      {
+        "id": 15017,
+        "name": "Shadow Beat Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/15017.png"
+      },
+      {
+        "id": 15018,
+        "name": "Shadow Beat Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/15018.png"
+      },
+      {
         "id": 9016,
         "name": "Eternal Hushtail",
         "description": "A mystical Hushtail.",
@@ -53218,6 +54146,30 @@
         "imagePath": "/assets/tftmapskins/5.png"
       },
       {
+        "id": 14,
+        "name": "Cloud Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/14.png"
+      },
+      {
+        "id": 12,
+        "name": "Mountain Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/12.png"
+      },
+      {
+        "id": 13,
+        "name": "Infernal Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/13.png"
+      },
+      {
+        "id": 15,
+        "name": "Ocean Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/15.png"
+      },
+      {
         "id": 6,
         "name": "Basic Verdant Arena",
         "description": null,
@@ -53234,6 +54186,24 @@
         "name": "Storm Rift Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/8.png"
+      },
+      {
+        "id": 10,
+        "name": "Freljord Avarosa Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/10.png"
+      },
+      {
+        "id": 11,
+        "name": "Freljord Frostguard Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/11.png"
+      },
+      {
+        "id": 9,
+        "name": "Freljord Winter's Claw",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/9.png"
       }
     ]
   }
