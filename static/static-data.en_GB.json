@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.22.297.3335",
+  "version": "9.23.298.3143",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,10 +13,10 @@
   ],
   "info": {
     "champions": 146,
-    "skins": 994,
-    "chromas": 1098,
-    "icons": 2418,
-    "emotes": 543,
+    "skins": 997,
+    "chromas": 1100,
+    "icons": 2462,
+    "emotes": 553,
     "wards": 195,
     "tftcompanions": 271,
     "tftmapskins": 15
@@ -4395,7 +4395,7 @@
             "name": "Jaximus",
             "description": null,
             "rarity": "kNoRarity",
-            "isLegacy": false,
+            "isLegacy": true,
             "tilePath": "/assets/champions/tiles/24005.jpg",
             "chromas": null
           },
@@ -8013,7 +8013,7 @@
           {
             "id": 48004,
             "name": "Constable Trundle",
-            "description": null,
+            "description": "Constable Trundle's definition of keeping the peace translates to barking insults at jaywalkers, haphazardly placing cones in the street, and perhaps worst of all, plundering doughnuts from all the local bakeries. Needless to say, this behavior results in some very stern browbeatings from Piltover Yard.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/48004.jpg",
@@ -10881,7 +10881,7 @@
           {
             "id": 75003,
             "name": "Dreadknight Nasus",
-            "description": null,
+            "description": "Dreadknight Nasus serves as keeper of the forgotten texts deep within the catacombs of his Master's labyrinthine library. It is said that within lies the secret of the Dreadknights' undoing, but no living soul has yet verified whether this is truth or fable.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/75003.jpg",
@@ -12506,7 +12506,7 @@
           {
             "id": 86004,
             "name": "Dreadknight Garen",
-            "description": null,
+            "description": "Once a valiant hero, Dreadknight Garen fell to the promise of power great enough to save his land. Now, twisted by the corrupting magic of his Master, he commands the frozen legions in their march upon the living. Only desolation remains in his wake.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/86004.jpg",
@@ -12899,7 +12899,7 @@
           {
             "id": 91002,
             "name": "Crimson Elite Talon",
-            "description": null,
+            "description": "The Crimson Elite cannot confirm or deny the existence of the agent known as Talon. The bloody trail left behind him serves as a sinister warning to all. Perhaps more disconcerting are the hundreds of undocumented cases that remain undiscovered.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/91002.jpg",
@@ -13097,7 +13097,7 @@
           {
             "id": 92002,
             "name": "Crimson Elite Riven",
-            "description": null,
+            "description": "Though officially listed as killed in action, the rogue operative with the broken blade harbors no regrets for abandoning her comrades in their most dire moment. A turncoat become mercenary, she operates in the outer limits of civil society, lending her blade to the highest bidder.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92002.jpg",
@@ -14823,7 +14823,7 @@
           {
             "id": 106004,
             "name": "Captain Volibear",
-            "description": null,
+            "description": "For Volibear's years of service on the Force, he was awarded the honorary title of Captain. For his utter incompetence in the field, it was made certain he would remain on desk duty for the rest of his career. Even so, he and Constable Trundle always end up patrolling the streets with mountains of paperwork left in their wake.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/106004.jpg",
@@ -19786,7 +19786,7 @@
         "squarePortraitPath": "/assets/champions/portraits/235.png",
         "roles": [
           "marksman",
-          "mage"
+          "support"
         ],
         "skins": [
           {
@@ -20537,7 +20537,7 @@
               },
               {
                 "id": 245024,
-                "name": "",
+                "name": "True Damage Ekko",
                 "description": null,
                 "colors": [
                   "#FFEE59",
@@ -20560,6 +20560,15 @@
                 "colors": [
                   "#ECF9F8",
                   "#ECF9F8"
+                ]
+              },
+              {
+                "id": 245027,
+                "name": "",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -20975,6 +20984,25 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/266008.jpg",
             "chromas": null
+          },
+          {
+            "id": 266009,
+            "name": "Victorious Aatrox",
+            "description": "Victorious Aatrox was awarded to players who reached Gold or higher in the 2019 season. With arm and sword sculpted from crystal quartz, he stands as a monument to all who wish to achieve greatness.",
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/266009.jpg",
+            "chromas": [
+              {
+                "id": 266010,
+                "name": "Victorious Aatrox",
+                "description": null,
+                "colors": [
+                  "#FF2C25",
+                  "#FF2C25"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21522,6 +21550,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 412013,
+            "name": "Pulsefire Thresh",
+            "description": "As head of the Remembrancers, Thresh usually remains behind the scenes pulling the chains of time rather than stepping into the stream himself. Yet recent events have caused him to leave his temporal citadel, bringing his pulsefire lantern to bear.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/412013.jpg",
+            "chromas": null
+          },
+          {
+            "id": 412014,
+            "name": "Pulsefire Thresh Prestige Edition",
+            "description": "As paradoxes multiply and more rogue agents rebel against the grasp of the chrono-enforcers, Thresh, as commander of the Rembrancers, takes matters into his own hands. He must not yield control of time to these interlopers… nor to the growing Praetorian threat.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/412014.jpg",
+            "chromas": null
           }
         ]
       },
@@ -41833,6 +41879,446 @@
         "imagePath": "/assets/icons/4402.jpg"
       },
       {
+        "id": 4403,
+        "title": "Twisted Treeline Altar Icon",
+        "description": "Earned for high engagement on Twisted Treeline.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4403.jpg"
+      },
+      {
+        "id": 4404,
+        "title": "Shadow Isles Tree Icon",
+        "description": "Earned for high engagement on Twisted Treeline.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4404.jpg"
+      },
+      {
+        "id": 4405,
+        "title": "Nunu and Willump Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4405.jpg"
+      },
+      {
+        "id": 4406,
+        "title": "Lissandra Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4406.jpg"
+      },
+      {
+        "id": 4407,
+        "title": "Sejuani Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4407.jpg"
+      },
+      {
+        "id": 4408,
+        "title": "Cassiopeia Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4408.jpg"
+      },
+      {
+        "id": 4409,
+        "title": "Neeko Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4409.jpg"
+      },
+      {
+        "id": 4410,
+        "title": "Vi Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4410.jpg"
+      },
+      {
+        "id": 4411,
+        "title": "Ekko Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4411.jpg"
+      },
+      {
+        "id": 4412,
+        "title": "Urgot Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4412.jpg"
+      },
+      {
+        "id": 4413,
+        "title": "Jinx Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4413.jpg"
+      },
+      {
+        "id": 4414,
+        "title": "Warwick Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4414.jpg"
+      },
+      {
+        "id": 4415,
+        "title": "Ziggs Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4415.jpg"
+      },
+      {
+        "id": 4416,
+        "title": "Camille Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4416.jpg"
+      },
+      {
+        "id": 4417,
+        "title": "Aatrox Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4417.jpg"
+      },
+      {
+        "id": 4418,
+        "title": "Annie Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4418.jpg"
+      },
+      {
+        "id": 4419,
+        "title": "Bard Champie Icon",
+        "description": "This icon was released in the store for purchase in 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4419.jpg"
+      },
+      {
+        "id": 4420,
+        "title": "Season 2019 - Solo/Duo Iron Icon",
+        "description": "This icon was earned by finishing Iron in Solo/Duo Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4420.jpg"
+      },
+      {
+        "id": 4421,
+        "title": "Season 2019 - Solo/Duo Bronze Icon",
+        "description": "This icon was earned by finishing Bronze in Solo/Duo Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4421.jpg"
+      },
+      {
+        "id": 4422,
+        "title": "Season 2019 - Solo/Duo Silver Icon",
+        "description": "This icon was earned by finishing Silver in Solo/Duo Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4422.jpg"
+      },
+      {
+        "id": 4423,
+        "title": "Season 2019 - Solo/Duo Gold Icon",
+        "description": "This icon was earned by finishing Gold in Solo/Duo Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4423.jpg"
+      },
+      {
+        "id": 4424,
+        "title": "Season 2019 - Solo/Duo Platinum Icon",
+        "description": "This icon was earned by finishing Platinum in Solo/Duo Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4424.jpg"
+      },
+      {
+        "id": 4425,
+        "title": "Season 2019 - Solo/Duo Diamond Icon",
+        "description": "This icon was earned by finishing Diamond in Solo/Duo Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": null,
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4425.jpg"
+      },
+      {
+        "id": 4426,
+        "title": "Season 2019 - Solo/Duo Master Icon",
+        "description": "This icon was earned by finishing Master in Solo/Duo Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4426.jpg"
+      },
+      {
+        "id": 4427,
+        "title": "Season 2019 - Solo/Duo Grandmaster Icon",
+        "description": "This icon was earned by finishing Grandmaster in Solo/Duo Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4427.jpg"
+      },
+      {
+        "id": 4428,
+        "title": "Season 2019 - Solo/Duo Challenger Icon",
+        "description": "This icon was earned by finishing Challenger in Solo/Duo Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4428.jpg"
+      },
+      {
+        "id": 4429,
+        "title": "Season 2019 - Flex Iron Icon",
+        "description": "This icon was earned by finishing Iron in Flex Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4429.jpg"
+      },
+      {
+        "id": 4430,
+        "title": "Season 2019 - Flex Bronze Icon",
+        "description": "This icon was earned by finishing Bronze in Flex Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4430.jpg"
+      },
+      {
+        "id": 4431,
+        "title": "Season 2019 - Flex Silver Icon",
+        "description": "This icon was earned by finishing Silver in Flex Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4431.jpg"
+      },
+      {
+        "id": 4432,
+        "title": "Season 2019 - Flex Gold Icon",
+        "description": "This icon was earned by finishing Gold in Flex Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4432.jpg"
+      },
+      {
+        "id": 4433,
+        "title": "Season 2019 - Flex Platinum Icon",
+        "description": "This icon was earned by finishing Platinum in Flex Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4433.jpg"
+      },
+      {
+        "id": 4434,
+        "title": "Season 2019 - Flex Diamond Icon",
+        "description": "This icon was earned by finishing Diamond in Flex Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": null,
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4434.jpg"
+      },
+      {
+        "id": 4435,
+        "title": "Season 2019 - Flex Master Icon",
+        "description": "This icon was earned by finishing Master in Flex Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4435.jpg"
+      },
+      {
+        "id": 4436,
+        "title": "Season 2019 - Flex Grandmaster Icon",
+        "description": "This icon was earned by finishing Grandmaster in Flex Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4436.jpg"
+      },
+      {
+        "id": 4437,
+        "title": "Season 2019 - Flex Challenger Icon",
+        "description": "This icon was earned by finishing Challenger in Flex Queue in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4437.jpg"
+      },
+      {
+        "id": 4438,
+        "title": "Season 2019 - TT Iron Icon",
+        "description": "This icon was earned by finishing Iron in Twisted Treeline in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4438.jpg"
+      },
+      {
+        "id": 4439,
+        "title": "Season 2019 - TT Bronze Icon",
+        "description": "This icon was earned by finishing Bronze in Twisted Treeline in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4439.jpg"
+      },
+      {
+        "id": 4440,
+        "title": "Season 2019 - TT Silver Icon",
+        "description": "This icon was earned by finishing Silver in Twisted Treeline in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4440.jpg"
+      },
+      {
+        "id": 4441,
+        "title": "Season 2019 - TT Gold Icon",
+        "description": "This icon was earned by finishing Gold in Twisted Treeline in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4441.jpg"
+      },
+      {
+        "id": 4442,
+        "title": "Season 2019 - TT Platinum Icon",
+        "description": "This icon was earned by finishing Platinum in Twisted Treeline in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4442.jpg"
+      },
+      {
+        "id": 4443,
+        "title": "Season 2019 - TT Diamond Icon",
+        "description": "This icon was earned by finishing Diamond in Twisted Treeline in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": null,
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4443.jpg"
+      },
+      {
+        "id": 4444,
+        "title": "Season 2019 - TT Master Icon",
+        "description": "This icon was earned by finishing Master in Twisted Treeline in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4444.jpg"
+      },
+      {
+        "id": 4445,
+        "title": "Season 2019 - TT Grandmaster Icon",
+        "description": "This icon was earned by finishing Grandmaster in Twisted Treeline in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4445.jpg"
+      },
+      {
+        "id": 4446,
+        "title": "Season 2019 - TT Challenger Icon",
+        "description": "This icon was earned by finishing Challenger in Twisted Treeline in Season 2019.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4446.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -51906,6 +52392,66 @@
         "name": "No Sweat!",
         "description": null,
         "imagePath": "/assets/emotes/3415.png"
+      },
+      {
+        "id": 3416,
+        "name": "TFT Season 1 - Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3416.png"
+      },
+      {
+        "id": 3417,
+        "name": "TFT Season 1 - Platinum",
+        "description": null,
+        "imagePath": "/assets/emotes/3417.png"
+      },
+      {
+        "id": 3418,
+        "name": "TFT Season 1 - Diamond",
+        "description": null,
+        "imagePath": "/assets/emotes/3418.png"
+      },
+      {
+        "id": 3419,
+        "name": "TFT Season 1 -  Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3419.png"
+      },
+      {
+        "id": 3420,
+        "name": "TFT Season 1 - Grand Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3420.png"
+      },
+      {
+        "id": 3421,
+        "name": "TFT Season 1 - Challenger",
+        "description": null,
+        "imagePath": "/assets/emotes/3421.png"
+      },
+      {
+        "id": 3422,
+        "name": "That's Twisted",
+        "description": null,
+        "imagePath": "/assets/emotes/3422.png"
+      },
+      {
+        "id": 3423,
+        "name": "2019 Honor 3",
+        "description": null,
+        "imagePath": "/assets/emotes/3423.png"
+      },
+      {
+        "id": 3424,
+        "name": "2019 Honor 4",
+        "description": null,
+        "imagePath": "/assets/emotes/3424.png"
+      },
+      {
+        "id": 3425,
+        "name": "2019 Honor 5",
+        "description": null,
+        "imagePath": "/assets/emotes/3425.png"
       },
       {
         "id": 4,
