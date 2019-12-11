@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.23.298.3143",
+  "version": "9.24.300.6382",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,12 +12,12 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 146,
-    "skins": 997,
-    "chromas": 1100,
-    "icons": 2462,
-    "emotes": 553,
-    "wards": 195,
+    "champions": 147,
+    "skins": 1010,
+    "chromas": 1156,
+    "icons": 2489,
+    "emotes": 559,
+    "wards": 197,
     "tftcompanions": 271,
     "tftmapskins": 15
   },
@@ -1302,7 +1302,7 @@
           {
             "id": 8005,
             "name": "Blood Lord Vladimir",
-            "description": null,
+            "description": "Former leader of a Bloodstone cult, Vladimir took part in a ritual that sacrificed his humanity—along with the blood of several victims—to transform the once foppish noble into a terror of the night. To satiate his sanguine cravings, he stalks the urban labyrinth in search of hapless prey.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/8005.jpg",
@@ -1377,6 +1377,70 @@
                 "colors": [
                   "#DED6B0",
                   "#DED6B0"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8014,
+            "name": "Nightbringer Vladimir",
+            "description": "The chaotic king of the night, Vladimir exists as the personification of uncertainty and revelry. He thrives in the unknown shadows, feeding on the life essence and darkness found in mortal hearts.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/8014.jpg",
+            "chromas": [
+              {
+                "id": 8015,
+                "name": "Nightbringer Vladimir",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#C33C3E",
+                  "#0C0E15"
+                ]
+              },
+              {
+                "id": 8016,
+                "name": "Nightbringer Vladimir",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 8017,
+                "name": "Nightbringer Vladimir",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 8018,
+                "name": "Nightbringer Vladimir",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 8019,
+                "name": "Nightbringer Vladimir",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 8020,
+                "name": "Nightbringer Vladimir",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
                 ]
               }
             ]
@@ -2227,7 +2291,7 @@
           {
             "id": 13008,
             "name": "Pirate Ryze",
-            "description": null,
+            "description": "In another world and time, when the stress of preventing another Rune War was just too much, Ryze left behind his previous life to terrorize the high seas of Runeterra! With his trusty cannon on his back, and magic coursing through his veins like gold through his fingers, Pirate Ryze warps from ship to ship and coast to coast, taking what he will.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/13008.jpg",
@@ -2807,6 +2871,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 16015,
+            "name": "Dawnbringer Soraka",
+            "description": "A child of the gods born when chaos slew order, Soraka contains within her the powers of both Riven and Yasuo. To end the conflict of the gods, she has embraced the light to pierce the darkness, drawing on the powers of dawn to bring order to the chaotic world.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/16015.jpg",
+            "chromas": null
+          },
+          {
+            "id": 16016,
+            "name": "Nightbringer Soraka",
+            "description": "A child of the gods born when chaos slew order, Soraka contains within her the powers of both Riven and Yasuo. To end the conflict of the gods, she has embraced the darkness to soothe the blinding light, drawing on the powers of night to create chaos and change in a too-static world.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/16016.jpg",
+            "chromas": null
           }
         ]
       },
@@ -3116,7 +3198,7 @@
           {
             "id": 18005,
             "name": "Buccaneer Tristana",
-            "description": null,
+            "description": "Gunners ahoy! Tristana leaps onto the high seas, sailing for new adventures beyond the Bandle borders. The hat's borrowed (stolen) from a pirate she blasted, and the eyepatch is purely for show. But her take-no-prisoner attitude and trusty cannon gun have sunk more ships than most captains in Bilgewater.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/18005.jpg",
@@ -4794,6 +4876,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/26005.jpg",
             "chromas": null
+          },
+          {
+            "id": 26006,
+            "name": "Sugar Rush Zilean",
+            "description": "For most denizens of Candy Kingdom, there's never enough time to eat all the sweets. For Zilean, there's never enough candy to fill all the time.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/26006.jpg",
+            "chromas": [
+              {
+                "id": 26007,
+                "name": "Sugar Rush Zilean",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 26008,
+                "name": "Sugar Rush Zilean",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 26009,
+                "name": "Sugar Rush Zilean",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 26010,
+                "name": "Sugar Rush Zilean",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 26011,
+                "name": "Sugar Rush Zilean",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 26012,
+                "name": "Sugar Rush Zilean",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
+                ]
+              },
+              {
+                "id": 26013,
+                "name": "Sugar Rush Zilean",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#E58BA5",
+                  "#6FFDFF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -4988,6 +5143,70 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/28007.jpg",
             "chromas": null
+          },
+          {
+            "id": 28008,
+            "name": "Sugar Rush Evelynn",
+            "description": "In a world where every tooth is sweet, Evelyn's sugary bite is deadly.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/28008.jpg",
+            "chromas": [
+              {
+                "id": 28009,
+                "name": "Sugar Rush Evelynn",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 28010,
+                "name": "Sugar Rush Evelynn",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 28011,
+                "name": "Sugar Rush Evelynn",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 28012,
+                "name": "Sugar Rush Evelynn",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#E58BA5",
+                  "#6FFDFF"
+                ]
+              },
+              {
+                "id": 28013,
+                "name": "Sugar Rush Evelynn",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 28014,
+                "name": "Sugar Rush Evelynn",
+                "description": null,
+                "colors": [
+                  "#9F4A25",
+                  "#9F4A25"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -5017,7 +5236,7 @@
           {
             "id": 29001,
             "name": "Kingpin Twitch",
-            "description": null,
+            "description": "Many in Bilgewater get called a filthy rat, but none deserve the title more than the Kingpin himself. While other crime bosses in the port city may loathe to get their hands dirty, Twitch revels in wading into the filth himself—crossbow in hand, and a finely aged egg in his pocket.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/29001.jpg",
@@ -7635,6 +7854,70 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 43019,
+            "name": "Dawnbringer Karma",
+            "description": "Charged with governing the cosmic cycles of death and rebirth, Karma fights to protect the wellspring of souls as they journey to reincarnation. More so than the other cosmic beings, she cares for the mortal souls she shepherds, striving to create a more structured world.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/43019.jpg",
+            "chromas": [
+              {
+                "id": 43020,
+                "name": "Dawnbringer Karma",
+                "description": "This chroma was acquired during the 2019 Night & Dawn event. All proceeds went to charity.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 43021,
+                "name": "Dawnbringer Karma",
+                "description": "This chroma was acquired during the 2019 Night & Dawn event. All proceeds went to charity.",
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 43022,
+                "name": "Dawnbringer Karma",
+                "description": "This chroma was acquired during the 2019 Night & Dawn event. All proceeds went to charity.",
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 43023,
+                "name": "Dawnbringer Karma",
+                "description": "This chroma was acquired during the 2019 Night & Dawn event. All proceeds went to charity.",
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 43024,
+                "name": "Dawnbringer Karma",
+                "description": "This chroma was acquired during the 2019 Night & Dawn event. All proceeds went to charity.",
+                "colors": [
+                  "#6FFDFF",
+                  "#2377FF"
+                ]
+              },
+              {
+                "id": 43025,
+                "name": "Dawnbringer Karma",
+                "description": "This chroma was acquired during the 2019 Night & Dawn event. All proceeds went to charity.",
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -7682,7 +7965,7 @@
           {
             "id": 44003,
             "name": "Bloodstone Taric",
-            "description": null,
+            "description": "Considered to be the most handsome and cunning acolyte of his Bloodstone cult, Taric seized power after the former leader took to the hunt. Now fully in control of his Bloodstone artifact, he uses his powers to maintain his youth and beauty at all costs—even if it means getting his hands a little bloody.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/44003.jpg",
@@ -8143,6 +8426,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 50011,
+            "name": "Hextech Swain",
+            "description": "The hextech artificer known as Jericho Swain is an almost legendary figure among Piltover's growing upper crust. Though he professes not to meddle in city affairs, he has been quietly integrating various hextech components into his own body… and with them, unparalleled access to the eyes and ears of thousands of artificial creatures.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/50011.jpg",
+            "chromas": null
           }
         ]
       },
@@ -8902,7 +9194,7 @@
           {
             "id": 55003,
             "name": "Bilgewater Katarina",
-            "description": null,
+            "description": "To outsiders, the politics of Bilgewater seem a mean mess of villainous scum and dishonorable thieves. But woven throughout are complex loyalties, solemn codes of honor, and a very specific (if bloody) way of doing things. Cutting through it all is Katarina, a master of the blade. She silences the right tongues at all the right moments… for the right price.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/55003.jpg",
@@ -9431,7 +9723,7 @@
           {
             "id": 58003,
             "name": "Bloodfury Renekton",
-            "description": null,
+            "description": "This blood-crazed killing machine scours the battlefield to sate the Bloodstone. The more he slays, the more he fuels his powers. This in turn feeds his frenzy, creating a never ending cycle of spilt viscera and gore.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/58003.jpg",
@@ -10320,6 +10612,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 64027,
+            "name": "Nightbringer Lee Sin",
+            "description": "Lee Sin thrives in the heat of combat. An embodiment of passion and fury, he rules over the raw, chaotic emotions of the heart. While his siblings fight for various ideals, Lee Sin fights for the thrill of battle itself, striking with power and unpredictability.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/64027.jpg",
+            "chromas": null
+          },
+          {
+            "id": 64028,
+            "name": "Nightbringer Lee Sin Prestige Edition",
+            "description": "Fully consumed by chaos and his blind devotion to the thrill of battle, Lee Sin has become night incarnate, gilded by his divinity.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/64028.jpg",
+            "chromas": null
           }
         ]
       },
@@ -10501,7 +10811,7 @@
           {
             "id": 68002,
             "name": "Bilgerat Rumble",
-            "description": null,
+            "description": "When the burdens of invention weigh too heavy on a young yordle's shoulders, there's no better choice than to take to the seas! Nothing like plunderin' and maraudin' to lend Rumble a new lease on life as he terrorizes the coasts.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/68002.jpg",
@@ -11112,6 +11422,70 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/76009.jpg",
             "chromas": null
+          },
+          {
+            "id": 76011,
+            "name": "Dawnbringer Nidalee",
+            "description": "Nidalee rules over the restorative calm of the natural world, guarding the land's remaining peaceful places. She fights to protect the land and living things, bringing light and order to the mortal creatures under her care—even taking the form of a celestial beast.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/76011.jpg",
+            "chromas": [
+              {
+                "id": 76012,
+                "name": "Dawnbringer Nidalee",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 76013,
+                "name": "Dawnbringer Nidalee",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 76014,
+                "name": "Dawnbringer Nidalee",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 76015,
+                "name": "Dawnbringer Nidalee",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#6FFDFF",
+                  "#2377FF"
+                ]
+              },
+              {
+                "id": 76016,
+                "name": "Dawnbringer Nidalee",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 76017,
+                "name": "Dawnbringer Nidalee",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -13258,7 +13632,17 @@
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92016.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 92024,
+                "name": "Dawnbringer Riven",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#6FFDFF",
+                  "#2377FF"
+                ]
+              }
+            ]
           },
           {
             "id": 92018,
@@ -15957,6 +16341,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 115014,
+            "name": "Sugar Rush Ziggs",
+            "description": "The famed Gumball Grenadier, Ziggs, bursts across Candy Kingdom! Everyone knows to enjoy his colorful explosions… from a safe distance.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/115014.jpg",
+            "chromas": [
+              {
+                "id": 115015,
+                "name": "Sugar Rush Ziggs",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 115016,
+                "name": "Sugar Rush Ziggs",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 115017,
+                "name": "Sugar Rush Ziggs",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 115018,
+                "name": "Sugar Rush Ziggs",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 115019,
+                "name": "Sugar Rush Ziggs",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 115020,
+                "name": "Sugar Rush Ziggs",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 115021,
+                "name": "Sugar Rush Ziggs",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#E58BA5",
+                  "#6FFDFF"
+                ]
+              },
+              {
+                "id": 115022,
+                "name": "Sugar Rush Ziggs",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -16372,7 +16838,7 @@
           {
             "id": 120001,
             "name": "Blood Knight Hecarim",
-            "description": null,
+            "description": "A zealous sycophant to his order, Hecarim unquestioningly serves the will of the Bloodstone. While less subtle than his masters would like, he is nonetheless effective in his purpose of executing enemies in a grisly fashion.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/120001.jpg",
@@ -17251,7 +17717,7 @@
           {
             "id": 127001,
             "name": "Bloodstone Lissandra",
-            "description": null,
+            "description": "Once a powerful sorceress who sought absolute control over her followers, Lissandra transformed into something altogether different when she finally found the hallowed Bloodstone. The magic she drew from it drove her to slay those who once tended to her every whim. To this day she wanders in search of more mortals to sacrifice to her newfound source of power.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/127001.jpg",
@@ -18610,7 +19076,17 @@
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/157009.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 157034,
+                "name": "Nightbringer Yasuo",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#C33C3E",
+                  "#0C0E15"
+                ]
+              }
+            ]
           },
           {
             "id": 157010,
@@ -19274,6 +19750,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 201024,
+            "name": "Sugar Rush Braum",
+            "description": "No one knows how Braum manages to never get candy stuck in his majestic mustache. Everyone knows how the great defender stands stalwart for everyone, from the smallest gumdrop to the strongest candy king.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/201024.jpg",
+            "chromas": [
+              {
+                "id": 201025,
+                "name": "Sugar Rush Braum",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 201026,
+                "name": "Sugar Rush Braum",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 201027,
+                "name": "Sugar Rush Braum",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 201028,
+                "name": "Sugar Rush Braum",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 201029,
+                "name": "Sugar Rush Braum",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 201030,
+                "name": "Sugar Rush Braum",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 201031,
+                "name": "Sugar Rush Braum",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 201032,
+                "name": "Sugar Rush Braum",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#E58BA5",
+                  "#6FFDFF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -19781,7 +20339,7 @@
         "alias": "Senna",
         "title": "the Redeemer",
         "releaseDate": "2019-10-20",
-        "associatedFactionSlug": "runeterra",
+        "associatedFactionSlug": "unaffiliated",
         "shortBio": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.",
         "squarePortraitPath": "/assets/champions/portraits/235.png",
         "roles": [
@@ -19879,7 +20437,7 @@
         "alias": "Lucian",
         "title": "the Purifier",
         "releaseDate": "2013-08-22",
-        "associatedFactionSlug": "runeterra",
+        "associatedFactionSlug": "unaffiliated",
         "shortBio": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single-minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
         "squarePortraitPath": "/assets/champions/portraits/236.png",
         "roles": [
@@ -20564,7 +21122,7 @@
               },
               {
                 "id": 245027,
-                "name": "",
+                "name": "True Damage Ekko",
                 "description": null,
                 "colors": [
                   "#27211C",
@@ -22472,6 +23030,103 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/518011.jpg",
             "chromas": null
+          }
+        ]
+      },
+      {
+        "id": 523,
+        "name": "Aphelios",
+        "alias": "Aphelios",
+        "title": "the Weapon of the Faithful",
+        "releaseDate": "2019-11-19T19:43:26Z",
+        "associatedFactionSlug": "mount-targon",
+        "shortBio": "Emerging from moonlight's shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by his sister Alune. From her distant temple sanctuary, she pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead, Aphelios will never be alone.",
+        "squarePortraitPath": "/assets/champions/portraits/523.png",
+        "roles": [
+          "marksman"
+        ],
+        "skins": [
+          {
+            "id": 523000,
+            "name": "Aphelios (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/523000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 523001,
+            "name": "Nightbringer Aphelios",
+            "description": "Separated at primordial birth, Aphelios, a fiend of chaos, and Alune, an archoness of order, were created as enemies. Yet, drawn each night to wander by shared visions of the moon, they found each other. Abandoning their natures, they struggle to show creation that darkness can shine, even as other divinities endlessly war…",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/523001.jpg",
+            "chromas": [
+              {
+                "id": 523002,
+                "name": "Nightbringer Aphelios",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 523003,
+                "name": "Nightbringer Aphelios",
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "colors": [
+                  "#C33C3E",
+                  "#0C0E15"
+                ]
+              },
+              {
+                "id": 523004,
+                "name": "Nightbringer Aphelios",
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 523005,
+                "name": "Nightbringer Aphelios",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 523006,
+                "name": "Nightbringer Aphelios",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 523007,
+                "name": "Nightbringer Aphelios",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 523008,
+                "name": "Nightbringer Aphelios",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -41752,7 +42407,7 @@
         "id": 4389,
         "title": "True Damage Akali Border Icon",
         "description": "This icon was awarded during the 2019 Worlds event.",
-        "set": null,
+        "set": "True Damage",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41762,7 +42417,7 @@
         "id": 4390,
         "title": "True Damage Yasuo Border Icon",
         "description": "This icon was awarded during the 2019 Worlds event.",
-        "set": null,
+        "set": "True Damage",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41772,7 +42427,7 @@
         "id": 4391,
         "title": "True Damage Ekko Border Icon",
         "description": "This icon was awarded during the 2019 Worlds event.",
-        "set": null,
+        "set": "True Damage",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41782,7 +42437,7 @@
         "id": 4392,
         "title": "True Damage Senna Border Icon",
         "description": "This icon was awarded during the 2019 Worlds event.",
-        "set": null,
+        "set": "True Damage",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41792,7 +42447,7 @@
         "id": 4393,
         "title": "True Damage Qiyana Border Icon",
         "description": "This icon was awarded during the 2019 Worlds event.",
-        "set": null,
+        "set": "True Damage",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41802,7 +42457,7 @@
         "id": 4394,
         "title": "True Damage Yasuo Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "True Damage",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -41812,7 +42467,7 @@
         "id": 4395,
         "title": "True Damage Senna Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "True Damage",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -41822,7 +42477,7 @@
         "id": 4396,
         "title": "True Damage Akali Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "True Damage",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -41832,7 +42487,7 @@
         "id": 4397,
         "title": "True Damage Ekko Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "True Damage",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -41842,7 +42497,7 @@
         "id": 4398,
         "title": "True Damage Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "True Damage",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41902,7 +42557,7 @@
         "id": 4405,
         "title": "Nunu and Willump Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41912,7 +42567,7 @@
         "id": 4406,
         "title": "Lissandra Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41922,7 +42577,7 @@
         "id": 4407,
         "title": "Sejuani Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41932,7 +42587,7 @@
         "id": 4408,
         "title": "Cassiopeia Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41942,7 +42597,7 @@
         "id": 4409,
         "title": "Neeko Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41952,7 +42607,7 @@
         "id": 4410,
         "title": "Vi Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41962,7 +42617,7 @@
         "id": 4411,
         "title": "Ekko Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41972,7 +42627,7 @@
         "id": 4412,
         "title": "Urgot Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41982,7 +42637,7 @@
         "id": 4413,
         "title": "Jinx Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41992,7 +42647,7 @@
         "id": 4414,
         "title": "Warwick Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42002,7 +42657,7 @@
         "id": 4415,
         "title": "Ziggs Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42012,7 +42667,7 @@
         "id": 4416,
         "title": "Camille Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42022,7 +42677,7 @@
         "id": 4417,
         "title": "Aatrox Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42032,7 +42687,7 @@
         "id": 4418,
         "title": "Annie Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42042,7 +42697,7 @@
         "id": 4419,
         "title": "Bard Champie Icon",
         "description": "This icon was released in the store for purchase in 2019.",
-        "set": null,
+        "set": "Champies",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42317,6 +42972,276 @@
         "rarity": "kMythic",
         "isLegacy": false,
         "imagePath": "/assets/icons/4446.jpg"
+      },
+      {
+        "id": 4447,
+        "title": "2019 Worlds Winners Icon",
+        "description": "This icon celebrates the winner of the 2019 World Championship, FunPlus Phoenix!",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4447.jpg"
+      },
+      {
+        "id": 4448,
+        "title": "Prestige 2019 Icon",
+        "description": "This icon was released during the last-chance event for 2019 Prestige Points.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4448.jpg"
+      },
+      {
+        "id": 4449,
+        "title": "Night & Dawn Event Pass Icon",
+        "description": "This icon was released as a bundle exclusive during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4449.jpg"
+      },
+      {
+        "id": 4450,
+        "title": "Night & Dawn Event Prestige Points Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4450.jpg"
+      },
+      {
+        "id": 4451,
+        "title": "Night & Dawn Event Icon",
+        "description": "This icon was acquired from the Night & Dawn Event Pass.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4451.jpg"
+      },
+      {
+        "id": 4452,
+        "title": "Dawnbringer Karma Bundle Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event. All proceeds went to charity.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4452.jpg"
+      },
+      {
+        "id": 4453,
+        "title": "Dawnbringer Karma Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event. All proceeds went to charity.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4453.jpg"
+      },
+      {
+        "id": 4454,
+        "title": "Dawnbringer Nidalee Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4454.jpg"
+      },
+      {
+        "id": 4455,
+        "title": "Nightbringer Vladimir Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4455.jpg"
+      },
+      {
+        "id": 4456,
+        "title": "Nightbringer Lee Sin Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4456.jpg"
+      },
+      {
+        "id": 4457,
+        "title": "Nightbringer Aphelios Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4457.jpg"
+      },
+      {
+        "id": 4458,
+        "title": "Dawnbringer Karma Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4458.jpg"
+      },
+      {
+        "id": 4459,
+        "title": "Dawnbringer Nidalee Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4459.jpg"
+      },
+      {
+        "id": 4460,
+        "title": "Nightbringer Vladimir Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4460.jpg"
+      },
+      {
+        "id": 4462,
+        "title": "Nightbringer Aphelios Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4462.jpg"
+      },
+      {
+        "id": 4463,
+        "title": "Sugar Rush Evelynn Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event.",
+        "set": "Sugar Rush",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4463.jpg"
+      },
+      {
+        "id": 4464,
+        "title": "Sugar Rush Ziggs Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event.",
+        "set": "Sugar Rush",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4464.jpg"
+      },
+      {
+        "id": 4465,
+        "title": "Sugar Rush Zilean Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event.",
+        "set": "Sugar Rush",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4465.jpg"
+      },
+      {
+        "id": 4466,
+        "title": "Sugar Rush Braum Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event.",
+        "set": "Sugar Rush",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4466.jpg"
+      },
+      {
+        "id": 4467,
+        "title": "Sugar Rush Evelynn Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": "Sugar Rush",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4467.jpg"
+      },
+      {
+        "id": 4468,
+        "title": "Sugar Rush Ziggs Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": "Sugar Rush",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4468.jpg"
+      },
+      {
+        "id": 4469,
+        "title": "Sugar Rush Zilean Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": "Sugar Rush",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4469.jpg"
+      },
+      {
+        "id": 4470,
+        "title": "Sugar Rush Braum Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": "Sugar Rush",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4470.jpg"
+      },
+      {
+        "id": 4471,
+        "title": "Nightbringer Soraka Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4471.jpg"
+      },
+      {
+        "id": 4472,
+        "title": "Dawnbringer Soraka Border Icon",
+        "description": "This icon was acquired during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4472.jpg"
+      },
+      {
+        "id": 4473,
+        "title": "Dawnbringer Riven Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4473.jpg"
+      },
+      {
+        "id": 4474,
+        "title": "Nightbringer Yasuo Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
+        "set": "Night & Dawn",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4474.jpg"
       },
       {
         "id": 4,
@@ -49168,6 +50093,26 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/194.png"
+      },
+      {
+        "id": 195,
+        "name": "Night & Dawn Ward",
+        "defaultDescription": null,
+        "description": "This ward was earned through missions during the Night & Dawn event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/195.png"
+      },
+      {
+        "id": 196,
+        "name": "Prestige 2019 Ward",
+        "defaultDescription": null,
+        "description": "This ward was released during the last-chance event for 2019 Prestige Points.",
+        "set": null,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/196.png"
       }
     ],
     "emotes": [
@@ -52454,6 +53399,42 @@
         "imagePath": "/assets/emotes/3425.png"
       },
       {
+        "id": 3426,
+        "name": "Irresistible!",
+        "description": null,
+        "imagePath": "/assets/emotes/3426.png"
+      },
+      {
+        "id": 3427,
+        "name": "All Love",
+        "description": null,
+        "imagePath": "/assets/emotes/3427.png"
+      },
+      {
+        "id": 3428,
+        "name": "I Laugh at You!",
+        "description": null,
+        "imagePath": "/assets/emotes/3428.png"
+      },
+      {
+        "id": 3429,
+        "name": "Oh, Please!",
+        "description": null,
+        "imagePath": "/assets/emotes/3429.png"
+      },
+      {
+        "id": 3430,
+        "name": "Flee!",
+        "description": null,
+        "imagePath": "/assets/emotes/3430.png"
+      },
+      {
+        "id": 3431,
+        "name": "2019 Worlds Winners Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3431.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -54512,7 +55493,7 @@
         "name": "River Sprite",
         "description": "River Sprite",
         "species": "River Sprite",
-        "level": 0,
+        "level": 1,
         "imagePath": "/assets/tftcompanions/1.png"
       },
       {
@@ -54687,7 +55668,7 @@
       },
       {
         "id": 5,
-        "name": "Basic Draconic Arena",
+        "name": "Draconic Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/5.png"
       },
@@ -54717,13 +55698,13 @@
       },
       {
         "id": 6,
-        "name": "Basic Verdant Arena",
+        "name": "Verdant Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/6.png"
       },
       {
         "id": 7,
-        "name": "Basic Summoners' Arena",
+        "name": "Summoners' Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/7.png"
       },
@@ -54735,19 +55716,19 @@
       },
       {
         "id": 10,
-        "name": "Freljord Avarosa Arena",
+        "name": "Avarosa Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/10.png"
       },
       {
         "id": 11,
-        "name": "Freljord Frostguard Arena",
+        "name": "Frostguard Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/11.png"
       },
       {
         "id": 9,
-        "name": "Freljord Winter's Claw",
+        "name": "Winter's Claw Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/9.png"
       }
