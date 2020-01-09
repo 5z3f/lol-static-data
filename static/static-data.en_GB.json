@@ -1,5 +1,5 @@
 ﻿{
-  "version": "9.24.300.6382",
+  "version": "10.1.303.6554",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,13 +12,13 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 147,
-    "skins": 1010,
-    "chromas": 1156,
-    "icons": 2489,
-    "emotes": 559,
-    "wards": 197,
-    "tftcompanions": 271,
+    "champions": 148,
+    "skins": 1023,
+    "chromas": 1222,
+    "icons": 2508,
+    "emotes": 574,
+    "wards": 198,
+    "tftcompanions": 325,
     "tftmapskins": 15
   },
   "data": {
@@ -313,6 +313,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/2015.jpg",
             "chromas": null
+          },
+          {
+            "id": 2016,
+            "name": "Dragonslayer Olaf",
+            "description": "Honoring Bengi's winning performance as Olaf during the 2016 World Championship. This is Bengi's third World Champion skin, following his wins with SKT at the 2013 and 2015 World Championships.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/2016.jpg",
+            "chromas": [
+              {
+                "id": 2017,
+                "name": "Dragonslayer Olaf",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 2018,
+                "name": "Dragonslayer Olaf",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 2019,
+                "name": "Dragonslayer Olaf",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 2020,
+                "name": "Dragonslayer Olaf",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 2021,
+                "name": "Dragonslayer Olaf",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 2022,
+                "name": "Dragonslayer Olaf",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 2023,
+                "name": "Dragonslayer Olaf",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 2024,
+                "name": "Dragonslayer Olaf",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -2330,6 +2412,70 @@
                 "colors": [
                   "#FFC948",
                   "#FFC948"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13013,
+            "name": "Guardian of the Sands Ryze",
+            "description": "Ryze, the eternal conservator—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest your righteous magic entomb them beneath the dunes.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/13013.jpg",
+            "chromas": [
+              {
+                "id": 13014,
+                "name": "Guardian of the Sands Ryze",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 13015,
+                "name": "Guardian of the Sands Ryze",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 13016,
+                "name": "Guardian of the Sands Ryze",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 13017,
+                "name": "Guardian of the Sands Ryze",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 13018,
+                "name": "Guardian of the Sands Ryze",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 13019,
+                "name": "Guardian of the Sands Ryze",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
                 ]
               }
             ]
@@ -4553,6 +4699,61 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/24013.jpg",
             "chromas": null
+          },
+          {
+            "id": 24014,
+            "name": "Mecha Kingdoms Jax",
+            "description": "Famed as the greatest weapons master in all the land, Jax has been itching for a proper weapon, and a proper fight. When the best minds of the Estercrest Kingdom came together—using strange technology seemingly gifted to them by the heavens—to construct an indomitable Avalon, Jax was finally impressed. He welcomes the leviathan invasion, hoping these monstrous foes will prove to be the challenge he has been searching for his entire life.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/24014.jpg",
+            "chromas": [
+              {
+                "id": 24015,
+                "name": "Mecha Kingdoms Jax",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 24016,
+                "name": "Mecha Kingdoms Jax",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 24017,
+                "name": "Mecha Kingdoms Jax",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 24018,
+                "name": "Mecha Kingdoms Jax",
+                "description": "This chroma was released as a Loot exclusive in 2020.",
+                "colors": [
+                  "#0C0E15",
+                  "#611B9E"
+                ]
+              },
+              {
+                "id": 24019,
+                "name": "Mecha Kingdoms Jax",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -5147,7 +5348,7 @@
           {
             "id": 28008,
             "name": "Sugar Rush Evelynn",
-            "description": "In a world where every tooth is sweet, Evelyn's sugary bite is deadly.",
+            "description": "In a world where every tooth is sweet, Evelynn's sugary bite is deadly.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/28008.jpg",
@@ -7216,6 +7417,70 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 40020,
+            "name": "Guardian of the Sands Janna",
+            "description": "Janna, the desert gale—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest your sandstorms consume them whole.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/40020.jpg",
+            "chromas": [
+              {
+                "id": 40021,
+                "name": "Guardian of the Sands Janna",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 40022,
+                "name": "Guardian of the Sands Janna",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 40023,
+                "name": "Guardian of the Sands Janna",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 40024,
+                "name": "Guardian of the Sands Janna",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 40025,
+                "name": "Guardian of the Sands Janna",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 40026,
+                "name": "Guardian of the Sands Janna",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -8310,6 +8575,61 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/48005.jpg",
             "chromas": null
+          },
+          {
+            "id": 48006,
+            "name": "Dragonslayer Trundle",
+            "description": null,
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/48006.jpg",
+            "chromas": [
+              {
+                "id": 48007,
+                "name": "Dragonslayer Trundle",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 48008,
+                "name": "Dragonslayer Trundle",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 48009,
+                "name": "Dragonslayer Trundle",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 48010,
+                "name": "Dragonslayer Trundle",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 48011,
+                "name": "Dragonslayer Trundle",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -9465,8 +9785,8 @@
                 "name": "Elderwood Nocturne",
                 "description": null,
                 "colors": [
-                  "#6ABBEE",
-                  "#6ABBEE"
+                  "#2377FF",
+                  "#2377FF"
                 ]
               },
               {
@@ -9474,8 +9794,8 @@
                 "name": "Elderwood Nocturne",
                 "description": null,
                 "colors": [
-                  "#2756CE",
-                  "#2756CE"
+                  "#6ABBEE",
+                  "#6ABBEE"
                 ]
               },
               {
@@ -13013,6 +13333,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 86022,
+            "name": "Mecha Kingdoms Garen",
+            "description": "Once a ruthless warlord, Garen led his armies to victory after victory, laying the foundations for the Vercentia Kingdom. When the leviathans appeared out of nowhere, he opted to put aside his dream of uniting all the Great Kingdoms under his rule, and instead to march his newly-fashioned Avalon alongside his former enemies for the sake of humanity.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/86022.jpg",
+            "chromas": null
+          },
+          {
+            "id": 86023,
+            "name": "Mecha Kingdoms Garen Prestige Edition",
+            "description": "Having been elected the leader of the United Great Kingdoms, Garen will stop at nothing until the safety of his people is ensured. Armed with an Avalon upgraded to the teeth, he stands at the forefront of the mightiest warriors from across the land, determined to lead them into battle until the leviathans are no more.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/86023.jpg",
+            "chromas": null
           }
         ]
       },
@@ -13138,6 +13476,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/89011.jpg",
             "chromas": null
+          },
+          {
+            "id": 89012,
+            "name": "Mecha Kingdoms Leona",
+            "description": "Leona grew up as the favored daughter of the Dawnrise Kingdom. When the leviathans appeared on her homeland's shores, she took command of her realm's forces, becoming the matriarch of her people. In return, the grateful scholars of her court gifted her an Avalon, an immense pilotable mech powered by the life essence of the very monsters that threatened her home. Now, she stands fearless, leading vast navies into war.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/89012.jpg",
+            "chromas": [
+              {
+                "id": 89013,
+                "name": "Mecha Kingdoms Leona",
+                "description": "This chroma was released as a Loot exclusive in 2020.",
+                "colors": [
+                  "#0C0E15",
+                  "#611B9E"
+                ]
+              },
+              {
+                "id": 89014,
+                "name": "Mecha Kingdoms Leona",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 89015,
+                "name": "Mecha Kingdoms Leona",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 89016,
+                "name": "Mecha Kingdoms Leona",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 89017,
+                "name": "Mecha Kingdoms Leona",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 89018,
+                "name": "Mecha Kingdoms Leona",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 89019,
+                "name": "Mecha Kingdoms Leona",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 89020,
+                "name": "Mecha Kingdoms Leona",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -15447,6 +15867,70 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 107023,
+            "name": "Guardian of the Sands Rengar",
+            "description": "An assassin of a forgotten order long thought dead, Rengar prowls the tombs, retrieving ancient relics of power for purposes unknown. Far more alarming, he appears to be hunting guardians, his blades enchanted to pierce their ancient magic and defenses…",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/107023.jpg",
+            "chromas": [
+              {
+                "id": 107024,
+                "name": "Guardian of the Sands Rengar",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 107025,
+                "name": "Guardian of the Sands Rengar",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 107026,
+                "name": "Guardian of the Sands Rengar",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 107027,
+                "name": "Guardian of the Sands Rengar",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 107028,
+                "name": "Guardian of the Sands Rengar",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 107029,
+                "name": "Guardian of the Sands Rengar",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -16809,6 +17293,70 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/119012.jpg",
             "chromas": null
+          },
+          {
+            "id": 119013,
+            "name": "Mecha Kingdoms Draven",
+            "description": "Once a promising general of Vercentia, Draven no longer wished to fight for someone else's glory. Now living his best life as an independent mercenary, he has made a name for himself and his showmanship in battle. To this day, how he managed to acquire the resources necessary to craft an Avalon remains a mystery…",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/119013.jpg",
+            "chromas": [
+              {
+                "id": 119014,
+                "name": "Mecha Kingdoms Draven",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 119015,
+                "name": "Mecha Kingdoms Draven",
+                "description": "This chroma was released as a Loot exclusive in 2020.",
+                "colors": [
+                  "#0C0E15",
+                  "#611B9E"
+                ]
+              },
+              {
+                "id": 119016,
+                "name": "Mecha Kingdoms Draven",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 119017,
+                "name": "Mecha Kingdoms Draven",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 119018,
+                "name": "Mecha Kingdoms Draven",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 119019,
+                "name": "Mecha Kingdoms Draven",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -17990,6 +18538,70 @@
                 "colors": [
                   "#2756CE",
                   "#2756CE"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 131018,
+            "name": "Dragonslayer Diana",
+            "description": "A child chosen by the Blood Moon itself, Diana's mind has been opened to the lost ways of the cult—unknown to its leaders, and even the slavering demons beyond. Hers is a truth no one can know, and a fated metamorphosis beyond men and the gods.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/131018.jpg",
+            "chromas": [
+              {
+                "id": 131019,
+                "name": "Dragonslayer Diana",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 131020,
+                "name": "Dragonslayer Diana",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 131021,
+                "name": "Dragonslayer Diana",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 131022,
+                "name": "Dragonslayer Diana",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 131023,
+                "name": "Dragonslayer Diana",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 131024,
+                "name": "Dragonslayer Diana",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -22905,6 +23517,52 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 517008,
+            "name": "Freljord Sylas",
+            "description": "Free from the kingdom that once imprisoned him, Sylas of Dregbourne marches from Demacia to the Freljord. With every step he takes, he remembers what others have branded him: Mage, Traitor, Kingslayer—names he revels in as he endures the bitter cold, his heart warmed by the fires of rebellion. It will be here, in the icy north, that he will seize the ancient power needed to fuel his revolution…",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/517008.jpg",
+            "chromas": [
+              {
+                "id": 517009,
+                "name": "Freljord Sylas",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 517010,
+                "name": "Freljord Sylas",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 517011,
+                "name": "Freljord Sylas",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 517012,
+                "name": "Freljord Sylas",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -23368,6 +24026,95 @@
                 "colors": [
                   "#FF5500",
                   "#162B30"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 875,
+        "name": "Sett",
+        "alias": "Sett",
+        "title": "the Boss",
+        "releaseDate": "2019-12-18",
+        "associatedFactionSlug": "ionia",
+        "shortBio": "A leader of Ionia's growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to take seemingly endless amounts of punishment. Now, having climbed through the ranks of local combatants, Sett has muscled to the top, reigning over the pits he once fought in.",
+        "squarePortraitPath": "/assets/champions/portraits/875.png",
+        "roles": [
+          "fighter",
+          "tank"
+        ],
+        "skins": [
+          {
+            "id": 875000,
+            "name": "Sett (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/875000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 875001,
+            "name": "Mecha Kingdom Sett",
+            "description": "A nameless barbarian who survived on the outskirts, Sett knew his greatest talent came from his fists. After building his wealth and reputation in brutal fighting pits, he created a new persona, donning the title of The Savage Wolf. Upon hearing of the leviathan invasion, he used his fame and fortune to acquire an Avalon of his own in order to, once and for all, prove his might in front of a captivated audience.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/875001.jpg",
+            "chromas": [
+              {
+                "id": 875002,
+                "name": "Mecha Kingdoms Sett",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 875003,
+                "name": "Mecha Kingdoms Sett",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 875004,
+                "name": "Mecha Kingdoms Sett",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 875005,
+                "name": "Mecha Kingdoms Sett",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 875006,
+                "name": "Mecha Kingdoms Sett",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 875007,
+                "name": "Mecha Kingdoms Sett",
+                "description": "This chroma was released as a Loot exclusive in 2020.",
+                "colors": [
+                  "#0C0E15",
+                  "#611B9E"
                 ]
               }
             ]
@@ -24439,7 +25186,7 @@
       {
         "id": 1104,
         "title": "Heart Key Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Heartbreakers",
         "yearReleased": 2016,
         "rarity": "kRare",
@@ -24449,7 +25196,7 @@
       {
         "id": 1105,
         "title": "Lovely Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Heartbreakers",
         "yearReleased": 2016,
         "rarity": "kRare",
@@ -24459,7 +25206,7 @@
       {
         "id": 1106,
         "title": "Love Song Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Heartbreakers",
         "yearReleased": 2016,
         "rarity": "kRare",
@@ -24469,7 +25216,7 @@
       {
         "id": 1107,
         "title": "Blood Moon Kennen Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Blood Moon",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24479,7 +25226,7 @@
       {
         "id": 1108,
         "title": "Blood Moon Yasuo Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Blood Moon",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24489,7 +25236,7 @@
       {
         "id": 1109,
         "title": "Blood Seal Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Blood Moon",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24509,7 +25256,7 @@
       {
         "id": 1111,
         "title": "Draaaaven Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "April Fools",
         "yearReleased": 2016,
         "rarity": "kRare",
@@ -24519,7 +25266,7 @@
       {
         "id": 1112,
         "title": "Draven Winion Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "April Fools",
         "yearReleased": 2016,
         "rarity": "kRare",
@@ -24529,7 +25276,7 @@
       {
         "id": 1113,
         "title": "Draven Draven Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "April Fools",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24539,7 +25286,7 @@
       {
         "id": 1114,
         "title": "Meowcon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "April Fools",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24549,7 +25296,7 @@
       {
         "id": 1115,
         "title": "Definitely Not a Vel'Koz Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "April Fools",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24559,7 +25306,7 @@
       {
         "id": 1116,
         "title": "Urf Kench Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Game Modes",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24639,7 +25386,7 @@
       {
         "id": 1132,
         "title": "00 Reactivated Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Mecha",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24649,7 +25396,7 @@
       {
         "id": 1133,
         "title": "Superior Prototype Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Mecha",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24659,7 +25406,7 @@
       {
         "id": 1134,
         "title": "Mecha Zero Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Mecha",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24669,7 +25416,7 @@
       {
         "id": 1135,
         "title": "Prototype 00 Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Mecha",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24699,7 +25446,7 @@
       {
         "id": 1149,
         "title": "Omen of the Damned Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Gothic Horror",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24709,7 +25456,7 @@
       {
         "id": 1150,
         "title": "Omen of the Iron Inquisitor Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Gothic Horror",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24719,7 +25466,7 @@
       {
         "id": 1151,
         "title": "Omen of the Cursed Revenant Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Gothic Horror",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24729,7 +25476,7 @@
       {
         "id": 1152,
         "title": "Omen of the Black Scourge Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Gothic Horror",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24739,7 +25486,7 @@
       {
         "id": 1153,
         "title": "Super Galaxy Fizz Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Super Galaxy",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24749,7 +25496,7 @@
       {
         "id": 1154,
         "title": "Mega Shark Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Super Galaxy",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24759,7 +25506,7 @@
       {
         "id": 1155,
         "title": "Super Galaxy Lamb Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Super Galaxy",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24769,7 +25516,7 @@
       {
         "id": 1156,
         "title": "Super Galaxy Wolf Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Super Galaxy",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24779,7 +25526,7 @@
       {
         "id": 1157,
         "title": "Super Galaxy Shyvana Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Super Galaxy",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24789,7 +25536,7 @@
       {
         "id": 1158,
         "title": "Mega Dragon Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Super Galaxy",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24799,7 +25546,7 @@
       {
         "id": 1159,
         "title": "El Tigre Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Luchador",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24809,7 +25556,7 @@
       {
         "id": 1160,
         "title": "El León Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Luchador",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24819,7 +25566,7 @@
       {
         "id": 1161,
         "title": "El Macho Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Luchador",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -24829,7 +25576,7 @@
       {
         "id": 1162,
         "title": "El Rayo Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Luchador",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -25309,7 +26056,7 @@
       {
         "id": 1211,
         "title": "Oblivion Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Dark Star",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -25319,7 +26066,7 @@
       {
         "id": 1212,
         "title": "Dark Star Varus Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Dark Star",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -25329,7 +26076,7 @@
       {
         "id": 1213,
         "title": "Dark Star Thresh Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Dark Star",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -25399,7 +26146,7 @@
       {
         "id": 1225,
         "title": "Recon PROJECT: Ashe Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "PROJECT",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -25409,7 +26156,7 @@
       {
         "id": 1226,
         "title": "EM Caster Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "PROJECT",
         "yearReleased": 2016,
         "rarity": "kRare",
@@ -25419,7 +26166,7 @@
       {
         "id": 1227,
         "title": "PROJECT: Ashe Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "PROJECT",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -25429,7 +26176,7 @@
       {
         "id": 1228,
         "title": "PROJECT: Ekko Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "PROJECT",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -25439,7 +26186,7 @@
       {
         "id": 1229,
         "title": "Decrypter Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "PROJECT",
         "yearReleased": 2016,
         "rarity": "kRare",
@@ -25449,7 +26196,7 @@
       {
         "id": 1230,
         "title": "Hyper Edge Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "PROJECT",
         "yearReleased": 2016,
         "rarity": "kRare",
@@ -25459,7 +26206,7 @@
       {
         "id": 1231,
         "title": "PROJECT: Katarina Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "PROJECT",
         "yearReleased": 2016,
         "rarity": "kNoRarity",
@@ -25469,7 +26216,7 @@
       {
         "id": 1232,
         "title": "DISRUPTION Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "PROJECT",
         "yearReleased": 2016,
         "rarity": "kRare",
@@ -29729,7 +30476,7 @@
       {
         "id": 2072,
         "title": "Crabby Crab Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Pool Party",
         "yearReleased": 2017,
         "rarity": "kNoRarity",
@@ -29739,7 +30486,7 @@
       {
         "id": 2073,
         "title": "Come At Me Crab Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Pool Party",
         "yearReleased": 2017,
         "rarity": "kNoRarity",
@@ -29749,7 +30496,7 @@
       {
         "id": 2074,
         "title": "Cool Crab Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Pool Party",
         "yearReleased": 2017,
         "rarity": "kNoRarity",
@@ -29759,7 +30506,7 @@
       {
         "id": 2075,
         "title": "Lifesaver Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Pool Party",
         "yearReleased": 2017,
         "rarity": "kNoRarity",
@@ -29769,7 +30516,7 @@
       {
         "id": 2076,
         "title": "Rubber Ducky Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Pool Party",
         "yearReleased": 2017,
         "rarity": "kNoRarity",
@@ -29779,7 +30526,7 @@
       {
         "id": 2077,
         "title": "Shock and Shower Icon",
-        "description": "This icon was released in the store for purchase during 2017.",
+        "description": "This icon was released in the store for purchase during 2016.",
         "set": "Pool Party",
         "yearReleased": 2017,
         "rarity": "kNoRarity",
@@ -31269,7 +32016,7 @@
       {
         "id": 3181,
         "title": "Page Purchaser Icon",
-        "description": "Earned during the Runes Reforged 2017 Launch.",
+        "description": "Earned during the Runes Reforged 2017 launch.",
         "set": "Runes Reforged",
         "yearReleased": 2017,
         "rarity": "kEpic",
@@ -41277,7 +42024,7 @@
         "id": 4244,
         "title": "Season 2019 - Split 3 Icon",
         "description": "Earned by winning ranked games in Season 2019 - Split 3.",
-        "set": null,
+        "set": "Ranked",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -41557,7 +42304,7 @@
         "id": 4282,
         "title": "Elderwood Nocturne Icon",
         "description": "This icon was acquired by purchasing one of the Elderwood bundles in 2019.",
-        "set": null,
+        "set": "Elderwood",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41567,7 +42314,7 @@
         "id": 4283,
         "title": "Elderwood Veigar Icon",
         "description": "This icon was acquired by purchasing one of the Elderwood bundles in 2019.",
-        "set": null,
+        "set": "Elderwood",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41737,7 +42484,7 @@
         "id": 4301,
         "title": "Support Welcome Poro",
         "description": "Purchased as part of new role-based bundle packs.",
-        "set": null,
+        "set": "New Players",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41747,7 +42494,7 @@
         "id": 4302,
         "title": "Jungle Welcome Poro",
         "description": "Purchased as part of new role-based bundle packs.",
-        "set": null,
+        "set": "New Players",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41757,7 +42504,7 @@
         "id": 4303,
         "title": "Mid Welcome Poro",
         "description": "Purchased as part of new role-based bundle packs.",
-        "set": null,
+        "set": "New Players",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41767,7 +42514,7 @@
         "id": 4304,
         "title": "Top Welcome Poro",
         "description": "Purchased as part of new role-based bundle packs.",
-        "set": null,
+        "set": "New Players",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -41777,7 +42524,7 @@
         "id": 4305,
         "title": "Bot Welcome Poro",
         "description": "Purchased as part of new role-based bundle packs.",
-        "set": null,
+        "set": "New Players",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42097,7 +42844,7 @@
         "id": 4353,
         "title": "Pick'em Master 2019 Icon",
         "description": "Earned by scoring at least 34 points during Worlds Pick'em 2019",
-        "set": null,
+        "set": "Pick'em Poros",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -42137,7 +42884,7 @@
         "id": 4358,
         "title": "Valiant Sword Riven Border Icon",
         "description": "This icon was acquired during the 2019 Worlds event.",
-        "set": null,
+        "set": "Immortal Journey",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -42147,7 +42894,7 @@
         "id": 4359,
         "title": "Splendid Staff Nami Border Icon",
         "description": "This icon was acquired during the 2019 Worlds event.",
-        "set": null,
+        "set": "Immortal Journey",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -42157,7 +42904,7 @@
         "id": 4360,
         "title": "Majestic Empress Morgana Border Icon",
         "description": "This icon was acquired during the 2019 Worlds event.",
-        "set": null,
+        "set": "Immortal Journey",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -42167,7 +42914,7 @@
         "id": 4361,
         "title": "Splendid Staff Nami Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "Immortal Journey",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -42177,7 +42924,7 @@
         "id": 4362,
         "title": "Majestic Empress Morgana Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "Immortal Journey",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -42187,7 +42934,7 @@
         "id": 4363,
         "title": "Immortal Journey 2019 Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "Immortal Journey",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -42267,7 +43014,7 @@
         "id": 4371,
         "title": "High Noon Hecarim Border Icon",
         "description": "This icon was awarded during the 2019 Worlds event.",
-        "set": null,
+        "set": "High Noon",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42277,7 +43024,7 @@
         "id": 4372,
         "title": "High Noon Ashe Border Icon",
         "description": "This icon was awarded during the 2019 Worlds event.",
-        "set": null,
+        "set": "High Noon",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42287,7 +43034,7 @@
         "id": 4373,
         "title": "High Noon Darius Border Icon",
         "description": "This icon was awarded during the 2019 Worlds event.",
-        "set": null,
+        "set": "High Noon",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42297,7 +43044,7 @@
         "id": 4374,
         "title": "High Noon Hecarim Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "High Noon",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -42307,7 +43054,7 @@
         "id": 4375,
         "title": "High Noon Ashe Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "High Noon",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -42317,7 +43064,7 @@
         "id": 4376,
         "title": "High Noon Darius Chroma Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "High Noon",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -42977,9 +43724,9 @@
         "id": 4447,
         "title": "2019 Worlds Winners Icon",
         "description": "This icon celebrates the winner of the 2019 World Championship, FunPlus Phoenix!",
-        "set": null,
+        "set": "Esports",
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4447.jpg"
       },
@@ -43082,16 +43829,6 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4457.jpg"
-      },
-      {
-        "id": 4458,
-        "title": "Dawnbringer Karma Chroma Icon",
-        "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
-        "set": "Night & Dawn",
-        "yearReleased": 2019,
-        "rarity": "kEpic",
-        "isLegacy": false,
-        "imagePath": "/assets/icons/4458.jpg"
       },
       {
         "id": 4459,
@@ -43242,6 +43979,206 @@
         "rarity": "kEpic",
         "isLegacy": false,
         "imagePath": "/assets/icons/4474.jpg"
+      },
+      {
+        "id": 4475,
+        "title": "Mecha Kingdoms 2020 Icon",
+        "description": "This icon was earned through missions during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4475.jpg"
+      },
+      {
+        "id": 4476,
+        "title": "Mecha Kingdoms 2020 Event Pass Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4476.jpg"
+      },
+      {
+        "id": 4477,
+        "title": "Mecha Kingdoms 2020 Event Prestige Points Icon",
+        "description": "This icon was acquired through Loot during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4477.jpg"
+      },
+      {
+        "id": 4478,
+        "title": "Mecha Kingdoms Jax Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4478.jpg"
+      },
+      {
+        "id": 4479,
+        "title": "Mecha Kingdoms Leona Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4479.jpg"
+      },
+      {
+        "id": 4480,
+        "title": "Mecha Kingdoms Sett Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4480.jpg"
+      },
+      {
+        "id": 4481,
+        "title": "Mecha Kingdoms Draven Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4481.jpg"
+      },
+      {
+        "id": 4482,
+        "title": "Mecha Kingdoms Jax Border Icon",
+        "description": "This icon was acquired during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4482.jpg"
+      },
+      {
+        "id": 4483,
+        "title": "Mecha Kingdoms Leona Border Icon",
+        "description": "This icon was acquired during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4483.jpg"
+      },
+      {
+        "id": 4484,
+        "title": "Mecha Kingdoms Sett Border Icon",
+        "description": "This icon was acquired during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4484.jpg"
+      },
+      {
+        "id": 4485,
+        "title": "Mecha Kingdoms Draven Border Icon",
+        "description": "This icon was acquired during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4485.jpg"
+      },
+      {
+        "id": 4486,
+        "title": "Mecha Kingdoms Garen Border Icon",
+        "description": "This icon was acquired during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4486.jpg"
+      },
+      {
+        "id": 4487,
+        "title": "Little Legend Tocker Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Tocker Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4487.jpg"
+      },
+      {
+        "id": 4488,
+        "title": "Little Legend Craggle Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Craggle Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4488.jpg"
+      },
+      {
+        "id": 4489,
+        "title": "Little Legend Flutterbug Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Flutterbug Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2019,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4489.jpg"
+      },
+      {
+        "id": 4490,
+        "title": "Season 2020 - Split 1 Icon",
+        "description": "Earned by winning ranked games in Season 2020 - Split 1.",
+        "set": "Ranked",
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4490.jpg"
+      },
+      {
+        "id": 4491,
+        "title": "Surf and Urf Icon",
+        "description": "This icon was earned by completing a 2020 Esports mission.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4491.jpg"
+      },
+      {
+        "id": 4492,
+        "title": "Blown Away",
+        "description": "This icon was earned by completing a 2020 Esports mission.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4492.jpg"
+      },
+      {
+        "id": 4493,
+        "title": "Masters Challenge Season 5",
+        "description": "Award to those who cumulatively made top 2000 twice in Master's Challenge shard.",
+        "set": null,
+        "yearReleased": 2019,
+        "rarity": "kUltimate",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4493.jpg"
+      },
+      {
+        "id": 4494,
+        "title": "Prestige Mecha Kingdoms Garen Icon",
+        "description": "This icon was acquired by obtaining the Prestige Mecha Kingdoms Garen skin during the 2020 Mecha Kingdoms event.",
+        "set": "Mecha Kingdoms",
+        "yearReleased": 2019,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4494.jpg"
       },
       {
         "id": 4,
@@ -47998,7 +48935,7 @@
         "title": "Shadow Wolf Icon",
         "description": "This icon was released in the store for purchase during Lunar Revel 2016.",
         "set": "Lunar Revel",
-        "yearReleased": 2015,
+        "yearReleased": 2016,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/986.jpg"
@@ -48008,7 +48945,7 @@
         "title": "Nightshade Serpent Icon",
         "description": "This icon was released in the store for purchase during Lunar Revel 2016.",
         "set": "Lunar Revel",
-        "yearReleased": 2015,
+        "yearReleased": 2016,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/987.jpg"
@@ -48018,7 +48955,7 @@
         "title": "Monkey King Icon",
         "description": "This icon was released in the store for purchase during Lunar Revel 2016.",
         "set": "Lunar Revel",
-        "yearReleased": 2015,
+        "yearReleased": 2016,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/988.jpg"
@@ -48028,7 +48965,7 @@
         "title": "Lunar Guardian Icon",
         "description": "This icon was released in the store for purchase during Lunar Revel 2016.",
         "set": "Lunar Revel",
-        "yearReleased": 2015,
+        "yearReleased": 2016,
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/989.jpg"
@@ -48149,7 +49086,7 @@
         "id": 0,
         "name": "Default Ward",
         "defaultDescription": "Base Ward Skin",
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was acquired when creating a League of Legends account. ",
         "set": "Starter Pack",
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -49558,7 +50495,7 @@
         "id": 141,
         "name": "Demacia Vice Ward",
         "defaultDescription": null,
-        "description": "This ward was acquired during the 2019 Arcade event.",
+        "description": "This ward was acquired when creating a League of Legends account. ",
         "set": null,
         "rarity": "kNoRarity",
         "isLegacy": false,
@@ -50113,6 +51050,16 @@
         "rarity": "kMythic",
         "isLegacy": false,
         "imagePath": "/assets/wards/196.png"
+      },
+      {
+        "id": 197,
+        "name": "Mecha Kingdoms 2020 Ward",
+        "defaultDescription": null,
+        "description": "This ward was released as a bundle exclusive during the 2020 Mecha Kingdoms event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/197.png"
       }
     ],
     "emotes": [
@@ -52968,13 +53915,13 @@
       },
       {
         "id": 3338,
-        "name": "2018 LPL OHMYGOD",
+        "name": "Call Me!",
         "description": "game_summoner_emote_description_3338",
         "imagePath": "/assets/emotes/3338.png"
       },
       {
         "id": 3339,
-        "name": "2018 LPL JD Gaming",
+        "name": "Think About It",
         "description": "game_summoner_emote_description_3339",
         "imagePath": "/assets/emotes/3339.png"
       },
@@ -53435,6 +54382,96 @@
         "imagePath": "/assets/emotes/3431.png"
       },
       {
+        "id": 3432,
+        "name": "Let Me at 'Em!",
+        "description": null,
+        "imagePath": "/assets/emotes/3432.png"
+      },
+      {
+        "id": 3433,
+        "name": "Charge Up!",
+        "description": null,
+        "imagePath": "/assets/emotes/3433.png"
+      },
+      {
+        "id": 3434,
+        "name": "Transform!",
+        "description": null,
+        "imagePath": "/assets/emotes/3434.png"
+      },
+      {
+        "id": 3435,
+        "name": "NOT AGAIN",
+        "description": "This emote was earned by completing a 2020 Esports mission.",
+        "imagePath": "/assets/emotes/3435.png"
+      },
+      {
+        "id": 3436,
+        "name": "Masters Challenge Season 4",
+        "description": "Award to those who made top 2000 in both season 4 and season 5 in Master's Challenge shard",
+        "imagePath": "/assets/emotes/3436.png"
+      },
+      {
+        "id": 3437,
+        "name": "Masters Challenge Season 5",
+        "description": "Award to those who made top 2000 in both season 4 and season 5 in Master's Challenge shard",
+        "imagePath": "/assets/emotes/3437.png"
+      },
+      {
+        "id": 3438,
+        "name": "2020 - Split 1 - Iron",
+        "description": "Earned by winning ranked games in Season 2020 - Split 1",
+        "imagePath": "/assets/emotes/3438.png"
+      },
+      {
+        "id": 3439,
+        "name": "2020 - Split 1 - Bronze",
+        "description": "Earned by winning ranked games in Season 2020 - Split 1",
+        "imagePath": "/assets/emotes/3439.png"
+      },
+      {
+        "id": 3440,
+        "name": "2020 - Split 1 - Silver",
+        "description": "Earned by winning ranked games in Season 2020 - Split 1",
+        "imagePath": "/assets/emotes/3440.png"
+      },
+      {
+        "id": 3441,
+        "name": "2020 - Split 1 - Gold",
+        "description": "Earned by winning ranked games in Season 2020 - Split 1",
+        "imagePath": "/assets/emotes/3441.png"
+      },
+      {
+        "id": 3442,
+        "name": "2020 - Split 1 - Platinum",
+        "description": "Earned by winning ranked games in Season 2020 - Split 1",
+        "imagePath": "/assets/emotes/3442.png"
+      },
+      {
+        "id": 3443,
+        "name": "2020 - Split 1 - Diamond",
+        "description": "Earned by winning ranked games in Season 2020 - Split 1",
+        "imagePath": "/assets/emotes/3443.png"
+      },
+      {
+        "id": 3444,
+        "name": "2020 - Split 1 - Master",
+        "description": "Earned by winning ranked games in Season 2020 - Split 1",
+        "imagePath": "/assets/emotes/3444.png"
+      },
+      {
+        "id": 3445,
+        "name": "2020 - Split 1 - Grand Master",
+        "description": "Earned by winning ranked games in Season 2020 - Split 1",
+        "imagePath": "/assets/emotes/3445.png"
+      },
+      {
+        "id": 3446,
+        "name": "2020 - Split 1 -Challenger",
+        "description": "Earned by winning ranked games in Season 2020 - Split 1",
+        "imagePath": "/assets/emotes/3446.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -53615,6 +54652,294 @@
         "species": "Ossia",
         "level": 3,
         "imagePath": "/assets/tftcompanions/13006.png"
+      },
+      {
+        "id": 17016,
+        "name": "Beevil Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/17016.png"
+      },
+      {
+        "id": 17017,
+        "name": "Beevil Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/17017.png"
+      },
+      {
+        "id": 17018,
+        "name": "Beevil Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/17018.png"
+      },
+      {
+        "id": 17001,
+        "name": "Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/17001.png"
+      },
+      {
+        "id": 17002,
+        "name": "Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/17002.png"
+      },
+      {
+        "id": 17003,
+        "name": "Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/17003.png"
+      },
+      {
+        "id": 17013,
+        "name": "Ixtali Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/17013.png"
+      },
+      {
+        "id": 17014,
+        "name": "Ixtali Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/17014.png"
+      },
+      {
+        "id": 17015,
+        "name": "Ixtali Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/17015.png"
+      },
+      {
+        "id": 17010,
+        "name": "Legionnaire Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/17010.png"
+      },
+      {
+        "id": 17011,
+        "name": "Legionnaire Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/17011.png"
+      },
+      {
+        "id": 17012,
+        "name": "Legionnaire Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/17012.png"
+      },
+      {
+        "id": 17007,
+        "name": "Sandbringer Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/17007.png"
+      },
+      {
+        "id": 17008,
+        "name": "Sandbringer Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/17008.png"
+      },
+      {
+        "id": 17009,
+        "name": "Sandbringer Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/17009.png"
+      },
+      {
+        "id": 17004,
+        "name": "True Ice Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/17004.png"
+      },
+      {
+        "id": 17005,
+        "name": "True Ice Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/17005.png"
+      },
+      {
+        "id": 17006,
+        "name": "True Ice Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/17006.png"
+      },
+      {
+        "id": 18010,
+        "name": "Black Mist Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/18010.png"
+      },
+      {
+        "id": 18011,
+        "name": "Black Mist Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/18011.png"
+      },
+      {
+        "id": 18012,
+        "name": "Black Mist Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/18012.png"
+      },
+      {
+        "id": 18001,
+        "name": "Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/18001.png"
+      },
+      {
+        "id": 18002,
+        "name": "Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/18002.png"
+      },
+      {
+        "id": 18003,
+        "name": "Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/18003.png"
+      },
+      {
+        "id": 18016,
+        "name": "Hextech Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/18016.png"
+      },
+      {
+        "id": 18017,
+        "name": "Hextech Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/18017.png"
+      },
+      {
+        "id": 18018,
+        "name": "Hextech Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/18018.png"
+      },
+      {
+        "id": 18013,
+        "name": "Legionnaire Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/18013.png"
+      },
+      {
+        "id": 18014,
+        "name": "Legionnaire Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/18014.png"
+      },
+      {
+        "id": 18015,
+        "name": "Legionnaire Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/18015.png"
+      },
+      {
+        "id": 18007,
+        "name": "Sandbringer Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/18007.png"
+      },
+      {
+        "id": 18008,
+        "name": "Sandbringer Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/18008.png"
+      },
+      {
+        "id": 18009,
+        "name": "Sandbringer Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/18009.png"
+      },
+      {
+        "id": 18004,
+        "name": "True Ice Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/18004.png"
+      },
+      {
+        "id": 18005,
+        "name": "True Ice Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/18005.png"
+      },
+      {
+        "id": 18006,
+        "name": "True Ice Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/18006.png"
       },
       {
         "id": 7004,
@@ -54191,6 +55516,150 @@
         "species": "Furyhorn",
         "level": 3,
         "imagePath": "/assets/tftcompanions/3006.png"
+      },
+      {
+        "id": 16010,
+        "name": "Black Mist Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/16010.png"
+      },
+      {
+        "id": 16011,
+        "name": "Black Mist Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/16011.png"
+      },
+      {
+        "id": 16012,
+        "name": "Black Mist Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/16012.png"
+      },
+      {
+        "id": 16007,
+        "name": "Chemtech Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/16007.png"
+      },
+      {
+        "id": 16008,
+        "name": "Chemtech Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/16008.png"
+      },
+      {
+        "id": 16009,
+        "name": "Chemtech Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/16009.png"
+      },
+      {
+        "id": 16013,
+        "name": "Legionnaire Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/16013.png"
+      },
+      {
+        "id": 16014,
+        "name": "Legionnaire Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/16014.png"
+      },
+      {
+        "id": 16015,
+        "name": "Legionnaire Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/16015.png"
+      },
+      {
+        "id": 16016,
+        "name": "Petal Dancer Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/16016.png"
+      },
+      {
+        "id": 16017,
+        "name": "Petal Dancer Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/16017.png"
+      },
+      {
+        "id": 16018,
+        "name": "Petal Dancer Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/16018.png"
+      },
+      {
+        "id": 16004,
+        "name": "Petricite Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/16004.png"
+      },
+      {
+        "id": 16005,
+        "name": "Petricite Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/16005.png"
+      },
+      {
+        "id": 16006,
+        "name": "Petricite Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/16006.png"
+      },
+      {
+        "id": 16001,
+        "name": "Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/16001.png"
+      },
+      {
+        "id": 16002,
+        "name": "Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/16002.png"
+      },
+      {
+        "id": 16003,
+        "name": "Tocker",
+        "description": "Tocker is constantly tinkering with things to make them better, even on his own body!",
+        "species": "Tocker",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/16003.png"
       },
       {
         "id": 4013,
