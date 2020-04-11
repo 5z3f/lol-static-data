@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.1.303.6554",
+  "version": "10.7.315.7487",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,13 +13,13 @@
   ],
   "info": {
     "champions": 148,
-    "skins": 1023,
-    "chromas": 1222,
-    "icons": 2508,
-    "emotes": 574,
-    "wards": 198,
-    "tftcompanions": 325,
-    "tftmapskins": 15
+    "skins": 1048,
+    "chromas": 1364,
+    "icons": 2550,
+    "emotes": 585,
+    "wards": 199,
+    "tftcompanions": 383,
+    "tftmapskins": 21
   },
   "data": {
     "champions": [
@@ -317,7 +317,7 @@
           {
             "id": 2016,
             "name": "Dragonslayer Olaf",
-            "description": "Honoring Bengi's winning performance as Olaf during the 2016 World Championship. This is Bengi's third World Champion skin, following his wins with SKT at the 2013 and 2015 World Championships.",
+            "description": "A savage berserker from the hinterlands, Olaf sought a warrior's death in slaying dragons. One by one, the horrid beasts fell to his axe, and rumors even tell of him consuming the heart of a dragon he beheaded. Truth is, this act has only fanned the fire of his rage, driving him to bring about the end of dragons.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/2016.jpg",
@@ -1122,6 +1122,79 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 6015,
+            "name": "Pajama Guardian Cosplay Urgot",
+            "description": "A Star Guardian superfan of almost impossible proportions, Urgot worked really hard on this outfit for the fan meet, so please be respectful.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/6015.jpg",
+            "chromas": [
+              {
+                "id": 6016,
+                "name": "Pajama Guardian Cosplay Urgot",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 6017,
+                "name": "Pajama Guardian Cosplay Urgot",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 6018,
+                "name": "Pajama Guardian Cosplay Urgot",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 6019,
+                "name": "Pajama Guardian Cosplay Urgot",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 6020,
+                "name": "Pajama Guardian Cosplay Urgot",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 6021,
+                "name": "Pajama Guardian Cosplay Urgot",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 6022,
+                "name": "Pajama Guardian Cosplay Urgot",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -1533,10 +1606,10 @@
         "id": 9,
         "name": "Fiddlesticks",
         "alias": "FiddleSticks",
-        "title": "the Harbinger of Doom",
+        "title": "the Ancient Fear",
         "releaseDate": "2009-02-21",
         "associatedFactionSlug": "unaffiliated",
-        "shortBio": "Fiddlesticks is a ghastly, living scarecrow who stalks the darkness, wielding a cruel scythe and preying upon the unwary. Once a lonely man accused of bringing famine to his village, he was tied up and left to starve in his own barren field. Resurrected by the savage murder of crows that fed on his remains, Fiddlesticks now relishes terrorizing his victims before claiming their lives amid a flurry of feathers and blood-splattered beaks.",
+        "shortBio": "Something has awoken in Runeterra. Something ancient. Something terrible. The ageless horror known as Fiddlesticks stalks the edges of mortal society, drawn to areas thick with paranoia where it feeds upon terrorized victims. Wielding a jagged scythe, the haggard, makeshift creature reaps fear itself, shattering the minds of those unlucky enough to survive in its wake. Beware the sounding of the crow, or the whispering of the shape that appears <i>almost</i> human… Fiddlesticks has returned.",
         "squarePortraitPath": "/assets/champions/portraits/9.png",
         "roles": [
           "mage",
@@ -1555,7 +1628,7 @@
           {
             "id": 9001,
             "name": "Spectral Fiddlesticks",
-            "description": null,
+            "description": "A gruesome spectre, rumored to stand eternally watchful over a peculiar book of fables. Brave knights and cruel sorceresses alike have tried in vain to reach the tome, but none have ever returned. Perhaps that lost queendom of old isn't so fictional after all…",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/9001.jpg",
@@ -1564,7 +1637,7 @@
           {
             "id": 9002,
             "name": "Union Jack Fiddlesticks",
-            "description": "It's probably best not to ask how Fiddlesticks ended up draped in a tattered Union Jack. He's a bloodthirsty scarecrow older than time itself, and that's a question that is better left to the professionals.",
+            "description": "Pip pip. Cheerio.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/9002.jpg",
@@ -1582,7 +1655,7 @@
           {
             "id": 9004,
             "name": "Pumpkinhead Fiddlesticks",
-            "description": "For Fiddlesticks, every season is harvest season.",
+            "description": "Carriage drivers are cautioned to stick to well-traveled highways, especially during the witching season. Strange things can happen on those old, moonlit roads, where no birds sing, and something enormous moves within the fog.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/9004.jpg",
@@ -1591,7 +1664,7 @@
           {
             "id": 9005,
             "name": "Fiddle Me Timbers",
-            "description": null,
+            "description": "Yar har, fiddle-dee-dee.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/9005.jpg",
@@ -1600,16 +1673,44 @@
           {
             "id": 9006,
             "name": "Surprise Party Fiddlesticks",
-            "description": null,
+            "description": "Everyone told you hiring a clown would be a good idea. “Clowns are great for parties,” they said. But now everyone's missing, and the power is out, and something's laughing just down the hall...",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/9006.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 9016,
+                "name": "Surprise Party Fiddlesticks",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 9017,
+                "name": "Surprise Party Fiddlesticks",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 9018,
+                "name": "Surprise Party Fiddlesticks",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              }
+            ]
           },
           {
             "id": 9007,
             "name": "Dark Candy Fiddlesticks",
-            "description": "An eldritch candy horror that draws its power from holiday anxiety, Fiddlesticks aimlessly stalks the hinterlands in the darkest corners of the Winterlands. Should a hapless traveler stumble upon it, Fiddlesticks will cut them down with its peppermint scythe and an army of hungry crows.",
+            "description": "As lights go out across the Winterlands in preparation for Snowdown season, something ancient and terrible rises from the darkest corners of the Poro King's lands. Devoid of thought or purpose, it hunts for holiday revelers as if possessed, cutting down anything that crosses its path.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/9007.jpg",
@@ -1618,7 +1719,7 @@
           {
             "id": 9008,
             "name": "Risen Fiddlesticks",
-            "description": "Once upon a time in a faraway land, a jealous young emperor invoked profane summoning rites in exchange for power. When the ancient horror Fiddlesticks stepped forth, he did not aid the boy, and in an instant, his empire was utterly destroyed. The fiend was trapped beneath the ruins… until now.",
+            "description": "Once upon a time in a faraway land, a jealous young emperor invoked profane summoning rites in exchange for power. Yet when the ancient horror Fiddlesticks stepped forth, it did not aid the boy--and in an instant, his empire was utterly destroyed. The fiend was trapped beneath the ruins… until now.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/9008.jpg",
@@ -2065,6 +2166,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 11024,
+            "name": "Blood Moon Master Yi",
+            "description": "The cultists of the Blood Moon have begun a dread metamorphosis, as the boundary between the demon realm and the human world is rapidly erased. Yi is among those first blessed by this new darkness, the demon within his blade arm driving him to ever greater spectacles of violence.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/11024.jpg",
+            "chromas": [
+              {
+                "id": 11025,
+                "name": "Blood Moon Master Yi",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 11026,
+                "name": "Blood Moon Master Yi",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 11027,
+                "name": "Blood Moon Master Yi",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 11028,
+                "name": "Blood Moon Master Yi",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 11029,
+                "name": "Blood Moon Master Yi",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 11030,
+                "name": "Blood Moon Master Yi",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 11031,
+                "name": "Blood Moon Master Yi",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 11032,
+                "name": "Blood Moon Master Yi",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -2278,6 +2461,70 @@
                 "colors": [
                   "#FFC948",
                   "#FFC948"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12022,
+            "name": "Blackfrost Alistar",
+            "description": "The mightiest of all minotaurs, Alistar once roamed the northern mountains freely… but when the endless winter came and blanketed his home in frost as dark as the heart of the Ice Witch herself, the fearsome behemoth fell prey to an eerie corruption—as his fur and bone twisted into pure, frozen malice.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/12022.jpg",
+            "chromas": [
+              {
+                "id": 12023,
+                "name": "Blackfrost Alistar",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 12024,
+                "name": "Blackfrost Alistar",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 12025,
+                "name": "Blackfrost Alistar",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 12026,
+                "name": "Blackfrost Alistar",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 12027,
+                "name": "Blackfrost Alistar",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 12028,
+                "name": "Blackfrost Alistar",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -2619,6 +2866,79 @@
                 "colors": [
                   "#5F432B",
                   "#5F432B"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14014,
+            "name": "Worldbreaker Sion",
+            "description": "A once towering fortress toppled during the last annihilation, the thing called Sion was given consciousness by Malzahar, and raised up to become the purest titan of death and destruction. Now, imbued with ravenous hatred, he blasts the terrain with every step, hellbent on culling any instance of life.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/14014.jpg",
+            "chromas": [
+              {
+                "id": 14015,
+                "name": "Worldbreaker Sion",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 14016,
+                "name": "Worldbreaker Sion",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 14017,
+                "name": "Worldbreaker Sion",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 14018,
+                "name": "Worldbreaker Sion",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 14019,
+                "name": "Worldbreaker Sion",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 14020,
+                "name": "Worldbreaker Sion",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 14021,
+                "name": "Worldbreaker Sion",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -3596,6 +3916,70 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 18033,
+            "name": "Pengu Cosplay Tristana",
+            "description": "Weh!",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/18033.jpg",
+            "chromas": [
+              {
+                "id": 18034,
+                "name": "Pengu Cosplay Tristana",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 18035,
+                "name": "Pengu Cosplay Tristana",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 18036,
+                "name": "Pengu Cosplay Tristana",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 18037,
+                "name": "Pengu Cosplay Tristana",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 18038,
+                "name": "Pengu Cosplay Tristana",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 18039,
+                "name": "Pengu Cosplay Tristana",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -4556,6 +4940,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/23009.jpg",
             "chromas": null
+          },
+          {
+            "id": 23010,
+            "name": "Blood Moon Tryndamere",
+            "description": "The demon Tryndamere has fully assumed control over his twinned human body, using its inhuman strength to slash gaping wounds in the veil between the human and demonic realms. Shrugging off wounds considered fatal even to other demons, his is an unstoppable, unquenchable rage that would see all things consumed by the Blood Moon.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/23010.jpg",
+            "chromas": [
+              {
+                "id": 23011,
+                "name": "Blood Moon Tryndamere",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 23012,
+                "name": "Blood Moon Tryndamere",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 23013,
+                "name": "Blood Moon Tryndamere",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 23014,
+                "name": "Blood Moon Tryndamere",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 23015,
+                "name": "Blood Moon Tryndamere",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 23016,
+                "name": "Blood Moon Tryndamere",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 23017,
+                "name": "Blood Moon Tryndamere",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -5595,6 +6052,88 @@
                 "colors": [
                   "#54209B",
                   "#54209B"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 29027,
+            "name": "Twitch Shadowfoot",
+            "description": "An extremely aggravating presence both in-game and at the table, Twitch Shadowfoot is the adorable Rift Quest counterpart to the actual Twitch, who is insane. Unsurprisingly, the cuddly rat-man rogue spends nearly every turn stealing his companions' equipment, mumbling of a vast conspiracy to overthrow him from his 'toilet kingdom'.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/29027.jpg",
+            "chromas": [
+              {
+                "id": 29028,
+                "name": "Twitch Shadowfoot",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 29029,
+                "name": "Twitch Shadowfoot",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 29030,
+                "name": "Twitch Shadowfoot",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 29031,
+                "name": "Twitch Shadowfoot",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 29032,
+                "name": "Twitch Shadowfoot",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 29033,
+                "name": "Twitch Shadowfoot",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 29034,
+                "name": "Twitch Shadowfoot",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 29035,
+                "name": "Twitch Shadowfoot",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -8281,6 +8820,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 44009,
+            "name": "Taric Luminshield",
+            "description": "A battle cleric who has to simultaneously tank and heal for a pair of bumbling rogues, Taric Luminshield may be the only thing keeping his table from a total party wipe. In-universe he's a devout warrior of the Divine Goddess Targonius, but out of universe he'd rather be in a different campaign.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/44009.jpg",
+            "chromas": [
+              {
+                "id": 44010,
+                "name": "Taric Luminshield",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 44011,
+                "name": "Taric Luminshield",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 44012,
+                "name": "Taric Luminshield",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 44013,
+                "name": "Taric Luminshield",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 44014,
+                "name": "Taric Luminshield",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 44015,
+                "name": "Taric Luminshield",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 44016,
+                "name": "Taric Luminshield",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 44017,
+                "name": "Taric Luminshield",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -8505,6 +9126,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 45023,
+            "name": "Furyhorn Cosplay Veigar",
+            "description": "50% fury, 50% horn,100% evil.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/45023.jpg",
+            "chromas": [
+              {
+                "id": 45024,
+                "name": "Furyhorn Cosplay Veigar",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 45025,
+                "name": "Furyhorn Cosplay Veigar",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 45026,
+                "name": "Furyhorn Cosplay Veigar",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 45027,
+                "name": "Furyhorn Cosplay Veigar",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 45028,
+                "name": "Furyhorn Cosplay Veigar",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 45029,
+                "name": "Furyhorn Cosplay Veigar",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 45030,
+                "name": "Furyhorn Cosplay Veigar",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 45031,
+                "name": "Furyhorn Cosplay Veigar",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -8579,7 +9282,7 @@
           {
             "id": 48006,
             "name": "Dragonslayer Trundle",
-            "description": null,
+            "description": "The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/48006.jpg",
@@ -9057,7 +9760,7 @@
             "name": "Definitely Not Blitzcrank",
             "description": "I, not a robot.",
             "rarity": "kNoRarity",
-            "isLegacy": true,
+            "isLegacy": false,
             "tilePath": "/assets/champions/tiles/53005.jpg",
             "chromas": null
           },
@@ -9467,6 +10170,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 54023,
+            "name": "Dark Star Malphite",
+            "description": "The remnants of a once lush and enormous exo-planet, the Dark Star consumed and reformed the broken cluster of planetary debris into a twisted consciousness, ever pulling others into its orbit, and unleashing oblivion upon all who cross its path.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/54023.jpg",
+            "chromas": null
+          },
+          {
+            "id": 54024,
+            "name": "Dark Star Malphite Prestige Edition",
+            "description": "Gilded by the Dark Star's touch and empowered through its radiance, Malphite barrels across space, demolishing entire systems and consuming the broken remnants into his immense and twisted form.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/54024.jpg",
+            "chromas": null
           }
         ]
       },
@@ -9671,6 +10392,79 @@
                 "colors": [
                   "#73BFBE",
                   "#73BFBE"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 55021,
+            "name": "Blood Moon Katarina",
+            "description": "An honored priestess of the Blood Moon cult, merged with the flesh of her demon as all priestesses are fated to be. Yet the descent of the Blood Moon has changed the nature of demons and humankind, and Katarina has begun her ascent into a newer, darker form.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/55021.jpg",
+            "chromas": [
+              {
+                "id": 55022,
+                "name": "Blood Moon Katarina",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 55023,
+                "name": "Blood Moon Katarina",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 55024,
+                "name": "Blood Moon Katarina",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 55025,
+                "name": "Blood Moon Katarina",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 55026,
+                "name": "Blood Moon Katarina",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 55027,
+                "name": "Blood Moon Katarina",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 55028,
+                "name": "Blood Moon Katarina",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -9996,6 +10790,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/57007.jpg",
             "chromas": null
+          },
+          {
+            "id": 57016,
+            "name": "Worldbreaker Maokai",
+            "description": "An immense tree-like golem, Maokai grew from the very roots of the world, charred though they were by the last annihilation. Burdened to revive the world after every destructive cycle, he wanders for all eternity, reseeding the earth with his magical saplings, making way for the renewal of life…  only for it to be undone once more.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/57016.jpg",
+            "chromas": [
+              {
+                "id": 57017,
+                "name": "Worldbreaker Maokai",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 57018,
+                "name": "Worldbreaker Maokai",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 57019,
+                "name": "Worldbreaker Maokai",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 57020,
+                "name": "Worldbreaker Maokai",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 57021,
+                "name": "Worldbreaker Maokai",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 57022,
+                "name": "Worldbreaker Maokai",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 57023,
+                "name": "Worldbreaker Maokai",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -10175,6 +11042,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/58017.jpg",
             "chromas": null
+          },
+          {
+            "id": 58018,
+            "name": "Blackfrost Renekton",
+            "description": "In life, Renekton stood against the tyranny of the Ice Witch, fighting an inevitable, endless winter until his last breath. In death, the virtuous warrior was cursed with resurrection—brought back to life as a vicious warmonger cased in rock and ice. Now a general leading the onslaught of the Black Frost army, Renekton loyally serves the very queen he once thought to destroy.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/58018.jpg",
+            "chromas": [
+              {
+                "id": 58019,
+                "name": "Blackfrost Renekton",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 58020,
+                "name": "Blackfrost Renekton",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 58021,
+                "name": "Blackfrost Renekton",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 58022,
+                "name": "Blackfrost Renekton",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 58023,
+                "name": "Blackfrost Renekton",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 58024,
+                "name": "Blackfrost Renekton",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 58025,
+                "name": "Blackfrost Renekton",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -10272,7 +11212,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/59007.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 59012,
+                "name": "Dark Star Jarvan IV",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Galaxies event.",
+                "colors": [
+                  "#000000",
+                  "#A50031"
+                ]
+              }
+            ]
           },
           {
             "id": 59008,
@@ -10448,7 +11398,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/61007.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 61012,
+                "name": "Dark Star Orianna",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Galaxies event.",
+                "colors": [
+                  "#000000",
+                  "#A50031"
+                ]
+              }
+            ]
           },
           {
             "id": 61008,
@@ -12597,6 +13557,70 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/82005.jpg",
             "chromas": null
+          },
+          {
+            "id": 82006,
+            "name": "Dark Star Mordekaiser",
+            "description": "Once a member of the Cosmic Court, Mordekaiser vanished from known space for an epoch—until now. Reborn and returned from an unknown destruction, Mordekaiser seems bent on unmaking the kingdoms of stars and light he once built. Though he still bears his Cosmic armor, the mind and figure within has been twisted and reforged to know only hatred and destruction.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/82006.jpg",
+            "chromas": [
+              {
+                "id": 82007,
+                "name": "Dark Star Mordekaiser",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 82008,
+                "name": "Dark Star Mordekaiser",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Galaxies event.",
+                "colors": [
+                  "#000000",
+                  "#A50031"
+                ]
+              },
+              {
+                "id": 82009,
+                "name": "Dark Star Mordekaiser",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 82010,
+                "name": "Dark Star Mordekaiser",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 82011,
+                "name": "Dark Star Mordekaiser",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 82012,
+                "name": "Dark Star Mordekaiser",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -13656,6 +14680,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/90007.jpg",
             "chromas": null
+          },
+          {
+            "id": 90009,
+            "name": "Worldbreaker Malzahar",
+            "description": "With the world revitalized, there came another wave of titans. Most fearsome of all was Malzahar, the once-great protector of animals. Vengeful over the horrors of the previous extinction, the holy shaman succumbed to anger, and there, in the depths of his rage, his magic turned dark, fueling a fury to end all life—from the depths of the seas to the peaks of mountains.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/90009.jpg",
+            "chromas": [
+              {
+                "id": 90010,
+                "name": "Worldbreaker Malzahar",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 90011,
+                "name": "Worldbreaker Malzahar",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 90012,
+                "name": "Worldbreaker Malzahar",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 90013,
+                "name": "Worldbreaker Malzahar",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 90014,
+                "name": "Worldbreaker Malzahar",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 90015,
+                "name": "Worldbreaker Malzahar",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 90016,
+                "name": "Worldbreaker Malzahar",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 90017,
+                "name": "Worldbreaker Malzahar",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -13850,6 +14956,88 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 91020,
+            "name": "Talon Blackwood",
+            "description": "The sworn brother of Twitch Shadowfoot, dashing assassin extraordinaire Talon Blackwood is one half of an infamous underworld duo and the only advanced class in the entire party. He's also a brooding dark elf antihero with a tragic backstory, who is fated to one day save the world! Probably.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/91020.jpg",
+            "chromas": [
+              {
+                "id": 91021,
+                "name": "Talon Blackwood",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 91022,
+                "name": "Talon Blackwood",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 91023,
+                "name": "Talon Blackwood",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 91024,
+                "name": "Talon Blackwood",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 91025,
+                "name": "Talon Blackwood",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 91026,
+                "name": "Talon Blackwood",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 91027,
+                "name": "Talon Blackwood",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 91028,
+                "name": "Talon Blackwood",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
                 ]
               }
             ]
@@ -14663,6 +15851,24 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/99016.jpg",
             "chromas": null
+          },
+          {
+            "id": 99017,
+            "name": "Dark Cosmic Lux",
+            "description": "Once the right hand of Queen Ashe, Lux embraced the darkness in her heart, answering the mad call of the Dark Star. Finally seeing the truth, she rejects the Cosmic Court, instead serving her own dark ambition to quiet the banal noise of creation. For she now knows her true fate—to reign as Queen of a Dark Court, and rightful master of the Dark Star.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/99017.jpg",
+            "chromas": null
+          },
+          {
+            "id": 99018,
+            "name": "Cosmic Lux",
+            "description": "The right hand of Queen Ashe, Lux weaves celestial constellations, bringing order to a universe drifting towards entropy. When the Dark Star began corrupting members of the Cosmic Court, Lux stepped forward to confront Thresh. Yet she harbors a terrible secret—a shard of darkness that has always lived within her heart, whispering temptations…",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/99018.jpg",
+            "chromas": null
           }
         ]
       },
@@ -14717,12 +15923,76 @@
           },
           {
             "id": 101004,
-            "name": "Guardian of the Sands Xerath",
+            "name": "",
             "description": "Xerath, the liquid light—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you drown them in your purifying radiance.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/101004.jpg",
             "chromas": null
+          },
+          {
+            "id": 101005,
+            "name": "Dark Star Xerath",
+            "description": "As the Dark Star continued on its path across space, it passed through a vibrant system orbiting a supergiant star. Consuming all life and light as it passed , the Dark Star twisted the supergiant into a wrathful corruptant. Thus, Xerath was born—a dark being of malice and annihilation.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/101005.jpg",
+            "chromas": [
+              {
+                "id": 101006,
+                "name": "Dark Star Xerath",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Galaxies event.",
+                "colors": [
+                  "#000000",
+                  "#A50031"
+                ]
+              },
+              {
+                "id": 101007,
+                "name": "Dark Star Xerath",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 101008,
+                "name": "Dark Star Xerath",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 101009,
+                "name": "Dark Star Xerath",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 101010,
+                "name": "Dark Star Xerath",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 101011,
+                "name": "Dark Star Xerath",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -16009,7 +17279,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/110006.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 110015,
+                "name": "Dark Star Varus",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Galaxies event.",
+                "colors": [
+                  "#000000",
+                  "#A50031"
+                ]
+              }
+            ]
           },
           {
             "id": 110007,
@@ -16366,6 +17646,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 113015,
+            "name": "Hextech Sejuani",
+            "description": "A merchant tycoon hailing from the top echelons of Piltovan society, Sejuani paved the way for the manufacture of hextech mounts. Often seen atop the back of her trusted stead, Bristech, she surveys the gilded streets of her magnificent city, always on the lookout to recruit young innovators who dare to push the boundaries of science and engineering.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/113015.jpg",
+            "chromas": null
           }
         ]
       },
@@ -17281,7 +18570,7 @@
             "name": "Draven Draven",
             "description": "Not Draven, Draaaaaaven.",
             "rarity": "kNoRarity",
-            "isLegacy": true,
+            "isLegacy": false,
             "tilePath": "/assets/champions/tiles/119006.jpg",
             "chromas": null
           },
@@ -18545,7 +19834,7 @@
           {
             "id": 131018,
             "name": "Dragonslayer Diana",
-            "description": "A child chosen by the Blood Moon itself, Diana's mind has been opened to the lost ways of the cult—unknown to its leaders, and even the slavering demons beyond. Hers is a truth no one can know, and a fated metamorphosis beyond men and the gods.",
+            "description": "Legends tell of a special breed of dragons ravaging the countryside who can hide under the veil of nightshade. While other dragonslayers may think twice about challenging such dangerous foes, Diana dives in head first—her blade and armor forged from the very remains of these ghastly draconic beasts.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/131018.jpg",
@@ -20835,6 +22124,79 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 222029,
+            "name": "Heartseeker Jinx",
+            "description": "Love is a battlefield, and Jinx comes prepared! Armed with her beloved companion Fishbones, she's ready to break hearts—and bones. But if she likes you enough, she's prepared to play nice. Maybe. Probably not.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/222029.jpg",
+            "chromas": [
+              {
+                "id": 222030,
+                "name": "Heartseeker Jinx",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 222031,
+                "name": "Heartseeker Jinx",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 222032,
+                "name": "Heartseeker Jinx",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 222033,
+                "name": "Heartseeker Jinx",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 222034,
+                "name": "Heartseeker Jinx",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 222035,
+                "name": "Heartseeker Jinx",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 222036,
+                "name": "Heartseeker Jinx",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21040,6 +22402,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 235009,
+            "name": "True Damage Senna Prestige Edition",
+            "description": "Having topped the charts once more, Senna finds herself in the familiar space of fame and celebrity. Between cosmetics deals and fashion shows, she offers a clear message to fans and haters alike: Don't call it comeback. Senna's been here for years.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/235009.jpg",
+            "chromas": null
           }
         ]
       },
@@ -22585,6 +23956,79 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 350011,
+            "name": "Heartseeker Yuumi",
+            "description": "Yuumi's always looking for what cats love: a belly full of fish and a warm lap to curl up on. But with the romantic mood captivating even Book, Yuumi knows the only thing to set her heart purring will be a very precise number of pets.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/350011.jpg",
+            "chromas": [
+              {
+                "id": 350012,
+                "name": "Heartseeker Yuumi",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 350013,
+                "name": "Heartseeker Yuumi",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 350014,
+                "name": "Heartseeker Yuumi",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 350015,
+                "name": "Heartseeker Yuumi",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 350016,
+                "name": "Heartseeker Yuumi",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 350017,
+                "name": "Heartseeker Yuumi",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 350018,
+                "name": "Heartseeker Yuumi",
+                "description": null,
+                "colors": [
+                  "#85827F",
+                  "#85827F"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -22664,7 +24108,17 @@
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/412005.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 412016,
+                "name": "Dark Star Thresh",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Galaxies event.",
+                "colors": [
+                  "#000000",
+                  "#A50031"
+                ]
+              }
+            ]
           },
           {
             "id": 412006,
@@ -22939,6 +24393,79 @@
                 "colors": [
                   "#73BFBE",
                   "#73BFBE"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 421009,
+            "name": "Blackfrost Rek'Sai",
+            "description": "When the Ice Witch looked to the great glaciers of True Ice towering over the far north, she saw an army in the making. Among the first to be sculpted was Rek'Sai, a vessel of chilling savagery befitting a queen's power. Now, granted sentience by the will of the Watchers, she terrorizes domains with the brutal instincts of an apex predator.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/421009.jpg",
+            "chromas": [
+              {
+                "id": 421010,
+                "name": "Blackfrost Rek'Sai",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 421011,
+                "name": "Blackfrost Rek'Sai",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 421012,
+                "name": "Blackfrost Rek'Sai",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 421013,
+                "name": "Blackfrost Rek'Sai",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 421014,
+                "name": "Blackfrost Rek'Sai",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 421015,
+                "name": "Blackfrost Rek'Sai",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 421016,
+                "name": "Blackfrost Rek'Sai",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -23458,7 +24985,7 @@
             "id": 517001,
             "name": "Lunar Wraith Sylas",
             "description": "The hateful lord of the lunar wraiths, Sylas has waited eons to invade the heavenly realm, and depose its godly stewards. What happens to the balance between heaven and earth is not his concern; he simply craves chaos, and the hour of his triumph is fast approaching.",
-            "rarity": "kNoRarity",
+            "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/517001.jpg",
             "chromas": [
@@ -24057,7 +25584,7 @@
           },
           {
             "id": 875001,
-            "name": "Mecha Kingdom Sett",
+            "name": "Mecha Kingdoms Sett",
             "description": "A nameless barbarian who survived on the outskirts, Sett knew his greatest talent came from his fists. After building his wealth and reputation in brutal fighting pits, he created a new persona, donning the title of The Savage Wolf. Upon hearing of the leviathan invasion, he used his fame and fortune to acquire an Avalon of his own in order to, once and for all, prove his might in front of a captivated audience.",
             "rarity": "kEpic",
             "isLegacy": false,
@@ -35265,7 +36792,7 @@
       },
       {
         "id": 3516,
-        "title": "2018 LJL Burning Core",
+        "title": "2018 LJL SCARZ",
         "description": "This icon was released in the store for purchase during the 2018 esports season.",
         "set": "eSports Teams",
         "yearReleased": 2018,
@@ -38814,7 +40341,7 @@
       },
       {
         "id": 3903,
-        "title": "This icon was acquired by completing missions at the start of Season 9.",
+        "title": "Prestige Season 2019 Icon",
         "description": "This icon was acquired by completing missions at the start of Season 9.",
         "set": "Ranked",
         "yearReleased": 2019,
@@ -41542,7 +43069,7 @@
       },
       {
         "id": 4196,
-        "title": "Masters Challenge Season 4",
+        "title": "Master's Challenge Season 4",
         "description": "This reward commemorates the top 2000 players on Master's Challenge shard.",
         "set": null,
         "yearReleased": 2019,
@@ -43506,7 +45033,7 @@
         "description": "This icon was earned by finishing Diamond in Solo/Duo Queue in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": null,
+        "rarity": "kMythic",
         "isLegacy": false,
         "imagePath": "/assets/icons/4425.jpg"
       },
@@ -43516,7 +45043,7 @@
         "description": "This icon was earned by finishing Master in Solo/Duo Queue in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kUltimate",
         "isLegacy": false,
         "imagePath": "/assets/icons/4426.jpg"
       },
@@ -43526,7 +45053,7 @@
         "description": "This icon was earned by finishing Grandmaster in Solo/Duo Queue in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kUltimate",
         "isLegacy": false,
         "imagePath": "/assets/icons/4427.jpg"
       },
@@ -43536,7 +45063,7 @@
         "description": "This icon was earned by finishing Challenger in Solo/Duo Queue in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kUltimate",
         "isLegacy": false,
         "imagePath": "/assets/icons/4428.jpg"
       },
@@ -43596,7 +45123,7 @@
         "description": "This icon was earned by finishing Diamond in Flex Queue in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": null,
+        "rarity": "kMythic",
         "isLegacy": false,
         "imagePath": "/assets/icons/4434.jpg"
       },
@@ -43606,7 +45133,7 @@
         "description": "This icon was earned by finishing Master in Flex Queue in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kUltimate",
         "isLegacy": false,
         "imagePath": "/assets/icons/4435.jpg"
       },
@@ -43616,7 +45143,7 @@
         "description": "This icon was earned by finishing Grandmaster in Flex Queue in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kUltimate",
         "isLegacy": false,
         "imagePath": "/assets/icons/4436.jpg"
       },
@@ -43626,7 +45153,7 @@
         "description": "This icon was earned by finishing Challenger in Flex Queue in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kUltimate",
         "isLegacy": false,
         "imagePath": "/assets/icons/4437.jpg"
       },
@@ -43686,7 +45213,7 @@
         "description": "This icon was earned by finishing Diamond in Twisted Treeline in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": null,
+        "rarity": "kMythic",
         "isLegacy": false,
         "imagePath": "/assets/icons/4443.jpg"
       },
@@ -43696,7 +45223,7 @@
         "description": "This icon was earned by finishing Master in Twisted Treeline in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kUltimate",
         "isLegacy": false,
         "imagePath": "/assets/icons/4444.jpg"
       },
@@ -43706,7 +45233,7 @@
         "description": "This icon was earned by finishing Grandmaster in Twisted Treeline in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kUltimate",
         "isLegacy": false,
         "imagePath": "/assets/icons/4445.jpg"
       },
@@ -43716,7 +45243,7 @@
         "description": "This icon was earned by finishing Challenger in Twisted Treeline in Season 2019.",
         "set": null,
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kUltimate",
         "isLegacy": false,
         "imagePath": "/assets/icons/4446.jpg"
       },
@@ -43866,7 +45393,7 @@
         "description": "This icon was acquired during the 2019 Night & Dawn event.",
         "set": "Sugar Rush",
         "yearReleased": 2019,
-        "rarity": "kNoRarity",
+        "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4463.jpg"
       },
@@ -44162,7 +45689,7 @@
       },
       {
         "id": 4493,
-        "title": "Masters Challenge Season 5",
+        "title": "Master's Challenge Season 5",
         "description": "Award to those who cumulatively made top 2000 twice in Master's Challenge shard.",
         "set": null,
         "yearReleased": 2019,
@@ -44179,6 +45706,423 @@
         "rarity": "kMythic",
         "isLegacy": false,
         "imagePath": "/assets/icons/4494.jpg"
+      },
+      {
+        "id": 4495,
+        "title": "True Damage Senna Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige True Damage Senna skin from the 2020 Prestige Point Shop.",
+        "set": "True Damage",
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4495.jpg"
+      },
+      {
+        "id": 4496,
+        "title": "Light's End Icon",
+        "description": "Infinity calls.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4496.jpg"
+      },
+      {
+        "id": 4497,
+        "title": "Galaxies 2020 Icon",
+        "description": "This icon was earned through missions during the 2020 Galaxies event.",
+        "set": "Galaxies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4497.jpg"
+      },
+      {
+        "id": 4498,
+        "title": "Cosmic Icon",
+        "description": "This icon was acquired during the 2020 Galaxies event.",
+        "set": "Cosmic",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4498.jpg"
+      },
+      {
+        "id": 4499,
+        "title": "Galaxies 2020 Event Prestige Points Icon",
+        "description": "This icon was acquired through Loot during the 2020 Galaxies event.",
+        "set": "Galaxies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4499.jpg"
+      },
+      {
+        "id": 4500,
+        "title": "Legendary Variant Dark Cosmic Lux Border Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4500.jpg"
+      },
+      {
+        "id": 4501,
+        "title": "Legendary Variant Cosmic Lux Border Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Galaxies event.",
+        "set": "Cosmic",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4501.jpg"
+      },
+      {
+        "id": 4502,
+        "title": "Dark Star Mordekaiser Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4502.jpg"
+      },
+      {
+        "id": 4503,
+        "title": "Dark Star Xerath Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4503.jpg"
+      },
+      {
+        "id": 4504,
+        "title": "Dark Star Malphite Border Icon",
+        "description": "This icon was acquired during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4504.jpg"
+      },
+      {
+        "id": 4505,
+        "title": "Dark Star Mordekaiser Border Icon",
+        "description": "This icon was acquired during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4505.jpg"
+      },
+      {
+        "id": 4506,
+        "title": "Prestige Dark Star Malphite Border Icon",
+        "description": "This icon was acquired by obtaining the Prestige Dark Star Malphite skin during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4506.jpg"
+      },
+      {
+        "id": 4507,
+        "title": "Dark Star Xerath Border Icon",
+        "description": "This icon was acquired during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4507.jpg"
+      },
+      {
+        "id": 4508,
+        "title": "Dark Star Thresh Event Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4508.jpg"
+      },
+      {
+        "id": 4509,
+        "title": "Dark Star Jarvan IV Event Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4509.jpg"
+      },
+      {
+        "id": 4510,
+        "title": "Dark Star Orianna Event Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4510.jpg"
+      },
+      {
+        "id": 4511,
+        "title": "Dark Star Varus Event Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Galaxies event.",
+        "set": "Dark Star",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4511.jpg"
+      },
+      {
+        "id": 4512,
+        "title": "Demacia Cup 2020 Icon",
+        "description": "Awarded for completing a Clash introductory mission.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4512.jpg"
+      },
+      {
+        "id": 4513,
+        "title": "Little Legend Abyssia Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Abyssia Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4513.jpg"
+      },
+      {
+        "id": 4514,
+        "title": "Little Legend Starmaw Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Starmaw Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4514.jpg"
+      },
+      {
+        "id": 4515,
+        "title": "Little Legend Squink Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Squink Species Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4515.jpg"
+      },
+      {
+        "id": 4516,
+        "title": "Little Legend Cheeper Featherknight Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Cheeper Featherknight Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4516.jpg"
+      },
+      {
+        "id": 4517,
+        "title": "Little Legend Snow Cherry Silverwing Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Snowcherry Silverwing Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4517.jpg"
+      },
+      {
+        "id": 4518,
+        "title": "Little Legend Shadowgem Protector Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Shadowgem Protector Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4518.jpg"
+      },
+      {
+        "id": 4519,
+        "title": "Little Legend Mistberry Hushtail Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Mistberry Hushtail Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4519.jpg"
+      },
+      {
+        "id": 4520,
+        "title": "Little Legend Black Mist Runespirit Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Black Mist Runespirit Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4520.jpg"
+      },
+      {
+        "id": 4521,
+        "title": "Little Legend Gingersnap Dango Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Gingersnap Dango Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4521.jpg"
+      },
+      {
+        "id": 4522,
+        "title": "Little Legend Soloist Ossia Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Soloist Ossia Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4522.jpg"
+      },
+      {
+        "id": 4523,
+        "title": "Little Legend Toxic Hauntling Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Toxic Hauntling Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4523.jpg"
+      },
+      {
+        "id": 4524,
+        "title": "Little Legend Rosebloom Paddlemar Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Rosebloom Paddlemar Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4524.jpg"
+      },
+      {
+        "id": 4525,
+        "title": "Little Legend Lovestruck Fuwa Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Lovestruck Fuwa Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4525.jpg"
+      },
+      {
+        "id": 4526,
+        "title": "Little Legend Heroic Shisa Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Heroic Shisa Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4526.jpg"
+      },
+      {
+        "id": 4527,
+        "title": "Little Legend Hardhitter QiQi Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Hardhitter QiQi Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4527.jpg"
+      },
+      {
+        "id": 4528,
+        "title": "Little Legend Sakura Featherknight Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Sakura Featherknight Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4528.jpg"
+      },
+      {
+        "id": 4529,
+        "title": "Little Legend Popqueen Melisma Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Popqueen Melisma Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4529.jpg"
+      },
+      {
+        "id": 4530,
+        "title": "Little Legend Lionheart Furyhorn Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Lionheart Furyhorn Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4530.jpg"
+      },
+      {
+        "id": 4531,
+        "title": "Little Legend Fae Hushtail Icon",
+        "description": "This icon was acquired by purchasing the Little Legend Fae Hushtail Egg!",
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4531.jpg"
+      },
+      {
+        "id": 4532,
+        "title": "Furyhorn Cosplay Veigar Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4532.jpg"
+      },
+      {
+        "id": 4533,
+        "title": "Pengu Cosplay Tristana Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4533.jpg"
+      },
+      {
+        "id": 4534,
+        "title": "Pajama Guardian Cosplay Urgot Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4534.jpg"
+      },
+      {
+        "id": 4535,
+        "title": "Yuumi Space Day Icon",
+        "description": "Earned by participating in the 2020 Cosmonautics Day event (region exclusive).",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4535.jpg"
+      },
+      {
+        "id": 4536,
+        "title": "Diana Space Day Icon",
+        "description": "Earned by participating in the 2020 Cosmonautics Day event (region exclusive).",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4536.jpg"
       },
       {
         "id": 4,
@@ -49276,7 +51220,7 @@
         "id": 19,
         "name": "Fist Bump Ward",
         "defaultDescription": "You met a Rioter!",
-        "description": "This ward was granted to players who have met a Rioter and received a code!.",
+        "description": "This ward was granted to players who have met a Rioter and received a code!",
         "set": null,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -50446,7 +52390,7 @@
         "name": "Battle Academia Durandal Ward",
         "defaultDescription": null,
         "description": "This ward was released in the store for purchase during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/136.png"
@@ -50466,7 +52410,7 @@
         "name": "Battle Academia Desk Ward",
         "defaultDescription": null,
         "description": "This ward was acquired through Loot during the 2019 Trials event.",
-        "set": "Battle Acadamia",
+        "set": "Battle Academia",
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/138.png"
@@ -51027,7 +52971,7 @@
         "defaultDescription": null,
         "description": "This ward was released during the 2019 Tales from the Rift event.",
         "set": "Tales From the Rift",
-        "rarity": "kNoRarity",
+        "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/wards/194.png"
       },
@@ -51060,6 +53004,16 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/wards/197.png"
+      },
+      {
+        "id": 198,
+        "name": "Galaxies 2020 Ward",
+        "defaultDescription": null,
+        "description": "This ward was released as a bundle exclusive during the 2020 Galaxies event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/198.png"
       }
     ],
     "emotes": [
@@ -54472,6 +56426,72 @@
         "imagePath": "/assets/emotes/3446.png"
       },
       {
+        "id": 3447,
+        "name": "Hehehe",
+        "description": null,
+        "imagePath": "/assets/emotes/3447.png"
+      },
+      {
+        "id": 3448,
+        "name": "Animated Did You Just?",
+        "description": null,
+        "imagePath": "/assets/emotes/3448.png"
+      },
+      {
+        "id": 3449,
+        "name": "Don't Be Afraid!",
+        "description": null,
+        "imagePath": "/assets/emotes/3449.png"
+      },
+      {
+        "id": 3450,
+        "name": "That's Not Nice...",
+        "description": null,
+        "imagePath": "/assets/emotes/3450.png"
+      },
+      {
+        "id": 3451,
+        "name": "Ooh La La!",
+        "description": null,
+        "imagePath": "/assets/emotes/3451.png"
+      },
+      {
+        "id": 3452,
+        "name": "Stop That!",
+        "description": null,
+        "imagePath": "/assets/emotes/3452.png"
+      },
+      {
+        "id": 3453,
+        "name": "Say That One More Time.",
+        "description": null,
+        "imagePath": "/assets/emotes/3453.png"
+      },
+      {
+        "id": 3454,
+        "name": "Is That a Threat?!",
+        "description": null,
+        "imagePath": "/assets/emotes/3454.png"
+      },
+      {
+        "id": 3455,
+        "name": "Got Ya!",
+        "description": null,
+        "imagePath": "/assets/emotes/3455.png"
+      },
+      {
+        "id": 3456,
+        "name": "Glee!",
+        "description": null,
+        "imagePath": "/assets/emotes/3456.png"
+      },
+      {
+        "id": 3457,
+        "name": "How Dare You!",
+        "description": null,
+        "imagePath": "/assets/emotes/3457.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -54796,6 +56816,438 @@
         "species": "Flutterbug",
         "level": 3,
         "imagePath": "/assets/tftcompanions/17006.png"
+      },
+      {
+        "id": 19016,
+        "name": "Cosmic Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19016.png"
+      },
+      {
+        "id": 19017,
+        "name": "Cosmic Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19017.png"
+      },
+      {
+        "id": 19018,
+        "name": "Cosmic Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19018.png"
+      },
+      {
+        "id": 19007,
+        "name": "Dreadnova Squink",
+        "description": "Dreadnova Squink",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19007.png"
+      },
+      {
+        "id": 19008,
+        "name": "Dreadnova Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19008.png"
+      },
+      {
+        "id": 19009,
+        "name": "Dreadnova Squink",
+        "description": "Dreadnova Squink",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19009.png"
+      },
+      {
+        "id": 19010,
+        "name": "Fruity-tooty Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19010.png"
+      },
+      {
+        "id": 19011,
+        "name": "Fruity-tooty Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19011.png"
+      },
+      {
+        "id": 19012,
+        "name": "Fruity-tooty Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19012.png"
+      },
+      {
+        "id": 19004,
+        "name": "Odyssey Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19004.png"
+      },
+      {
+        "id": 19005,
+        "name": "Odyssey Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19005.png"
+      },
+      {
+        "id": 19006,
+        "name": "Odyssey Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19006.png"
+      },
+      {
+        "id": 19001,
+        "name": "Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19001.png"
+      },
+      {
+        "id": 19002,
+        "name": "Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19002.png"
+      },
+      {
+        "id": 19003,
+        "name": "Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19003.png"
+      },
+      {
+        "id": 19013,
+        "name": "Sugarcone Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19013.png"
+      },
+      {
+        "id": 19014,
+        "name": "Sugarcone Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19014.png"
+      },
+      {
+        "id": 19015,
+        "name": "Sugarcone Squink",
+        "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19015.png"
+      },
+      {
+        "id": 20001,
+        "name": "Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/20001.png"
+      },
+      {
+        "id": 20002,
+        "name": "Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/20002.png"
+      },
+      {
+        "id": 20003,
+        "name": "Abyssia",
+        "description": "Abyssia",
+        "species": "Abyssia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/20003.png"
+      },
+      {
+        "id": 20013,
+        "name": "Calcite Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/20013.png"
+      },
+      {
+        "id": 20014,
+        "name": "Calcite Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/20014.png"
+      },
+      {
+        "id": 20015,
+        "name": "Calcite Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/20015.png"
+      },
+      {
+        "id": 20016,
+        "name": "Cosmic Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/20016.png"
+      },
+      {
+        "id": 20017,
+        "name": "Cosmic Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/20017.png"
+      },
+      {
+        "id": 20018,
+        "name": "Cosmic Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/20018.png"
+      },
+      {
+        "id": 20004,
+        "name": "Darkin Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/20004.png"
+      },
+      {
+        "id": 20005,
+        "name": "Darkin Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/20005.png"
+      },
+      {
+        "id": 20006,
+        "name": "Darkin Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/20006.png"
+      },
+      {
+        "id": 20007,
+        "name": "Galaxy Slayer Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/20007.png"
+      },
+      {
+        "id": 20008,
+        "name": "Galaxy Slayer Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/20008.png"
+      },
+      {
+        "id": 20009,
+        "name": "Galaxy Slayer Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/20009.png"
+      },
+      {
+        "id": 20010,
+        "name": "Willowbark Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/20010.png"
+      },
+      {
+        "id": 20011,
+        "name": "Willowbark Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/20011.png"
+      },
+      {
+        "id": 20012,
+        "name": "Willowbark Abyssia",
+        "description": "Abyssia wields a sword imbued with the power to open rifts between space and time. No one knows what Abyssia looks like, as its true form remains forever hidden beneath its mask.",
+        "species": "Abyssia",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/20012.png"
+      },
+      {
+        "id": 21016,
+        "name": "Cosmic Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/21016.png"
+      },
+      {
+        "id": 21017,
+        "name": "Cosmic Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/21017.png"
+      },
+      {
+        "id": 21018,
+        "name": "Cosmic Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/21018.png"
+      },
+      {
+        "id": 21004,
+        "name": "Dreadnova Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/21004.png"
+      },
+      {
+        "id": 21005,
+        "name": "Dreadnova Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/21005.png"
+      },
+      {
+        "id": 21006,
+        "name": "Dreadnova Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/21006.png"
+      },
+      {
+        "id": 21007,
+        "name": "Galaxy Slayer Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/21007.png"
+      },
+      {
+        "id": 21008,
+        "name": "Galaxy Slayer Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/21008.png"
+      },
+      {
+        "id": 21009,
+        "name": "Galaxy Slayer Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/21009.png"
+      },
+      {
+        "id": 21010,
+        "name": "Goo Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/21010.png"
+      },
+      {
+        "id": 21011,
+        "name": "Goo Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/21011.png"
+      },
+      {
+        "id": 21012,
+        "name": "Goo Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/21012.png"
+      },
+      {
+        "id": 21013,
+        "name": "Orcus Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/21013.png"
+      },
+      {
+        "id": 21014,
+        "name": "Orcus Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/21014.png"
+      },
+      {
+        "id": 21015,
+        "name": "Orcus Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/21015.png"
+      },
+      {
+        "id": 21001,
+        "name": "Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/21001.png"
+      },
+      {
+        "id": 21002,
+        "name": "Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/21002.png"
+      },
+      {
+        "id": 21003,
+        "name": "Starmaw",
+        "description": "Starmaw swims leisurely through the galaxies, oblivious to all other life around it. It's known as a devourer of worlds, but really it just happens to swallow a planet or two while it's yawning.",
+        "species": "Starmaw",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/21003.png"
       },
       {
         "id": 18010,
@@ -55660,6 +58112,30 @@
         "species": "Tocker",
         "level": 3,
         "imagePath": "/assets/tftcompanions/16003.png"
+      },
+      {
+        "id": 4019,
+        "name": "Astronaut Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4019.png"
+      },
+      {
+        "id": 4020,
+        "name": "Astronaut Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/4020.png"
+      },
+      {
+        "id": 4021,
+        "name": "Astronaut Molediver",
+        "description": "He shovels very well.",
+        "species": "Molediver",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/4021.png"
       },
       {
         "id": 4013,
@@ -56912,7 +59388,7 @@
       {
         "id": 9001,
         "name": "Moontipped Hushtail",
-        "description": "A young, fuzzy Protector.",
+        "description": "A mystical Hushtail.",
         "species": "Hushtail",
         "level": 1,
         "imagePath": "/assets/tftcompanions/9001.png"
@@ -56964,6 +59440,14 @@
         "species": "River Sprite",
         "level": 1,
         "imagePath": "/assets/tftcompanions/1.png"
+      },
+      {
+        "id": 2,
+        "name": "UFO Sprite",
+        "description": "River Sprite",
+        "species": "River Sprite",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/2.png"
       },
       {
         "id": 8007,
@@ -57184,6 +59668,24 @@
         "imagePath": "/assets/tftmapskins/8.png"
       },
       {
+        "id": 17,
+        "name": "Black Hole Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/17.png"
+      },
+      {
+        "id": 19,
+        "name": "Celestial Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/19.png"
+      },
+      {
+        "id": 20,
+        "name": "Supernova Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/20.png"
+      },
+      {
         "id": 10,
         "name": "Avarosa Arena",
         "description": null,
@@ -57200,6 +59702,24 @@
         "name": "Winter's Claw Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/9.png"
+      },
+      {
+        "id": 26,
+        "name": "Crash Site Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/26.png"
+      },
+      {
+        "id": 24,
+        "name": "Pit Stop Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/24.png"
+      },
+      {
+        "id": 25,
+        "name": "Drifting Park Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/25.png"
       }
     ]
   }

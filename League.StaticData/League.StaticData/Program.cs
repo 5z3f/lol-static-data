@@ -1,8 +1,6 @@
 ﻿using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Drawing;
 using System.Dynamic;
 using System.IO;
 using System.IO.Compression;
@@ -20,26 +18,28 @@ namespace Riot.StaticData
             Console.OutputEncoding = Encoding.UTF8;
 
             Console.Clear();
-            Console.WriteLine("\n\tLeague of Legends Static Data Gathering Tool | 1.0.1");
+            Console.WriteLine("\n\tLeague of Legends Static Data Gathering Tool | 1.0.2");
             Console.WriteLine("\t_______________________________________________________________________\n\n");
 
             int tries = 1;
+            int limit = 10;
+
             CheckAgain:
                 Process pGame = Process.GetProcessesByName("LeagueClientUx").FirstOrDefault();
                 if (pGame == null)
                 {
                     if (tries > 0) ClearLastLine();
-                    Console.WriteLine($"\tSearching for LeagueClient... ({tries}/5)");
+                    Console.WriteLine($"\tSearching for LeagueClient... ({tries}/{limit})");
                     Thread.Sleep(3000);
 
-                    if (tries < 5)
+                    if (tries < limit)
                     {
                         tries++;
                         goto CheckAgain;
                     }
 
                     ClearLastLine();
-                    Console.WriteLine($"\tSearching for LeagueClient... FAILED ({tries}/5)");
+                    Console.WriteLine($"\tSearching for LeagueClient... FAILED ({tries}/{limit})");
                     Console.ReadKey();
                     Environment.Exit(0);
                 }
@@ -68,7 +68,7 @@ namespace Riot.StaticData
             string version = GetRequest("/system/v1/builds", lockFileData[3], lockFileData[2])["version"];
             Console.WriteLine($"\tGetting current game version...\t\t\t\t\tOK\n\t---");
 
-            bool isPatched = GetRequest("/patcher/v1/products/league_of_legends/state", lockFileData[3], lockFileData[2])["percentPatched"] == (double)100.0 ? true : false;
+            bool isPatched = GetRequest("/patcher/v1/products/league_of_legends/state", lockFileData[3], lockFileData[2])["isUpToDate"] == (bool)true ? true : false;
             if (!isPatched)
             {
                 Console.WriteLine($"\tERROR: Please update your LeagueClient first");
@@ -108,35 +108,6 @@ namespace Riot.StaticData
 
             dynamic tftcompanionCollection = GetRequest($"/lol-game-data/assets/v1/companions.json", lockFileData[3], lockFileData[2]);
             Console.WriteLine($"\tGetting tft companions...\t\t\t\t\tOK\n\t---");
-
-            #region WadTesting
-            /*
-            string globalFileName = @"C:\Riot Games\League of Legends\RADS\projects\lol_game_client_" + locale + @"\managedfiles\" + new DirectoryInfo(@"C:\Riot Games\League of Legends\RADS\projects\lol_game_client_en_gb\managedfiles").GetDirectories().Last() + @"\DATA\FINAL\Localized\Global." + locale + ".wad.client";
-            long globalFileLength = new FileInfo(globalFileName).Length;
-
-            Console.WriteLine($"\tUnpacking Global.{locale}.wad.client...\t\t\t\tPROCESSING");
-            var globalFileUnpackedContent = Encoding.UTF8.GetString(RiotWad.UnpackGlobalFile(globalFileName));
-            ClearLastLine();
-            Console.WriteLine($"\tUnpacking Global.{locale}.wad.client...\t\t\t\tOK");
-            Console.WriteLine($"\tUnpacked { BytesToString(globalFileUnpackedContent.Length) } out of { BytesToString(globalFileLength) } file (+{BytesToString(globalFileUnpackedContent.Length - globalFileLength)})\t\t\tOK");
-
-            Console.WriteLine($"\tParsing content...\t\t\t\t\tWORKING");
-
-            var chromaDescriptionData = new Dictionary<long, string>();
-
-            {
-                using (var reader = new StringReader(globalFileUnpackedContent))
-                {
-                    for (string line = reader.ReadLine(); line != null; line = reader.ReadLine())
-                        if (line.StartsWith("tr \"chroma_description"))
-                            chromaDescriptionData.Add(Convert.ToInt64(GetStringBetween(line, "tr \"chroma_description_", "\"")), GetStringBetween(line, "\" = \"", "\""));
-                }
-            }
-
-            ClearLastLine();
-            Console.WriteLine($"\tParsing unpacked content...\t\t\t\t\tOK\n\t---");
-            */
-            #endregion
 
             Console.WriteLine(dlAssets ? "\tDownloading assets and building champion structure...\t\tWORKING" : "\tBuilding champion structure...\t\t\t\t\tWORKING");
 
@@ -524,77 +495,5 @@ namespace Riot.StaticData
             Console.Write(new string(' ', Console.WindowWidth));
             Console.SetCursorPosition(0, currentLineCursor);
         }
-
-        /*
-        static string GetStringBetween(this string token, string first, string second)
-        {
-            if (!token.Contains(first)) return "";
-            var afterFirst = token.Split(new[] { first }, StringSplitOptions.None)[1];
-            if (!afterFirst.Contains(second)) return "";
-            var result = afterFirst.Split(new[] { second }, StringSplitOptions.None)[0];
-            return result;
-        }
-
-        public static Bitmap CombineBitmap(string[] files)
-        {
-            List<Bitmap> images = new List<Bitmap>();
-            Bitmap finalImage = null;
-
-            try
-            {
-                int width = 0;
-                int height = 0;
-
-                foreach (string image in files)
-                {
-                    Bitmap bitmap = new Bitmap(image);
-
-                    width += bitmap.Width;
-                    height = bitmap.Height > height ? bitmap.Height : height;
-
-                    images.Add(bitmap);
-                }
-
-                finalImage = new Bitmap(width, height);
-
-                using (Graphics g = Graphics.FromImage(finalImage))
-                {
-                    g.Clear(Color.Black);
-
-                    int offset = 0;
-                    foreach (Bitmap image in images)
-                    {
-                        g.DrawImage(image, new Rectangle(offset, 0, image.Width, image.Height));
-                        offset += image.Width;
-                    }
-                }
-
-                return finalImage;
-            }
-            catch (Exception)
-            {
-                if (finalImage != null) finalImage.Dispose();
-                throw;
-            }
-            finally
-            {
-                foreach (Bitmap image in images)
-                    image.Dispose();
-            }
-        }
-
-        static string BytesToString(long byteCount)
-        {
-            string[] suf = { "B", "KB", "MB", "GB", "TB", "PB", "EB" };
-
-            if (byteCount == 0)
-                return "0" + suf[0];
-
-            long bytes = Math.Abs(byteCount);
-            int place = Convert.ToInt32(Math.Floor(Math.Log(bytes, 1024)));
-            double num = Math.Round(bytes / Math.Pow(1024, place), 2);
-            return (Math.Sign(byteCount) * num).ToString() + suf[place];
-        }
-        */
     }
 }
