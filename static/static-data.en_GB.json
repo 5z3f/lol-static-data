@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.7.315.7487",
+  "version": "10.8.316.7651",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,9 +13,9 @@
   ],
   "info": {
     "champions": 148,
-    "skins": 1048,
-    "chromas": 1364,
-    "icons": 2550,
+    "skins": 1052,
+    "chromas": 1376,
+    "icons": 2555,
     "emotes": 585,
     "wards": 199,
     "tftcompanions": 383,
@@ -1393,6 +1393,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/7019.jpg",
             "chromas": null
+          },
+          {
+            "id": 7020,
+            "name": "Coven LeBlanc",
+            "description": "They came to LeBlanc as if in some forgotten melody -- songs of the Black Crane, and its titanic heart long-imprisoned within the deepest reaches of the Elderwood. Her sisters fell before the forest's defenders, but LeBlanc did find her prize... and now her patron has begun to wake, stirring itself from a dreamless slumber of unhallowed centuries.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/7020.jpg",
+            "chromas": [
+              {
+                "id": 7021,
+                "name": "",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 7022,
+                "name": "",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 7023,
+                "name": "",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 7024,
+                "name": "",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 7025,
+                "name": "",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 7026,
+                "name": "",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 7027,
+                "name": "",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 7028,
+                "name": "",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -5461,6 +5543,52 @@
                 "colors": [
                   "#5F432B",
                   "#5F432B"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 25026,
+            "name": "Coven Morgana",
+            "description": "Queen of the coven, and patron of that called Ashen Owl. Morgana worshipped the Old Gods, and wept when they were slain -- betrayed when her sister murdered the primordial sun and delivered its power to an army of witch-knights. Now Morgana has returned to end the reign of mankind, returning the world's true lords to their rightful, mouldering thrones.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/25026.jpg",
+            "chromas": [
+              {
+                "id": 25027,
+                "name": "Coven Morgana",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 25028,
+                "name": "Coven Morgana",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 25029,
+                "name": "Coven Morgana",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 25030,
+                "name": "Coven Morgana",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -15923,7 +16051,7 @@
           },
           {
             "id": 101004,
-            "name": "",
+            "name": "Guardian of the Sands Xerath",
             "description": "Xerath, the liquid light—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you drown them in your purifying radiance.",
             "rarity": "kEpic",
             "isLegacy": false,
@@ -20423,6 +20551,24 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/143004.jpg",
+            "chromas": null
+          },
+          {
+            "id": 143005,
+            "name": "Coven Zyra",
+            "description": "They came to Zyra from the roots and rocks -- stirrings of the Night Dove, its beating wings twisting the very land that is its grave. Tied now to the whispers beneath the loam, she rips away humanity's works of stone and glass, each broken vestige another step towards a world returned to nature.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/143005.jpg",
+            "chromas": null
+          },
+          {
+            "id": 143006,
+            "name": "Coven Zyra Prestige Edition",
+            "description": "The old gods stir, and rise once more to greet their sun -- but she is slain, devoured by the daughters of the eclipse. On this lightless day they will rage, and quake, and howl, so all men shall know their first and final doom.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/143006.jpg",
             "chromas": null
           }
         ]
@@ -35524,7 +35670,7 @@
         "id": 3380,
         "title": "Space Food Zac Icon",
         "description": "Earned by participating in the 2018 Cosmonautics Day event (region exclusive). ",
-        "set": "Special Events",
+        "set": "Space Day",
         "yearReleased": 2018,
         "rarity": "kRare",
         "isLegacy": false,
@@ -35534,7 +35680,7 @@
         "id": 3381,
         "title": "Space Day Nautilus Icon",
         "description": "Earned by participating in the 2018 Cosmonautics Day event (region exclusive). ",
-        "set": "Special Events",
+        "set": "Space Day",
         "yearReleased": 2018,
         "rarity": "kRare",
         "isLegacy": false,
@@ -46081,7 +46227,7 @@
         "id": 4532,
         "title": "Furyhorn Cosplay Veigar Icon",
         "description": "This icon was released in the store for purchase in 2020.",
-        "set": null,
+        "set": "April Fools",
         "yearReleased": 2020,
         "isLegacy": false,
         "imagePath": "/assets/icons/4532.jpg"
@@ -46090,7 +46236,7 @@
         "id": 4533,
         "title": "Pengu Cosplay Tristana Icon",
         "description": "This icon was released in the store for purchase in 2020.",
-        "set": null,
+        "set": "April Fools",
         "yearReleased": 2020,
         "isLegacy": false,
         "imagePath": "/assets/icons/4533.jpg"
@@ -46099,7 +46245,7 @@
         "id": 4534,
         "title": "Pajama Guardian Cosplay Urgot Icon",
         "description": "This icon was released in the store for purchase in 2020.",
-        "set": null,
+        "set": "April Fools",
         "yearReleased": 2020,
         "isLegacy": false,
         "imagePath": "/assets/icons/4534.jpg"
@@ -46108,7 +46254,7 @@
         "id": 4535,
         "title": "Yuumi Space Day Icon",
         "description": "Earned by participating in the 2020 Cosmonautics Day event (region exclusive).",
-        "set": null,
+        "set": "Space Day",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -46118,11 +46264,61 @@
         "id": 4536,
         "title": "Diana Space Day Icon",
         "description": "Earned by participating in the 2020 Cosmonautics Day event (region exclusive).",
-        "set": null,
+        "set": "Space Day",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4536.jpg"
+      },
+      {
+        "id": 4537,
+        "title": "Coven Morgana Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4537.jpg"
+      },
+      {
+        "id": 4538,
+        "title": "Coven Zyra Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4538.jpg"
+      },
+      {
+        "id": 4539,
+        "title": "Coven LeBlanc Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4539.jpg"
+      },
+      {
+        "id": 4540,
+        "title": "Coven Zyra Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Coven Zyra skin from the 2020 Prestige Point Shop.",
+        "set": "Coven",
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4540.jpg"
+      },
+      {
+        "id": 4541,
+        "title": "Coven 2020 Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Coven",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4541.jpg"
       },
       {
         "id": 4,
