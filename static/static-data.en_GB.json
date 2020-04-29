@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.8.316.7651",
+  "version": "10.9.318.6057",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,13 +13,13 @@
   ],
   "info": {
     "champions": 148,
-    "skins": 1052,
-    "chromas": 1376,
-    "icons": 2555,
-    "emotes": 585,
+    "skins": 1057,
+    "chromas": 1381,
+    "icons": 2590,
+    "emotes": 601,
     "wards": 199,
     "tftcompanions": 383,
-    "tftmapskins": 21
+    "tftmapskins": 24
   },
   "data": {
     "champions": [
@@ -1398,7 +1398,7 @@
             "id": 7020,
             "name": "Coven LeBlanc",
             "description": "They came to LeBlanc as if in some forgotten melody -- songs of the Black Crane, and its titanic heart long-imprisoned within the deepest reaches of the Elderwood. Her sisters fell before the forest's defenders, but LeBlanc did find her prize... and now her patron has begun to wake, stirring itself from a dreamless slumber of unhallowed centuries.",
-            "rarity": "kEpic",
+            "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/7020.jpg",
             "chromas": [
@@ -8354,6 +8354,25 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 41021,
+            "name": "FPX Gangplank",
+            "description": "Honoring GimGoon's winning performance as Gangplank during the 2019 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/41021.jpg",
+            "chromas": [
+              {
+                "id": 41022,
+                "name": "FPX Gangplank",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -10316,6 +10335,25 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/54024.jpg",
             "chromas": null
+          },
+          {
+            "id": 54025,
+            "name": "FPX Malphite",
+            "description": "Honoring Doinb's winning performance as Malphite during the 2019 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/54025.jpg",
+            "chromas": [
+              {
+                "id": 54026,
+                "name": "FPX Malphite",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -12038,6 +12076,25 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/64028.jpg",
             "chromas": null
+          },
+          {
+            "id": 64029,
+            "name": "FPX Lee Sin",
+            "description": "Honoring Tian's winning performance as Lee Sin during the 2019 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/64029.jpg",
+            "chromas": [
+              {
+                "id": 64030,
+                "name": "FPX Lee Sin",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -12181,6 +12238,25 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/67013.jpg",
             "chromas": null
+          },
+          {
+            "id": 67015,
+            "name": "FPX Vayne",
+            "description": "Honoring LWX's winning performance as Vayne during the 2019 World Championship with the help of Lil'Black, Lil'Orange, Firmiana and Lil'White.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/67015.jpg",
+            "chromas": [
+              {
+                "id": 67016,
+                "name": "FPX Vayne",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -24338,6 +24414,25 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/412014.jpg",
             "chromas": null
+          },
+          {
+            "id": 412015,
+            "name": "FPX Thresh",
+            "description": "Honoring Crisp's winning performance as Thresh during the 2019 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/412015.jpg",
+            "chromas": [
+              {
+                "id": 412018,
+                "name": "FPX Thresh",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -45419,7 +45514,7 @@
         "description": "This icon was released as a bundle exclusive during the 2019 Night & Dawn event.",
         "set": "Night & Dawn",
         "yearReleased": 2019,
-        "rarity": "kMythic",
+        "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4449.jpg"
       },
@@ -46319,6 +46414,356 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4541.jpg"
+      },
+      {
+        "id": 4542,
+        "title": "FPX World Champions Merch Icon",
+        "description": "This icon was earned by making a merch purchase.",
+        "set": "eSports Teams",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4542.jpg"
+      },
+      {
+        "id": 4543,
+        "title": "FPX World Champions Golden Icon",
+        "description": "This icon was earned by making FPX skin purchases.",
+        "set": "eSports Teams",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4543.jpg"
+      },
+      {
+        "id": 4544,
+        "title": "FPX World Champions Icon",
+        "description": "This icon was released in store for purchase through RP or BE for a limited time.",
+        "set": "eSports Teams",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4544.jpg"
+      },
+      {
+        "id": 4545,
+        "title": "Mordekaiser Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4545.jpg"
+      },
+      {
+        "id": 4546,
+        "title": "Kled Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4546.jpg"
+      },
+      {
+        "id": 4547,
+        "title": "Talon Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4547.jpg"
+      },
+      {
+        "id": 4548,
+        "title": "Xayah Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4548.jpg"
+      },
+      {
+        "id": 4549,
+        "title": "Rakan Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4549.jpg"
+      },
+      {
+        "id": 4550,
+        "title": "Jhin Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4550.jpg"
+      },
+      {
+        "id": 4551,
+        "title": "Tristana Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4551.jpg"
+      },
+      {
+        "id": 4552,
+        "title": "Rumble Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4552.jpg"
+      },
+      {
+        "id": 4553,
+        "title": "Veigar Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4553.jpg"
+      },
+      {
+        "id": 4554,
+        "title": "Gnar Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4554.jpg"
+      },
+      {
+        "id": 4555,
+        "title": "Lulu Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4555.jpg"
+      },
+      {
+        "id": 4556,
+        "title": "Corki Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4556.jpg"
+      },
+      {
+        "id": 4557,
+        "title": "Heimerdinger Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4557.jpg"
+      },
+      {
+        "id": 4558,
+        "title": "Teemo Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4558.jpg"
+      },
+      {
+        "id": 4559,
+        "title": "Kennen Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4559.jpg"
+      },
+      {
+        "id": 4560,
+        "title": "Poppy Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4560.jpg"
+      },
+      {
+        "id": 4561,
+        "title": "Yuumi Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4561.jpg"
+      },
+      {
+        "id": 4562,
+        "title": "Zoe Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4562.jpg"
+      },
+      {
+        "id": 4563,
+        "title": "FPX Malphite Signature Icon",
+        "description": "Honoring Doinb's winning Malphite in the 2019 World Championship.",
+        "set": "eSports Teams",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4563.jpg"
+      },
+      {
+        "id": 4564,
+        "title": "FPX Vayne Signature Icon",
+        "description": "Honoring Lwx's winning Vayne in the 2019 World Championship.",
+        "set": "eSports Teams",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4564.jpg"
+      },
+      {
+        "id": 4565,
+        "title": "FPX Lee Sin Signature Icon",
+        "description": "Honoring Tian's winning Lee Sin in the 2019 World Championship.",
+        "set": "eSports Teams",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4565.jpg"
+      },
+      {
+        "id": 4566,
+        "title": "FPX Gangplank Signature Icon",
+        "description": "Honoring GimGoon's winning Gangplank in the 2019 World Championship.",
+        "set": "eSports Teams",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4566.jpg"
+      },
+      {
+        "id": 4567,
+        "title": "FPX Thresh Signature Icon",
+        "description": "Honoring Crisp's winning Thresh in the 2019 World Championship.",
+        "set": "eSports Teams",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4567.jpg"
+      },
+      {
+        "id": 4568,
+        "title": "Season 2020 - Split 2 Icon",
+        "description": "Earned by winning ranked games in Season 2020 - Split 2.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4568.jpg"
+      },
+      {
+        "id": 4581,
+        "title": "Little Legend Freshwater Molediver Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4581.jpg"
+      },
+      {
+        "id": 4582,
+        "title": "Little Legend Dawnglow Silverwing Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4582.jpg"
+      },
+      {
+        "id": 4583,
+        "title": "Little Legend Fireborn Hauntling Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4583.jpg"
+      },
+      {
+        "id": 4584,
+        "title": "Little Legend Hardhitter Melisma Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4584.jpg"
+      },
+      {
+        "id": 4585,
+        "title": "Little Legend Last Wish Fuwa Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4585.jpg"
+      },
+      {
+        "id": 4586,
+        "title": "Little Legend Extra Spicy Featherknight Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4586.jpg"
+      },
+      {
+        "id": 4587,
+        "title": "Little Legend Sundrop Shisa Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4587.jpg"
+      },
+      {
+        "id": 4588,
+        "title": "Little Legend Fierce Protector Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4588.jpg"
       },
       {
         "id": 4,
@@ -56688,6 +57133,102 @@
         "imagePath": "/assets/emotes/3457.png"
       },
       {
+        "id": 3458,
+        "name": "2020 - Split 2 - Iron",
+        "description": null,
+        "imagePath": "/assets/emotes/3458.png"
+      },
+      {
+        "id": 3459,
+        "name": "2020 - Split 2 - Bronze",
+        "description": null,
+        "imagePath": "/assets/emotes/3459.png"
+      },
+      {
+        "id": 3460,
+        "name": "2020 - Split 2 - Silver",
+        "description": null,
+        "imagePath": "/assets/emotes/3460.png"
+      },
+      {
+        "id": 3461,
+        "name": "2020 - Split 2 - Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3461.png"
+      },
+      {
+        "id": 3462,
+        "name": "2020 - Split 2 - Platinum",
+        "description": null,
+        "imagePath": "/assets/emotes/3462.png"
+      },
+      {
+        "id": 3463,
+        "name": "2020 - Split 2 - Diamond",
+        "description": null,
+        "imagePath": "/assets/emotes/3463.png"
+      },
+      {
+        "id": 3464,
+        "name": "2020 - Split 2 - Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3464.png"
+      },
+      {
+        "id": 3465,
+        "name": "2020 - Split 2 - Grand Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3465.png"
+      },
+      {
+        "id": 3466,
+        "name": "2020 - Split 2 - Challenger",
+        "description": null,
+        "imagePath": "/assets/emotes/3466.png"
+      },
+      {
+        "id": 3467,
+        "name": "Rise of the Elements Gold Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3467.png"
+      },
+      {
+        "id": 3468,
+        "name": "Rise of the Elements Platinum Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3468.png"
+      },
+      {
+        "id": 3469,
+        "name": "Rise of the Elements Diamond Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3469.png"
+      },
+      {
+        "id": 3470,
+        "name": "Rise of the Elements Master Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3470.png"
+      },
+      {
+        "id": 3471,
+        "name": "Rise of the Elements Grand Master Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3471.png"
+      },
+      {
+        "id": 3472,
+        "name": "Rise of the Elements Challenger Emote",
+        "description": null,
+        "imagePath": "/assets/emotes/3472.png"
+      },
+      {
+        "id": 3477,
+        "name": "Is That a Challenge?",
+        "description": null,
+        "imagePath": "/assets/emotes/3477.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -59916,6 +60457,24 @@
         "name": "Drifting Park Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/25.png"
+      },
+      {
+        "id": 21,
+        "name": "Odyssey Jinx Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/21.png"
+      },
+      {
+        "id": 23,
+        "name": "Odyssey Malphite Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/23.png"
+      },
+      {
+        "id": 22,
+        "name": "Odyssey Yasuo Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/22.png"
       }
     ]
   }
