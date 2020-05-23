@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.9.318.6057",
+  "version": "10.10.320.3039",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,11 +13,11 @@
   ],
   "info": {
     "champions": 148,
-    "skins": 1057,
-    "chromas": 1381,
-    "icons": 2590,
-    "emotes": 601,
-    "wards": 199,
+    "skins": 1062,
+    "chromas": 1408,
+    "icons": 2619,
+    "emotes": 604,
+    "wards": 200,
     "tftcompanions": 383,
     "tftmapskins": 24
   },
@@ -706,7 +706,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/4011.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 4012,
+                "name": "Pulsefire Twisted Fate",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -1398,13 +1408,13 @@
             "id": 7020,
             "name": "Coven LeBlanc",
             "description": "They came to LeBlanc as if in some forgotten melody -- songs of the Black Crane, and its titanic heart long-imprisoned within the deepest reaches of the Elderwood. Her sisters fell before the forest's defenders, but LeBlanc did find her prize... and now her patron has begun to wake, stirring itself from a dreamless slumber of unhallowed centuries.",
-            "rarity": "kNoRarity",
+            "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/7020.jpg",
             "chromas": [
               {
                 "id": 7021,
-                "name": "",
+                "name": "Coven LeBlanc",
                 "description": null,
                 "colors": [
                   "#9C68D7",
@@ -1413,7 +1423,7 @@
               },
               {
                 "id": 7022,
-                "name": "",
+                "name": "Coven LeBlanc",
                 "description": null,
                 "colors": [
                   "#27211C",
@@ -1422,7 +1432,7 @@
               },
               {
                 "id": 7023,
-                "name": "",
+                "name": "Coven LeBlanc",
                 "description": null,
                 "colors": [
                   "#6ABBEE",
@@ -1431,7 +1441,7 @@
               },
               {
                 "id": 7024,
-                "name": "",
+                "name": "Coven LeBlanc",
                 "description": null,
                 "colors": [
                   "#E58BA5",
@@ -1440,7 +1450,7 @@
               },
               {
                 "id": 7025,
-                "name": "",
+                "name": "Coven LeBlanc",
                 "description": null,
                 "colors": [
                   "#ECF9F8",
@@ -1449,7 +1459,7 @@
               },
               {
                 "id": 7026,
-                "name": "",
+                "name": "Coven LeBlanc",
                 "description": "This chroma was released as a bundle exclusive in 2020.",
                 "colors": [
                   "#D33528",
@@ -1458,7 +1468,7 @@
               },
               {
                 "id": 7027,
-                "name": "",
+                "name": "Coven LeBlanc",
                 "description": "Obtained through Influencer audience giveaways.",
                 "colors": [
                   "#2DA130",
@@ -1467,7 +1477,7 @@
               },
               {
                 "id": 7028,
-                "name": "",
+                "name": "Coven LeBlanc",
                 "description": null,
                 "colors": [
                   "#2756CE",
@@ -9738,7 +9748,17 @@
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/51011.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 51021,
+                "name": "Pulsefire Caitlyn",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              }
+            ]
           },
           {
             "id": 51013,
@@ -13477,6 +13497,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/80008.jpg",
             "chromas": null
+          },
+          {
+            "id": 80016,
+            "name": "Pulsefire Pantheon",
+            "description": "The sole survivor from a timeline devoured by Praetorians, Pantheon refused to succumb when the marauders ran him through and left him for dead. He now dons the Pulsefire suit to hunt down those who would dare risk creating the anomalies that unleash the robotic hordes upon time and space.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/80016.jpg",
+            "chromas": [
+              {
+                "id": 80017,
+                "name": "Pulsefire Pantheon",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 80018,
+                "name": "Pulsefire Pantheon",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 80019,
+                "name": "Pulsefire Pantheon",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 80020,
+                "name": "Pulsefire Pantheon",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 80021,
+                "name": "Pulsefire Pantheon",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 80022,
+                "name": "Pulsefire Pantheon",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              },
+              {
+                "id": 80023,
+                "name": "Pulsefire Pantheon",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 80024,
+                "name": "Pulsefire Pantheon",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -15463,7 +15565,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92018.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 92025,
+                "name": "Pulsefire Riven",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              }
+            ]
           },
           {
             "id": 92020,
@@ -15829,7 +15941,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/98015.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 98031,
+                "name": "Pulsefire Shen",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#000000",
+                  "#000000"
+                ]
+              }
+            ]
           },
           {
             "id": 98016,
@@ -18176,6 +18298,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/114031.jpg",
             "chromas": null
+          },
+          {
+            "id": 114041,
+            "name": "Pulsefire Fiora",
+            "description": "Fiora joined the Chrono-Enforcers at a young age under the tutelage of her father. When a conflict with a temporal fugitive left him disgraced, her future was thrown into doubt, but Fiora endured. Now, despite having reclaimed her family's reputation, and forged herself into an utter paragon of the Chrono-Enforcers, recent revelations have cast her into doubt once more, but this time about the Remembrancer's true purpose...",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/114041.jpg",
+            "chromas": [
+              {
+                "id": 114042,
+                "name": "Pulsefire Fiora",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 114043,
+                "name": "Pulsefire Fiora",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 114044,
+                "name": "Pulsefire Fiora",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 114045,
+                "name": "Pulsefire Fiora",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 114046,
+                "name": "Pulsefire Fiora",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 114047,
+                "name": "Pulsefire Fiora",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 114048,
+                "name": "Pulsefire Fiora",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 114049,
+                "name": "Pulsefire Fiora",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -22813,6 +23017,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 236018,
+            "name": "Pulsefire Lucian",
+            "description": "A dedicated chrono-enforcer, Lucian joined the Remembrancers when he lost his wife, Senna, in an errant Praetorian attack. Now, he searches for her while bringing justice to the reckless time travelers who would cavalierly tear holes in space-time.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/236018.jpg",
+            "chromas": null
+          },
+          {
+            "id": 236019,
+            "name": "Pulsefire Lucian Prestige Edition",
+            "description": "Through his work in bringing their opponents to justice, Lucian earned the personal attention and gratitude of Thresh, leader of the Remembrancers. Armed with special modifications to his Pulsefire suit, Lucian embarks on his relentless pursuit across timelines. Through it all, however, he can't shake the feeling that this upgrade isn't all it seems...",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/236019.jpg",
+            "chromas": null
           }
         ]
       },
@@ -23332,6 +23554,79 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 245028,
+            "name": "Pulsefire Ekko",
+            "description": "A time fugitive who built his Pulsefire suit from scratch, Ekko improved on the Remembrancers' technology, crafting a modified Chronobreak device that allows him to make short temporal jumps, create time breaks within a singular timeline, and to collapse them all into a single, anomaly-free singularity.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/245028.jpg",
+            "chromas": [
+              {
+                "id": 245029,
+                "name": "Pulsefire Ekko",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 245030,
+                "name": "Pulsefire Ekko",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 245031,
+                "name": "Pulsefire Ekko",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 245032,
+                "name": "Pulsefire Ekko",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 245033,
+                "name": "Pulsefire Ekko",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              },
+              {
+                "id": 245034,
+                "name": "Pulsefire Ekko",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 245035,
+                "name": "Pulsefire Ekko",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
                 ]
               }
             ]
@@ -46686,6 +46981,126 @@
         "imagePath": "/assets/icons/4568.jpg"
       },
       {
+        "id": 4569,
+        "title": "Rose Quartz Fluft Icon",
+        "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4569.jpg"
+      },
+      {
+        "id": 4570,
+        "title": "Sapphire Fluft Icon",
+        "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4570.jpg"
+      },
+      {
+        "id": 4571,
+        "title": "Catseye Fluft Icon",
+        "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4571.jpg"
+      },
+      {
+        "id": 4572,
+        "title": "Obsidian Fluft Icon",
+        "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4572.jpg"
+      },
+      {
+        "id": 4573,
+        "title": "Tanzanite Fluft Icon",
+        "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4573.jpg"
+      },
+      {
+        "id": 4574,
+        "title": "Citrine Fluft Icon",
+        "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4574.jpg"
+      },
+      {
+        "id": 4575,
+        "title": "Pulsefire Lucian Prestige Edition Icon",
+        "description": "This icon was acquired through Loot during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4575.jpg"
+      },
+      {
+        "id": 4576,
+        "title": "2020 Pulsefire Icon",
+        "description": "This icon was an exclusive reward from the 2020 Pulsefire Event Pass.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4576.jpg"
+      },
+      {
+        "id": 4577,
+        "title": "Pulsefire Fiora Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4577.jpg"
+      },
+      {
+        "id": 4578,
+        "title": "Pulsefire Lucian Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4578.jpg"
+      },
+      {
+        "id": 4579,
+        "title": "Pulsefire Ekko Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4579.jpg"
+      },
+      {
+        "id": 4580,
+        "title": "Pulsefire Pantheon Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4580.jpg"
+      },
+      {
         "id": 4581,
         "title": "Little Legend Freshwater Molediver Icon",
         "description": null,
@@ -46764,6 +47179,176 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4588.jpg"
+      },
+      {
+        "id": 4589,
+        "title": "Pulsefire Core Icon",
+        "description": "This icon was earned through missions during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4589.jpg"
+      },
+      {
+        "id": 4590,
+        "title": "Pulsefire 2020 Event Prestige Points Icon",
+        "description": "This icon was acquired through Loot during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4590.jpg"
+      },
+      {
+        "id": 4591,
+        "title": "Pulsefire Pantheon Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4591.jpg"
+      },
+      {
+        "id": 4592,
+        "title": "Pulsefire Fiora Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4592.jpg"
+      },
+      {
+        "id": 4593,
+        "title": "Pulsefire Ekko Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4593.jpg"
+      },
+      {
+        "id": 4594,
+        "title": "Pulsefire Caitlyn Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4594.jpg"
+      },
+      {
+        "id": 4595,
+        "title": "Pulsefire Riven Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4595.jpg"
+      },
+      {
+        "id": 4596,
+        "title": "Pulsefire Twisted Fate Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4596.jpg"
+      },
+      {
+        "id": 4597,
+        "title": "Pulsefire Shen Chroma Icon",
+        "description": "This icon was acquired through Loot during the 2020 Pulsefire event.",
+        "set": "Pulsefire",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4597.jpg"
+      },
+      {
+        "id": 4598,
+        "title": "Little Legend Tidepool Paddlemar Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4598.jpg"
+      },
+      {
+        "id": 4599,
+        "title": "Little Legend Pop Queen Ossia Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4599.jpg"
+      },
+      {
+        "id": 4600,
+        "title": "Little Legend Toxic Molediver Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4600.jpg"
+      },
+      {
+        "id": 4601,
+        "title": "Little Legend Eclipse Fuwa Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4601.jpg"
+      },
+      {
+        "id": 4602,
+        "title": "Little Legend Beatmaker Melisma Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4602.jpg"
+      },
+      {
+        "id": 4603,
+        "title": "Little Legend Lemondrop Dango Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4603.jpg"
+      },
+      {
+        "id": 4604,
+        "title": "Little Legend Willowbark Furyhorn Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4604.jpg"
+      },
+      {
+        "id": 4605,
+        "title": "Little Legend Untamed Hushtail Icon",
+        "description": null,
+        "set": "Little Legends",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4605.jpg"
       },
       {
         "id": 4,
@@ -53655,6 +54240,16 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/wards/198.png"
+      },
+      {
+        "id": 199,
+        "name": "2020 Pulsefire Ward",
+        "defaultDescription": null,
+        "description": "This ward was released during the 2020 Pulsefire event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/199.png"
       }
     ],
     "emotes": [
@@ -57221,6 +57816,24 @@
         "name": "Rise of the Elements Challenger Emote",
         "description": null,
         "imagePath": "/assets/emotes/3472.png"
+      },
+      {
+        "id": 3473,
+        "name": "Outta Time!",
+        "description": null,
+        "imagePath": "/assets/emotes/3473.png"
+      },
+      {
+        "id": 3474,
+        "name": "Animated I See...",
+        "description": null,
+        "imagePath": "/assets/emotes/3474.png"
+      },
+      {
+        "id": 3475,
+        "name": "Rise!",
+        "description": null,
+        "imagePath": "/assets/emotes/3475.png"
       },
       {
         "id": 3477,
