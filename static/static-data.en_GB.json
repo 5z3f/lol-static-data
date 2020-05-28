@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.10.320.3039",
+  "version": "10.11.322.2991",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,10 +13,10 @@
   ],
   "info": {
     "champions": 148,
-    "skins": 1062,
-    "chromas": 1408,
-    "icons": 2619,
-    "emotes": 604,
+    "skins": 1066,
+    "chromas": 1433,
+    "icons": 2629,
+    "emotes": 605,
     "wards": 200,
     "tftcompanions": 383,
     "tftmapskins": 24
@@ -3507,7 +3507,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/17004.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 17026,
+                "name": "Astronaut Teemo",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              }
+            ]
           },
           {
             "id": 17005,
@@ -4113,6 +4123,15 @@
                 "colors": [
                   "#2756CE",
                   "#2756CE"
+                ]
+              },
+              {
+                "id": 19025,
+                "name": "Grey Warwick",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
                 ]
               }
             ]
@@ -6062,6 +6081,15 @@
                 "colors": [
                   "#2756CE",
                   "#2756CE"
+                ]
+              },
+              {
+                "id": 29023,
+                "name": "Medieval Twitch",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
                 ]
               }
             ]
@@ -13221,6 +13249,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/78015.jpg",
             "chromas": null
+          },
+          {
+            "id": 78016,
+            "name": "Astronaut Poppy",
+            "description": "Commencing countdown, engines on. Check ignition, keep the Hammer safe with you...",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/78016.jpg",
+            "chromas": [
+              {
+                "id": 78017,
+                "name": "Astronaut Poppy",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 78018,
+                "name": "Astronaut Poppy",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 78019,
+                "name": "Astronaut Poppy",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 78020,
+                "name": "Astronaut Poppy",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 78021,
+                "name": "Astronaut Poppy",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 78022,
+                "name": "Astronaut Poppy",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 78023,
+                "name": "Astronaut Poppy",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -13572,7 +13673,7 @@
               {
                 "id": 80024,
                 "name": "Pulsefire Pantheon",
-                "description": "Obtained through Influencer audience giveaways.",
+                "description": null,
                 "colors": [
                   "#2DA130",
                   "#2DA130"
@@ -17174,10 +17275,10 @@
         "id": 106,
         "name": "Volibear",
         "alias": "Volibear",
-        "title": "the Thunder's Roar",
+        "title": "the Relentless Storm",
         "releaseDate": "2011-11-29",
         "associatedFactionSlug": "freljord",
-        "shortBio": "The thunderous demigod known as the Thousand-Pierced Bear is the battle-spirit of the Freljord. Thousands of years of constant and bitter wars, fought in the coldest winters, have hardened Volibear into a truly indomitable force, hurling bolts of lightning from the highest peaks—and when snowy tempests rage down, it can only mean that he is on the attack once more. Any who dare to face him may find themselves joining his fierce army of Ursine warriors… assuming they do not fall victim to his savage claws.",
+        "shortBio": "To those who still revere him, the Volibear is the storm made manifest. Destructive, wild, and stubbornly resolute, he existed before mortals walked the Freljord's tundra, and is fiercely protective of the lands that he and his demi-god kin created. Cultivating a deep hatred of civilization and the weakness it brought with it, he now fights to return to the old ways—when the land was untamed, and blood spilled freely—and eagerly battles all who oppose him, with tooth, claw, and thundering domination.",
         "squarePortraitPath": "/assets/champions/portraits/106.png",
         "roles": [
           "fighter",
@@ -17236,6 +17337,15 @@
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/106005.jpg",
+            "chromas": null
+          },
+          {
+            "id": 106006,
+            "name": "The Thousand-Pierced Bear",
+            "description": "Ancient Freljordian legends speak of spirit walkers consumed by the true spirit of the unrelenting bear—a force older than the Freljord itself. Those who dare to invoke its name cannot fathom the terrible, primal power they call down upon themselves.",
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/106006.jpg",
             "chromas": null
           }
         ]
@@ -17741,7 +17851,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/111003.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 111008,
+                "name": "AstroNautilus",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              }
+            ]
           },
           {
             "id": 111004,
@@ -21217,6 +21337,70 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/150014.jpg",
             "chromas": null
+          },
+          {
+            "id": 150015,
+            "name": "Astronaut Gnar",
+            "description": "Gnar knew he should be focusing on the mission at hand, but the strange little creatures he encountered on the planet's surface captivated his attention (and kept his wrath at bay… for now).",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/150015.jpg",
+            "chromas": [
+              {
+                "id": 150016,
+                "name": "Astronaut Gnar",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 150017,
+                "name": "Astronaut Gnar",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 150018,
+                "name": "Astronaut Gnar",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 150019,
+                "name": "Astronaut Gnar",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 150020,
+                "name": "Astronaut Gnar",
+                "description": null,
+                "colors": [
+                  "#85827F",
+                  "#85827F"
+                ]
+              },
+              {
+                "id": 150021,
+                "name": "Astronaut Gnar",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -23614,7 +23798,7 @@
               {
                 "id": 245034,
                 "name": "Pulsefire Ekko",
-                "description": "Obtained through Influencer audience giveaways.",
+                "description": null,
                 "colors": [
                   "#2DA130",
                   "#2DA130"
@@ -25272,6 +25456,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/432006.jpg",
             "chromas": null
+          },
+          {
+            "id": 432008,
+            "name": "Astronaut Bard",
+            "description": "In space, no one can hear you chime.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/432008.jpg",
+            "chromas": [
+              {
+                "id": 432009,
+                "name": "Astronaut Bard",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 432010,
+                "name": "Astronaut Bard",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 432011,
+                "name": "Astronaut Bard",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 432012,
+                "name": "Astronaut Bard",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 432013,
+                "name": "Astronaut Bard",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 432014,
+                "name": "Astronaut Bard",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 432015,
+                "name": "Astronaut Bard",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 432016,
+                "name": "Astronaut Bard",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event.",
+                "colors": [
+                  "#162D57",
+                  "#A50031"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -32080,7 +32346,7 @@
         "id": 1630,
         "title": "Astronaut Teemo Icon",
         "description": "Earned by participating in the 2017 Cosmonautics Day event (Russia region exclusive) or purchased in other regions.",
-        "set": "Special Events",
+        "set": "Astronauts",
         "yearReleased": 2017,
         "rarity": "kRare",
         "isLegacy": false,
@@ -32090,7 +32356,7 @@
         "id": 1631,
         "title": "Bardnik Icon",
         "description": "Earned by participating in the 2017 Cosmonautics Day event (Russia region exclusive) or purchased in other regions.",
-        "set": "Special Events",
+        "set": "Astronauts",
         "yearReleased": 2017,
         "rarity": "kRare",
         "isLegacy": false,
@@ -36059,8 +36325,8 @@
       {
         "id": 3380,
         "title": "Space Food Zac Icon",
-        "description": "Earned by participating in the 2018 Cosmonautics Day event (region exclusive). ",
-        "set": "Space Day",
+        "description": "Earned by participating in the 2018 Cosmonautics Day event (region exclusive), or purchased in other regions.",
+        "set": "Astronauts",
         "yearReleased": 2018,
         "rarity": "kRare",
         "isLegacy": false,
@@ -36069,8 +36335,8 @@
       {
         "id": 3381,
         "title": "Space Day Nautilus Icon",
-        "description": "Earned by participating in the 2018 Cosmonautics Day event (region exclusive). ",
-        "set": "Space Day",
+        "description": "Earned by participating in the 2018 Cosmonautics Day event (region exclusive), or purchased in other regions.",
+        "set": "Astronauts",
         "yearReleased": 2018,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42456,8 +42722,8 @@
       {
         "id": 4081,
         "title": "Poronaut Icon",
-        "description": "Earned by participating in the 2019 Cosmonautics Day event (region exclusive).",
-        "set": null,
+        "description": "Earned by participating in the 2019 Cosmonautics Day event (region exclusive), or purchased in other regions.",
+        "set": "Astronauts",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -42466,8 +42732,8 @@
       {
         "id": 4082,
         "title": "Full Of Stars Icon",
-        "description": "Earned by participating in the 2019 Cosmonautics Day event (region exclusive).",
-        "set": null,
+        "description": "Earned by participating in the 2019 Cosmonautics Day event (region exclusive), or purchased in other regions.",
+        "set": "Astronauts",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -46643,8 +46909,8 @@
       {
         "id": 4535,
         "title": "Yuumi Space Day Icon",
-        "description": "Earned by participating in the 2020 Cosmonautics Day event (region exclusive).",
-        "set": "Space Day",
+        "description": "Earned by participating in the 2020 Cosmonautics Day event (region exclusive) or purchased in other regions.",
+        "set": "Astronauts",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -46653,8 +46919,8 @@
       {
         "id": 4536,
         "title": "Diana Space Day Icon",
-        "description": "Earned by participating in the 2020 Cosmonautics Day event (region exclusive).",
-        "set": "Space Day",
+        "description": "Earned by participating in the 2020 Cosmonautics Day event (region exclusive) or purchased in other regions.",
+        "set": "Astronauts",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -46723,7 +46989,7 @@
       {
         "id": 4543,
         "title": "FPX World Champions Golden Icon",
-        "description": "This icon was earned by making FPX skin purchases.",
+        "description": "This icon was earned by purchasing FPX Signature Edition Set.",
         "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -47349,6 +47615,106 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4605.jpg"
+      },
+      {
+        "id": 4606,
+        "title": "Grey Warwick Rose Quartz Chroma Icon",
+        "description": "Earned by reaching Honor 5.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4606.jpg"
+      },
+      {
+        "id": 4607,
+        "title": "Medieval Twitch Amethyst Chroma Icon",
+        "description": "Earned by reaching Honor 5.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4607.jpg"
+      },
+      {
+        "id": 4608,
+        "title": "Astronaut Gnar Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Pulsefire event.",
+        "set": "Astronauts",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4608.jpg"
+      },
+      {
+        "id": 4609,
+        "title": "Astronaut Poppy Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Pulsefire event.",
+        "set": "Astronauts",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4609.jpg"
+      },
+      {
+        "id": 4610,
+        "title": "Astronaut Bard Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Pulsefire event.",
+        "set": "Astronauts",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4610.jpg"
+      },
+      {
+        "id": 4611,
+        "title": "Astronaut Gnar Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Pulsefire event.",
+        "set": "Astronauts",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4611.jpg"
+      },
+      {
+        "id": 4612,
+        "title": "Astronaut Poppy Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Pulsefire event.",
+        "set": "Astronauts",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4612.jpg"
+      },
+      {
+        "id": 4613,
+        "title": "Astronaut Bard Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Pulsefire event.",
+        "set": "Astronauts",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4613.jpg"
+      },
+      {
+        "id": 4614,
+        "title": "Astronaut Teemo Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Pulsefire event.",
+        "set": "Astronauts",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4614.jpg"
+      },
+      {
+        "id": 4615,
+        "title": "Astronautilus Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Pulsefire event.",
+        "set": "Astronauts",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4615.jpg"
       },
       {
         "id": 4,
@@ -57834,6 +58200,12 @@
         "name": "Rise!",
         "description": null,
         "imagePath": "/assets/emotes/3475.png"
+      },
+      {
+        "id": 3476,
+        "name": "It Was Me!",
+        "description": null,
+        "imagePath": "/assets/emotes/3476.png"
       },
       {
         "id": 3477,
