@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.11.322.2991",
+  "version": "10.13.326.4870",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,13 +13,13 @@
   ],
   "info": {
     "champions": 148,
-    "skins": 1066,
-    "chromas": 1433,
-    "icons": 2629,
-    "emotes": 605,
+    "skins": 1074,
+    "chromas": 1528,
+    "icons": 2640,
+    "emotes": 615,
     "wards": 200,
-    "tftcompanions": 383,
-    "tftmapskins": 24
+    "tftcompanions": 443,
+    "tftmapskins": 26
   },
   "data": {
     "champions": [
@@ -1742,7 +1742,80 @@
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/9003.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 9019,
+                "name": "Bandito Fiddlesticks",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 9020,
+                "name": "Bandito Fiddlesticks",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 9021,
+                "name": "Bandito Fiddlesticks",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 9022,
+                "name": "Bandito Fiddlesticks",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 9023,
+                "name": "Bandito Fiddlesticks",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 9024,
+                "name": "Bandito Fiddlesticks",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 9025,
+                "name": "Bandito Fiddlesticks",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 9026,
+                "name": "Bandito Fiddlesticks",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              }
+            ]
           },
           {
             "id": 9004,
@@ -4586,7 +4659,7 @@
           },
           {
             "id": 21006,
-            "name": "Mafia Miss Fortune",
+            "name": "Crime City Miss Fortune",
             "description": "A former gun for hire, Miss Sarah Fortune has recently spun up her own criminal cartel, with a hand in everything from arms smuggling to protection rackets. Having destabilized the relationship between Twitch and Graves, she now seeks to cement her empire before they get wise to her ambitions.",
             "rarity": "kNoRarity",
             "isLegacy": false,
@@ -6096,7 +6169,7 @@
           },
           {
             "id": 29004,
-            "name": "Gangster Twitch",
+            "name": "Crime City Twitch",
             "description": "Deeply violent and severely paranoid, Twitch runs one of the largest crime syndicates in the nation. His orders are carried out by a literal army of rat-men, the only creatures he even comes close to trusting.",
             "rarity": "kNoRarity",
             "isLegacy": false,
@@ -7924,6 +7997,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/39017.jpg",
             "chromas": null
+          },
+          {
+            "id": 39018,
+            "name": "High Noon Irelia",
+            "description": "A fallen angel who escaped the destruction of Heaven, now tainted by ineffable darkness. Irelia has spent years in hiding, thus her return alongside a newly resurrected Senna attests to the presence of powers who would see the heavenly kingdom restored… perhaps for the continued benefit of man, or perhaps for their final damnation.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/39018.jpg",
+            "chromas": [
+              {
+                "id": 39019,
+                "name": "High Noon Irelia",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 39020,
+                "name": "High Noon Irelia",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 39021,
+                "name": "High Noon Irelia",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 39022,
+                "name": "High Noon Irelia",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 39023,
+                "name": "High Noon Irelia",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 39024,
+                "name": "High Noon Irelia",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 39025,
+                "name": "High Noon Irelia",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -10843,6 +10989,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 56016,
+            "name": "Hextech Nocturne",
+            "description": "Not every part of the Hextech renaissance led to bright innovations. A clandestine experiment to fuse Hextech with demonic energies wrought a living nightmare, a predator rumored to stalk the streets and back alleyways of the city. Authorities report that any such creation would have been terminated along with any such project, and that any missing persons reports are, of course, completely unrelated.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/56016.jpg",
+            "chromas": null
           }
         ]
       },
@@ -11422,7 +11577,7 @@
           {
             "id": 59007,
             "name": "Dark Star Jarvan IV",
-            "description": "A mortal emperor unbound by the destruction of his world, Jarvan's essence has since been reforged by the ageless energies of deep space. His humanity and his people now lost forever, he stands ready to welcome the Dark Star incursion, in the final subjugation of all existence.",
+            "description": "For Jarvan, there's nothing more relaxing than hanging out at the beach. No kingdoms to run, no thrones to sit on (save for his favorite beach chair), just the sound of the waves and, if he listens closely, the faint whistle of a volleyball being spiked directly at him...",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/59007.jpg",
@@ -11455,6 +11610,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/59009.jpg",
             "chromas": null
+          },
+          {
+            "id": 59011,
+            "name": "Pool Party Jarvan IV",
+            "description": "For Jarvan, there's nothing more relaxing than hanging out at the beach. No kingdoms to run, no thrones to sit on (save for his favorite beach chair), just the sound of the waves and, if he listens closely, the faint whistle of a volleyball being spiked directly at him...",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/59011.jpg",
+            "chromas": [
+              {
+                "id": 59013,
+                "name": "Pool Party Jarvan IV",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 59014,
+                "name": "Pool Party Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 59015,
+                "name": "Pool Party Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 59016,
+                "name": "Pool Party Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 59017,
+                "name": "Pool Party Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 59018,
+                "name": "Pool Party Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 59019,
+                "name": "Pool Party Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 59020,
+                "name": "Pool Party Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -11648,6 +11885,79 @@
                 "colors": [
                   "#B6E084",
                   "#B6E084"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 61011,
+            "name": "Pool Party Orianna",
+            "description": "With her latest outfit, Orianna is finally able to submerge completely in aquatic biomes. This brings her great joy, as a day at the beach previously required subsequent weeks of scrubbing salt, sand, and sometimes an angry crab out of her gears.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/61011.jpg",
+            "chromas": [
+              {
+                "id": 61013,
+                "name": "Pool Party Orianna",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 61014,
+                "name": "Pool Party Orianna",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 61015,
+                "name": "Pool Party Orianna",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 61016,
+                "name": "Pool Party Orianna",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 61017,
+                "name": "Pool Party Orianna",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 61018,
+                "name": "Pool Party Orianna",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 61019,
+                "name": "Pool Party Orianna",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -12676,6 +12986,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/74006.jpg",
             "chromas": null
+          },
+          {
+            "id": 74015,
+            "name": "Pool Party Heimerdinger",
+            "description": "Through the combination of precise schematics and top-of-the-line construction tools, Heimerdinger's next sand castle creation will be his grandest iteration yet! Assuming Syndra doesn't land on it again…",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/74015.jpg",
+            "chromas": [
+              {
+                "id": 74016,
+                "name": "Pool Party Heimerdinger",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 74017,
+                "name": "Pool Party Heimerdinger",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 74018,
+                "name": "Pool Party Heimerdinger",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 74019,
+                "name": "Pool Party Heimerdinger",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 74020,
+                "name": "Pool Party Heimerdinger",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 74021,
+                "name": "Pool Party Heimerdinger",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 74022,
+                "name": "Pool Party Heimerdinger",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 74023,
+                "name": "Pool Party Heimerdinger",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -14212,7 +14604,80 @@
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/84004.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 84033,
+                "name": "Nurse Akali",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 84034,
+                "name": "Nurse Akali",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 84035,
+                "name": "Nurse Akali",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 84036,
+                "name": "Nurse Akali",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 84037,
+                "name": "Nurse Akali",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 84038,
+                "name": "Nurse Akali",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 84039,
+                "name": "Nurse Akali",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 84040,
+                "name": "Nurse Akali",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           },
           {
             "id": 84005,
@@ -14519,7 +14984,80 @@
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/85004.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 85009,
+                "name": "Kennen M.D.",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 85010,
+                "name": "Kennen M.D.",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 85011,
+                "name": "Kennen M.D.",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 85012,
+                "name": "Kennen M.D.",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 85013,
+                "name": "Kennen M.D.",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 85014,
+                "name": "Kennen M.D.",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 85015,
+                "name": "Kennen M.D.",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 85016,
+                "name": "Kennen M.D.",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           },
           {
             "id": 85005,
@@ -15933,7 +16471,80 @@
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/98003.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 98023,
+                "name": "Surgeon Shen",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 98024,
+                "name": "Surgeon Shen",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 98025,
+                "name": "Surgeon Shen",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 98026,
+                "name": "Surgeon Shen",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 98027,
+                "name": "Surgeon Shen",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 98028,
+                "name": "Surgeon Shen",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 98029,
+                "name": "Surgeon Shen",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 98030,
+                "name": "Surgeon Shen",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           },
           {
             "id": 98004,
@@ -16816,7 +17427,7 @@
           },
           {
             "id": 104003,
-            "name": "Mafia Graves",
+            "name": "Crime City Graves",
             "description": "Cool, calm, and collected, Malcolm Graves is head of the notorious Graves crime family—and the only non-rat that Twitch will trust. Recent moves in the criminal underworld have put his alliance with the rat-men on shaky ground, and he's keen to find out why.",
             "rarity": "kNoRarity",
             "isLegacy": false,
@@ -20562,6 +21173,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/134006.jpg",
             "chromas": null
+          },
+          {
+            "id": 134007,
+            "name": "Pool Party Syndra",
+            "description": "Now that Syndra's aced all her opponents, it's time for her final test: prevent any rogue volleyballs from hitting her friends. Again.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/134007.jpg",
+            "chromas": [
+              {
+                "id": 134008,
+                "name": "Pool Party Syndra",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 134009,
+                "name": "Pool Party Syndra",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 134010,
+                "name": "Pool Party Syndra",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 134011,
+                "name": "Pool Party Syndra",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 134012,
+                "name": "Pool Party Syndra",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 134013,
+                "name": "Pool Party Syndra",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 134014,
+                "name": "Pool Party Syndra",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 134015,
+                "name": "Pool Party Syndra",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21911,6 +22604,79 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/163002.jpg",
             "chromas": null
+          },
+          {
+            "id": 163003,
+            "name": "Pool Party Taliyah",
+            "description": "Taliyah once attempted to describe surfboarding to a perplexed Jarvan, using such terms as “get pitted”, “tubular”, and “ride the barrel”. She's pretty sure he still has no idea what she was talking about.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/163003.jpg",
+            "chromas": [
+              {
+                "id": 163004,
+                "name": "Pool Party Taliyah",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 163005,
+                "name": "Pool Party Taliyah",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 163006,
+                "name": "Pool Party Taliyah",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 163007,
+                "name": "Pool Party Taliyah",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 163008,
+                "name": "Pool Party Taliyah",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 163009,
+                "name": "Pool Party Taliyah",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 163010,
+                "name": "Pool Party Taliyah",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -22182,7 +22948,7 @@
           },
           {
             "id": 201011,
-            "name": "Mafia Braum",
+            "name": "Crime City Braum",
             "description": "Miss Fortune's body man is an unnervingly pleasant gentleman by the name of 'Bank Vault' Braum, whose alias was earned ripping the wall off a maximum security gold depository. He is accompanied by a small cadre of gun-toting poros, who love nothing more than belly rubs and murder.",
             "rarity": "kEpic",
             "isLegacy": false,
@@ -22190,7 +22956,7 @@
             "chromas": [
               {
                 "id": 201012,
-                "name": "Mafia Braum",
+                "name": "Crime City Braum",
                 "description": "This chroma was released as a bundle exclusive during 2018.",
                 "colors": [
                   "#D33528",
@@ -22199,7 +22965,7 @@
               },
               {
                 "id": 201013,
-                "name": "Mafia Braum",
+                "name": "Crime City Braum",
                 "description": null,
                 "colors": [
                   "#DF9117",
@@ -22208,7 +22974,7 @@
               },
               {
                 "id": 201014,
-                "name": "Mafia Braum",
+                "name": "Crime City Braum",
                 "description": null,
                 "colors": [
                   "#54209B",
@@ -22217,7 +22983,7 @@
               },
               {
                 "id": 201015,
-                "name": "Mafia Braum",
+                "name": "Crime City Braum",
                 "description": null,
                 "colors": [
                   "#27211C",
@@ -22226,7 +22992,7 @@
               },
               {
                 "id": 201016,
-                "name": "Mafia Braum",
+                "name": "Crime City Braum",
                 "description": null,
                 "colors": [
                   "#2DA130",
@@ -22235,7 +23001,7 @@
               },
               {
                 "id": 201017,
-                "name": "Mafia Braum",
+                "name": "Crime City Braum",
                 "description": null,
                 "colors": [
                   "#E58BA5",
@@ -22244,7 +23010,7 @@
               },
               {
                 "id": 201018,
-                "name": "Mafia Braum",
+                "name": "Crime City Braum",
                 "description": null,
                 "colors": [
                   "#ECF9F8",
@@ -22253,7 +23019,7 @@
               },
               {
                 "id": 201019,
-                "name": "Mafia Braum",
+                "name": "Crime City Braum",
                 "description": null,
                 "colors": [
                   "#DED6B0",
@@ -22376,7 +23142,80 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/202001.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 202006,
+                "name": "High Noon Jhin",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 202007,
+                "name": "High Noon Jhin",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 202008,
+                "name": "High Noon Jhin",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 202009,
+                "name": "High Noon Jhin",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 202010,
+                "name": "High Noon Jhin",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 202011,
+                "name": "High Noon Jhin",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 202012,
+                "name": "High Noon Jhin",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 202013,
+                "name": "High Noon Jhin",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           },
           {
             "id": 202002,
@@ -22482,7 +23321,7 @@
           },
           {
             "id": 222001,
-            "name": "Mafia Jinx",
+            "name": "Crime City Jinx",
             "description": "Known by state police as “La Principessa,” Jinx is an unhinged hitwoman with loose ties to the Graves crime family. Sent into rival businesses as a figurative time bomb, the slightest offense will trigger one of her jubilant rampages, with body counts as high as the ceiling.",
             "rarity": "kNoRarity",
             "isLegacy": false,
@@ -23021,6 +23860,61 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/235009.jpg",
             "chromas": null
+          },
+          {
+            "id": 235010,
+            "name": "High Noon Senna",
+            "description": "Once the greatest gunslinger on the continent, Senna's life would have ended when her heart was torn out by the devil—save for the intervention of a higher authority. Mysteriously resurrected with the heart of an angel and a demonic steed, she has returned to the west to restore the balance of Heaven and Hell... however she sees fit.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/235010.jpg",
+            "chromas": [
+              {
+                "id": 235011,
+                "name": "High Noon Senna",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 235012,
+                "name": "High Noon Senna",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 235013,
+                "name": "High Noon Senna",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 235014,
+                "name": "High Noon Senna",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 235015,
+                "name": "High Noon Senna",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -23127,7 +24021,53 @@
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/236008.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 236020,
+                "name": "High Noon Lucian",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 236021,
+                "name": "High Noon Lucian",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 236022,
+                "name": "High Noon Lucian",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 236023,
+                "name": "High Noon Lucian",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 236024,
+                "name": "High Noon Lucian",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           },
           {
             "id": 236009,
@@ -47717,6 +48657,116 @@
         "imagePath": "/assets/icons/4615.jpg"
       },
       {
+        "id": 4616,
+        "title": "High Noon Senna Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 High Noon event.",
+        "set": "High Noon",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4616.jpg"
+      },
+      {
+        "id": 4617,
+        "title": "High Noon Irelia Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 High Noon event.",
+        "set": "High Noon",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4617.jpg"
+      },
+      {
+        "id": 4618,
+        "title": "2020 High Noon Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "High Noon",
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4618.jpg"
+      },
+      {
+        "id": 4619,
+        "title": "Nurse Akali Charity Icon",
+        "description": "This icon was acquired by supporting the 2020 COVID Charity Bundle.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4619.jpg"
+      },
+      {
+        "id": 4620,
+        "title": "Kennen, M.D. Charity Icon",
+        "description": "This icon was acquired by supporting the 2020 COVID Charity Bundle.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4620.jpg"
+      },
+      {
+        "id": 4621,
+        "title": "Surgeon Shen Charity Icon",
+        "description": "This icon was acquired by supporting the 2020 COVID Charity Bundle.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4621.jpg"
+      },
+      {
+        "id": 4622,
+        "title": "Little Legend Lightcharger Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4622.jpg"
+      },
+      {
+        "id": 4623,
+        "title": "Little Legend Nixie Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4623.jpg"
+      },
+      {
+        "id": 4624,
+        "title": "Little Legend Bellswayer Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4624.jpg"
+      },
+      {
+        "id": 4627,
+        "title": "Mega Donor Icon",
+        "description": "This icon was acquired by supporting the 2020 COVID Charity Bundle.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4627.jpg"
+      },
+      {
+        "id": 4628,
+        "title": "Donor Icon",
+        "description": "This icon was acquired by supporting the 2020 COVID Charity Bundle.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4628.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -58214,6 +59264,66 @@
         "imagePath": "/assets/emotes/3477.png"
       },
       {
+        "id": 3478,
+        "name": "Nothing Personal!",
+        "description": null,
+        "imagePath": "/assets/emotes/3478.png"
+      },
+      {
+        "id": 3479,
+        "name": "Reckon it's Time!",
+        "description": null,
+        "imagePath": "/assets/emotes/3479.png"
+      },
+      {
+        "id": 3480,
+        "name": "Not Now!",
+        "description": null,
+        "imagePath": "/assets/emotes/3480.png"
+      },
+      {
+        "id": 3481,
+        "name": "Galaxies Stage 1 Gold Squink",
+        "description": "Earned by reaching Gold tier in TFT Galaxies Stage 1",
+        "imagePath": "/assets/emotes/3481.png"
+      },
+      {
+        "id": 3482,
+        "name": "Galaxies Stage 1 Platinum Squink",
+        "description": "Earned by reaching Platinum tier in TFT Galaxies Stage 1",
+        "imagePath": "/assets/emotes/3482.png"
+      },
+      {
+        "id": 3483,
+        "name": "Galaxies Stage 1 Diamond Squink",
+        "description": "Earned by reaching Diamond tier in TFT Galaxies Stage 1",
+        "imagePath": "/assets/emotes/3483.png"
+      },
+      {
+        "id": 3484,
+        "name": "Galaxies Stage 1 Master Squink",
+        "description": "Earned by reaching Master tier in TFT Galaxies Stage 1",
+        "imagePath": "/assets/emotes/3484.png"
+      },
+      {
+        "id": 3485,
+        "name": "Galaxies Stage 1 Grandmaster Squink",
+        "description": "Earned by reaching Grand Master tier in TFT Galaxies Stage 1",
+        "imagePath": "/assets/emotes/3485.png"
+      },
+      {
+        "id": 3486,
+        "name": "Galaxies Stage 1 Challenger Squink",
+        "description": "Earned by reaching Challenger tier in TFT Galaxies Stage 1",
+        "imagePath": "/assets/emotes/3486.png"
+      },
+      {
+        "id": 3487,
+        "name": "From Akali With Love!",
+        "description": null,
+        "imagePath": "/assets/emotes/3487.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -58394,6 +59504,150 @@
         "species": "Ossia",
         "level": 3,
         "imagePath": "/assets/tftcompanions/13006.png"
+      },
+      {
+        "id": 24013,
+        "name": "Black Mist Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/24013.png"
+      },
+      {
+        "id": 24014,
+        "name": "Black Mist Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/24014.png"
+      },
+      {
+        "id": 24015,
+        "name": "Black Mist Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/24015.png"
+      },
+      {
+        "id": 24016,
+        "name": "Blood Moon Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/24016.png"
+      },
+      {
+        "id": 24017,
+        "name": "Blood Moon Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/24017.png"
+      },
+      {
+        "id": 24018,
+        "name": "Blood Moon Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/24018.png"
+      },
+      {
+        "id": 24001,
+        "name": "Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/24001.png"
+      },
+      {
+        "id": 24002,
+        "name": "Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/24002.png"
+      },
+      {
+        "id": 24003,
+        "name": "Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/24003.png"
+      },
+      {
+        "id": 24007,
+        "name": "Sugar Rush Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/24007.png"
+      },
+      {
+        "id": 24008,
+        "name": "Sugar Rush Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/24008.png"
+      },
+      {
+        "id": 24009,
+        "name": "Sugar Rush Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/24009.png"
+      },
+      {
+        "id": 24004,
+        "name": "Thunderstorm Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/24004.png"
+      },
+      {
+        "id": 24005,
+        "name": "Thunderstorm Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/24005.png"
+      },
+      {
+        "id": 24006,
+        "name": "Thunderstorm Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/24006.png"
+      },
+      {
+        "id": 24010,
+        "name": "Yuletide Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/24010.png"
+      },
+      {
+        "id": 24011,
+        "name": "Yuletide Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/24011.png"
+      },
+      {
+        "id": 24012,
+        "name": "Yuletide Bellswayer",
+        "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
+        "species": "Bellswayer",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/24012.png"
       },
       {
         "id": 17016,
@@ -58972,6 +60226,150 @@
         "imagePath": "/assets/tftcompanions/21003.png"
       },
       {
+        "id": 23016,
+        "name": "Neexie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/23016.png"
+      },
+      {
+        "id": 23017,
+        "name": "Neexie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/23017.png"
+      },
+      {
+        "id": 23018,
+        "name": "Neexie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/23018.png"
+      },
+      {
+        "id": 23001,
+        "name": "Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/23001.png"
+      },
+      {
+        "id": 23002,
+        "name": "Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/23002.png"
+      },
+      {
+        "id": 23003,
+        "name": "Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/23003.png"
+      },
+      {
+        "id": 23013,
+        "name": "Extra Spicy Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/23013.png"
+      },
+      {
+        "id": 23014,
+        "name": "Extra Spicy Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/23014.png"
+      },
+      {
+        "id": 23015,
+        "name": "Extra Spicy Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/23015.png"
+      },
+      {
+        "id": 23007,
+        "name": "Mermaid Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/23007.png"
+      },
+      {
+        "id": 23008,
+        "name": "Mermaid Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/23008.png"
+      },
+      {
+        "id": 23009,
+        "name": "Mermaid Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/23009.png"
+      },
+      {
+        "id": 23004,
+        "name": "Rosebloom Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/23004.png"
+      },
+      {
+        "id": 23005,
+        "name": "Rosebloom Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/23005.png"
+      },
+      {
+        "id": 23006,
+        "name": "Rosebloom Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/23006.png"
+      },
+      {
+        "id": 23010,
+        "name": "Vampire Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/23010.png"
+      },
+      {
+        "id": 23011,
+        "name": "Vampire Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/23011.png"
+      },
+      {
+        "id": 23012,
+        "name": "Vampire Nixie",
+        "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
+        "species": "Nixie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/23012.png"
+      },
+      {
         "id": 18010,
         "name": "Black Mist Craggle",
         "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
@@ -59524,6 +60922,38 @@
         "imagePath": "/assets/tftcompanions/2012.png"
       },
       {
+        "id": 2019,
+        "name": "Star Guardian Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/2019.png"
+      },
+      {
+        "id": 2020,
+        "name": "Star Guardian Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/2020.png"
+      },
+      {
+        "id": 2021,
+        "name": "Star Guardian Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/2021.png"
+      },
+      {
+        "id": 2022,
+        "name": "Victorious Silverwing",
+        "description": "A young Demacian Silverwing Raptor.",
+        "species": "Silverwing",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/2022.png"
+      },
+      {
         "id": 2007,
         "name": "Dawnglow Silverwing",
         "description": "A young Demacian Silverwing Raptor.",
@@ -59666,6 +61096,14 @@
         "species": "Furyhorn",
         "level": 3,
         "imagePath": "/assets/tftcompanions/3003.png"
+      },
+      {
+        "id": 3019,
+        "name": "Victorious Furyhorn",
+        "description": "A small, angry, horned beast.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3019.png"
       },
       {
         "id": 3004,
@@ -60146,6 +61584,150 @@
         "species": "Runespirit",
         "level": 3,
         "imagePath": "/assets/tftcompanions/5018.png"
+      },
+      {
+        "id": 22016,
+        "name": "Arcade Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/22016.png"
+      },
+      {
+        "id": 22017,
+        "name": "Arcade Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/22017.png"
+      },
+      {
+        "id": 22018,
+        "name": "Arcade Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/22018.png"
+      },
+      {
+        "id": 22013,
+        "name": "Black Mist Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/22013.png"
+      },
+      {
+        "id": 22014,
+        "name": "Black Mist Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/22014.png"
+      },
+      {
+        "id": 22015,
+        "name": "Black Mist Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/22015.png"
+      },
+      {
+        "id": 22001,
+        "name": "Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/22001.png"
+      },
+      {
+        "id": 22002,
+        "name": "Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/22002.png"
+      },
+      {
+        "id": 22003,
+        "name": "Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/22003.png"
+      },
+      {
+        "id": 22004,
+        "name": "Crystal Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/22004.png"
+      },
+      {
+        "id": 22005,
+        "name": "Crystal Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/22005.png"
+      },
+      {
+        "id": 22006,
+        "name": "Crystal Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/22006.png"
+      },
+      {
+        "id": 22010,
+        "name": "High Noon Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/22010.png"
+      },
+      {
+        "id": 22011,
+        "name": "High Noon Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/22011.png"
+      },
+      {
+        "id": 22012,
+        "name": "High Noon Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/22012.png"
+      },
+      {
+        "id": 22007,
+        "name": "Sugarcone Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/22007.png"
+      },
+      {
+        "id": 22008,
+        "name": "Sugarcone Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/22008.png"
+      },
+      {
+        "id": 22009,
+        "name": "Sugarcone Lightcharger",
+        "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
+        "species": "Lightcharger",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/22009.png"
       },
       {
         "id": 6001,
@@ -61164,6 +62746,14 @@
         "imagePath": "/assets/tftcompanions/1.png"
       },
       {
+        "id": 3,
+        "name": "Star Guardian Sprite",
+        "description": "River Sprite",
+        "species": "River Sprite",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3.png"
+      },
+      {
         "id": 2,
         "name": "UFO Sprite",
         "description": "River Sprite",
@@ -61432,6 +63022,12 @@
         "imagePath": "/assets/tftmapskins/26.png"
       },
       {
+        "id": 31,
+        "name": "Dreadnova Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/31.png"
+      },
+      {
         "id": 24,
         "name": "Pit Stop Arena",
         "description": null,
@@ -61442,6 +63038,12 @@
         "name": "Drifting Park Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/25.png"
+      },
+      {
+        "id": 32,
+        "name": "Spaceship Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/32.png"
       },
       {
         "id": 21,
