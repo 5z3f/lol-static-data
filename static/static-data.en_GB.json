@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.13.326.4870",
+  "version": "10.14.327.3565",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,10 +13,10 @@
   ],
   "info": {
     "champions": 148,
-    "skins": 1074,
-    "chromas": 1528,
-    "icons": 2640,
-    "emotes": 615,
+    "skins": 1082,
+    "chromas": 1561,
+    "icons": 2642,
+    "emotes": 616,
     "wards": 200,
     "tftcompanions": 443,
     "tftmapskins": 26
@@ -6482,6 +6482,70 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/30009.jpg",
             "chromas": null
+          },
+          {
+            "id": 30010,
+            "name": "Infernal Karthus",
+            "description": "The disciples of Karthus usher this infernal harbinger into the world by singing his discordant chorus, a pledge that beckons pillars of flame unto them. On his arrival, the deathsinger's chant summons columns of hellfire that descend from the heavens above. Few live to tell of the dirge they heard before flames swept the land.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/30010.jpg",
+            "chromas": [
+              {
+                "id": 30011,
+                "name": "Infernal Karthus",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 30012,
+                "name": "Infernal Karthus",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 30013,
+                "name": "Infernal Karthus",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 30014,
+                "name": "Infernal Karthus",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 30015,
+                "name": "Infernal Karthus",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 30016,
+                "name": "Infernal Karthus",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -7347,6 +7411,79 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 35015,
+            "name": "Arcanist Shaco",
+            "description": "Vile warlock and wanted criminal, Shaco is a dangerous creature whose mind was shattered during experimental soul duplication rituals. At some point he came into possession of a rare and powerful book of spells, amplifying the threat of his monstrous arcane sorcery.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/35015.jpg",
+            "chromas": [
+              {
+                "id": 35016,
+                "name": "Arcanist Shaco",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 35017,
+                "name": "Arcanist Shaco",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 35018,
+                "name": "Arcanist Shaco",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 35019,
+                "name": "Arcanist Shaco",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 35020,
+                "name": "Arcanist Shaco",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 35021,
+                "name": "Arcanist Shaco",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 35022,
+                "name": "Arcanist Shaco",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
                 ]
               }
             ]
@@ -15085,6 +15222,70 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/85007.jpg",
             "chromas": null
+          },
+          {
+            "id": 85008,
+            "name": "Infernal Kennen",
+            "description": "A playful spirit of fire, Kennen is not a malevolent being, but can't help igniting his surroundings while zipping about. His lightning quick movements wreak havoc upon any village unfortunate enough to entice the impish spirit to visit.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/85008.jpg",
+            "chromas": [
+              {
+                "id": 85017,
+                "name": "Infernal Kennen",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 85018,
+                "name": "Infernal Kennen",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 85019,
+                "name": "Infernal Kennen",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 85020,
+                "name": "Infernal Kennen",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 85021,
+                "name": "Infernal Kennen",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 85022,
+                "name": "Infernal Kennen",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -16421,6 +16622,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/96010.jpg",
             "chromas": null
+          },
+          {
+            "id": 96019,
+            "name": "Arcanist Kog'Maw",
+            "description": "The diminutive familiar of a famed sorcerer, Kog'Maw was mistreated and neglected for years as his master pursued the arcane arts. Thanks to a chance meeting with Zoe, he was released from servitude to travel the land with her… ultimately enrolling in the same school Zoe technically attends.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/96019.jpg",
+            "chromas": [
+              {
+                "id": 96020,
+                "name": "Arcanist Kog'Maw",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 96021,
+                "name": "Arcanist Kog'Maw",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 96022,
+                "name": "Arcanist Kog'Maw",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 96023,
+                "name": "Arcanist Kog'Maw",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 96024,
+                "name": "Arcanist Kog'Maw",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 96025,
+                "name": "Arcanist Kog'Maw",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 96026,
+                "name": "Arcanist Kog'Maw",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 96027,
+                "name": "Arcanist Kog'Maw",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -18490,6 +18773,15 @@
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/111005.jpg",
+            "chromas": null
+          },
+          {
+            "id": 111006,
+            "name": "Conqueror Nautilus",
+            "description": "Commemorating the 2020 Spring Split Champions.",
+            "rarity": "kRare",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/111006.jpg",
             "chromas": null
           }
         ]
@@ -21584,6 +21876,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 142018,
+            "name": "Arcanist Zoe",
+            "description": "A promising student of magic at the Arcanist Academy, Zoe has ignored the advice of her headmaster and embarked upon a grand adventure the likes of which she is utterly unprepared for. Considering her penchant for sewing chaos wherever she goes, the world might be more unprepared than she is.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/142018.jpg",
+            "chromas": null
+          },
+          {
+            "id": 142019,
+            "name": "Arcanist Zoe Prestige Edition",
+            "description": "Having temporarily outsmarted the mad Arcanist Shaco and absconded with his precious tome of magic, Zoe's power has been elevated beyond even some of her instructors. Her instructors are extremely worried about this. Most people are extremely worried about this.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/142019.jpg",
+            "chromas": null
           }
         ]
       },
@@ -22561,6 +22871,70 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/161003.jpg",
             "chromas": null
+          },
+          {
+            "id": 161004,
+            "name": "Infernal Vel'Koz",
+            "description": "Scarce is known of Vel'koz, owing to the fact that most who witness him combust at his mere presence. What is known, however, is that this cataclysmic titan can level entire civilizations with his incinerating gaze, leaving only smouldering ruin. Woe be to those fixed in the behemoth's infernal gaze, for there will be no remains left to bury.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/161004.jpg",
+            "chromas": [
+              {
+                "id": 161005,
+                "name": "Infernal Vel'Koz",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 161006,
+                "name": "Infernal Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 161007,
+                "name": "Infernal Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 161008,
+                "name": "Infernal Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 161009,
+                "name": "Infernal Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 161010,
+                "name": "Infernal Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -26444,7 +26818,7 @@
               {
                 "id": 432013,
                 "name": "Astronaut Bard",
-                "description": null,
+                "description": "Obtained through Influencer audience giveaways.",
                 "colors": [
                   "#2DA130",
                   "#2DA130"
@@ -39174,7 +39548,7 @@
       },
       {
         "id": 3592,
-        "title": "Mafia Poro Icon",
+        "title": "Crime City Poro Icon",
         "description": "This icon was released in the store for purchase during 2018.",
         "set": null,
         "yearReleased": 2018,
@@ -48745,6 +49119,26 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4624.jpg"
+      },
+      {
+        "id": 4625,
+        "title": "Conqueror Nautilus Icon",
+        "description": "This icon was released as a bundle exclusive in 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4625.jpg"
+      },
+      {
+        "id": 4626,
+        "title": "Arcanist Zoe Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Acanist Zoe skin from the 2020 Prestige Point Shop.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4626.jpg"
       },
       {
         "id": 4627,
@@ -59322,6 +59716,12 @@
         "name": "From Akali With Love!",
         "description": null,
         "imagePath": "/assets/emotes/3487.png"
+      },
+      {
+        "id": 3488,
+        "name": "Pengu-versary",
+        "description": null,
+        "imagePath": "/assets/emotes/3488.png"
       },
       {
         "id": 4,
