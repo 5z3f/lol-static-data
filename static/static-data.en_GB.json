@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.14.327.3565",
+  "version": "10.15.329.4116",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,12 +12,12 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 148,
-    "skins": 1082,
-    "chromas": 1561,
-    "icons": 2642,
-    "emotes": 616,
-    "wards": 200,
+    "champions": 149,
+    "skins": 1088,
+    "chromas": 1593,
+    "icons": 2664,
+    "emotes": 628,
+    "wards": 202,
     "tftcompanions": 443,
     "tftmapskins": 26
   },
@@ -3774,6 +3774,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 17025,
+            "name": "Spirit Blossom Teemo",
+            "description": "A trickster spirit and a child of the forest, Teemo is famed across Ionia as the embodiment of nature… though his more onerous accolade is the king of pranks. A consummate gadfly and lover of all things annoying, his exploits in tricking mortals have graced the pages of Ionian history for hundreds of years.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/17025.jpg",
+            "chromas": null
+          },
+          {
+            "id": 17027,
+            "name": "Spirit Blossom Teemo Prestige Edition",
+            "description": "Having abstained from pranking his “best friend forever” literally once, the Spirit of Salvation has gifted Teemo with his wildest dream—becoming shiny and gold. Never one to leave anybody alone, ever, he has promised his BFF to prank them at every opportunity, every day, until they die and join him in the spirit realm. Good luck to them.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/17027.jpg",
+            "chromas": null
           }
         ]
       },
@@ -12733,6 +12751,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/67013.jpg",
             "chromas": null
+          },
+          {
+            "id": 67014,
+            "name": "Spirit Blossom Vayne",
+            "description": "Vayne came from a lost clan of monster hunters, annihilated to the last when the primordial demon of pain chanced upon their hidden village. Unable to let go, and doomed to her own obsessions for eternity, she hunts the creature without end, always unable to catch it.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/67014.jpg",
+            "chromas": [
+              {
+                "id": 67017,
+                "name": "Spirit Blossom Vayne",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 67018,
+                "name": "Spirit Blossom Vayne",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 67019,
+                "name": "Spirit Blossom Vayne",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 67020,
+                "name": "Spirit Blossom Vayne",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 67021,
+                "name": "Spirit Blossom Vayne",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 67022,
+                "name": "Spirit Blossom Vayne",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 67023,
+                "name": "Spirit Blossom Vayne",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 67024,
+                "name": "Spirit Blossom Vayne",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Spirit Blossom event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#B2D1E4"
+                ]
+              }
+            ]
           },
           {
             "id": 67015,
@@ -22820,6 +22920,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 157036,
+            "name": "Spirit Blossom Yasuo",
+            "description": "Long ago, two brothers fought a bitter war across Ionia. Yasuo, the younger brother, was a warlord renowned for his roguish demeanor—until he was accused of crimes against the country and took up arms to defend himself. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/157036.jpg",
+            "chromas": [
+              {
+                "id": 157037,
+                "name": "Spirit Blossom Yasuo",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 157038,
+                "name": "Spirit Blossom Yasuo",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 157039,
+                "name": "Spirit Blossom Yasuo",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 157040,
+                "name": "Spirit Blossom Yasuo",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 157041,
+                "name": "Spirit Blossom Yasuo",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 157042,
+                "name": "Spirit Blossom Yasuo",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 157043,
+                "name": "Spirit Blossom Yasuo",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 157044,
+                "name": "Spirit Blossom Yasuo",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Spirit Blossom event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#B2D1E4"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -22875,7 +23057,7 @@
           {
             "id": 161004,
             "name": "Infernal Vel'Koz",
-            "description": "Scarce is known of Vel'koz, owing to the fact that most who witness him combust at his mere presence. What is known, however, is that this cataclysmic titan can level entire civilizations with his incinerating gaze, leaving only smouldering ruin. Woe be to those fixed in the behemoth's infernal gaze, for there will be no remains left to bury.",
+            "description": "Scarce is known of Vel'Koz, owing to the fact that most who witness him combust at his mere presence. What is known, however, is that this cataclysmic titan can level entire civilizations with his incinerating gaze, leaving only smouldering ruin. Woe be to those fixed in the behemoth's infernal gaze, for there will be no remains left to bury.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/161004.jpg",
@@ -26226,6 +26408,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 412017,
+            "name": "Spirit Blossom Thresh",
+            "description": "An ancient demon of obsession, Thresh delights in tormenting the spirits of those he deems as flawed, but blossoming with potential. He haunts the spiritual afterlife as a supreme collector of souls, tempting the dead away from their path to salvation until they are trapped for eternity within their own memories.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/412017.jpg",
+            "chromas": [
+              {
+                "id": 412019,
+                "name": "Spirit Blossom Thresh",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 412020,
+                "name": "Spirit Blossom Thresh",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 412021,
+                "name": "Spirit Blossom Thresh",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 412022,
+                "name": "Spirit Blossom Thresh",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 412023,
+                "name": "Spirit Blossom Thresh",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 412024,
+                "name": "Spirit Blossom Thresh",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 412025,
+                "name": "Spirit Blossom Thresh",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 412026,
+                "name": "Spirit Blossom Thresh",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Spirit Blossom event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#B2D1E4"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -27758,6 +28022,113 @@
                 "colors": [
                   "#0C0E15",
                   "#611B9E"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 876,
+        "name": "Lillia",
+        "alias": "Lillia",
+        "title": "the Bashful Bloom",
+        "releaseDate": "2020-07-07",
+        "associatedFactionSlug": "ionia",
+        "shortBio": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming Tree. She now travels Ionia with a magical branch in hand, in an effort to find people's unrealized dreams. Only then can Lillia herself bloom and help others untangle their fears to find the sparkle within. Eep!",
+        "squarePortraitPath": "/assets/champions/portraits/876.png",
+        "roles": [
+          "fighter",
+          "mage"
+        ],
+        "skins": [
+          {
+            "id": 876000,
+            "name": "Lillia (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/876000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 876001,
+            "name": "Spirit Blossom Lillia",
+            "description": "A shy fawn spirit, Lillia once served as the guardian of a sacred Ionian forest—until her grove was destroyed and cast into flame. Consumed by loss, she now slumbers in the spirit realm, reliving the destruction in an unending nightmare—unaware of the timid hope still waiting to bloom...",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/876001.jpg",
+            "chromas": [
+              {
+                "id": 876002,
+                "name": "Spirit Blossom Lillia",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 876003,
+                "name": "Spirit Blossom Lillia",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 876004,
+                "name": "Spirit Blossom Lillia",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 876005,
+                "name": "Spirit Blossom Lillia",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 876006,
+                "name": "Spirit Blossom Lillia",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 876007,
+                "name": "Spirit Blossom Lillia",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 876008,
+                "name": "Spirit Blossom Lillia",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 876009,
+                "name": "Spirit Blossom Lillia",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Spirit Blossom event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#B2D1E4"
                 ]
               }
             ]
@@ -49093,7 +49464,7 @@
       {
         "id": 4622,
         "title": "Little Legend Lightcharger Icon",
-        "description": null,
+        "description": "This icon was acquired by purchasing the Little Legend Lightcharger Species Egg!",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kNoRarity",
@@ -49103,7 +49474,7 @@
       {
         "id": 4623,
         "title": "Little Legend Nixie Icon",
-        "description": null,
+        "description": "This icon was acquired by purchasing the Little Legend Nixie Species Egg!",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kNoRarity",
@@ -49113,7 +49484,7 @@
       {
         "id": 4624,
         "title": "Little Legend Bellswayer Icon",
-        "description": null,
+        "description": "This icon was acquired by purchasing the Little Legend Bellswayer Species Egg!",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kNoRarity",
@@ -49159,6 +49530,226 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4628.jpg"
+      },
+      {
+        "id": 4629,
+        "title": "Spirit Blossom 2020 Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4629.jpg"
+      },
+      {
+        "id": 4630,
+        "title": "Spirit Blossom 2020 Event Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4630.jpg"
+      },
+      {
+        "id": 4631,
+        "title": "Spirit Blossom 2020 Event Prestige Points Icon",
+        "description": "This icon was acquired through Loot during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4631.jpg"
+      },
+      {
+        "id": 4632,
+        "title": "Spirit Blossom Thresh Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4632.jpg"
+      },
+      {
+        "id": 4633,
+        "title": "Spirit Blossom Vayne Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4633.jpg"
+      },
+      {
+        "id": 4634,
+        "title": "Spirit Blossom Yasuo Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4634.jpg"
+      },
+      {
+        "id": 4635,
+        "title": "Spirit Blossom Teemo Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4635.jpg"
+      },
+      {
+        "id": 4636,
+        "title": "Spirit Blossom Teemo Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Spirit Blossom Teemo skin from the 2020 Prestige Point Shop. ",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4636.jpg"
+      },
+      {
+        "id": 4637,
+        "title": "Spirit Blossom Lillia Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4637.jpg"
+      },
+      {
+        "id": 4638,
+        "title": "Spirit Blossom Thresh Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4638.jpg"
+      },
+      {
+        "id": 4639,
+        "title": "Spirit Blossom Vayne Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4639.jpg"
+      },
+      {
+        "id": 4640,
+        "title": "Spirit Blossom Yasuo Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4640.jpg"
+      },
+      {
+        "id": 4641,
+        "title": "Spirit Blossom Lillia Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
+        "set": "Spirit Blossom",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4641.jpg"
+      },
+      {
+        "id": 4653,
+        "title": "Spirit Bonds Lillia Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4653.jpg"
+      },
+      {
+        "id": 4654,
+        "title": "Spirit Bonds Thresh Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4654.jpg"
+      },
+      {
+        "id": 4655,
+        "title": "Spirit Bonds Ahri Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4655.jpg"
+      },
+      {
+        "id": 4656,
+        "title": "Spirit Bonds Yasuo Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4656.jpg"
+      },
+      {
+        "id": 4657,
+        "title": "Spirit Bonds Teemo Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4657.jpg"
+      },
+      {
+        "id": 4658,
+        "title": "Spirit Bonds Riven Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4658.jpg"
+      },
+      {
+        "id": 4659,
+        "title": "Spirit Bonds Cassiopeia Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4659.jpg"
+      },
+      {
+        "id": 4660,
+        "title": "Spirit Bonds Vayne Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4660.jpg"
+      },
+      {
+        "id": 4661,
+        "title": "Spirit Bonds Kindred Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4661.jpg"
       },
       {
         "id": 4,
@@ -55275,7 +55866,7 @@
         "id": 121,
         "name": "Golden 2018 Championship Ward",
         "defaultDescription": null,
-        "description": "Unlocked through crafting in the 2018 Worlds event.",
+        "description": "This ward was released as a bundle exclusive during the 2020 Spirit Blossom event.",
         "set": "World Championship",
         "rarity": "kNoRarity",
         "isLegacy": true,
@@ -56060,6 +56651,26 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/199.png"
+      },
+      {
+        "id": 200,
+        "name": "2020 Spirit Blossom Kanmei Ward",
+        "defaultDescription": null,
+        "description": "This ward was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/200.png"
+      },
+      {
+        "id": 201,
+        "name": "2020 Spirit Blossom Akana Ward",
+        "defaultDescription": null,
+        "description": "This ward was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/201.png"
       }
     ],
     "emotes": [
@@ -59722,6 +60333,78 @@
         "name": "Pengu-versary",
         "description": null,
         "imagePath": "/assets/emotes/3488.png"
+      },
+      {
+        "id": 3489,
+        "name": "Carry Me!",
+        "description": null,
+        "imagePath": "/assets/emotes/3489.png"
+      },
+      {
+        "id": 3490,
+        "name": "Tee Hee!",
+        "description": null,
+        "imagePath": "/assets/emotes/3490.png"
+      },
+      {
+        "id": 3491,
+        "name": "Hiya!",
+        "description": null,
+        "imagePath": "/assets/emotes/3491.png"
+      },
+      {
+        "id": 3492,
+        "name": "Dreaming Of You",
+        "description": null,
+        "imagePath": "/assets/emotes/3492.png"
+      },
+      {
+        "id": 3493,
+        "name": "Long Road Ahead",
+        "description": null,
+        "imagePath": "/assets/emotes/3493.png"
+      },
+      {
+        "id": 3494,
+        "name": "Pranked!",
+        "description": null,
+        "imagePath": "/assets/emotes/3494.png"
+      },
+      {
+        "id": 3495,
+        "name": "Fated Pair",
+        "description": null,
+        "imagePath": "/assets/emotes/3495.png"
+      },
+      {
+        "id": 3496,
+        "name": "Follow...",
+        "description": null,
+        "imagePath": "/assets/emotes/3496.png"
+      },
+      {
+        "id": 3497,
+        "name": "You Are Worthy",
+        "description": null,
+        "imagePath": "/assets/emotes/3497.png"
+      },
+      {
+        "id": 3498,
+        "name": "What A Pain",
+        "description": null,
+        "imagePath": "/assets/emotes/3498.png"
+      },
+      {
+        "id": 3499,
+        "name": "Whaddya Mean?!",
+        "description": null,
+        "imagePath": "/assets/emotes/3499.png"
+      },
+      {
+        "id": 3500,
+        "name": "My Champion",
+        "description": null,
+        "imagePath": "/assets/emotes/3500.png"
       },
       {
         "id": 4,
