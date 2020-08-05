@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.15.329.4116",
+  "version": "10.16.330.9186",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,13 +12,13 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 149,
-    "skins": 1088,
-    "chromas": 1593,
-    "icons": 2664,
-    "emotes": 628,
+    "champions": 150,
+    "skins": 1093,
+    "chromas": 1630,
+    "icons": 2679,
+    "emotes": 640,
     "wards": 202,
-    "tftcompanions": 443,
+    "tftcompanions": 461,
     "tftmapskins": 26
   },
   "data": {
@@ -13083,6 +13083,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/69008.jpg",
             "chromas": null
+          },
+          {
+            "id": 69009,
+            "name": "Spirit Blossom Cassiopeia",
+            "description": "Rumored to have once been a beautiful princess, legend says Cassiopeia vanished into the mountains when her sister staged a coup, never to return. So great was her beauty, and so renowned her cunning, that a shrine was built to honor this 'spirit of temptation', until her story was accepted into popular folklore.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/69009.jpg",
+            "chromas": [
+              {
+                "id": 69010,
+                "name": "Spirit Blossom Cassiopeia",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 69011,
+                "name": "Spirit Blossom Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 69012,
+                "name": "Spirit Blossom Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 69013,
+                "name": "Spirit Blossom Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 69014,
+                "name": "Spirit Blossom Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 69015,
+                "name": "Spirit Blossom Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 69016,
+                "name": "Spirit Blossom Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 69017,
+                "name": "Spirit Blossom Cassiopeia",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Spirit Blossom event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#B2D1E4"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -16534,6 +16616,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92022.jpg",
             "chromas": null
+          },
+          {
+            "id": 92023,
+            "name": "Spirit Blossom Riven",
+            "description": "A brave warrior from an ancient land, Riven was ignobly cut down in the heat of battle thousands of years ago, her sword shattering in the process. Unable to find peace, she obsessively scours an otherworldly battlefield for pieces of her broken blade, possessed by a horrific darkness that guides her into oblivion.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/92023.jpg",
+            "chromas": [
+              {
+                "id": 92026,
+                "name": "Spirit Blossom Riven",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 92027,
+                "name": "Spirit Blossom Riven",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 92028,
+                "name": "Spirit Blossom Riven",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 92029,
+                "name": "Spirit Blossom Riven",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 92030,
+                "name": "Spirit Blossom Riven",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 92031,
+                "name": "Spirit Blossom Riven",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 92032,
+                "name": "Spirit Blossom Riven",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 92033,
+                "name": "Spirit Blossom Riven",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Spirit Blossom event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#B2D1E4"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -17762,6 +17926,61 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 103027,
+            "name": "Spirit Blossom Ahri",
+            "description": "The famed Spirit of Salvation, and the fox all mortals are beckoned towards when their souls arrive to the spirit realm. A capricious, whimsical spirit who sees the fate of the living as a game of chase, she offers the chance for souls to find their final rest… but will not intervene if they stray from the path.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/103027.jpg",
+            "chromas": [
+              {
+                "id": 103029,
+                "name": "Spirit Blossom Ahri",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 103030,
+                "name": "Spirit Blossom Ahri",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 103031,
+                "name": "Spirit Blossom Ahri",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 103032,
+                "name": "Spirit Blossom Ahri",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 103033,
+                "name": "Spirit Blossom Ahri",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Spirit Blossom event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#B2D1E4"
                 ]
               }
             ]
@@ -23850,6 +24069,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/203002.jpg",
             "chromas": null
+          },
+          {
+            "id": 203003,
+            "name": "",
+            "description": "In the Ionian tradition, the Kindred are interpreted as a child and her beastly companion, endlessly playing games with one another until they are called to perform their duties. The two do not know where they came from, but it is said they feel a sense of loss for someone they knew long ago…",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/203003.jpg",
+            "chromas": [
+              {
+                "id": 203004,
+                "name": "",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 203005,
+                "name": "",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 203006,
+                "name": "Spirit Blossom Kindred",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 203007,
+                "name": "Spirit Blossom Kindred",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 203008,
+                "name": "Spirit Blossom Kindred",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 203009,
+                "name": "Spirit Blossom Kindred",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 203010,
+                "name": "Spirit Blossom Kindred",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 203011,
+                "name": "Spirit Blossom Kindred",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Spirit Blossom event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#B2D1E4"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -27933,6 +28234,113 @@
                 "colors": [
                   "#FF5500",
                   "#162B30"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 777,
+        "name": "Yone",
+        "alias": "Yone",
+        "title": "the Unforgotten",
+        "releaseDate": "2020-07-24",
+        "associatedFactionSlug": "ionia",
+        "shortBio": "In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own sword. Now, cursed to wear its demonic mask upon his face, Yone tirelessly hunts all such creatures in order to understand what he has become.",
+        "squarePortraitPath": "/assets/champions/portraits/777.png",
+        "roles": [
+          "assassin",
+          "fighter"
+        ],
+        "skins": [
+          {
+            "id": 777000,
+            "name": "Yone (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/777000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 777001,
+            "name": "Spirit Blossom Yone",
+            "description": "Long ago, two brothers fought a bitter war across Ionia. Yone, the older brother, was a warlord renowned for his adherence to honor and duty. He fought to defend the country against those who would break its rites and rituals - until he was forced to confront his own brother for his crimes. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/777001.jpg",
+            "chromas": [
+              {
+                "id": 777002,
+                "name": "Spirit Blossom Yone",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 777003,
+                "name": "Spirit Blossom Yone",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 777004,
+                "name": "Spirit Blossom Yone",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 777005,
+                "name": "Spirit Blossom Yone",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 777006,
+                "name": "Spirit Blossom Yone",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 777007,
+                "name": "Spirit Blossom Yone",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 777008,
+                "name": "Spirit Blossom Yone",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Spirit Blossom event.",
+                "colors": [
+                  "#000000",
+                  "#000000"
+                ]
+              },
+              {
+                "id": 777009,
+                "name": "Spirit Blossom Yone",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -49662,6 +50070,116 @@
         "imagePath": "/assets/icons/4641.jpg"
       },
       {
+        "id": 4642,
+        "title": "Spirit Blossom Riven Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4642.jpg"
+      },
+      {
+        "id": 4643,
+        "title": "Spirit Blossom Cassiopeia Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4643.jpg"
+      },
+      {
+        "id": 4644,
+        "title": "Spirit Blossom Ahri Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4644.jpg"
+      },
+      {
+        "id": 4645,
+        "title": "Spirit Blossom Kindred Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4645.jpg"
+      },
+      {
+        "id": 4646,
+        "title": "Spirit Blossom Yone Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4646.jpg"
+      },
+      {
+        "id": 4647,
+        "title": "Spirit Blossom Riven Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4647.jpg"
+      },
+      {
+        "id": 4648,
+        "title": "Spirit Blossom Cassiopeia Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4648.jpg"
+      },
+      {
+        "id": 4649,
+        "title": "Spirit Blossom Ahri Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4649.jpg"
+      },
+      {
+        "id": 4650,
+        "title": "Spirit Blossom Kindred Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4650.jpg"
+      },
+      {
+        "id": 4651,
+        "title": "Spirit Blossom Yone Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4651.jpg"
+      },
+      {
+        "id": 4652,
+        "title": "Season 2020 - Split 3 Icon",
+        "description": "Earned by winning ranked games in Season 2020 - Split 3.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4652.jpg"
+      },
+      {
         "id": 4653,
         "title": "Spirit Bonds Lillia Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
@@ -49750,6 +50268,46 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4661.jpg"
+      },
+      {
+        "id": 4663,
+        "title": "Spirit Bonds Yone Icon",
+        "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4663.jpg"
+      },
+      {
+        "id": 4664,
+        "title": "LCS Solo Q Icon",
+        "description": "Acquired during the 2020 LCS Season.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4664.jpg"
+      },
+      {
+        "id": 4665,
+        "title": "BRG Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4665.jpg"
+      },
+      {
+        "id": 4666,
+        "title": "PsyOps Icon",
+        "description": null,
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4666.jpg"
       },
       {
         "id": 4,
@@ -60407,6 +60965,78 @@
         "imagePath": "/assets/emotes/3500.png"
       },
       {
+        "id": 3501,
+        "name": "The Right Words",
+        "description": null,
+        "imagePath": "/assets/emotes/3501.png"
+      },
+      {
+        "id": 3502,
+        "name": "Master's Challenge Season 6 (1)",
+        "description": null,
+        "imagePath": "/assets/emotes/3502.png"
+      },
+      {
+        "id": 3503,
+        "name": "2020 - Split 3 - Iron",
+        "description": null,
+        "imagePath": "/assets/emotes/3503.png"
+      },
+      {
+        "id": 3504,
+        "name": "2020 - Split 3 - Bronze",
+        "description": null,
+        "imagePath": "/assets/emotes/3504.png"
+      },
+      {
+        "id": 3505,
+        "name": "2020 - Split 3 - Silver",
+        "description": null,
+        "imagePath": "/assets/emotes/3505.png"
+      },
+      {
+        "id": 3506,
+        "name": "2020 - Split 3 - Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3506.png"
+      },
+      {
+        "id": 3507,
+        "name": "2020 - Split 3 - Platinum",
+        "description": null,
+        "imagePath": "/assets/emotes/3507.png"
+      },
+      {
+        "id": 3508,
+        "name": "2020 - Split 3 - Diamond",
+        "description": null,
+        "imagePath": "/assets/emotes/3508.png"
+      },
+      {
+        "id": 3509,
+        "name": "2020 - Split 3 - Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3509.png"
+      },
+      {
+        "id": 3510,
+        "name": "2020 - Split 3 - Grand Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3510.png"
+      },
+      {
+        "id": 3511,
+        "name": "2020 - Split 3 - Challenger",
+        "description": null,
+        "imagePath": "/assets/emotes/3511.png"
+      },
+      {
+        "id": 3515,
+        "name": "Style: Rank S",
+        "description": null,
+        "imagePath": "/assets/emotes/3515.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -62933,6 +63563,54 @@
         "imagePath": "/assets/tftcompanions/6012.png"
       },
       {
+        "id": 6019,
+        "name": "Kanmei Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6019.png"
+      },
+      {
+        "id": 6020,
+        "name": "Kanmei Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6020.png"
+      },
+      {
+        "id": 6021,
+        "name": "Kanmei Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6021.png"
+      },
+      {
+        "id": 6022,
+        "name": "Akana Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6022.png"
+      },
+      {
+        "id": 6023,
+        "name": "Akana Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6023.png"
+      },
+      {
+        "id": 6024,
+        "name": "Akana Featherknight",
+        "description": "A noble Featherknight.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6024.png"
+      },
+      {
         "id": 6013,
         "name": "Cheeper Featherknight",
         "description": "A noble Featherknight.",
@@ -63677,6 +64355,54 @@
         "imagePath": "/assets/tftcompanions/15018.png"
       },
       {
+        "id": 15019,
+        "name": "Kanmei Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/15019.png"
+      },
+      {
+        "id": 15020,
+        "name": "Kanmei Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/15020.png"
+      },
+      {
+        "id": 15021,
+        "name": "Kanmei Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/15021.png"
+      },
+      {
+        "id": 15022,
+        "name": "Akana Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/15022.png"
+      },
+      {
+        "id": 15023,
+        "name": "Akana Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/15023.png"
+      },
+      {
+        "id": 15024,
+        "name": "Akana Melisma",
+        "description": "Melisma stays true to the beat. No matter the occasion, it stands ready to drop the hottest track you never knew you wanted.",
+        "species": "Melisma",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/15024.png"
+      },
+      {
         "id": 9016,
         "name": "Eternal Hushtail",
         "description": "A mystical Hushtail.",
@@ -63795,6 +64521,54 @@
         "species": "Hushtail",
         "level": 3,
         "imagePath": "/assets/tftcompanions/9003.png"
+      },
+      {
+        "id": 9019,
+        "name": "Kanmei Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/9019.png"
+      },
+      {
+        "id": 9020,
+        "name": "Kanmei Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/9020.png"
+      },
+      {
+        "id": 9021,
+        "name": "Kanmei Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/9021.png"
+      },
+      {
+        "id": 9022,
+        "name": "Akana Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/9022.png"
+      },
+      {
+        "id": 9023,
+        "name": "Akana Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/9023.png"
+      },
+      {
+        "id": 9024,
+        "name": "Akana Hushtail",
+        "description": "A mystical Hushtail.",
+        "species": "Hushtail",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/9024.png"
       },
       {
         "id": 9013,
