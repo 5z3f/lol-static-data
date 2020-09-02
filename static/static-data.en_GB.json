@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.16.330.9186",
+  "version": "10.18.333.9090",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,11 +13,11 @@
   ],
   "info": {
     "champions": 150,
-    "skins": 1093,
-    "chromas": 1630,
-    "icons": 2679,
-    "emotes": 640,
-    "wards": 202,
+    "skins": 1100,
+    "chromas": 1662,
+    "icons": 2693,
+    "emotes": 643,
+    "wards": 204,
     "tftcompanions": 461,
     "tftmapskins": 26
   },
@@ -2410,6 +2410,88 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11033,
+            "name": "PsyOps Master Yi",
+            "description": "A legendary psychic swordsman and elite leader of the PsyOps unit. Yi is calm, professional, and always gets the job done, making him a terrifying bogeyman among rogue militaries, and a target for those harboring resentment towards the global war machine.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/11033.jpg",
+            "chromas": [
+              {
+                "id": 11034,
+                "name": "PsyOps Master Yi",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 11035,
+                "name": "PsyOps Master Yi",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 11036,
+                "name": "PsyOps Master Yi",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 11037,
+                "name": "PsyOps Master Yi",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 11038,
+                "name": "PsyOps Master Yi",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 11039,
+                "name": "PsyOps Master Yi",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 11040,
+                "name": "PsyOps Master Yi",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 11041,
+                "name": "PsyOps Master Yi",
+                "description": "This chroma was released as a Loot exclusive in the 2020 PsyOps event.",
+                "colors": [
+                  "#B2D1E4",
+                  "#3CABFF"
                 ]
               }
             ]
@@ -7838,6 +7920,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 37017,
+            "name": "PsyOps Sona",
+            "description": "An immensely powerful psychic, Sona has spent the past several years locked in darkness, subjected to harrowing experiments to further the Black Rose Group's aims of manufacturing the perfect human bioweapon. Freeing herself during the assault on the BRG's research facility, she discovers her power has grown to near-omnipotence, making her less a human than a psychic god.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/37017.jpg",
+            "chromas": [
+              {
+                "id": 37018,
+                "name": "PsyOps Sona",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 37019,
+                "name": "PsyOps Sona",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 37020,
+                "name": "PsyOps Sona",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 37021,
+                "name": "PsyOps Sona",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 37022,
+                "name": "PsyOps Sona",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 37023,
+                "name": "PsyOps Sona",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 37024,
+                "name": "PsyOps Sona",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 37025,
+                "name": "PsyOps Sona",
+                "description": "This chroma was released as a Loot exclusive in the 2020 PsyOps event.",
+                "colors": [
+                  "#B2D1E4",
+                  "#3CABFF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -11732,7 +11896,7 @@
           {
             "id": 59007,
             "name": "Dark Star Jarvan IV",
-            "description": "For Jarvan, there's nothing more relaxing than hanging out at the beach. No kingdoms to run, no thrones to sit on (save for his favorite beach chair), just the sound of the waves and, if he listens closely, the faint whistle of a volleyball being spiked directly at him...",
+            "description": "A mortal emperor unbound by the destruction of his world, Jarvan's essence has since been reforged by the ageless energies of deep space. His humanity and his people now lost forever, he stands ready to welcome the Dark Star incursion, in the final subjugation of all existence.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/59007.jpg",
@@ -11769,7 +11933,7 @@
           {
             "id": 59011,
             "name": "Pool Party Jarvan IV",
-            "description": "For Jarvan, there's nothing more relaxing than hanging out at the beach. No kingdoms to run, no thrones to sit on (save for his favorite beach chair), just the sound of the waves and, if he listens closely, the faint whistle of a volleyball being spiked directly at him...",
+            "description": "A mortal emperor unbound by the destruction of his world, Jarvan's essence has since been reforged by the ageless energies of deep space. His humanity and his people now lost forever, he stands ready to welcome the Dark Star incursion, in the final subjugation of all existence.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/59011.jpg",
@@ -14606,6 +14770,24 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/81021.jpg",
             "chromas": null
+          },
+          {
+            "id": 81022,
+            "name": "PsyOps Ezreal",
+            "description": "A young hotshot and the newest recruit in the elite PsyOps unit, Ezreal's raw psychic ability is only matched by his severely over-inflated ego. He has successfully annoyed the rest of his team to the point they just direct him towards hard targets and half-hope he winds up dead.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/81022.jpg",
+            "chromas": null
+          },
+          {
+            "id": 81023,
+            "name": "PsyOps Ezreal Prestige Edition",
+            "description": "Ezreal's mastery of psychic military combat has driven him to new heights, attracting the attention of his handlers in High Command. He's calmed down a bit, earning some respect from his squad mates… but not enough. He's never calmed down enough.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/81023.jpg",
+            "chromas": null
           }
         ]
       },
@@ -17263,6 +17445,88 @@
                 "colors": [
                   "#B6E084",
                   "#B6E084"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 98022,
+            "name": "PsyOps Shen",
+            "description": "A psychic soldier and field lieutenant within PsyOps, Shen's power is connected to a phantom child that follows him wherever he goes -- granting him insight into the middens between the living and the dead. Where the boy came from only High Command knows, and they aren't talking.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/98022.jpg",
+            "chromas": [
+              {
+                "id": 98032,
+                "name": "PsyOps Shen",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 98033,
+                "name": "PsyOps Shen",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 98034,
+                "name": "PsyOps Shen",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 98035,
+                "name": "PsyOps Shen",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 98036,
+                "name": "PsyOps Shen",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 98037,
+                "name": "PsyOps Shen",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 98038,
+                "name": "PsyOps Shen",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 98039,
+                "name": "PsyOps Shen",
+                "description": "This chroma was released as a Loot exclusive in the 2020 PsyOps event.",
+                "colors": [
+                  "#B2D1E4",
+                  "#3CABFF"
                 ]
               }
             ]
@@ -19946,6 +20210,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 115023,
+            "name": "Hextech Ziggs",
+            "description": "Famed inventor of Tocker, Ziggs is a savant to some, to others a maniac. All can agree that no matter the consequences, Ziggs seems to enjoy his experiments—especially the subsequent explosions. What is perhaps most miraculous of all is how he and Tocker have survived so many blasts over the years.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/115023.jpg",
+            "chromas": null
           }
         ]
       },
@@ -24072,7 +24345,7 @@
           },
           {
             "id": 203003,
-            "name": "",
+            "name": "Spirit Blossom Kindred",
             "description": "In the Ionian tradition, the Kindred are interpreted as a child and her beastly companion, endlessly playing games with one another until they are called to perform their duties. The two do not know where they came from, but it is said they feel a sense of loss for someone they knew long ago…",
             "rarity": "kEpic",
             "isLegacy": false,
@@ -24080,7 +24353,7 @@
             "chromas": [
               {
                 "id": 203004,
-                "name": "",
+                "name": "Spirit Blossom Kindred",
                 "description": "This chroma was released as a bundle exclusive in 2020.",
                 "colors": [
                   "#D33528",
@@ -24089,7 +24362,7 @@
               },
               {
                 "id": 203005,
-                "name": "",
+                "name": "Spirit Blossom Kindred",
                 "description": null,
                 "colors": [
                   "#FFEE59",
@@ -25922,6 +26195,88 @@
                 "colors": [
                   "#ECF9F8",
                   "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 254020,
+            "name": "PsyOps Vi",
+            "description": "A hand-to-hand combat specialist trained in psychically enhancing her blows with her mind, Vi takes care of “hard targets” for the rest of the PsyOps crew… generally by rushing ahead and punching them apart. She will fight anything and everything, including the old bipedal winter mechs from the Arctic Ops event 40 years prior.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/254020.jpg",
+            "chromas": [
+              {
+                "id": 254021,
+                "name": "PsyOps Vi",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 254022,
+                "name": "PsyOps Vi",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 254023,
+                "name": "PsyOps Vi",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 254024,
+                "name": "PsyOps Vi",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 254025,
+                "name": "PsyOps Vi",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 254026,
+                "name": "PsyOps Vi",
+                "description": "This chroma was released as a Loot exclusive in the 2020 PsyOps event.",
+                "colors": [
+                  "#B2D1E4",
+                  "#3CABFF"
+                ]
+              },
+              {
+                "id": 254027,
+                "name": "PsyOps Vi",
+                "description": null,
+                "colors": [
+                  "#85827F",
+                  "#85827F"
+                ]
+              },
+              {
+                "id": 254028,
+                "name": "PsyOps Vi",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
                 ]
               }
             ]
@@ -28330,8 +28685,8 @@
                 "name": "Spirit Blossom Yone",
                 "description": "This chroma was released as a Loot exclusive in the 2020 Spirit Blossom event.",
                 "colors": [
-                  "#000000",
-                  "#000000"
+                  "#0C0C0F",
+                  "#B2D1E4"
                 ]
               },
               {
@@ -49912,7 +50267,7 @@
       {
         "id": 4626,
         "title": "Arcanist Zoe Prestige Edition Icon",
-        "description": "This icon was acquired by obtaining the Prestige Acanist Zoe skin from the 2020 Prestige Point Shop.",
+        "description": "This icon was acquired by obtaining the Prestige Arcanist Zoe skin from the 2020 Prestige Point Shop.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kMythic",
@@ -50308,6 +50663,146 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4666.jpg"
+      },
+      {
+        "id": 4667,
+        "title": "PsyOps Event Pass Missions Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4667.jpg"
+      },
+      {
+        "id": 4668,
+        "title": "PsyOps Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4668.jpg"
+      },
+      {
+        "id": 4669,
+        "title": "PsyOps Prestige Point Icon",
+        "description": "This icon was acquired through Loot during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4669.jpg"
+      },
+      {
+        "id": 4670,
+        "title": "PsyOps Master Yi Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4670.jpg"
+      },
+      {
+        "id": 4671,
+        "title": "PsyOps Vi Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4671.jpg"
+      },
+      {
+        "id": 4672,
+        "title": "PsyOps Shen Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4672.jpg"
+      },
+      {
+        "id": 4673,
+        "title": "PsyOps Sona Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4673.jpg"
+      },
+      {
+        "id": 4674,
+        "title": "PsyOps Ezreal Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4674.jpg"
+      },
+      {
+        "id": 4675,
+        "title": "PsyOps Master Yi Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4675.jpg"
+      },
+      {
+        "id": 4676,
+        "title": "PsyOps Vi Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4676.jpg"
+      },
+      {
+        "id": 4677,
+        "title": "PsyOps Shen Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4677.jpg"
+      },
+      {
+        "id": 4678,
+        "title": "PsyOps Sona Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4678.jpg"
+      },
+      {
+        "id": 4679,
+        "title": "PsyOps Ezreal Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige PsyOps Ezreal skin from the 2020 Prestige Points Shop.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4679.jpg"
+      },
+      {
+        "id": 4680,
+        "title": "God Staff Jax Merch Icon",
+        "description": "This icon was available by purchasing an item in the merch store.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4680.jpg"
       },
       {
         "id": 4,
@@ -57229,6 +57724,26 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/201.png"
+      },
+      {
+        "id": 203,
+        "name": "Tellstones: King's Gambit Ward",
+        "defaultDescription": null,
+        "description": "This ward was released to celebrate the release of Tellstones: King's Gambit.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/203.png"
+      },
+      {
+        "id": 204,
+        "name": "PsyOps 2020 Ward",
+        "defaultDescription": null,
+        "description": "This ward was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/204.png"
       }
     ],
     "emotes": [
@@ -61029,6 +61544,24 @@
         "name": "2020 - Split 3 - Challenger",
         "description": null,
         "imagePath": "/assets/emotes/3511.png"
+      },
+      {
+        "id": 3512,
+        "name": "Powering Up!",
+        "description": null,
+        "imagePath": "/assets/emotes/3512.png"
+      },
+      {
+        "id": 3513,
+        "name": "I Will Crush You!",
+        "description": null,
+        "imagePath": "/assets/emotes/3513.png"
+      },
+      {
+        "id": 3514,
+        "name": "Wait Until You See My Tricks!",
+        "description": null,
+        "imagePath": "/assets/emotes/3514.png"
       },
       {
         "id": 3515,
