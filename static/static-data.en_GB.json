@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.18.333.9090",
+  "version": "10.19.336.497",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,14 +12,14 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 150,
-    "skins": 1100,
-    "chromas": 1662,
-    "icons": 2693,
-    "emotes": 643,
-    "wards": 204,
-    "tftcompanions": 461,
-    "tftmapskins": 26
+    "champions": 151,
+    "skins": 1107,
+    "chromas": 1705,
+    "icons": 2742,
+    "emotes": 680,
+    "wards": 205,
+    "tftcompanions": 519,
+    "tftmapskins": 32
   },
   "data": {
     "champions": [
@@ -1485,6 +1485,43 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 7029,
+            "name": "Championship LeBlanc",
+            "description": "Celebrating Worlds 2020 in Shanghai.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/7029.jpg",
+            "chromas": [
+              {
+                "id": 7030,
+                "name": "Championship LeBlanc",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 7031,
+                "name": "Championship LeBlanc",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 7032,
+                "name": "Championship LeBlanc",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -2105,6 +2142,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/10009.jpg",
             "chromas": null
+          },
+          {
+            "id": 10015,
+            "name": "PsyOps Kayle",
+            "description": "A self-described “savior” and powerful psionic swordswoman, Kayle views herself as an impartial judge in world affairs, appearing on wings powered by psychic energy as an angel of war. Her understanding of the world is black and white to a frightening extreme, and she has joined the paramilitary BRG to see her twisted vision realized.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/10015.jpg",
+            "chromas": [
+              {
+                "id": 10016,
+                "name": "PsyOps Kayle",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 10017,
+                "name": "PsyOps Kayle",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 10018,
+                "name": "PsyOps Kayle",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 10019,
+                "name": "PsyOps Kayle",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 10020,
+                "name": "PsyOps Kayle",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 10021,
+                "name": "PsyOps Kayle",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 10022,
+                "name": "PsyOps Kayle",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 10023,
+                "name": "PsyOps Kayle",
+                "description": "This chroma was released as a Loot exclusive in the 2020 PsyOps event.",
+                "colors": [
+                  "#B2D1E4",
+                  "#3CABFF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -11933,7 +12052,7 @@
           {
             "id": 59011,
             "name": "Pool Party Jarvan IV",
-            "description": "A mortal emperor unbound by the destruction of his world, Jarvan's essence has since been reforged by the ageless energies of deep space. His humanity and his people now lost forever, he stands ready to welcome the Dark Star incursion, in the final subjugation of all existence.",
+            "description": "For Jarvan, there's nothing more relaxing than hanging out at the beach. No kingdoms to run, no thrones to sit on (save for his favorite beach chair), just the sound of the waves and, if he listens closely, the faint whistle of a volleyball being spiked directly at him...",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/59011.jpg",
@@ -19426,6 +19545,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/112004.jpg",
             "chromas": null
+          },
+          {
+            "id": 112005,
+            "name": "PsyOps Viktor",
+            "description": "Leader of the rogue military known as the Black Rose Group, Viktor is a psychic technomancer whose vision for a utopian world was abandoned when he suddenly departed High Command decades prior. Obsessed with an alien 'gate' uncovered during the Arctic Ops event, his experiments into human bioweapons would allow him to breach it and upend the global order.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/112005.jpg",
+            "chromas": [
+              {
+                "id": 112006,
+                "name": "PsyOps Viktor",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 112007,
+                "name": "PsyOps Viktor",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 112008,
+                "name": "PsyOps Viktor",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 112009,
+                "name": "PsyOps Viktor",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 112010,
+                "name": "PsyOps Viktor",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 112011,
+                "name": "PsyOps Viktor",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 112012,
+                "name": "PsyOps Viktor",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 112013,
+                "name": "PsyOps Viktor",
+                "description": "This chroma was released as a Loot exclusive in the 2020 PsyOps event.",
+                "colors": [
+                  "#B2D1E4",
+                  "#3CABFF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -23414,6 +23615,15 @@
             ]
           },
           {
+            "id": 157035,
+            "name": "True Damage Yasuo Prestige Edition",
+            "description": "After the global success of “GIANTS,” reclusive producer-extraordinaire Yasuo was inundated with requests. From record deals to clothing sponsorships, he turned down one after another, preferring to stay out of the limelight to focus on the simple joys of making beats. However, A Bathing Ape somehow managed to secure his attention. Now, donning golden threads to match his musical brilliance, Yasuo holds the world's ears at attention—with fans and critics alike waiting to hear his next revolutionary track.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/157035.jpg",
+            "chromas": null
+          },
+          {
             "id": 157036,
             "name": "Spirit Blossom Yasuo",
             "description": "Long ago, two brothers fought a bitter war across Ionia. Yasuo, the younger brother, was a warlord renowned for his roguish demeanor—until he was accused of crimes against the country and took up arms to defend himself. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris.",
@@ -25442,6 +25652,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/238013.jpg",
             "chromas": null
+          },
+          {
+            "id": 238015,
+            "name": "PsyOps Zed",
+            "description": "Known as the “Gas Can Man” in paramilitary circles, Zed is an infamous mercenary picked up by the Black Rose Group during one of their covert actions. His psionic powers are tied to a mysterious oil-like substance he ingests through his mask, allowing him to duplicate himself for assassinations and open combat.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/238015.jpg",
+            "chromas": [
+              {
+                "id": 238016,
+                "name": "PsyOps Zed",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 238017,
+                "name": "PsyOps Zed",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 238018,
+                "name": "PsyOps Zed",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 238019,
+                "name": "PsyOps Zed",
+                "description": "This chroma was released as a Loot exclusive in the 2020 PsyOps event.",
+                "colors": [
+                  "#B2D1E4",
+                  "#3CABFF"
+                ]
+              },
+              {
+                "id": 238020,
+                "name": "PsyOps Zed",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 238021,
+                "name": "PsyOps Zed",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 238022,
+                "name": "PsyOps Zed",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 238023,
+                "name": "PsyOps Zed",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -26879,6 +27171,112 @@
                 "colors": [
                   "#85827F",
                   "#85827F"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 360,
+        "name": "Samira",
+        "alias": "Samira",
+        "title": "the Desert Rose",
+        "releaseDate": "2020-09-01",
+        "associatedFactionSlug": "noxus",
+        "shortBio": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on dangerous missions of the highest caliber. Wielding black-powder pistols and a custom-engineered blade, Samira thrives in life-or-death circumstances, eliminating any who stand in her way with flash and flair.",
+        "squarePortraitPath": "/assets/champions/portraits/360.png",
+        "roles": [
+          "marksman"
+        ],
+        "skins": [
+          {
+            "id": 360000,
+            "name": "Samira (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/360000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 360001,
+            "name": "PsyOps Samira",
+            "description": "<TRA PLACEHOLDER>",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/360001.jpg",
+            "chromas": [
+              {
+                "id": 360002,
+                "name": "PsyOps Samira",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 360003,
+                "name": "PsyOps Samira",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 360004,
+                "name": "PsyOps Samira",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 360005,
+                "name": "PsyOps Samira",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 360006,
+                "name": "PsyOps Samira",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 360007,
+                "name": "PsyOps Samira",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 360008,
+                "name": "PsyOps Samira",
+                "description": "This chroma was released as a Loot exclusive in the 2020 PsyOps event.",
+                "colors": [
+                  "#B2D1E4",
+                  "#3CABFF"
+                ]
+              },
+              {
+                "id": 360009,
+                "name": "PsyOps Samira",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -28589,6 +28987,88 @@
                 "colors": [
                   "#FF5500",
                   "#162B30"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 555025,
+            "name": "PsyOps Pyke",
+            "description": "A member of the Black Rose Group's leadership and a powerful spiritual medium, Pyke's mastery of psychic power allows him to jump across the barrier separating the living and the dead. This process has slowly eaten at his mind, leaving him a half-deranged killer screaming at literal ghosts.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/555025.jpg",
+            "chromas": [
+              {
+                "id": 555026,
+                "name": "PsyOps Pyke",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 555027,
+                "name": "PsyOps Pyke",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 555028,
+                "name": "PsyOps Pyke",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 555029,
+                "name": "PsyOps Pyke",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 555030,
+                "name": "PsyOps Pyke",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 555031,
+                "name": "PsyOps Pyke",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 555032,
+                "name": "PsyOps Pyke",
+                "description": "This chroma was released as a Loot exclusive in the 2020 PsyOps event.",
+                "colors": [
+                  "#B2D1E4",
+                  "#3CABFF"
+                ]
+              },
+              {
+                "id": 555033,
+                "name": "PsyOps Pyke",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -50805,6 +51285,496 @@
         "imagePath": "/assets/icons/4680.jpg"
       },
       {
+        "id": 4681,
+        "title": "PsyOps Samira Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4681.jpg"
+      },
+      {
+        "id": 4682,
+        "title": "PsyOps Kayle Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4682.jpg"
+      },
+      {
+        "id": 4683,
+        "title": "PsyOps Pyke Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4683.jpg"
+      },
+      {
+        "id": 4684,
+        "title": "PsyOps Viktor Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4684.jpg"
+      },
+      {
+        "id": 4685,
+        "title": "PsyOps Zed Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4685.jpg"
+      },
+      {
+        "id": 4686,
+        "title": "PsyOps Samira Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4686.jpg"
+      },
+      {
+        "id": 4687,
+        "title": "PsyOps Kayle Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4687.jpg"
+      },
+      {
+        "id": 4688,
+        "title": "Championship LeBlanc Icon",
+        "description": "This icon was acquired during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4688.jpg"
+      },
+      {
+        "id": 4689,
+        "title": "Irelia &  Talon Duo Merch Icon",
+        "description": "This icon was available for purchase in the store.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4689.jpg"
+      },
+      {
+        "id": 4690,
+        "title": "Full Moon Poro Icon",
+        "description": "Make a wish to the full moon! This icon was granted through the 2020 Hangawi event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4690.jpg"
+      },
+      {
+        "id": 4691,
+        "title": "Dancing in the Moonlight Poro Icon",
+        "description": "Let's Ganggangsullae! This icon was granted through the 2020 Hangawi event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4691.jpg"
+      },
+      {
+        "id": 4692,
+        "title": "Team Liquid Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4692.jpg"
+      },
+      {
+        "id": 4693,
+        "title": "TSM Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4693.jpg"
+      },
+      {
+        "id": 4694,
+        "title": "EVOS Esports Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4694.jpg"
+      },
+      {
+        "id": 4695,
+        "title": "FlyQuest Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4695.jpg"
+      },
+      {
+        "id": 4696,
+        "title": "GAM Esports Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4696.jpg"
+      },
+      {
+        "id": 4697,
+        "title": "Team Flash Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4697.jpg"
+      },
+      {
+        "id": 4698,
+        "title": "G2 Esports Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4698.jpg"
+      },
+      {
+        "id": 4699,
+        "title": "Fnatic Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4699.jpg"
+      },
+      {
+        "id": 4700,
+        "title": "MAD Lions Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4700.jpg"
+      },
+      {
+        "id": 4701,
+        "title": "Rogue Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4701.jpg"
+      },
+      {
+        "id": 4704,
+        "title": "T1 Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4704.jpg"
+      },
+      {
+        "id": 4705,
+        "title": "Gen.G Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4705.jpg"
+      },
+      {
+        "id": 4706,
+        "title": "DRX Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4706.jpg"
+      },
+      {
+        "id": 4707,
+        "title": "DAMWON Gaming Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4707.jpg"
+      },
+      {
+        "id": 4708,
+        "title": "kt Rolster Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4708.jpg"
+      },
+      {
+        "id": 4709,
+        "title": "Afreeca Freecs Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4709.jpg"
+      },
+      {
+        "id": 4710,
+        "title": "JD Gaming Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4710.jpg"
+      },
+      {
+        "id": 4711,
+        "title": "Top Esports Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4711.jpg"
+      },
+      {
+        "id": 4712,
+        "title": "Suning Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4712.jpg"
+      },
+      {
+        "id": 4713,
+        "title": "LGD Gaming Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4713.jpg"
+      },
+      {
+        "id": 4717,
+        "title": "5 Ronin Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4717.jpg"
+      },
+      {
+        "id": 4718,
+        "title": "Papara SuperMassive Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4718.jpg"
+      },
+      {
+        "id": 4720,
+        "title": "Unicorns Of Love Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4720.jpg"
+      },
+      {
+        "id": 4721,
+        "title": "Gambit Esports Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4721.jpg"
+      },
+      {
+        "id": 4723,
+        "title": "Rainbow7 Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4723.jpg"
+      },
+      {
+        "id": 4725,
+        "title": "paiN Gaming Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4725.jpg"
+      },
+      {
+        "id": 4726,
+        "title": "INTZ Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4726.jpg"
+      },
+      {
+        "id": 4730,
+        "title": "Legacy Esports Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4730.jpg"
+      },
+      {
+        "id": 4732,
+        "title": "V3 Esports Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4732.jpg"
+      },
+      {
+        "id": 4733,
+        "title": "Sengoku Gaming Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4733.jpg"
+      },
+      {
+        "id": 4735,
+        "title": "DetonatioN FocusMe Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4735.jpg"
+      },
+      {
+        "id": 4736,
+        "title": "Machi Esports Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4736.jpg"
+      },
+      {
+        "id": 4737,
+        "title": "PSG.Talon Esports Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4737.jpg"
+      },
+      {
+        "id": 4741,
+        "title": "Worlds 2020 Icon",
+        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4741.jpg"
+      },
+      {
+        "id": 4742,
+        "title": "PsyOps Pyke Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4742.jpg"
+      },
+      {
+        "id": 4743,
+        "title": "PsyOps Viktor Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4743.jpg"
+      },
+      {
+        "id": 4744,
+        "title": "PsyOps Zed Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4744.jpg"
+      },
+      {
+        "id": 4745,
+        "title": "True Damage Yasuo Prestige Icon",
+        "description": "This icon was acquired by obtaining the Prestige True Damage Yasuo skin from the 2020 Prestige Point Shop.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4745.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -57744,6 +58714,16 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/204.png"
+      },
+      {
+        "id": 206,
+        "name": "Championship Ward 2020",
+        "defaultDescription": null,
+        "description": "This ward was unlocked during the 2020 Worlds event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/206.png"
       }
     ],
     "emotes": [
@@ -61570,6 +62550,228 @@
         "imagePath": "/assets/emotes/3515.png"
       },
       {
+        "id": 3516,
+        "name": "You're Already Dead",
+        "description": "This emote was earned from the TFT Fates Pass.",
+        "imagePath": "/assets/emotes/3516.png"
+      },
+      {
+        "id": 3517,
+        "name": "Hooray",
+        "description": "This emote was earned from the TFT Fates Pass.",
+        "imagePath": "/assets/emotes/3517.png"
+      },
+      {
+        "id": 3518,
+        "name": "Pwease?",
+        "description": "This emote was earned from the TFT Fates Pass.",
+        "imagePath": "/assets/emotes/3518.png"
+      },
+      {
+        "id": 3528,
+        "name": "Team Liquid",
+        "description": null,
+        "imagePath": "/assets/emotes/3528.png"
+      },
+      {
+        "id": 3529,
+        "name": "TSM",
+        "description": null,
+        "imagePath": "/assets/emotes/3529.png"
+      },
+      {
+        "id": 3530,
+        "name": "FlyQuest",
+        "description": null,
+        "imagePath": "/assets/emotes/3530.png"
+      },
+      {
+        "id": 3531,
+        "name": "G2 Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3531.png"
+      },
+      {
+        "id": 3532,
+        "name": "Fnatic",
+        "description": null,
+        "imagePath": "/assets/emotes/3532.png"
+      },
+      {
+        "id": 3533,
+        "name": "MAD Lions",
+        "description": null,
+        "imagePath": "/assets/emotes/3533.png"
+      },
+      {
+        "id": 3534,
+        "name": "Rogue",
+        "description": null,
+        "imagePath": "/assets/emotes/3534.png"
+      },
+      {
+        "id": 3535,
+        "name": "T1",
+        "description": null,
+        "imagePath": "/assets/emotes/3535.png"
+      },
+      {
+        "id": 3536,
+        "name": "Gen.G",
+        "description": null,
+        "imagePath": "/assets/emotes/3536.png"
+      },
+      {
+        "id": 3537,
+        "name": "DRX",
+        "description": null,
+        "imagePath": "/assets/emotes/3537.png"
+      },
+      {
+        "id": 3538,
+        "name": "DAMWON Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3538.png"
+      },
+      {
+        "id": 3539,
+        "name": "kt Rolster",
+        "description": null,
+        "imagePath": "/assets/emotes/3539.png"
+      },
+      {
+        "id": 3540,
+        "name": "Afreeca Freecs",
+        "description": null,
+        "imagePath": "/assets/emotes/3540.png"
+      },
+      {
+        "id": 3541,
+        "name": "JD Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3541.png"
+      },
+      {
+        "id": 3542,
+        "name": "Top Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3542.png"
+      },
+      {
+        "id": 3543,
+        "name": "Suning",
+        "description": null,
+        "imagePath": "/assets/emotes/3543.png"
+      },
+      {
+        "id": 3544,
+        "name": "LGD Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3544.png"
+      },
+      {
+        "id": 3545,
+        "name": "5 Ronin",
+        "description": null,
+        "imagePath": "/assets/emotes/3545.png"
+      },
+      {
+        "id": 3546,
+        "name": "Papara SuperMassive",
+        "description": null,
+        "imagePath": "/assets/emotes/3546.png"
+      },
+      {
+        "id": 3547,
+        "name": "Unicorns Of Love",
+        "description": null,
+        "imagePath": "/assets/emotes/3547.png"
+      },
+      {
+        "id": 3548,
+        "name": "Rainbow7",
+        "description": null,
+        "imagePath": "/assets/emotes/3548.png"
+      },
+      {
+        "id": 3549,
+        "name": "paiN Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3549.png"
+      },
+      {
+        "id": 3550,
+        "name": "INTZ",
+        "description": null,
+        "imagePath": "/assets/emotes/3550.png"
+      },
+      {
+        "id": 3551,
+        "name": "Legacy Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3551.png"
+      },
+      {
+        "id": 3552,
+        "name": "V3 Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3552.png"
+      },
+      {
+        "id": 3553,
+        "name": "Sengoku Gaming",
+        "description": null,
+        "imagePath": "/assets/emotes/3553.png"
+      },
+      {
+        "id": 3554,
+        "name": "DetonatioN FocusMe",
+        "description": null,
+        "imagePath": "/assets/emotes/3554.png"
+      },
+      {
+        "id": 3555,
+        "name": "Machi Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3555.png"
+      },
+      {
+        "id": 3556,
+        "name": "PSG.Talon Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3556.png"
+      },
+      {
+        "id": 3557,
+        "name": "Worlds 2020",
+        "description": null,
+        "imagePath": "/assets/emotes/3557.png"
+      },
+      {
+        "id": 3558,
+        "name": "EVOS Esports Icon",
+        "description": null,
+        "imagePath": "/assets/emotes/3558.png"
+      },
+      {
+        "id": 3559,
+        "name": "GAM Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3559.png"
+      },
+      {
+        "id": 3560,
+        "name": "Team Flash",
+        "description": null,
+        "imagePath": "/assets/emotes/3560.png"
+      },
+      {
+        "id": 3561,
+        "name": "Gambit Esports",
+        "description": null,
+        "imagePath": "/assets/emotes/3561.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -61750,6 +62952,150 @@
         "species": "Ossia",
         "level": 3,
         "imagePath": "/assets/tftcompanions/13006.png"
+      },
+      {
+        "id": 25001,
+        "name": "Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25001.png"
+      },
+      {
+        "id": 25002,
+        "name": "Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25002.png"
+      },
+      {
+        "id": 25003,
+        "name": "Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25003.png"
+      },
+      {
+        "id": 25010,
+        "name": "Dark Star Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25010.png"
+      },
+      {
+        "id": 25011,
+        "name": "Dark Star Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25011.png"
+      },
+      {
+        "id": 25012,
+        "name": "Dark Star Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25012.png"
+      },
+      {
+        "id": 25013,
+        "name": "Divine Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25013.png"
+      },
+      {
+        "id": 25014,
+        "name": "Divine Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25014.png"
+      },
+      {
+        "id": 25015,
+        "name": "Divine Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25015.png"
+      },
+      {
+        "id": 25004,
+        "name": "Elder Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25004.png"
+      },
+      {
+        "id": 25005,
+        "name": "Elder Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25005.png"
+      },
+      {
+        "id": 25006,
+        "name": "Elder Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25006.png"
+      },
+      {
+        "id": 25007,
+        "name": "Firecracker Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25007.png"
+      },
+      {
+        "id": 25008,
+        "name": "Firecracker Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25008.png"
+      },
+      {
+        "id": 25009,
+        "name": "Firecracker Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25009.png"
+      },
+      {
+        "id": 25016,
+        "name": "Star Forger Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25016.png"
+      },
+      {
+        "id": 25017,
+        "name": "Star Forger Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25017.png"
+      },
+      {
+        "id": 25018,
+        "name": "Star Forger Ao Shin",
+        "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25018.png"
       },
       {
         "id": 24013,
@@ -62038,6 +63384,150 @@
         "species": "Flutterbug",
         "level": 3,
         "imagePath": "/assets/tftcompanions/17006.png"
+      },
+      {
+        "id": 27004,
+        "name": "Atlantean Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27004.png"
+      },
+      {
+        "id": 27005,
+        "name": "Atlantean Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27005.png"
+      },
+      {
+        "id": 27006,
+        "name": "Atlantean Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27006.png"
+      },
+      {
+        "id": 27001,
+        "name": "Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27001.png"
+      },
+      {
+        "id": 27002,
+        "name": "Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27002.png"
+      },
+      {
+        "id": 27003,
+        "name": "Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27003.png"
+      },
+      {
+        "id": 27007,
+        "name": "Earth Titan Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27007.png"
+      },
+      {
+        "id": 27008,
+        "name": "Earth Titan Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27008.png"
+      },
+      {
+        "id": 27009,
+        "name": "Earth Titan Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27009.png"
+      },
+      {
+        "id": 27010,
+        "name": "Fireborn Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27010.png"
+      },
+      {
+        "id": 27011,
+        "name": "Fireborn Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27011.png"
+      },
+      {
+        "id": 27012,
+        "name": "Fireborn Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27012.png"
+      },
+      {
+        "id": 27016,
+        "name": "Honeybuzz Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27016.png"
+      },
+      {
+        "id": 27017,
+        "name": "Honeybuzz Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27017.png"
+      },
+      {
+        "id": 27018,
+        "name": "Honeybuzz Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27018.png"
+      },
+      {
+        "id": 27013,
+        "name": "Precious Panda Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27013.png"
+      },
+      {
+        "id": 27014,
+        "name": "Precious Panda Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27014.png"
+      },
+      {
+        "id": 27015,
+        "name": "Precious Panda Choncc",
+        "description": "As a whelpling, Choncc is eternally hungry and perpetually sleepy. While favored for their mellow nature, Choncc can be roused to ferocious power if provoked—or cajoled into action with the right snacks.",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27015.png"
       },
       {
         "id": 19016,
@@ -64600,6 +66090,30 @@
         "imagePath": "/assets/tftcompanions/11009.png"
       },
       {
+        "id": 11019,
+        "name": "Lucky Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/11019.png"
+      },
+      {
+        "id": 11020,
+        "name": "Lucky Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/11020.png"
+      },
+      {
+        "id": 11021,
+        "name": "Lucky Fuwa",
+        "description": "Fuwa longs to someday find the Guardian it's destined for.",
+        "species": "Fuwa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/11021.png"
+      },
+      {
         "id": 12016,
         "name": "Corrupted Shisa",
         "description": "Shisa aims to protect the Star Guardians and all those in its care",
@@ -65136,6 +66650,14 @@
         "imagePath": "/assets/tftcompanions/1.png"
       },
       {
+        "id": 4,
+        "name": "Jade Emperor Sprite",
+        "description": "River Sprite.",
+        "species": "River Sprite",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4.png"
+      },
+      {
         "id": 3,
         "name": "Star Guardian Sprite",
         "description": "River Sprite",
@@ -65294,6 +66816,150 @@
         "species": "Paddlemar",
         "level": 3,
         "imagePath": "/assets/tftcompanions/8018.png"
+      },
+      {
+        "id": 26004,
+        "name": "Black Mist Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/26004.png"
+      },
+      {
+        "id": 26005,
+        "name": "Black Mist Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/26005.png"
+      },
+      {
+        "id": 26006,
+        "name": "Black Mist Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/26006.png"
+      },
+      {
+        "id": 26013,
+        "name": "Blood Moon Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/26013.png"
+      },
+      {
+        "id": 26014,
+        "name": "Blood Moon Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/26014.png"
+      },
+      {
+        "id": 26015,
+        "name": "Blood Moon Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/26015.png"
+      },
+      {
+        "id": 26001,
+        "name": "Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/26001.png"
+      },
+      {
+        "id": 26002,
+        "name": "Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/26002.png"
+      },
+      {
+        "id": 26003,
+        "name": "Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/26003.png"
+      },
+      {
+        "id": 26007,
+        "name": "Fruity-tooty Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/26007.png"
+      },
+      {
+        "id": 26008,
+        "name": "Fruity-tooty Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/26008.png"
+      },
+      {
+        "id": 26009,
+        "name": "Fruity-tooty Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/26009.png"
+      },
+      {
+        "id": 26016,
+        "name": "Hexgold Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/26016.png"
+      },
+      {
+        "id": 26017,
+        "name": "Hexgold Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/26017.png"
+      },
+      {
+        "id": 26018,
+        "name": "Hexgold Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/26018.png"
+      },
+      {
+        "id": 26010,
+        "name": "Thunderbeast Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/26010.png"
+      },
+      {
+        "id": 26011,
+        "name": "Thunderbeast Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/26011.png"
+      },
+      {
+        "id": 26012,
+        "name": "Thunderbeast Umbra",
+        "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
+        "species": "Umbra",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/26012.png"
       }
     ],
     "tftmapskins": [
@@ -65436,6 +67102,24 @@
         "imagePath": "/assets/tftmapskins/32.png"
       },
       {
+        "id": 33,
+        "name": "Destination",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/33.png"
+      },
+      {
+        "id": 35,
+        "name": "Outset",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/35.png"
+      },
+      {
+        "id": 34,
+        "name": "Path",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/34.png"
+      },
+      {
         "id": 21,
         "name": "Odyssey Jinx Arena",
         "description": null,
@@ -65452,6 +67136,24 @@
         "name": "Odyssey Yasuo Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/22.png"
+      },
+      {
+        "id": 29,
+        "name": "Kanmei Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/29.png"
+      },
+      {
+        "id": 28,
+        "name": "Festival Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/28.png"
+      },
+      {
+        "id": 30,
+        "name": "Akana Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/30.png"
       }
     ]
   }
