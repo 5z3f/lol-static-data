@@ -1,5 +1,5 @@
-# League.StaticData
-Simple tool for gathering static data from League of Legends client, mainly writted for own needs\
+# lol-static-data
+Simple tool for gathering static data from League of Legends client\
 **Using League Client API**
 
 Should be working for all regions supported by RiotGames, Garena and Tencent servers are not tested\

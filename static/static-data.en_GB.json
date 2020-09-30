@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.19.336.497",
+  "version": "10.20.337.6704",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,11 +13,11 @@
   ],
   "info": {
     "champions": 151,
-    "skins": 1107,
-    "chromas": 1705,
-    "icons": 2742,
-    "emotes": 680,
-    "wards": 205,
+    "skins": 1113,
+    "chromas": 1735,
+    "icons": 2762,
+    "emotes": 683,
+    "wards": 207,
     "tftcompanions": 519,
     "tftmapskins": 32
   },
@@ -1491,7 +1491,7 @@
             "name": "Championship LeBlanc",
             "description": "Celebrating Worlds 2020 in Shanghai.",
             "rarity": "kEpic",
-            "isLegacy": false,
+            "isLegacy": true,
             "tilePath": "/assets/champions/tiles/7029.jpg",
             "chromas": [
               {
@@ -5234,6 +5234,88 @@
                 "colors": [
                   "#9C68D7",
                   "#9C68D7"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 22023,
+            "name": "Fae Dragon Ashe",
+            "description": "Ashe led her tribe into a mysterious forest to protect them from Brand's destruction. There, she happened upon the Fae Dragon, who sensed her immense power and devotion to her people and blessed her with its arcane magic. Now, Ashe weaves spells to keep them safe while biding her time for her revenge. ",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/22023.jpg",
+            "chromas": [
+              {
+                "id": 22024,
+                "name": "Fae Dragon Ashe",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 22025,
+                "name": "Fae Dragon Ashe",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 22026,
+                "name": "Fae Dragon Ashe",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 22027,
+                "name": "Fae Dragon Ashe",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 22028,
+                "name": "Fae Dragon Ashe",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 22029,
+                "name": "Fae Dragon Ashe",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 22030,
+                "name": "Fae Dragon Ashe",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#88FF00",
+                  "#00B170"
+                ]
+              },
+              {
+                "id": 22031,
+                "name": "Fae Dragon Ashe",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
                 ]
               }
             ]
@@ -12602,6 +12684,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 63008,
+            "name": "Eternal Dragon Brand",
+            "description": "Intoxicated by the power over life and death he received from the Eternal Dragon, Brand now spreads death and decay across the land. Now that his dragon benefactor has retreated from the affairs of mortals, only other dragon-blessed can fight against the rot Brand leaves in his wake as he asserts his prowess.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/63008.jpg",
+            "chromas": [
+              {
+                "id": 63013,
+                "name": "Eternal Dragon Brand",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 63014,
+                "name": "Eternal Dragon Brand",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 63015,
+                "name": "Eternal Dragon Brand",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 63016,
+                "name": "Eternal Dragon Brand",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 63017,
+                "name": "Eternal Dragon Brand",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#88FF00",
+                  "#00B170"
+                ]
+              },
+              {
+                "id": 63018,
+                "name": "Eternal Dragon Brand",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 63019,
+                "name": "Eternal Dragon Brand",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 63020,
+                "name": "Eternal Dragon Brand",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -12888,6 +13052,70 @@
                 "colors": [
                   "#0C0C0F",
                   "#9B1520"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 64031,
+            "name": "Storm Dragon Lee Sin",
+            "description": "A warrior ascetic consumed with an electric passion for justice, Lee Sin climbed the mountain of the storm dragon Ao Shin, hoping to receive his blessing. Having returned from the summit as a legendary Dragonmancer, Lee Sin now doles out thunderous punishment to villains everywhere—ever under the watchful eye of his draconic patron.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/64031.jpg",
+            "chromas": [
+              {
+                "id": 64032,
+                "name": "Storm Dragon Lee Sin",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 64033,
+                "name": "Storm Dragon Lee Sin",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#88FF00",
+                  "#00B170"
+                ]
+              },
+              {
+                "id": 64034,
+                "name": "Storm Dragon Lee Sin",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 64035,
+                "name": "Storm Dragon Lee Sin",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 64036,
+                "name": "Storm Dragon Lee Sin",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 64037,
+                "name": "Storm Dragon Lee Sin",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -22446,6 +22674,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 136011,
+            "name": "Storm Dragon Aurelion Sol",
+            "description": "The dragon Aurelion Sol, known to seven generations of worshippers as Ao Shin, has long awaited the ascent of a warrior worthy of receiving the power of the storm. Now, with Lee Sin's transformation into the Dragonmancer, Ao Shin has directed his impossible power towards purging the world of evil.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/136011.jpg",
+            "chromas": [
+              {
+                "id": 136012,
+                "name": "Storm Dragon Aurelion Sol",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 136013,
+                "name": "Storm Dragon Aurelion Sol",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 136014,
+                "name": "Storm Dragon Aurelion Sol",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#88FF00",
+                  "#00B170"
+                ]
+              },
+              {
+                "id": 136015,
+                "name": "Storm Dragon Aurelion Sol",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 136016,
+                "name": "Storm Dragon Aurelion Sol",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 136017,
+                "name": "Storm Dragon Aurelion Sol",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 136018,
+                "name": "Storm Dragon Aurelion Sol",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 136019,
+                "name": "Storm Dragon Aurelion Sol",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -27182,7 +27492,7 @@
         "name": "Samira",
         "alias": "Samira",
         "title": "the Desert Rose",
-        "releaseDate": "2020-09-01",
+        "releaseDate": "2020-09-21",
         "associatedFactionSlug": "noxus",
         "shortBio": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on dangerous missions of the highest caliber. Wielding black-powder pistols and a custom-engineered blade, Samira thrives in life-or-death circumstances, eliminating any who stand in her way with flash and flair.",
         "squarePortraitPath": "/assets/champions/portraits/360.png",
@@ -27202,7 +27512,7 @@
           {
             "id": 360001,
             "name": "PsyOps Samira",
-            "description": "<TRA PLACEHOLDER>",
+            "description": "Fearless and deadly, Samira was once a renowned soldier of fortune. A born thrill seeker, she fights not for fame or wealth, but to push the limits of her skill. Through intense training, her innate psychic powers have been fully unleashed, allowing her to turn every mission and every kill into a thrilling display of stylish flair.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/360001.jpg",
@@ -28996,7 +29306,7 @@
             "name": "PsyOps Pyke",
             "description": "A member of the Black Rose Group's leadership and a powerful spiritual medium, Pyke's mastery of psychic power allows him to jump across the barrier separating the living and the dead. This process has slowly eaten at his mind, leaving him a half-deranged killer screaming at literal ghosts.",
             "rarity": "kEpic",
-            "isLegacy": true,
+            "isLegacy": false,
             "tilePath": "/assets/champions/tiles/555025.jpg",
             "chromas": [
               {
@@ -29268,6 +29578,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 875008,
+            "name": "Obsidian Dragon Sett",
+            "description": "Once an outcast child, Sett swore he would gain power to destroy anyone who made him feel weak. The Obsidian Dragon took notice of his grit and ferocity and blessed him with obsidian-hardened skin. Sett now uses his superhuman strength to make a name for himself as a pit fighter, and every hit that bounces off his crystalline skin makes his enemies tremble.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/875008.jpg",
+            "chromas": null
+          },
+          {
+            "id": 875009,
+            "name": "Obsidian Dragon Sett Prestige Edition",
+            "description": "After cementing his reputation as an indomitable pit fighter, Sett used his winnings to give his mother the comfortable life of their dreams. With her happiness secured, Sett returns to the pits, determined to mentor talented young fighters and remake the fighting pits into a system that rewards not the richest or the largest, but the most determined.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/875009.jpg",
+            "chromas": null
           }
         ]
       },
@@ -51367,7 +51695,7 @@
       {
         "id": 4689,
         "title": "Irelia &  Talon Duo Merch Icon",
-        "description": "This icon was available for purchase in the store.",
+        "description": "This icon was available for purchase in the merch store.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -51377,7 +51705,7 @@
       {
         "id": 4690,
         "title": "Full Moon Poro Icon",
-        "description": "Make a wish to the full moon! This icon was granted through the 2020 Hangawi event.",
+        "description": "Make a wish to the full moon! This icon was granted through the 2020 Autumn Holiday event.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -51387,7 +51715,7 @@
       {
         "id": 4691,
         "title": "Dancing in the Moonlight Poro Icon",
-        "description": "Let's Ganggangsullae! This icon was granted through the 2020 Hangawi event.",
+        "description": "Let's Ganggangsullae! This icon was granted through the 2020 Autumn Holiday event.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -51773,6 +52101,206 @@
         "rarity": "kMythic",
         "isLegacy": false,
         "imagePath": "/assets/icons/4745.jpg"
+      },
+      {
+        "id": 4746,
+        "title": "Storm Dragon Aurelion Sol Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4746.jpg"
+      },
+      {
+        "id": 4747,
+        "title": "Eternal Dragon Brand Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4747.jpg"
+      },
+      {
+        "id": 4748,
+        "title": "Obsidian Dragon Sett Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4748.jpg"
+      },
+      {
+        "id": 4749,
+        "title": "Fae Dragon Ashe Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4749.jpg"
+      },
+      {
+        "id": 4750,
+        "title": "Storm Dragon Lee Sin Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4750.jpg"
+      },
+      {
+        "id": 4751,
+        "title": "Storm Dragon Aurelion Sol Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4751.jpg"
+      },
+      {
+        "id": 4752,
+        "title": "Eternal Dragon Brand Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4752.jpg"
+      },
+      {
+        "id": 4753,
+        "title": "Obsidian Dragon Sett Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4753.jpg"
+      },
+      {
+        "id": 4754,
+        "title": "Fae Dragon Ashe Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4754.jpg"
+      },
+      {
+        "id": 4755,
+        "title": "Storm Dragon Lee Sin Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4755.jpg"
+      },
+      {
+        "id": 4756,
+        "title": "2020 Dragonmancer Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4756.jpg"
+      },
+      {
+        "id": 4757,
+        "title": "Obsidian Dragon Sett Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Obsidian Dragon Sett skin with event tokens during the Worlds 2020 event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4757.jpg"
+      },
+      {
+        "id": 4758,
+        "title": "2020 Odyssey Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4758.jpg"
+      },
+      {
+        "id": 4759,
+        "title": "2020 K/DA ALL OUT Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4759.jpg"
+      },
+      {
+        "id": 4760,
+        "title": "Pick'em Poro Predictor",
+        "description": "This icon was earned by reaching the Greater Murk Wolf tier in Worlds 2020 Pick'em",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4760.jpg"
+      },
+      {
+        "id": 4761,
+        "title": "Pick'em Poro Forecaster",
+        "description": "This icon was earned by reaching the Gromp tier in Worlds 2020 Pick'em.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4761.jpg"
+      },
+      {
+        "id": 4762,
+        "title": "Pick'em Poro Sage",
+        "description": "This icon was earned by reaching the Ancient Krug tier in Worlds 2020 Pick'em.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": null,
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4762.jpg"
+      },
+      {
+        "id": 4763,
+        "title": "Pick'em Poro Prophet",
+        "description": "This icon was earned by reaching the Crimson Raptor tier in Worlds 2020 Pick'em.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4763.jpg"
+      },
+      {
+        "id": 4764,
+        "title": "Worlds 2020 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4764.jpg"
+      },
+      {
+        "id": 4765,
+        "title": "Worlds 2020 Event Prestige Points Icon",
+        "description": "This icon was acquired through Loot during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4765.jpg"
       },
       {
         "id": 4,
@@ -58716,6 +59244,16 @@
         "imagePath": "/assets/wards/204.png"
       },
       {
+        "id": 205,
+        "name": "K/DA ALL OUT Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired during the 2020 Worlds event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/205.png"
+      },
+      {
         "id": 206,
         "name": "Championship Ward 2020",
         "defaultDescription": null,
@@ -58724,6 +59262,16 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/206.png"
+      },
+      {
+        "id": 207,
+        "name": "Dragonmancer Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired during the 2020 Worlds event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/207.png"
       }
     ],
     "emotes": [
@@ -62566,6 +63114,24 @@
         "name": "Pwease?",
         "description": "This emote was earned from the TFT Fates Pass.",
         "imagePath": "/assets/emotes/3518.png"
+      },
+      {
+        "id": 3519,
+        "name": "Sorry Not Sorry!",
+        "description": null,
+        "imagePath": "/assets/emotes/3519.png"
+      },
+      {
+        "id": 3520,
+        "name": "Eww",
+        "description": null,
+        "imagePath": "/assets/emotes/3520.png"
+      },
+      {
+        "id": 3521,
+        "name": "Hmm",
+        "description": null,
+        "imagePath": "/assets/emotes/3521.png"
       },
       {
         "id": 3528,
