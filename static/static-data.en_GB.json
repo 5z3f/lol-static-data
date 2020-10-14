@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.20.337.6704",
+  "version": "10.21.339.2173",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,12 +13,12 @@
   ],
   "info": {
     "champions": 151,
-    "skins": 1113,
-    "chromas": 1735,
-    "icons": 2762,
-    "emotes": 683,
+    "skins": 1122,
+    "chromas": 1829,
+    "icons": 2787,
+    "emotes": 690,
     "wards": 207,
-    "tftcompanions": 519,
+    "tftcompanions": 521,
     "tftmapskins": 32
   },
   "data": {
@@ -714,6 +714,97 @@
                 "colors": [
                   "#162D57",
                   "#A50031"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4013,
+            "name": "Odyssey Twisted Fate",
+            "description": "A space smuggler erroneously known for discretion, as well as his impractically famous ship, The Wildcard, Twisted Fate was hired by Karma to free some templars from some space pirates. He has only just begun to notice that the other mercs on the job are better known for wetwork than simple heists...",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/4013.jpg",
+            "chromas": [
+              {
+                "id": 4014,
+                "name": "Odyssey Twisted Fate",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 4015,
+                "name": "Odyssey Twisted Fate",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 4016,
+                "name": "Odyssey Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 4017,
+                "name": "Odyssey Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 4018,
+                "name": "Odyssey Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 4019,
+                "name": "Odyssey Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 4020,
+                "name": "Odyssey Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 4021,
+                "name": "Odyssey Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 4022,
+                "name": "Odyssey Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
                 ]
               }
             ]
@@ -3551,6 +3642,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 15025,
+            "name": "Odyssey Sivir",
+            "description": "Sivir runs her own small bounty hunting operation on the fringes of the galaxy. She's self-made and tough, having lost her parents to the Demaxian empire many years prior, but holds on to her soft and sympathetic side despite that hardened exterior. Sivir was hired by Karma, along with the other mercs, to free the captured templars.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/15025.jpg",
+            "chromas": [
+              {
+                "id": 15026,
+                "name": "Odyssey Sivir",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 15027,
+                "name": "Odyssey Sivir",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 15028,
+                "name": "Odyssey Sivir",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 15029,
+                "name": "Odyssey Sivir",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 15030,
+                "name": "Odyssey Sivir",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 15031,
+                "name": "Odyssey Sivir",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 15032,
+                "name": "Odyssey Sivir",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 15033,
+                "name": "Odyssey Sivir",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -3910,7 +4083,89 @@
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/17014.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 17028,
+                "name": "Little Devil Teemo",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 17029,
+                "name": "Little Devil Teemo",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 17030,
+                "name": "Little Devil Teemo",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 17031,
+                "name": "Little Devil Teemo",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 17032,
+                "name": "Little Devil Teemo",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 17033,
+                "name": "Little Devil Teemo",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 17034,
+                "name": "Little Devil Teemo",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 17035,
+                "name": "Little Devil Teemo",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 17036,
+                "name": "Little Devil Teemo",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              }
+            ]
           },
           {
             "id": 17018,
@@ -5006,7 +5261,7 @@
           {
             "id": 21020,
             "name": "Bewitching Miss Fortune Prestige Edition",
-            "description": "Having wrestled control of the lion's share of sweets from ghastly spirits and unruly children alike, Miss Fortune now rules over the night. Her reign is one filled with revelry and mischief.",
+            "description": "A powerful witch with a flair for the dramatic, and a soft spot for misguided monsters, Miss Fortune has resurfaced for an evening of adventure with her spooky sistren.",
             "rarity": "kMythic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/21020.jpg",
@@ -5866,7 +6121,80 @@
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/25011.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 25031,
+                "name": "Bewitching Morgana",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 25032,
+                "name": "Bewitching Morgana",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 25033,
+                "name": "Bewitching Morgana",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 25034,
+                "name": "Bewitching Morgana",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 25035,
+                "name": "Bewitching Morgana",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 25036,
+                "name": "Bewitching Morgana",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 25037,
+                "name": "Bewitching Morgana",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 25038,
+                "name": "Bewitching Morgana",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
+                ]
+              }
+            ]
           },
           {
             "id": 25017,
@@ -7224,6 +7552,97 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/32023.jpg",
             "chromas": null
+          },
+          {
+            "id": 32024,
+            "name": "Pumpkin Prince Amumu",
+            "description": "A lonely lad and prince of the patch, Amumu watches year after year as his people are decimated by possums and rowdy teenagers.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/32024.jpg",
+            "chromas": [
+              {
+                "id": 32025,
+                "name": "Pumpkin Prince Amumu",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 32026,
+                "name": "Pumpkin Prince Amumu",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 32027,
+                "name": "Pumpkin Prince Amumu",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 32028,
+                "name": "Pumpkin Prince Amumu",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 32029,
+                "name": "Pumpkin Prince Amumu",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 32030,
+                "name": "Pumpkin Prince Amumu",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 32031,
+                "name": "Pumpkin Prince Amumu",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 32032,
+                "name": "Pumpkin Prince Amumu",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 32033,
+                "name": "Pumpkin Prince Amumu",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -8337,6 +8756,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 38014,
+            "name": "Hextech Kassadin",
+            "description": "Engrossed in his work to the point of near-obsession, Kassadin vanished for some time into the bowels of his labyrinthian workshop, disappearing from public life for years. When he emerged, he revealed a shocking hextech innovation to the world: his own body, fully integrated with the technology he so loved.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/38014.jpg",
+            "chromas": null
           }
         ]
       },
@@ -9570,6 +9998,88 @@
                 "colors": [
                   "#E58BA5",
                   "#E58BA5"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 43026,
+            "name": "Odyssey Karma",
+            "description": "A High Priestess of the Templar Order, Karma has hired a group of offworld mercenaries to free a number of captured templars from the grip of Aatrox, an infamous and powerful crime lord. She has taken a more interventionist stance towards the rest of the universe following the loss and transformation of her former lover, Zed.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/43026.jpg",
+            "chromas": [
+              {
+                "id": 43028,
+                "name": "Odyssey Karma",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 43029,
+                "name": "Odyssey Karma",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 43030,
+                "name": "Odyssey Karma",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 43031,
+                "name": "Odyssey Karma",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 43032,
+                "name": "Odyssey Karma",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 43033,
+                "name": "Odyssey Karma",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 43034,
+                "name": "Odyssey Karma",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 43035,
+                "name": "Odyssey Karma",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
                 ]
               }
             ]
@@ -12282,6 +12792,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/60005.jpg",
             "chromas": null
+          },
+          {
+            "id": 60006,
+            "name": "Bewitching Elise",
+            "description": "A witch of some renown, Elise is widely feared by trick-or-treaters after that whole “human-sized cocoons” incident.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/60006.jpg",
+            "chromas": [
+              {
+                "id": 60007,
+                "name": "Bewitching Elise",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 60008,
+                "name": "Bewitching Elise",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 60009,
+                "name": "Bewitching Elise",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 60010,
+                "name": "Bewitching Elise",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 60011,
+                "name": "Bewitching Elise",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 60012,
+                "name": "Bewitching Elise",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 60013,
+                "name": "Bewitching Elise",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 60014,
+                "name": "Bewitching Elise",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -19092,6 +19684,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/105015.jpg",
             "chromas": null
+          },
+          {
+            "id": 105016,
+            "name": "Little Devil Fizz",
+            "description": "Sea's a dwelling place for demons.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/105016.jpg",
+            "chromas": [
+              {
+                "id": 105017,
+                "name": "Little Devil Fizz",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 105018,
+                "name": "Little Devil Fizz",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 105019,
+                "name": "Little Devil Fizz",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 105020,
+                "name": "Little Devil Fizz",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 105021,
+                "name": "Little Devil Fizz",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 105022,
+                "name": "Little Devil Fizz",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 105023,
+                "name": "Little Devil Fizz",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 105024,
+                "name": "Little Devil Fizz",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21591,6 +22265,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 121060,
+            "name": "Odyssey Kha'Zix",
+            "description": "A member of an elite bounty hunting organization, Kha'zix is cold, ruthless and always gets the job done. Though hired by Karma to track down the missing templars, she doesn't realize that Kha'zix is a double agent secretly working for Aatrox to bring Karma to him.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/121060.jpg",
+            "chromas": [
+              {
+                "id": 121061,
+                "name": "Odyssey Kha'Zix",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 121062,
+                "name": "Odyssey Kha'Zix",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 121063,
+                "name": "Odyssey Kha'Zix",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 121064,
+                "name": "Odyssey Kha'Zix",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 121065,
+                "name": "Odyssey Kha'Zix",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 121066,
+                "name": "Odyssey Kha'Zix",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 121067,
+                "name": "Odyssey Kha'Zix",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 121068,
+                "name": "Odyssey Kha'Zix",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -22798,7 +23554,53 @@
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/141002.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 141003,
+                "name": "Odyssey Kayn",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 141004,
+                "name": "Odyssey Kayn",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 141005,
+                "name": "Odyssey Kayn",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 141006,
+                "name": "Odyssey Kayn",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 141007,
+                "name": "Odyssey Kayn",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -25961,7 +26763,62 @@
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/238013.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 238024,
+                "name": "Galaxy Slayer Zed",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 238025,
+                "name": "Galaxy Slayer Zed",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 238026,
+                "name": "Galaxy Slayer Zed",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 238027,
+                "name": "Galaxy Slayer Zed",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 238028,
+                "name": "Galaxy Slayer Zed",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 238029,
+                "name": "Galaxy Slayer Zed",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
+                ]
+              }
+            ]
           },
           {
             "id": 238015,
@@ -26996,6 +27853,88 @@
                 "colors": [
                   "#FF2C25",
                   "#FF2C25"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 266011,
+            "name": "Odyssey Aatrox",
+            "description": "Aatrox is a violent and notorious crime lord whose name is feared throughout the criminal underworld. He is also disfigured by Ora abuse. Seeking to purge the substance from his body, he abducts Templars to extract it—and kills them when they are unable to do so. He has seized a number of high ranking Templar priests in order to draw out Karma, who he believes will finally heal him.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/266011.jpg",
+            "chromas": [
+              {
+                "id": 266012,
+                "name": "Odyssey Aatrox",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 266013,
+                "name": "Odyssey Aatrox",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 266014,
+                "name": "Odyssey Aatrox",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 266015,
+                "name": "Odyssey Aatrox",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 266016,
+                "name": "Odyssey Aatrox",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 266017,
+                "name": "Odyssey Aatrox",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 266018,
+                "name": "Odyssey Aatrox",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 266019,
+                "name": "Odyssey Aatrox",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#9B1520"
                 ]
               }
             ]
@@ -45589,7 +46528,7 @@
         "id": 4032,
         "title": "Galaxy Slayer Zed Icon",
         "description": "Earned by purchasing the Galaxy Slayer Zed Set in the store.",
-        "set": null,
+        "set": "Odyssey",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -48459,7 +49398,7 @@
         "id": 4357,
         "title": "Worlds 2019 Event Prestige Points Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "Prestige",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -49319,7 +50258,7 @@
         "id": 4448,
         "title": "Prestige 2019 Icon",
         "description": "This icon was released during the last-chance event for 2019 Prestige Points.",
-        "set": null,
+        "set": "Prestige",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -49339,7 +50278,7 @@
         "id": 4450,
         "title": "Night & Dawn Event Prestige Points Icon",
         "description": "This icon was acquired through Loot during the 2019 Night & Dawn event.",
-        "set": "Night & Dawn",
+        "set": "Prestige",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -49589,7 +50528,7 @@
         "id": 4477,
         "title": "Mecha Kingdoms 2020 Event Prestige Points Icon",
         "description": "This icon was acquired through Loot during the 2020 Mecha Kingdoms event.",
-        "set": "Mecha Kingdoms",
+        "set": "Prestige",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -49759,7 +50698,7 @@
         "id": 4494,
         "title": "Prestige Mecha Kingdoms Garen Icon",
         "description": "This icon was acquired by obtaining the Prestige Mecha Kingdoms Garen skin during the 2020 Mecha Kingdoms event.",
-        "set": "Mecha Kingdoms",
+        "set": "Prestige",
         "yearReleased": 2019,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -49769,7 +50708,7 @@
         "id": 4495,
         "title": "True Damage Senna Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige True Damage Senna skin from the 2020 Prestige Point Shop.",
-        "set": "True Damage",
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -49809,7 +50748,7 @@
         "id": 4499,
         "title": "Galaxies 2020 Event Prestige Points Icon",
         "description": "This icon was acquired through Loot during the 2020 Galaxies event.",
-        "set": "Galaxies",
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -50216,7 +51155,7 @@
         "id": 4540,
         "title": "Coven Zyra Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige Coven Zyra skin from the 2020 Prestige Point Shop.",
-        "set": "Coven",
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -50506,7 +51445,7 @@
         "id": 4569,
         "title": "Rose Quartz Fluft Icon",
         "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
-        "set": null,
+        "set": "Special Events",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -50516,7 +51455,7 @@
         "id": 4570,
         "title": "Sapphire Fluft Icon",
         "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
-        "set": null,
+        "set": "Special Events",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -50526,7 +51465,7 @@
         "id": 4571,
         "title": "Catseye Fluft Icon",
         "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
-        "set": null,
+        "set": "Special Events",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -50536,7 +51475,7 @@
         "id": 4572,
         "title": "Obsidian Fluft Icon",
         "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
-        "set": null,
+        "set": "Special Events",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -50546,7 +51485,7 @@
         "id": 4573,
         "title": "Tanzanite Fluft Icon",
         "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
-        "set": null,
+        "set": "Special Events",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -50556,7 +51495,7 @@
         "id": 4574,
         "title": "Citrine Fluft Icon",
         "description": "This icon was released in the store for limited purchase in celebration of May 17th, 2020.",
-        "set": null,
+        "set": "Special Events",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51076,7 +52015,7 @@
         "id": 4626,
         "title": "Arcanist Zoe Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige Arcanist Zoe skin from the 2020 Prestige Point Shop.",
-        "set": null,
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -51126,7 +52065,7 @@
         "id": 4631,
         "title": "Spirit Blossom 2020 Event Prestige Points Icon",
         "description": "This icon was acquired through Loot during the 2020 Spirit Blossom event.",
-        "set": "Spirit Blossom",
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51176,7 +52115,7 @@
         "id": 4636,
         "title": "Spirit Blossom Teemo Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige Spirit Blossom Teemo skin from the 2020 Prestige Point Shop. ",
-        "set": "Spirit Blossom",
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -51236,7 +52175,7 @@
         "id": 4642,
         "title": "Spirit Blossom Riven Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51246,7 +52185,7 @@
         "id": 4643,
         "title": "Spirit Blossom Cassiopeia Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51256,7 +52195,7 @@
         "id": 4644,
         "title": "Spirit Blossom Ahri Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51266,7 +52205,7 @@
         "id": 4645,
         "title": "Spirit Blossom Kindred Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51276,7 +52215,7 @@
         "id": 4646,
         "title": "Spirit Blossom Yone Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51286,7 +52225,7 @@
         "id": 4647,
         "title": "Spirit Blossom Riven Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51296,7 +52235,7 @@
         "id": 4648,
         "title": "Spirit Blossom Cassiopeia Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51306,7 +52245,7 @@
         "id": 4649,
         "title": "Spirit Blossom Ahri Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51316,7 +52255,7 @@
         "id": 4650,
         "title": "Spirit Blossom Kindred Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51326,7 +52265,7 @@
         "id": 4651,
         "title": "Spirit Blossom Yone Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51336,7 +52275,7 @@
         "id": 4652,
         "title": "Season 2020 - Split 3 Icon",
         "description": "Earned by winning ranked games in Season 2020 - Split 3.",
-        "set": null,
+        "set": "Ranked",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51346,7 +52285,7 @@
         "id": 4653,
         "title": "Spirit Bonds Lillia Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51356,7 +52295,7 @@
         "id": 4654,
         "title": "Spirit Bonds Thresh Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51366,7 +52305,7 @@
         "id": 4655,
         "title": "Spirit Bonds Ahri Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51376,7 +52315,7 @@
         "id": 4656,
         "title": "Spirit Bonds Yasuo Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51386,7 +52325,7 @@
         "id": 4657,
         "title": "Spirit Bonds Teemo Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51396,7 +52335,7 @@
         "id": 4658,
         "title": "Spirit Bonds Riven Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51406,7 +52345,7 @@
         "id": 4659,
         "title": "Spirit Bonds Cassiopeia Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51416,7 +52355,7 @@
         "id": 4660,
         "title": "Spirit Bonds Vayne Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51426,7 +52365,7 @@
         "id": 4661,
         "title": "Spirit Bonds Kindred Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51436,7 +52375,7 @@
         "id": 4663,
         "title": "Spirit Bonds Yone Icon",
         "description": "This icon was earned through missions during the 2020 Spirit Blossom event.",
-        "set": null,
+        "set": "Spirit Blossom",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51456,7 +52395,7 @@
         "id": 4665,
         "title": "BRG Icon",
         "description": null,
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51466,7 +52405,7 @@
         "id": 4666,
         "title": "PsyOps Icon",
         "description": null,
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51476,7 +52415,7 @@
         "id": 4667,
         "title": "PsyOps Event Pass Missions Icon",
         "description": "This icon was an exclusive reward from participating in the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51486,7 +52425,7 @@
         "id": 4668,
         "title": "PsyOps Icon",
         "description": "This icon was an exclusive reward from participating in the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51496,7 +52435,7 @@
         "id": 4669,
         "title": "PsyOps Prestige Point Icon",
         "description": "This icon was acquired through Loot during the 2020 PsyOps event.",
-        "set": null,
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51506,7 +52445,7 @@
         "id": 4670,
         "title": "PsyOps Master Yi Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51516,7 +52455,7 @@
         "id": 4671,
         "title": "PsyOps Vi Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51526,7 +52465,7 @@
         "id": 4672,
         "title": "PsyOps Shen Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51536,7 +52475,7 @@
         "id": 4673,
         "title": "PsyOps Sona Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51546,7 +52485,7 @@
         "id": 4674,
         "title": "PsyOps Ezreal Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51556,7 +52495,7 @@
         "id": 4675,
         "title": "PsyOps Master Yi Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51566,7 +52505,7 @@
         "id": 4676,
         "title": "PsyOps Vi Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51576,7 +52515,7 @@
         "id": 4677,
         "title": "PsyOps Shen Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51586,7 +52525,7 @@
         "id": 4678,
         "title": "PsyOps Sona Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51596,7 +52535,7 @@
         "id": 4679,
         "title": "PsyOps Ezreal Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige PsyOps Ezreal skin from the 2020 Prestige Points Shop.",
-        "set": null,
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -51616,7 +52555,7 @@
         "id": 4681,
         "title": "PsyOps Samira Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51626,7 +52565,7 @@
         "id": 4682,
         "title": "PsyOps Kayle Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51636,7 +52575,7 @@
         "id": 4683,
         "title": "PsyOps Pyke Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51646,7 +52585,7 @@
         "id": 4684,
         "title": "PsyOps Viktor Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51656,7 +52595,7 @@
         "id": 4685,
         "title": "PsyOps Zed Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51666,7 +52605,7 @@
         "id": 4686,
         "title": "PsyOps Samira Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51676,7 +52615,7 @@
         "id": 4687,
         "title": "PsyOps Kayle Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51686,7 +52625,7 @@
         "id": 4688,
         "title": "Championship LeBlanc Icon",
         "description": "This icon was acquired during the 2020 Worlds event.",
-        "set": null,
+        "set": "Esports",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -51725,8 +52664,8 @@
       {
         "id": 4692,
         "title": "Team Liquid Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51735,8 +52674,8 @@
       {
         "id": 4693,
         "title": "TSM Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51745,8 +52684,8 @@
       {
         "id": 4694,
         "title": "EVOS Esports Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51755,8 +52694,8 @@
       {
         "id": 4695,
         "title": "FlyQuest Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51765,8 +52704,8 @@
       {
         "id": 4696,
         "title": "GAM Esports Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51775,8 +52714,8 @@
       {
         "id": 4697,
         "title": "Team Flash Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51785,8 +52724,8 @@
       {
         "id": 4698,
         "title": "G2 Esports Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51795,8 +52734,8 @@
       {
         "id": 4699,
         "title": "Fnatic Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51805,8 +52744,8 @@
       {
         "id": 4700,
         "title": "MAD Lions Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51815,8 +52754,8 @@
       {
         "id": 4701,
         "title": "Rogue Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51825,7 +52764,7 @@
       {
         "id": 4704,
         "title": "T1 Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -51835,8 +52774,8 @@
       {
         "id": 4705,
         "title": "Gen.G Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51845,8 +52784,8 @@
       {
         "id": 4706,
         "title": "DRX Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51855,8 +52794,8 @@
       {
         "id": 4707,
         "title": "DAMWON Gaming Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51865,7 +52804,7 @@
       {
         "id": 4708,
         "title": "kt Rolster Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -51875,7 +52814,7 @@
       {
         "id": 4709,
         "title": "Afreeca Freecs Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -51885,8 +52824,8 @@
       {
         "id": 4710,
         "title": "JD Gaming Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51895,8 +52834,8 @@
       {
         "id": 4711,
         "title": "Top Esports Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51905,8 +52844,8 @@
       {
         "id": 4712,
         "title": "Suning Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51915,8 +52854,8 @@
       {
         "id": 4713,
         "title": "LGD Gaming Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51925,7 +52864,7 @@
       {
         "id": 4717,
         "title": "5 Ronin Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -51935,8 +52874,8 @@
       {
         "id": 4718,
         "title": "Papara SuperMassive Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51945,8 +52884,8 @@
       {
         "id": 4720,
         "title": "Unicorns Of Love Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51955,8 +52894,8 @@
       {
         "id": 4721,
         "title": "Gambit Esports Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51965,8 +52904,8 @@
       {
         "id": 4723,
         "title": "Rainbow7 Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51975,7 +52914,7 @@
       {
         "id": 4725,
         "title": "paiN Gaming Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -51985,8 +52924,8 @@
       {
         "id": 4726,
         "title": "INTZ Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -51995,8 +52934,8 @@
       {
         "id": 4730,
         "title": "Legacy Esports Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52005,8 +52944,8 @@
       {
         "id": 4732,
         "title": "V3 Esports Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52015,7 +52954,7 @@
       {
         "id": 4733,
         "title": "Sengoku Gaming Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -52025,7 +52964,7 @@
       {
         "id": 4735,
         "title": "DetonatioN FocusMe Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
         "set": null,
         "yearReleased": 2020,
         "rarity": "kRare",
@@ -52035,8 +52974,8 @@
       {
         "id": 4736,
         "title": "Machi Esports Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52044,9 +52983,9 @@
       },
       {
         "id": 4737,
-        "title": "PSG.Talon Esports Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "title": "PSG Talon Esports Icon",
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52055,8 +52994,8 @@
       {
         "id": 4741,
         "title": "Worlds 2020 Icon",
-        "description": "This icon was released as a bundle exclusive during Worlds 2020.",
-        "set": null,
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52066,7 +53005,7 @@
         "id": 4742,
         "title": "PsyOps Pyke Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52076,7 +53015,7 @@
         "id": 4743,
         "title": "PsyOps Viktor Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52086,7 +53025,7 @@
         "id": 4744,
         "title": "PsyOps Zed Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 PsyOps event.",
-        "set": null,
+        "set": "PsyOps",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52096,7 +53035,7 @@
         "id": 4745,
         "title": "True Damage Yasuo Prestige Icon",
         "description": "This icon was acquired by obtaining the Prestige True Damage Yasuo skin from the 2020 Prestige Point Shop.",
-        "set": null,
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -52106,7 +53045,7 @@
         "id": 4746,
         "title": "Storm Dragon Aurelion Sol Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52116,7 +53055,7 @@
         "id": 4747,
         "title": "Eternal Dragon Brand Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52126,7 +53065,7 @@
         "id": 4748,
         "title": "Obsidian Dragon Sett Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52136,7 +53075,7 @@
         "id": 4749,
         "title": "Fae Dragon Ashe Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52146,7 +53085,7 @@
         "id": 4750,
         "title": "Storm Dragon Lee Sin Icon",
         "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52156,7 +53095,7 @@
         "id": 4751,
         "title": "Storm Dragon Aurelion Sol Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -52166,7 +53105,7 @@
         "id": 4752,
         "title": "Eternal Dragon Brand Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -52176,7 +53115,7 @@
         "id": 4753,
         "title": "Obsidian Dragon Sett Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -52186,7 +53125,7 @@
         "id": 4754,
         "title": "Fae Dragon Ashe Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -52196,7 +53135,7 @@
         "id": 4755,
         "title": "Storm Dragon Lee Sin Chroma Icon",
         "description": "This icon was earned through Loot during the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -52206,7 +53145,7 @@
         "id": 4756,
         "title": "2020 Dragonmancer Icon",
         "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52216,7 +53155,7 @@
         "id": 4757,
         "title": "Obsidian Dragon Sett Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige Obsidian Dragon Sett skin with event tokens during the Worlds 2020 event.",
-        "set": null,
+        "set": "Dragon World",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -52226,7 +53165,7 @@
         "id": 4758,
         "title": "2020 Odyssey Icon",
         "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
-        "set": null,
+        "set": "Odyssey",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52236,7 +53175,7 @@
         "id": 4759,
         "title": "2020 K/DA ALL OUT Icon",
         "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
-        "set": null,
+        "set": "K/DA",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52246,7 +53185,7 @@
         "id": 4760,
         "title": "Pick'em Poro Predictor",
         "description": "This icon was earned by reaching the Greater Murk Wolf tier in Worlds 2020 Pick'em",
-        "set": null,
+        "set": "Pick'em Poros",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52256,7 +53195,7 @@
         "id": 4761,
         "title": "Pick'em Poro Forecaster",
         "description": "This icon was earned by reaching the Gromp tier in Worlds 2020 Pick'em.",
-        "set": null,
+        "set": "Pick'em Poros",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -52266,7 +53205,7 @@
         "id": 4762,
         "title": "Pick'em Poro Sage",
         "description": "This icon was earned by reaching the Ancient Krug tier in Worlds 2020 Pick'em.",
-        "set": null,
+        "set": "Pick'em Poros",
         "yearReleased": 2020,
         "rarity": null,
         "isLegacy": false,
@@ -52276,7 +53215,7 @@
         "id": 4763,
         "title": "Pick'em Poro Prophet",
         "description": "This icon was earned by reaching the Crimson Raptor tier in Worlds 2020 Pick'em.",
-        "set": null,
+        "set": "Pick'em Poros",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -52286,7 +53225,7 @@
         "id": 4764,
         "title": "Worlds 2020 Icon",
         "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
-        "set": null,
+        "set": "Esports",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
@@ -52296,11 +53235,261 @@
         "id": 4765,
         "title": "Worlds 2020 Event Prestige Points Icon",
         "description": "This icon was acquired through Loot during the 2020 Worlds event.",
-        "set": null,
+        "set": "Esports",
         "yearReleased": 2020,
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4765.jpg"
+      },
+      {
+        "id": 4766,
+        "title": "Odyssey Karma Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4766.jpg"
+      },
+      {
+        "id": 4767,
+        "title": "Odyssey Aatrox Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4767.jpg"
+      },
+      {
+        "id": 4768,
+        "title": "Odyssey Sivir Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4768.jpg"
+      },
+      {
+        "id": 4769,
+        "title": "Odyssey Kha'Zix Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4769.jpg"
+      },
+      {
+        "id": 4770,
+        "title": "Odyssey Twisted Fate Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4770.jpg"
+      },
+      {
+        "id": 4771,
+        "title": "Odyssey Karma Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4771.jpg"
+      },
+      {
+        "id": 4772,
+        "title": "Odyssey Aatrox Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4772.jpg"
+      },
+      {
+        "id": 4773,
+        "title": "Odyssey Sivir Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4773.jpg"
+      },
+      {
+        "id": 4774,
+        "title": "Odyssey Kha'Zix Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4774.jpg"
+      },
+      {
+        "id": 4775,
+        "title": "Odyssey Twisted Fate Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4775.jpg"
+      },
+      {
+        "id": 4777,
+        "title": "Travel to Jönköping with Worlds 2011 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4777.jpg"
+      },
+      {
+        "id": 4778,
+        "title": "Travel to Los Angeles with Worlds 2012 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4778.jpg"
+      },
+      {
+        "id": 4779,
+        "title": "Travel to Los Angeles with Worlds 2013 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4779.jpg"
+      },
+      {
+        "id": 4780,
+        "title": "Travel to Seoul with Worlds 2014 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4780.jpg"
+      },
+      {
+        "id": 4781,
+        "title": "Travel to Berlin with Worlds 2015 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4781.jpg"
+      },
+      {
+        "id": 4782,
+        "title": "Travel to Los Angeles with Worlds 2016 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4782.jpg"
+      },
+      {
+        "id": 4783,
+        "title": "Travel to Beijing with Worlds 2017 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4783.jpg"
+      },
+      {
+        "id": 4784,
+        "title": "Travel to Incheon with Worlds 2018 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4784.jpg"
+      },
+      {
+        "id": 4785,
+        "title": "Travel to Paris with Worlds 2019 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4785.jpg"
+      },
+      {
+        "id": 4786,
+        "title": "Travel to Shanghai with Worlds 2020 Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4786.jpg"
+      },
+      {
+        "id": 4787,
+        "title": "Worlds 10 Years Poro",
+        "description": "This icon was an exclusive reward from participating in the 2020 Worlds event.",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4787.jpg"
+      },
+      {
+        "id": 4788,
+        "title": "PSG Talon Icon",
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4788.jpg"
+      },
+      {
+        "id": 4789,
+        "title": "G2 Esports Icon",
+        "description": "This icon was available for purchase in the store during the Worlds 2020 Event.",
+        "set": "eSports Teams",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4789.jpg"
+      },
+      {
+        "id": 4791,
+        "title": "Galaxy Slayer Zed Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": "Odyssey",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4791.jpg"
+      },
+      {
+        "id": 4792,
+        "title": "Odyssey Kayn Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4792.jpg"
       },
       {
         "id": 4,
@@ -63134,6 +64323,42 @@
         "imagePath": "/assets/emotes/3521.png"
       },
       {
+        "id": 3522,
+        "name": "TFT Galaxies Stage 2 Gold",
+        "description": "Awarded for achieving Gold in TFT Galaxies Stage 2.",
+        "imagePath": "/assets/emotes/3522.png"
+      },
+      {
+        "id": 3523,
+        "name": "TFT Galaxies Stage 2 Platinum",
+        "description": "Awarded for achieving Platinum in TFT Galaxies Stage 2.",
+        "imagePath": "/assets/emotes/3523.png"
+      },
+      {
+        "id": 3524,
+        "name": "TFT Galaxies Stage 2 Diamond",
+        "description": "Awarded for achieving Diamond in TFT Galaxies Stage 2.",
+        "imagePath": "/assets/emotes/3524.png"
+      },
+      {
+        "id": 3525,
+        "name": "TFT Galaxies Stage 2 Master",
+        "description": "Awarded for achieving Master in TFT Galaxies Stage 2.",
+        "imagePath": "/assets/emotes/3525.png"
+      },
+      {
+        "id": 3526,
+        "name": "TFT Galaxies Stage 2 Grandmaster",
+        "description": "Awarded for achieving Grand-Master in TFT Galaxies Stage 2.",
+        "imagePath": "/assets/emotes/3526.png"
+      },
+      {
+        "id": 3527,
+        "name": "TFT Galaxies Stage 2 Challenger",
+        "description": "Awarded for achieving Challenger in TFT Galaxies Stage 2.",
+        "imagePath": "/assets/emotes/3527.png"
+      },
+      {
         "id": 3528,
         "name": "Team Liquid",
         "description": null,
@@ -63303,7 +64528,7 @@
       },
       {
         "id": 3556,
-        "name": "PSG.Talon Esports",
+        "name": "PSG Talon Esports",
         "description": null,
         "imagePath": "/assets/emotes/3556.png"
       },
@@ -63336,6 +64561,12 @@
         "name": "Gambit Esports",
         "description": null,
         "imagePath": "/assets/emotes/3561.png"
+      },
+      {
+        "id": 3562,
+        "name": "PSG Talon",
+        "description": null,
+        "imagePath": "/assets/emotes/3562.png"
       },
       {
         "id": 4,
@@ -65032,6 +66263,14 @@
         "imagePath": "/assets/tftcompanions/1006.png"
       },
       {
+        "id": 1020,
+        "name": "Triumphant Hauntling",
+        "description": "Triumphant Hauntling was awarded to players who reached Gold or higher in both ranked stages of Set 3, Galaxies. The spookiest galaxies swirled together to form these terrifyingly adorable space wraiths—they roam the vast reaches of the universe searching for golden spatulas and friendship.",
+        "species": "Hauntling",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/1020.png"
+      },
+      {
         "id": 1010,
         "name": "Toxic Hauntling",
         "description": "The spookiest of the Little Legends.",
@@ -65102,6 +66341,14 @@
         "species": "Hauntling",
         "level": 3,
         "imagePath": "/assets/tftcompanions/1003.png"
+      },
+      {
+        "id": 1019,
+        "name": "Victorious Hauntling",
+        "description": "Victorious Hauntling was awarded to players who reached Gold or higher in at least one ranked stage of Set 3, Galaxies. The spookiest galaxies swirled together to form these terrifyingly adorable space wraiths—they roam the vast reaches of the universe searching for golden spatulas and friendship.",
+        "species": "Hauntling",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/1019.png"
       },
       {
         "id": 2001,
