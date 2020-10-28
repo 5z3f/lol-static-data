@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.21.339.2173",
+  "version": "10.22.341.643",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,11 +12,11 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 151,
-    "skins": 1122,
-    "chromas": 1829,
-    "icons": 2787,
-    "emotes": 690,
+    "champions": 152,
+    "skins": 1128,
+    "chromas": 1853,
+    "icons": 2800,
+    "emotes": 691,
     "wards": 207,
     "tftcompanions": 521,
     "tftmapskins": 32
@@ -5251,8 +5251,8 @@
           },
           {
             "id": 21018,
-            "name": "Bewitching Miss Fortune ",
-            "description": "Having wrestled control of the lion's share of sweets from ghastly spirits and unruly children alike, Miss Fortune now rules over the night. Her reign is one filled with revelry and mischief.",
+            "name": "Bewitching Miss Fortune",
+            "description": "A powerful witch with a flair for the dramatic, and a soft spot for misguided monsters, Miss Fortune has resurfaced for an evening of adventure with her spooky sistren.",
             "rarity": "kEpic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/21018.jpg",
@@ -5261,7 +5261,7 @@
           {
             "id": 21020,
             "name": "Bewitching Miss Fortune Prestige Edition",
-            "description": "A powerful witch with a flair for the dramatic, and a soft spot for misguided monsters, Miss Fortune has resurfaced for an evening of adventure with her spooky sistren.",
+            "description": "Having wrestled control of the lion's share of sweets from ghastly spirits and unruly children alike, Miss Fortune now rules over the night. Her reign is one filled with revelry and mischief.",
             "rarity": "kMythic",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/21020.jpg",
@@ -6721,6 +6721,88 @@
                 "colors": [
                   "#9F4A25",
                   "#9F4A25"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 28015,
+            "name": "K/DA ALL OUT Evelynn",
+            "description": "With a single devastating glance, Evelynn can ensure that all eyes are on her—when she wants them to be. K/DA's success has ensured that this provocative diva's name will be on everyone's lips, but Evelynn is intent that her killer fashion sense will keep it there.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/28015.jpg",
+            "chromas": [
+              {
+                "id": 28016,
+                "name": "K/DA ALL OUT Evelynn",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 28017,
+                "name": "K/DA ALL OUT Evelynn",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 28018,
+                "name": "K/DA ALL OUT Evelynn",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 28019,
+                "name": "K/DA ALL OUT Evelynn",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 28020,
+                "name": "K/DA ALL OUT Evelynn",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 28021,
+                "name": "K/DA ALL OUT Evelynn",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 28022,
+                "name": "K/DA ALL OUT Evelynn",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 28023,
+                "name": "K/DA ALL OUT Evelynn",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#272A3F"
                 ]
               }
             ]
@@ -16364,6 +16446,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 84032,
+            "name": "K/DA ALL OUT Akali",
+            "description": "Fresh off her success with True Damage, Akali hits the stage full-throttle with her bold edge and fresh new direction. She spits fire with a mic in hand and pushes the band to the bleeding edge, because that's what the baddest do.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/84032.jpg",
+            "chromas": [
+              {
+                "id": 84041,
+                "name": "K/DA ALL OUT Akali",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 84042,
+                "name": "K/DA ALL OUT Akali",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 84043,
+                "name": "K/DA ALL OUT Akali",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 84044,
+                "name": "K/DA ALL OUT Akali",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 84045,
+                "name": "K/DA ALL OUT Akali",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 84046,
+                "name": "K/DA ALL OUT Akali",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 84047,
+                "name": "K/DA ALL OUT Akali",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#272A3F"
+                ]
+              },
+              {
+                "id": 84048,
+                "name": "K/DA ALL OUT Akali",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -19184,6 +19348,88 @@
                 "colors": [
                   "#0C0C0F",
                   "#B2D1E4"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 103028,
+            "name": "K/DA ALL OUT Ahri",
+            "description": "When Ahri steps onto the stage to perform with K/DA, she knows she's surrounded by the best of the best—different girls with different personalities, all at the top of their craft. As their leader and as their friend, Ahri is poised to guide these divas to even greater heights and leave their audiences breathless for more.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/103028.jpg",
+            "chromas": [
+              {
+                "id": 103034,
+                "name": "K/DA ALL OUT Ahri",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 103035,
+                "name": "K/DA ALL OUT Ahri",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 103036,
+                "name": "K/DA ALL OUT Ahri",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 103037,
+                "name": "K/DA ALL OUT Ahri",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 103038,
+                "name": "K/DA ALL OUT Ahri",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 103039,
+                "name": "K/DA ALL OUT Ahri",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 103040,
+                "name": "K/DA ALL OUT Ahri",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 103041,
+                "name": "K/DA ALL OUT Ahri",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Worlds event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#272A3F"
                 ]
               }
             ]
@@ -24093,6 +24339,58 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 145026,
+            "name": "K/DA ALL OUT Kai'Sa",
+            "description": "After showcasing her flawless dance techniques world-wide, Kai'sa is ready to apply her legendary discipline and focus to all aspects of her life as a performing artist. She's still not sure who she'll be when she steps forward to shine as herself, but she's looking forward to the challenge of finding out.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/145026.jpg",
+            "chromas": null
+          },
+          {
+            "id": 145027,
+            "name": "K/DA ALL OUT Kai'Sa Prestige Edition",
+            "description": "When Kai'Sa wanted a red carpet outfit to match her growing confidence in her artistry, she sought Evelynn's advice. With sharp tailoring and embellishments that match her excellence in execution, Kai'Sa's ready to shine on and off the stage.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/145027.jpg",
+            "chromas": null
+          }
+        ]
+      },
+      {
+        "id": 147,
+        "name": "Seraphine",
+        "alias": "Seraphine",
+        "title": "the Starry-Eyed Songstress",
+        "releaseDate": "2020-10-12",
+        "associatedFactionSlug": "piltover",
+        "shortBio": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She performs for the sister cities to remind their citizens that they're not alone, that they're stronger together, and that, in her eyes, their potential is limitless.",
+        "squarePortraitPath": "/assets/champions/portraits/147.png",
+        "roles": [
+          "mage",
+          "support"
+        ],
+        "skins": [
+          {
+            "id": 147000,
+            "name": "Seraphine (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/147000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 147001,
+            "name": "K/DA ALL OUT Seraphine Indie",
+            "description": "With a stunning voice and a sunny disposition, Seraphine has big dreams about her music and what she can offer the world. She knows that someday, if she just keeps trying, she'll make her beloved cat Bao proud.",
+            "rarity": "kUltimate",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/147001.jpg",
+            "chromas": null
           }
         ]
       },
@@ -53492,6 +53790,136 @@
         "imagePath": "/assets/icons/4792.jpg"
       },
       {
+        "id": 4793,
+        "title": "K/DA ALL OUT Seraphine Indie Icon",
+        "description": "This icon was acquired by completing the second mission in K/DA ALL OUT Seraphine's quest line.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4793.jpg"
+      },
+      {
+        "id": 4794,
+        "title": "K/DA ALL OUT Seraphine Superstar Icon",
+        "description": "This icon was acquired by completing the final mission in K/DA ALL OUT Seraphine's quest line.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4794.jpg"
+      },
+      {
+        "id": 4795,
+        "title": "K/DA ALL OUT Kai'Sa Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige K/DA ALL OUT Kai'Sa skin with event tokens during the Worlds 2020 event.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4795.jpg"
+      },
+      {
+        "id": 4796,
+        "title": "K/DA ALL OUT Ahri Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4796.jpg"
+      },
+      {
+        "id": 4797,
+        "title": "K/DA ALL OUT Kai'Sa Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4797.jpg"
+      },
+      {
+        "id": 4798,
+        "title": "K/DA ALL OUT Evelynn Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4798.jpg"
+      },
+      {
+        "id": 4799,
+        "title": "K/DA ALL OUT Akali Icon",
+        "description": "This icon was released as a bundle exclusive during the 2020 Worlds event.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4799.jpg"
+      },
+      {
+        "id": 4800,
+        "title": "K/DA ALL OUT Ahri Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4800.jpg"
+      },
+      {
+        "id": 4801,
+        "title": "K/DA ALL OUT Evelynn Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4801.jpg"
+      },
+      {
+        "id": 4802,
+        "title": "K/DA ALL OUT Akali Chroma Icon",
+        "description": "This icon was earned through Loot during the 2020 Worlds event.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4802.jpg"
+      },
+      {
+        "id": 4803,
+        "title": "2020 K/DA ALL OUT Autograph Icon",
+        "description": "This icon was a reward from participating in a 2020 Twitch event.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4803.jpg"
+      },
+      {
+        "id": 4804,
+        "title": "K/DA ALL OUT Seradotwav Icon",
+        "description": "This icon was a reward from participating in a 2020 Twitch event.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4804.jpg"
+      },
+      {
+        "id": 4805,
+        "title": "K/DA Seraphine Merch Icon",
+        "description": "This icon was available by purchasing an item in the merch store.",
+        "set": "K/DA",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4805.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -64567,6 +64995,12 @@
         "name": "PSG Talon",
         "description": null,
         "imagePath": "/assets/emotes/3562.png"
+      },
+      {
+        "id": 3563,
+        "name": "Crazy A-Bao You",
+        "description": null,
+        "imagePath": "/assets/emotes/3563.png"
       },
       {
         "id": 4,
