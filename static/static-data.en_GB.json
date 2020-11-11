@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.22.341.643",
+  "version": "10.23.343.2581",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,12 +13,12 @@
   ],
   "info": {
     "champions": 152,
-    "skins": 1128,
-    "chromas": 1853,
-    "icons": 2800,
+    "skins": 1134,
+    "chromas": 1896,
+    "icons": 2821,
     "emotes": 691,
-    "wards": 207,
-    "tftcompanions": 521,
+    "wards": 208,
+    "tftcompanions": 551,
     "tftmapskins": 32
   },
   "data": {
@@ -6572,6 +6572,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/27009.jpg",
             "chromas": null
+          },
+          {
+            "id": 27010,
+            "name": "Resistance Singed",
+            "description": "Though many in the Resistance find Singed unsettling, few can deny his efficacy in pushing back the machine threat. For Singed, the only thing that matters is driving back Viktor's creations, whatever the means.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/27010.jpg",
+            "chromas": [
+              {
+                "id": 27011,
+                "name": "Resistance Singed",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 27012,
+                "name": "Resistance Singed",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 27013,
+                "name": "Resistance Singed",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 27014,
+                "name": "Resistance Singed",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 27015,
+                "name": "Resistance Singed",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 27016,
+                "name": "Resistance Singed",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 27017,
+                "name": "Resistance Singed",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 27018,
+                "name": "Resistance Singed",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -14734,6 +14816,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 75016,
+            "name": "Battlecast Nasus",
+            "description": "The latest monstrosity constructed by Viktor, Battlecast Nasus units specialize in the targeted retrieval of high-priority targets. As they hunt for their quarry, their machinery is programmed to learn and adapt, increasing their destructive capacity and empowering them to obliterate all that would stand in their way.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/75016.jpg",
+            "chromas": [
+              {
+                "id": 75017,
+                "name": "Battlecast Nasus",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 75018,
+                "name": "Battlecast Nasus",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 75019,
+                "name": "Battlecast Nasus",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 75020,
+                "name": "Battlecast Nasus",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 75021,
+                "name": "Battlecast Nasus",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 75022,
+                "name": "Battlecast Nasus",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 75023,
+                "name": "Battlecast Nasus",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 75024,
+                "name": "Battlecast Nasus",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -16064,6 +16228,88 @@
                 "colors": [
                   "#ECF9F8",
                   "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 83012,
+            "name": "Resistance Yorick",
+            "description": "With the rise of the Battlecast armies, Yorick found to his horror that the living minds Viktor fused to his machines bound the souls of his victims to their machine bodies. Harnessing his ability to command the dead, Yorick now raises destroyed and defeated Battlecast husks in an attempt to free all these souls from their machine prisons.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/83012.jpg",
+            "chromas": [
+              {
+                "id": 83013,
+                "name": "Resistance Yorick",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 83014,
+                "name": "Resistance Yorick",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 83015,
+                "name": "Resistance Yorick",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 83016,
+                "name": "Resistance Yorick",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 83017,
+                "name": "Resistance Yorick",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 83018,
+                "name": "Resistance Yorick",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 83019,
+                "name": "Resistance Yorick",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 83020,
+                "name": "Resistance Yorick",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
                 ]
               }
             ]
@@ -22980,6 +23226,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 126015,
+            "name": "Resistance Jayce",
+            "description": "While many presumed him dead, Jayce's sudden return to the Resistance has been heralded by some as a miracle and others as a curse. Burdened by guilt, he still blames himself for his failure to halt Viktor's rise. Only time will tell if Jayce can turn the tide.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/126015.jpg",
+            "chromas": [
+              {
+                "id": 126016,
+                "name": "Resistance Jayce",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 126017,
+                "name": "Resistance Jayce",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 126018,
+                "name": "Resistance Jayce",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 126019,
+                "name": "Resistance Jayce",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 126020,
+                "name": "Resistance Jayce",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 126021,
+                "name": "Resistance Jayce",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 126022,
+                "name": "Resistance Jayce",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 126023,
+                "name": "Resistance Jayce",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -24687,6 +25015,70 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/154006.jpg",
             "chromas": null
+          },
+          {
+            "id": 154007,
+            "name": "Battlecast Zac",
+            "description": "Never content with his extant creations, Viktor's latest innovation has forged an experimental alloy that shifts between liquid and solid states. Incredibly flexible yet nigh-indestructible, the new zoophagus assault constructs, or ZACs, spring onto the battlefield, harvesting and consuming any resistance that stands in their way.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/154007.jpg",
+            "chromas": [
+              {
+                "id": 154008,
+                "name": "Battlecast Zac",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 154009,
+                "name": "Battlecast Zac",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 154010,
+                "name": "Battlecast Zac",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 154011,
+                "name": "Battlecast Zac",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 154012,
+                "name": "Battlecast Zac",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 154013,
+                "name": "Battlecast Zac",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -26909,6 +27301,61 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/236019.jpg",
             "chromas": null
+          },
+          {
+            "id": 236025,
+            "name": "Victorious Lucian",
+            "description": "Victorious Lucian was awarded to players who reached Gold or higher in the 2020 season. By the time Lucian was finished firing, the relic stones were fused into solid crystal by the heat of his righteousness, and the last dredge of mist was evaporating into the morning light. ",
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/236025.jpg",
+            "chromas": [
+              {
+                "id": 236026,
+                "name": "Victorious Lucian",
+                "description": "This Chroma was awarded to players who reached Platinum rank in Solo/Duo or Flex ranked queue",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 236027,
+                "name": "Victorious Lucian",
+                "description": "This Chroma was awarded to players who reached Diamond rank in Solo/Duo or Flex ranked queue",
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 236028,
+                "name": "Victorious Lucian",
+                "description": "This Chroma was awarded to players who reached Master rank in Solo/Duo or Flex ranked queue",
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 236029,
+                "name": "Victorious Lucian",
+                "description": "This Chroma was awarded to players who reached Grandmaster rank in Solo/Duo or Flex ranked queue",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 236030,
+                "name": "Victorious Lucian",
+                "description": "This Chroma was awarded to players who reached Challenger rank in Solo/Duo or Flex ranked queue",
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -49116,7 +49563,7 @@
         "id": 4281,
         "title": "Elderwood Ahri Icon",
         "description": "This icon was acquired by purchasing one of the Elderwood bundles in 2019.",
-        "set": null,
+        "set": "Elderwood",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -49896,7 +50343,7 @@
         "id": 4377,
         "title": "High Noon 2019 Icon",
         "description": "This icon was acquired through Loot during the 2019 Worlds event.",
-        "set": null,
+        "set": "High Noon",
         "yearReleased": 2019,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -53918,6 +54365,216 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4805.jpg"
+      },
+      {
+        "id": 4806,
+        "title": "Season 2020 - Clash Contender Icon",
+        "description": "This icon was earned by participating in the 2020 Clash Season.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4806.jpg"
+      },
+      {
+        "id": 4807,
+        "title": "Season 2020 - Clash Conqueror Icon",
+        "description": "This icon was earned by finishing the 2020 Clash Season with over 2000 Victory Points.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4807.jpg"
+      },
+      {
+        "id": 4808,
+        "title": "Season 2020 - Clash Champion Icon",
+        "description": "This icon was earned by finishing the 2020 Clash Season with over 5000 Victory Points.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4808.jpg"
+      },
+      {
+        "id": 4809,
+        "title": "Season 2020 - Solo/Duo Iron Icon",
+        "description": "This icon was earned by finishing Iron in Solo/Duo Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4809.jpg"
+      },
+      {
+        "id": 4810,
+        "title": "Season 2020 - Solo/Duo Bronze Icon",
+        "description": "This icon was earned by finishing Bronze in Solo/Duo Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4810.jpg"
+      },
+      {
+        "id": 4811,
+        "title": "Season 2020 - Solo/Duo Silver Icon",
+        "description": "This icon was earned by finishing Silver in Solo/Duo Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4811.jpg"
+      },
+      {
+        "id": 4812,
+        "title": "Season 2020 - Solo/Duo Gold Icon",
+        "description": "This icon was earned by finishing Gold in Solo/Duo Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4812.jpg"
+      },
+      {
+        "id": 4813,
+        "title": "Season 2020 - Solo/Duo Platinum Icon",
+        "description": "This icon was earned by finishing Platinum in Solo/Duo Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4813.jpg"
+      },
+      {
+        "id": 4814,
+        "title": "Season 2020 - Solo/Duo Diamond Icon",
+        "description": "This icon was earned by finishing Diamond in Solo/Duo Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4814.jpg"
+      },
+      {
+        "id": 4815,
+        "title": "Season 2020 - Solo/Duo Master Icon",
+        "description": "This icon was earned by finishing Master in Solo/Duo Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4815.jpg"
+      },
+      {
+        "id": 4816,
+        "title": "Season 2020 - Solo/Duo Grandmaster Icon",
+        "description": "This icon was earned by finishing Grandmaster in Solo/Duo Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4816.jpg"
+      },
+      {
+        "id": 4817,
+        "title": "Season 2020 - Solo/Duo Challenger Icon",
+        "description": "This icon was earned by finishing Challenger in Solo/Duo Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4817.jpg"
+      },
+      {
+        "id": 4818,
+        "title": "Season 2020 - Flex Iron Icon",
+        "description": "This icon was earned by finishing Iron in Flex Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4818.jpg"
+      },
+      {
+        "id": 4819,
+        "title": "Season 2020 - Flex Bronze Icon",
+        "description": "This icon was earned by finishing Bronze in Flex Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4819.jpg"
+      },
+      {
+        "id": 4820,
+        "title": "Season 2020 - Flex Silver Icon",
+        "description": "This icon was earned by finishing Silver in Flex Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4820.jpg"
+      },
+      {
+        "id": 4821,
+        "title": "Season 2020 - Flex Gold Icon",
+        "description": "This icon was earned by finishing Gold in Flex Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4821.jpg"
+      },
+      {
+        "id": 4822,
+        "title": "Season 2020 - Flex Platinum Icon",
+        "description": "This icon was earned by finishing Platinum in Flex Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4822.jpg"
+      },
+      {
+        "id": 4823,
+        "title": "Season 2020 - Flex Diamond Icon",
+        "description": "This icon was earned by finishing Diamond in Flex Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4823.jpg"
+      },
+      {
+        "id": 4824,
+        "title": "Season 2020 - Flex Master Icon",
+        "description": "This icon was earned by finishing Master in Flex Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4824.jpg"
+      },
+      {
+        "id": 4825,
+        "title": "Season 2020 - Flex Grandmaster Icon",
+        "description": "This icon was earned by finishing Grandmaster in Flex Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4825.jpg"
+      },
+      {
+        "id": 4826,
+        "title": "Season 2020 - Flex Challenger Icon",
+        "description": "This icon was earned by finishing Challenger in Flex Queue in Season 2020",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4826.jpg"
       },
       {
         "id": 4,
@@ -60841,6 +61498,16 @@
         "imagePath": "/assets/wards/201.png"
       },
       {
+        "id": 202,
+        "name": "Riot Games Fist Bump Ward",
+        "defaultDescription": null,
+        "description": "This ward was granted to players who met a Rioter.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/202.png"
+      },
+      {
         "id": 203,
         "name": "Tellstones: King's Gambit Ward",
         "defaultDescription": null,
@@ -65833,6 +66500,54 @@
         "imagePath": "/assets/tftcompanions/19012.png"
       },
       {
+        "id": 19019,
+        "name": "K/DA ALL OUT Squink",
+        "description": "Channeling Evelynn's dramatic edge has this Squink feeling its ALL OUT fantasy.",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19019.png"
+      },
+      {
+        "id": 19020,
+        "name": "K/DA ALL OUT Squink",
+        "description": "Channeling Evelynn's dramatic edge has this Squink feeling its ALL OUT fantasy.",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19020.png"
+      },
+      {
+        "id": 19021,
+        "name": "K/DA ALL OUT Squink",
+        "description": "Channeling Evelynn's dramatic edge has this Squink feeling its ALL OUT fantasy.",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19021.png"
+      },
+      {
+        "id": 19022,
+        "name": "K/DA POP/STARS Squink",
+        "description": "Evelynn's fierce energy has galvanized this easily-frightened Squink to adopt her look in hopes it can gain some of her confidence.",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19022.png"
+      },
+      {
+        "id": 19023,
+        "name": "K/DA POP/STARS Squink",
+        "description": "Evelynn's fierce energy has galvanized this easily-frightened Squink to adopt her look in hopes it can gain some of her confidence.",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19023.png"
+      },
+      {
+        "id": 19024,
+        "name": "K/DA POP/STARS Squink",
+        "description": "Evelynn's fierce energy has galvanized this easily-frightened Squink to adopt her look in hopes it can gain some of her confidence.",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19024.png"
+      },
+      {
         "id": 19004,
         "name": "Odyssey Squink",
         "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
@@ -67033,6 +67748,54 @@
         "imagePath": "/assets/tftcompanions/3015.png"
       },
       {
+        "id": 3020,
+        "name": "K/DA ALL OUT Furyhorn",
+        "description": "Kai'Sa's new look inspires this Furyhorn to show off not only its strength but its style.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3020.png"
+      },
+      {
+        "id": 3021,
+        "name": "K/DA ALL OUT Furyhorn",
+        "description": "Kai'Sa's new look inspires this Furyhorn to show off not only its strength but its style.",
+        "species": "Furyhorn",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/3021.png"
+      },
+      {
+        "id": 3022,
+        "name": "K/DA ALL OUT Furyhorn",
+        "description": "Kai'Sa's new look inspires this Furyhorn to show off not only its strength but its style.",
+        "species": "Furyhorn",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/3022.png"
+      },
+      {
+        "id": 3023,
+        "name": "K/DA POP/STARS Furyhorn",
+        "description": "This quiet Furyhorn loves Kai'Sa's precise and expressive dance moves and hopes it can be as polished as she is one day.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3023.png"
+      },
+      {
+        "id": 3024,
+        "name": "K/DA POP/STARS Furyhorn",
+        "description": "This quiet Furyhorn loves Kai'Sa's precise and expressive dance moves and hopes it can be as polished as she is one day.",
+        "species": "Furyhorn",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/3024.png"
+      },
+      {
+        "id": 3025,
+        "name": "K/DA POP/STARS Furyhorn",
+        "description": "This quiet Furyhorn loves Kai'Sa's precise and expressive dance moves and hopes it can be as polished as she is one day.",
+        "species": "Furyhorn",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/3025.png"
+      },
+      {
         "id": 3010,
         "name": "Lionheart Furyhorn",
         "description": "A small, angry, horned beast.",
@@ -67689,6 +68452,54 @@
         "imagePath": "/assets/tftcompanions/22012.png"
       },
       {
+        "id": 22019,
+        "name": "K/DA ALL OUT Lightcharger",
+        "description": "From Seraphine's long beautiful mane to her moving music, this Lightcharger loves everything about the newest K/DA collaborator. But as it defends the world from eternal darkness, it appreciates Seraphine's unwavering optimism most of all.",
+        "species": "Lightcharger",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/22019.png"
+      },
+      {
+        "id": 22020,
+        "name": "K/DA ALL OUT Lightcharger",
+        "description": "From Seraphine's long beautiful mane to her moving music, this Lightcharger loves everything about the newest K/DA collaborator. But as it defends the world from eternal darkness, it appreciates Seraphine's unwavering optimism most of all.",
+        "species": "Lightcharger",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/22020.png"
+      },
+      {
+        "id": 22021,
+        "name": "K/DA ALL OUT Lightcharger",
+        "description": "From Seraphine's long beautiful mane to her moving music, this Lightcharger loves everything about the newest K/DA collaborator. But as it defends the world from eternal darkness, it appreciates Seraphine's unwavering optimism most of all.",
+        "species": "Lightcharger",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/22021.png"
+      },
+      {
+        "id": 22022,
+        "name": "K/DA POP/STARS Lightcharger",
+        "description": "This Lightcharger has always dreamed about what Seraphine would have looked like if she was in POP/STARS—so it turned its dream into reality!",
+        "species": "Lightcharger",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/22022.png"
+      },
+      {
+        "id": 22023,
+        "name": "K/DA POP/STARS Lightcharger",
+        "description": "This Lightcharger has always dreamed about what Seraphine would have looked like if she was in POP/STARS—so it turned its dream into reality!",
+        "species": "Lightcharger",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/22023.png"
+      },
+      {
+        "id": 22024,
+        "name": "K/DA POP/STARS Lightcharger",
+        "description": "This Lightcharger has always dreamed about what Seraphine would have looked like if she was in POP/STARS—so it turned its dream into reality!",
+        "species": "Lightcharger",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/22024.png"
+      },
+      {
         "id": 22007,
         "name": "Sugarcone Lightcharger",
         "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
@@ -67783,6 +68594,54 @@
         "species": "Featherknight",
         "level": 3,
         "imagePath": "/assets/tftcompanions/6009.png"
+      },
+      {
+        "id": 6025,
+        "name": "K/DA ALL OUT Featherknight",
+        "description": "This Knight's newly inspired by Akali's fresh beats, and is determined to bring her energy to its performance. Even if its choreography is slightly more waddley.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6025.png"
+      },
+      {
+        "id": 6026,
+        "name": "K/DA ALL OUT Featherknight",
+        "description": "This Knight's newly inspired by Akali's fresh beats, and is determined to bring her energy to its performance. Even if its choreography is slightly more waddley.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6026.png"
+      },
+      {
+        "id": 6027,
+        "name": "K/DA ALL OUT Featherknight",
+        "description": "This Knight's newly inspired by Akali's fresh beats, and is determined to bring her energy to its performance. Even if its choreography is slightly more waddley.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6027.png"
+      },
+      {
+        "id": 6028,
+        "name": "K/DA POP/STARS Featherknight",
+        "description": "Akali's fierce originality has captivated this Little Legend. Now that it's snagged its idol's signature hat, nothing can stand in the way of its dream: to be the first Featherknight to shine onstage for an audience.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6028.png"
+      },
+      {
+        "id": 6029,
+        "name": "K/DA POP/STARS Featherknight",
+        "description": "Akali's fierce originality has captivated this Little Legend. Now that it's snagged its idol's signature hat, nothing can stand in the way of its dream: to be the first Featherknight to shine onstage for an audience.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6029.png"
+      },
+      {
+        "id": 6030,
+        "name": "K/DA POP/STARS Featherknight",
+        "description": "Akali's fierce originality has captivated this Little Legend. Now that it's snagged its idol's signature hat, nothing can stand in the way of its dream: to be the first Featherknight to shine onstage for an audience.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6030.png"
       },
       {
         "id": 6016,
@@ -68743,6 +69602,54 @@
         "species": "Hushtail",
         "level": 3,
         "imagePath": "/assets/tftcompanions/9006.png"
+      },
+      {
+        "id": 9025,
+        "name": "K/DA ALL OUT Hushtail",
+        "description": "This Hushtail will follow Ahri in whatever form she takes on. Glowing with the group's recent success, it's ready to slay.",
+        "species": "Hushtail",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/9025.png"
+      },
+      {
+        "id": 9026,
+        "name": "K/DA ALL OUT Hushtail",
+        "description": "This Hushtail will follow Ahri in whatever form she takes on. Glowing with the group's recent success, it's ready to slay.",
+        "species": "Hushtail",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/9026.png"
+      },
+      {
+        "id": 9027,
+        "name": "K/DA ALL OUT Hushtail",
+        "description": "This Hushtail will follow Ahri in whatever form she takes on. Glowing with the group's recent success, it's ready to slay.",
+        "species": "Hushtail",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/9027.png"
+      },
+      {
+        "id": 9028,
+        "name": "K/DA POP/STARS Hushtail",
+        "description": "This Hushtail feels a special kinship with Ahri, and has morphed itself into the colors of her iconic POP/STARS outfit. Its dream is to follow K/DA around on tour.",
+        "species": "Hushtail",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/9028.png"
+      },
+      {
+        "id": 9029,
+        "name": "K/DA POP/STARS Hushtail",
+        "description": "This Hushtail feels a special kinship with Ahri, and has morphed itself into the colors of her iconic POP/STARS outfit. Its dream is to follow K/DA around on tour.",
+        "species": "Hushtail",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/9029.png"
+      },
+      {
+        "id": 9030,
+        "name": "K/DA POP/STARS Hushtail",
+        "description": "This Hushtail feels a special kinship with Ahri, and has morphed itself into the colors of her iconic POP/STARS outfit. Its dream is to follow K/DA around on tour.",
+        "species": "Hushtail",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/9030.png"
       },
       {
         "id": 9010,
