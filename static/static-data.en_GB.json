@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.23.343.2581",
+  "version": "10.24.345.8390",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,10 +13,10 @@
   ],
   "info": {
     "champions": 152,
-    "skins": 1134,
-    "chromas": 1896,
-    "icons": 2821,
-    "emotes": 691,
+    "skins": 1144,
+    "chromas": 1966,
+    "icons": 2828,
+    "emotes": 692,
     "wards": 208,
     "tftcompanions": 551,
     "tftmapskins": 32
@@ -1816,6 +1816,88 @@
                 "colors": [
                   "#73BFBE",
                   "#73BFBE"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8021,
+            "name": "Cosmic Devourer Vladimir",
+            "description": "Pompous, arrogant, and isolated from his cosmic brethren, Vladimir drinks the essence from dead worlds to infuse dying ones with life. Yet as of late his hunger has begun to grow…",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/8021.jpg",
+            "chromas": [
+              {
+                "id": 8022,
+                "name": "Cosmic Devourer Vladimir",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 8023,
+                "name": "Cosmic Devourer Vladimir",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 8024,
+                "name": "Cosmic Devourer Vladimir",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 8025,
+                "name": "Cosmic Devourer Vladimir",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 8026,
+                "name": "Cosmic Devourer Vladimir",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 8027,
+                "name": "Cosmic Devourer Vladimir",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 8028,
+                "name": "Cosmic Devourer Vladimir",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 8029,
+                "name": "Cosmic Devourer Vladimir",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -3893,6 +3975,15 @@
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/16016.jpg",
+            "chromas": null
+          },
+          {
+            "id": 16017,
+            "name": "Star Guardian Soraka Prestige Edition",
+            "description": "Leaving the planet behind with Xayah and the other Star Guardians, Soraka's full powers have been unlocked by her undying love for her friends—in the hopes that one day they will find their companion lost in the final battle with the Twilight Star, and be a family once again.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/16017.jpg",
             "chromas": null
           }
         ]
@@ -8140,6 +8231,97 @@
               {
                 "id": 34016,
                 "name": "Papercraft Anivia",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 34017,
+            "name": "Cosmic Flight Anivia",
+            "description": "A regal and truly ancient being, whose swirling energies give birth to entire galaxies. She has begun to wall off her creations, fearing the return of an ancient, golden foe that her kind has long sought to forget…",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/34017.jpg",
+            "chromas": [
+              {
+                "id": 34018,
+                "name": "Cosmic Flight Anivia",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 34019,
+                "name": "Cosmic Flight Anivia",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 34020,
+                "name": "Cosmic Flight Anivia",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 34021,
+                "name": "Cosmic Flight Anivia",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 34022,
+                "name": "Cosmic Flight Anivia",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 34023,
+                "name": "Cosmic Flight Anivia",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 34024,
+                "name": "Cosmic Flight Anivia",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 34025,
+                "name": "Cosmic Flight Anivia",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 34026,
+                "name": "Cosmic Flight Anivia",
                 "description": null,
                 "colors": [
                   "#C1F2FF",
@@ -14493,6 +14675,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/72004.jpg",
             "chromas": null
+          },
+          {
+            "id": 72005,
+            "name": "Cosmic Sting Skarner",
+            "description": "An ancient creature of deep, primal wisdoms from before the forming of the first galaxies, Skarner is composed of the very elements that are the building blocks of all the cosmos. His kind are the radiant antithesis of the ancient, squirming things that lurk in the deep darkness of space, and beyond it.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/72005.jpg",
+            "chromas": [
+              {
+                "id": 72006,
+                "name": "Cosmic Sting Skarner",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 72007,
+                "name": "Cosmic Sting Skarner",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 72008,
+                "name": "Cosmic Sting Skarner",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 72009,
+                "name": "Cosmic Sting Skarner",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 72010,
+                "name": "Cosmic Sting Skarner",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 72011,
+                "name": "Cosmic Sting Skarner",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 72012,
+                "name": "Cosmic Sting Skarner",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 72013,
+                "name": "Cosmic Sting Skarner",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -15071,6 +15335,88 @@
               {
                 "id": 76017,
                 "name": "Dawnbringer Nidalee",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 76018,
+            "name": "Cosmic Huntress Nidalee",
+            "description": "A cosmic tracker and ferocious warrior, she is tasked to find newborn stars and defend them from the ever-hungry Dark Star corruptants. Darting from galaxy to galaxy in an eternal hunt, she is forever shifting her shape like the wandering stars in the sky.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/76018.jpg",
+            "chromas": [
+              {
+                "id": 76019,
+                "name": "Cosmic Huntress Nidalee",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 76020,
+                "name": "Cosmic Huntress Nidalee",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 76021,
+                "name": "Cosmic Huntress Nidalee",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 76022,
+                "name": "Cosmic Huntress Nidalee",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 76023,
+                "name": "Cosmic Huntress Nidalee",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 76024,
+                "name": "Cosmic Huntress Nidalee",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 76025,
+                "name": "Cosmic Huntress Nidalee",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 76026,
+                "name": "Cosmic Huntress Nidalee",
                 "description": null,
                 "colors": [
                   "#ECF9F8",
@@ -20790,6 +21136,79 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 110017,
+            "name": "Cosmic Hunter Varus",
+            "description": "A young member of the cosmic court, minted in the image of the Dark Star corruptant Varus. Tasked with destroying his monstrous doppelganger, this new Varus seeks his place among the stars after his task is finally complete.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/110017.jpg",
+            "chromas": [
+              {
+                "id": 110018,
+                "name": "Cosmic Hunter Varus",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 110019,
+                "name": "Cosmic Hunter Varus",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 110020,
+                "name": "Cosmic Hunter Varus",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 110021,
+                "name": "Cosmic Hunter Varus",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 110022,
+                "name": "Cosmic Hunter Varus",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 110023,
+                "name": "Cosmic Hunter Varus",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 110024,
+                "name": "Cosmic Hunter Varus",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -22407,6 +22826,79 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 120014,
+            "name": "Cosmic Charger Hecarim",
+            "description": "A knight in the Queen's court, he leads his calvary across the sky, forever expanding the outer edge of creation—bringing new life wherever his hooves fall.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/120014.jpg",
+            "chromas": [
+              {
+                "id": 120015,
+                "name": "Cosmic Charger Hecarim",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 120016,
+                "name": "Cosmic Charger Hecarim",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 120017,
+                "name": "Cosmic Charger Hecarim",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 120018,
+                "name": "Cosmic Charger Hecarim",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 120019,
+                "name": "Cosmic Charger Hecarim",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 120020,
+                "name": "Cosmic Charger Hecarim",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 120021,
+                "name": "Cosmic Charger Hecarim",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -23429,6 +23921,97 @@
                 "colors": [
                   "#DED6B0",
                   "#DED6B0"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 127012,
+            "name": "Dark Cosmic Lissandra",
+            "description": "Once a cosmic entity charged with identifying future threats to the cosmos, her hunger for ever greater knowledge drew her into conflict with the Dark Star, which consumed her. Transformed into a mad doomsayer who sees a “true” universe in the ashes of this one, she has become the very end she once feared.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/127012.jpg",
+            "chromas": [
+              {
+                "id": 127013,
+                "name": "Dark Cosmic Lissandra",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 127014,
+                "name": "Dark Cosmic Lissandra",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 127015,
+                "name": "Dark Cosmic Lissandra",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 127016,
+                "name": "Dark Cosmic Lissandra",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 127017,
+                "name": "Dark Cosmic Lissandra",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 127018,
+                "name": "Dark Cosmic Lissandra",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 127019,
+                "name": "Dark Cosmic Lissandra",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 127020,
+                "name": "Dark Cosmic Lissandra",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 127021,
+                "name": "Dark Cosmic Lissandra",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
                 ]
               }
             ]
@@ -28918,6 +29501,79 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 267024,
+            "name": "Cosmic Destiny Nami",
+            "description": "The bringer of life, Nami is charged with scattering the seeds of 'Élan vital' on the newborn, cold lifeless rocks and planets that appear with the birth of new stars and constellations.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/267024.jpg",
+            "chromas": [
+              {
+                "id": 267025,
+                "name": "Cosmic Destiny Nami",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 267026,
+                "name": "Cosmic Destiny Nami",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 267027,
+                "name": "Cosmic Destiny Nami",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 267028,
+                "name": "Cosmic Destiny Nami",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 267029,
+                "name": "Cosmic Destiny Nami",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 267030,
+                "name": "Cosmic Destiny Nami",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 267031,
+                "name": "Cosmic Destiny Nami",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -29642,6 +30298,79 @@
                 "colors": [
                   "#E58BA5",
                   "#E58BA5"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 420010,
+            "name": "Cosmic Invoker Illaoi",
+            "description": "An entity who carries the raw power of cosmic creation in her hands, Illaoi can slam the orb she holds into the very fabric of reality, allowing time to flow forward even in places where life has been eradicated.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/420010.jpg",
+            "chromas": [
+              {
+                "id": 420011,
+                "name": "Cosmic Invoker Illaoi",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 420012,
+                "name": "Cosmic Invoker Illaoi",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 420013,
+                "name": "Cosmic Invoker Illaoi",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 420014,
+                "name": "Cosmic Invoker Illaoi",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 420015,
+                "name": "Cosmic Invoker Illaoi",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 420016,
+                "name": "Cosmic Invoker Illaoi",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 420017,
+                "name": "Cosmic Invoker Illaoi",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -54577,6 +55306,76 @@
         "imagePath": "/assets/icons/4826.jpg"
       },
       {
+        "id": 4827,
+        "title": "Lucian Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4827.jpg"
+      },
+      {
+        "id": 4828,
+        "title": "Senna Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4828.jpg"
+      },
+      {
+        "id": 4829,
+        "title": "Zilean Champie icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4829.jpg"
+      },
+      {
+        "id": 4830,
+        "title": "Viktor Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4830.jpg"
+      },
+      {
+        "id": 4831,
+        "title": "Blitzcrank Champie Icon",
+        "description": "This icon was released in the store for purchase in 2020.",
+        "set": "Champies",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4831.jpg"
+      },
+      {
+        "id": 4832,
+        "title": "Worlds 2020 DAMWON Gaming Champions Icon",
+        "description": "This icon celebrates the winner of the 2020 World Championship, DAMWON Gaming!",
+        "set": "Esports",
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4832.jpg"
+      },
+      {
+        "id": 4833,
+        "title": "Star Guardian Soraka Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Star Guardian Soraka skin from the 2020 Prestige Point Shop.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4833.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -65668,6 +66467,12 @@
         "name": "Crazy A-Bao You",
         "description": null,
         "imagePath": "/assets/emotes/3563.png"
+      },
+      {
+        "id": 3567,
+        "name": "Worlds 2020 Champion DAMWON Gaming ",
+        "description": null,
+        "imagePath": "/assets/emotes/3567.png"
       },
       {
         "id": 4,
