@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.24.345.8390",
+  "version": "10.25.348.1797",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,12 +12,12 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 152,
-    "skins": 1144,
-    "chromas": 1966,
-    "icons": 2828,
-    "emotes": 692,
-    "wards": 208,
+    "champions": 153,
+    "skins": 1155,
+    "chromas": 2038,
+    "icons": 2853,
+    "emotes": 699,
+    "wards": 209,
     "tftcompanions": 551,
     "tftmapskins": 32
   },
@@ -9626,6 +9626,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 40027,
+            "name": "Battle Queen Janna",
+            "description": "Hailing from Aurai, floating high above the Tournament, Queen Janna quite literally looks down on the whole affair. But without a champion in the Coronation, the magic that brings long-life to Aurai's reclusive population will fail, and so Janna descends for yet another showcase exhibition of her power. Anything to protect her people.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/40027.jpg",
+            "chromas": [
+              {
+                "id": 40028,
+                "name": "Battle Queen Janna",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 40029,
+                "name": "Battle Queen Janna",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 40030,
+                "name": "Battle Queen Janna",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 40031,
+                "name": "Battle Queen Janna",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 40032,
+                "name": "Battle Queen Janna",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 40033,
+                "name": "Battle Queen Janna",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
+                "colors": [
+                  "#FF80B1",
+                  "#9DFFEF"
+                ]
+              },
+              {
+                "id": 40034,
+                "name": "Battle Queen Janna",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 40035,
+                "name": "Battle Queen Janna",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -12201,6 +12283,79 @@
                 "colors": [
                   "#ECF9F8",
                   "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 55029,
+            "name": "Battle Queen Katarina",
+            "description": "Katarina won the Schemean crest with a ruthless performance in her queendom's battle pits. For Schema to break free of its humble alliances and become the region's rightful leader, it will take a similarly commanding performance in the Coronation—and Katarina has never been more prepared to cement her fearsome status as the rightful queen of queens.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/55029.jpg",
+            "chromas": [
+              {
+                "id": 55030,
+                "name": "Battle Queen Katarina",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 55031,
+                "name": "Battle Queen Katarina",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 55032,
+                "name": "Battle Queen Katarina",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 55033,
+                "name": "Battle Queen Katarina",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 55034,
+                "name": "Battle Queen Katarina",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 55035,
+                "name": "Battle Queen Katarina",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 55036,
+                "name": "Battle Queen Katarina",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
+                "colors": [
+                  "#FF80B1",
+                  "#9DFFEF"
                 ]
               }
             ]
@@ -23306,7 +23461,7 @@
               {
                 "id": 121066,
                 "name": "Odyssey Kha'Zix",
-                "description": null,
+                "description": "Obtained through Influencer audience giveaways",
                 "colors": [
                   "#2DA130",
                   "#2DA130"
@@ -23702,7 +23857,7 @@
               {
                 "id": 126013,
                 "name": "Battle Academia Jayce",
-                "description": null,
+                "description": "Obtained through Influencer audience giveaways.",
                 "colors": [
                   "#2DA130",
                   "#2DA130"
@@ -24259,6 +24414,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 131025,
+            "name": "Battle Queen Diana",
+            "description": "Exiled for heresy, Diana has assented to return to her queendom to save her people—nothing else. She intends to use the Coronation to prove her worth and force Eos' elders to admit the truth of her beliefs: that the Crest answers to the will of the nation, not its leaders.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/131025.jpg",
+            "chromas": null
+          },
+          {
+            "id": 131026,
+            "name": "Battle Queen Diana Prestige Edition",
+            "description": "After revealing the truth at her nomination ceremony, Diana will let nothing stand in her way. Clad in new armor as steely as her resolve, Diana intends to subdue the Tournament's monsters—and the power-hungry religious order that has stifled Eosia.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/131026.jpg",
+            "chromas": null
           }
         ]
       },
@@ -25258,7 +25431,17 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/145026.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 145028,
+                "name": "K/DA ALL OUT Kai'Sa",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
+                "colors": [
+                  "#0C0C0F",
+                  "#272A3F"
+                ]
+              }
+            ]
           },
           {
             "id": 145027,
@@ -28787,6 +28970,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/246010.jpg",
             "chromas": null
+          },
+          {
+            "id": 246011,
+            "name": "Battle Queen Qiyana",
+            "description": "Qiyana is the youngest in a line of sisters who have been Queens of Ixtal for most of the recent Coronations. She's been waiting impatiently for her chance at the Crest and the title. Now that she has it, she intends to use the power she gains in the tournament to remake Ixtal in her vision.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/246011.jpg",
+            "chromas": [
+              {
+                "id": 246012,
+                "name": "Battle Queen Qiyana",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 246013,
+                "name": "Battle Queen Qiyana",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 246014,
+                "name": "Battle Queen Qiyana",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
+                "colors": [
+                  "#FF80B1",
+                  "#9DFFEF"
+                ]
+              },
+              {
+                "id": 246015,
+                "name": "Battle Queen Qiyana",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 246016,
+                "name": "Battle Queen Qiyana",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 246017,
+                "name": "Battle Queen Qiyana",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 246018,
+                "name": "Battle Queen Qiyana",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 246019,
+                "name": "Battle Queen Qiyana",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -29635,6 +29900,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/268004.jpg",
             "chromas": null
+          },
+          {
+            "id": 268005,
+            "name": "Elderwood Azir",
+            "description": "An ancient druid-king of the Elderwood, who has called the forest his home since it stood nameless in the shadow of the gods. Though his people are a dying breed, he has raised an ensorcelled army in their likeness, including the shell of a human king whose story rings all too familiar...",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/268005.jpg",
+            "chromas": [
+              {
+                "id": 268006,
+                "name": "Elderwood Azir",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 268007,
+                "name": "Elderwood Azir",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 268008,
+                "name": "Elderwood Azir",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 268009,
+                "name": "Elderwood Azir",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 268010,
+                "name": "Elderwood Azir",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 268011,
+                "name": "Elderwood Azir",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 268012,
+                "name": "Elderwood Azir",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
+                "colors": [
+                  "#27211C",
+                  "#971458"
+                ]
+              },
+              {
+                "id": 268013,
+                "name": "Elderwood Azir",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -30660,6 +31007,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 427011,
+            "name": "Elderwood Ivern",
+            "description": "A nightmarish totem forged of witchcraft and forbidden incantations, Ivern stood among the Old Gods in the days before their destruction. Left inert for hundreds of years, he has risen along with his brethren to annihilate the paltry works of man.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/427011.jpg",
+            "chromas": [
+              {
+                "id": 427012,
+                "name": "Elderwood Ivern",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 427013,
+                "name": "Elderwood Ivern",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 427014,
+                "name": "Elderwood Ivern",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 427015,
+                "name": "Elderwood Ivern",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 427016,
+                "name": "Elderwood Ivern",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 427017,
+                "name": "Elderwood Ivern",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 427018,
+                "name": "Elderwood Ivern",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
+                "colors": [
+                  "#27211C",
+                  "#971458"
+                ]
+              },
+              {
+                "id": 427019,
+                "name": "Elderwood Ivern",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -30990,6 +31419,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 497009,
+            "name": "Elderwood Rakan",
+            "description": "Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Star-crossed lovers uninterested in the affairs of mortals, their playful romance has insulated their people from the horrors befalling the outside world.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/497009.jpg",
+            "chromas": [
+              {
+                "id": 497010,
+                "name": "Elderwood Rakan",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 497011,
+                "name": "Elderwood Rakan",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 497012,
+                "name": "Elderwood Rakan",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 497013,
+                "name": "Elderwood Rakan",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 497014,
+                "name": "Elderwood Rakan",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 497015,
+                "name": "Elderwood Rakan",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 497016,
+                "name": "Elderwood Rakan",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
+                "colors": [
+                  "#27211C",
+                  "#971458"
+                ]
+              },
+              {
+                "id": 497017,
+                "name": "Elderwood Rakan",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -31078,6 +31589,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 498008,
+            "name": "Elderwood Xayah",
+            "description": "Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Though Princess Xayah has seen the darkness of the world beyond, she has chosen to simply adopt its colors for her court rather than confront it.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/498008.jpg",
+            "chromas": [
+              {
+                "id": 498009,
+                "name": "Elderwood Xayah",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 498010,
+                "name": "Elderwood Xayah",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 498011,
+                "name": "Elderwood Xayah",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 498012,
+                "name": "Elderwood Xayah",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 498013,
+                "name": "Elderwood Xayah",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 498014,
+                "name": "Elderwood Xayah",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 498015,
+                "name": "Elderwood Xayah",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
+                "colors": [
+                  "#27211C",
+                  "#971458"
+                ]
+              },
+              {
+                "id": 498016,
+                "name": "Elderwood Xayah",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -31112,6 +31705,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/516001.jpg",
             "chromas": null
+          },
+          {
+            "id": 516002,
+            "name": "Elderwood Ornn",
+            "description": "A truly ancient shaper of the Elderwood, and keeper of divine knowledge. Beings who tended the trees and directed the rivers are rare in this time of fell magic and endless twilight, yet Ornn continues on, stubbornly clinging to what remains of the old way.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/516002.jpg",
+            "chromas": [
+              {
+                "id": 516003,
+                "name": "Elderwood Ornn",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 516004,
+                "name": "Elderwood Ornn",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 516005,
+                "name": "Elderwood Ornn",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 516006,
+                "name": "Elderwood Ornn",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 516007,
+                "name": "Elderwood Ornn",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 516008,
+                "name": "Elderwood Ornn",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 516009,
+                "name": "Elderwood Ornn",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 516010,
+                "name": "Elderwood Ornn",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
+                "colors": [
+                  "#27211C",
+                  "#971458"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -31466,6 +32141,112 @@
                 "colors": [
                   "#2DA130",
                   "#2DA130"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 526,
+        "name": "Rell",
+        "alias": "Rell",
+        "title": "the Iron Maiden",
+        "releaseDate": "2020-11-23",
+        "associatedFactionSlug": "noxus",
+        "shortBio": "The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control over metal... until she staged a violent escape, killing many of her captors in the process. Now branded as a criminal, Rell attacks Noxian soldiers on sight as she searches for survivors of her old “academy,” defending the meek while delivering violent death to her former overseers.",
+        "squarePortraitPath": "/assets/champions/portraits/526.png",
+        "roles": [
+          "tank"
+        ],
+        "skins": [
+          {
+            "id": 526000,
+            "name": "Rell (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/526000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 526001,
+            "name": "Battle Queen Rell",
+            "description": "A young woman from the magic-starved Queendom of Calamity, volunteered for the coronation by a shadowy cabal of aristocrats after a series of magical experiments. Having now won the crown and the power of her crest, Rell has discovered her powers were stolen from the people of her country, and she has vowed revenge on her puppeteers.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/526001.jpg",
+            "chromas": [
+              {
+                "id": 526002,
+                "name": "Battle Queen Rell",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 526003,
+                "name": "Battle Queen Rell",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 526004,
+                "name": "Battle Queen Rell",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 526005,
+                "name": "Battle Queen Rell",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 526006,
+                "name": "Battle Queen Rell",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 526007,
+                "name": "Battle Queen Rell",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 526008,
+                "name": "Battle Queen Rell",
+                "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
+                "colors": [
+                  "#FF80B1",
+                  "#9DFFEF"
+                ]
+              },
+              {
+                "id": 526009,
+                "name": "Battle Queen Rell",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -55376,6 +56157,256 @@
         "imagePath": "/assets/icons/4833.jpg"
       },
       {
+        "id": 4834,
+        "title": "Battle Queens Event Icon",
+        "description": "This icon was an exclusive reward from participating in the 2020 Battle Queens event.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4834.jpg"
+      },
+      {
+        "id": 4835,
+        "title": "Battle Queens Event Pass Icon",
+        "description": "This icon was a milestone reward from the 2020 Battle Queens Event Pass.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4835.jpg"
+      },
+      {
+        "id": 4836,
+        "title": "Battle Queens Prestige Points Icon",
+        "description": "This icon was earned through Loot during the 2020 Battle Queens event.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4836.jpg"
+      },
+      {
+        "id": 4837,
+        "title": "Battle Queen Katarina Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4837.jpg"
+      },
+      {
+        "id": 4838,
+        "title": "Battle Queen Diana Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4838.jpg"
+      },
+      {
+        "id": 4839,
+        "title": "Battle Queen Qiyana Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4839.jpg"
+      },
+      {
+        "id": 4840,
+        "title": "Battle Queen Janna Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4840.jpg"
+      },
+      {
+        "id": 4841,
+        "title": "Battle Queen Rell Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4841.jpg"
+      },
+      {
+        "id": 4842,
+        "title": "Elderwood Xayah Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Elderwood",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4842.jpg"
+      },
+      {
+        "id": 4843,
+        "title": "Elderwood Rakan Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Elderwood",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4843.jpg"
+      },
+      {
+        "id": 4844,
+        "title": "Elderwood Ivern Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Elderwood",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4844.jpg"
+      },
+      {
+        "id": 4845,
+        "title": "Elderwood Azir Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Elderwood",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4845.jpg"
+      },
+      {
+        "id": 4846,
+        "title": "Elderwood Ornn Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Elderwood",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4846.jpg"
+      },
+      {
+        "id": 4847,
+        "title": "Battle Queen Katarina Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4847.jpg"
+      },
+      {
+        "id": 4848,
+        "title": "Battle Queen Qiyana Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4848.jpg"
+      },
+      {
+        "id": 4849,
+        "title": "Battle Queen Janna Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4849.jpg"
+      },
+      {
+        "id": 4850,
+        "title": "Battle Queen Rell Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Battle Queens",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4850.jpg"
+      },
+      {
+        "id": 4851,
+        "title": "Elderwood Xayah Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Elderwood",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4851.jpg"
+      },
+      {
+        "id": 4852,
+        "title": "Elderwood Rakan Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Elderwood",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4852.jpg"
+      },
+      {
+        "id": 4853,
+        "title": "Elderwood Ivern Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Elderwood",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4853.jpg"
+      },
+      {
+        "id": 4854,
+        "title": "Elderwood Azir Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Elderwood",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4854.jpg"
+      },
+      {
+        "id": 4855,
+        "title": "Elderwood Ornn Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": "Elderwood",
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4855.jpg"
+      },
+      {
+        "id": 4856,
+        "title": "Poro Rider Sejuani Merch Icon",
+        "description": "This icon was acquired by making a purchase from the merch store.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4856.jpg"
+      },
+      {
+        "id": 4857,
+        "title": "Battle Queen Diana Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Battle Queen Diana skin with event tokens during the 2020 Battle Queens event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4857.jpg"
+      },
+      {
+        "id": 4858,
+        "title": "K/DA ALL OUT Kai'Sa Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4858.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -62355,6 +63386,16 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/wards/207.png"
+      },
+      {
+        "id": 208,
+        "name": "Battle Queens Ward",
+        "defaultDescription": null,
+        "description": "This ward was acquired during the 2020 Battle Queens event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/208.png"
       }
     ],
     "emotes": [
@@ -66469,10 +67510,52 @@
         "imagePath": "/assets/emotes/3563.png"
       },
       {
+        "id": 3564,
+        "name": "What Was That?!",
+        "description": null,
+        "imagePath": "/assets/emotes/3564.png"
+      },
+      {
+        "id": 3565,
+        "name": "You Really Thought...",
+        "description": null,
+        "imagePath": "/assets/emotes/3565.png"
+      },
+      {
+        "id": 3566,
+        "name": "Sound the Ornn Horn",
+        "description": null,
+        "imagePath": "/assets/emotes/3566.png"
+      },
+      {
         "id": 3567,
         "name": "Worlds 2020 Champion DAMWON Gaming ",
         "description": null,
         "imagePath": "/assets/emotes/3567.png"
+      },
+      {
+        "id": 3568,
+        "name": "What the Baddest Do",
+        "description": null,
+        "imagePath": "/assets/emotes/3568.png"
+      },
+      {
+        "id": 3569,
+        "name": "Playful Pup",
+        "description": null,
+        "imagePath": "/assets/emotes/3569.png"
+      },
+      {
+        "id": 3570,
+        "name": "Unkillable King",
+        "description": null,
+        "imagePath": "/assets/emotes/3570.png"
+      },
+      {
+        "id": 3571,
+        "name": "Oh Well",
+        "description": null,
+        "imagePath": "/assets/emotes/3571.png"
       },
       {
         "id": 4,
