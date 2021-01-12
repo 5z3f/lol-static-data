@@ -1,5 +1,5 @@
 ﻿{
-  "version": "10.25.348.1797",
+  "version": "11.1.353.0727",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,10 +13,10 @@
   ],
   "info": {
     "champions": 153,
-    "skins": 1155,
-    "chromas": 2038,
-    "icons": 2853,
-    "emotes": 699,
+    "skins": 1160,
+    "chromas": 2078,
+    "icons": 2857,
+    "emotes": 710,
     "wards": 209,
     "tftcompanions": 551,
     "tftmapskins": 32
@@ -1067,6 +1067,88 @@
                 "colors": [
                   "#54209B",
                   "#54209B"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5027,
+            "name": "Marauder Xin Zhao",
+            "description": "Though brutal, the Marauders still follow a martial order established during the era of the Magelords. These commanders seek only to reclaim the might with which their order once ruled. Xin Zhao is one half of the pair of current leaders. Pragmatic and measured, he has resurrected an ancient Magelord to destroy his foes once and for all.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/5027.jpg",
+            "chromas": [
+              {
+                "id": 5028,
+                "name": "Marauder Xin Zhao",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 5029,
+                "name": "Marauder Xin Zhao",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 5030,
+                "name": "Marauder Xin Zhao",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 5031,
+                "name": "Marauder Xin Zhao",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 5032,
+                "name": "Marauder Xin Zhao",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 5033,
+                "name": "Marauder Xin Zhao",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 5034,
+                "name": "Marauder Xin Zhao",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 5035,
+                "name": "Marauder Xin Zhao",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
                 ]
               }
             ]
@@ -13477,7 +13559,7 @@
           {
             "id": 61008,
             "name": "Victorious Orianna",
-            "description": "Victorious Orianna was awarded to players who reached Gold or higher in 2 Ranked Queues for Season 8. Her body has been reforged by Piltover's finest artificers, and enhanced with experimental hextech.",
+            "description": "Victorious Orianna was awarded to players who reached Gold or higher in the 2018 season. Her body has been reforged by Piltover's finest artificers, and enhanced with experimental hextech.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/61008.jpg",
@@ -15998,6 +16080,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/79010.jpg",
             "chromas": null
+          },
+          {
+            "id": 79011,
+            "name": "Warden Gragas",
+            "description": "The Wardens are a sect of those who choose to don the armor of the Protectorate. Wardens hale from all corners of the world; so long as one holds fast to one's pledge, then one is a Warden. Gragas found purpose in this calling, and found camaraderie in his fellow Wardens, who welcomed him—all of him—with open arms.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/79011.jpg",
+            "chromas": [
+              {
+                "id": 79012,
+                "name": "Warden Gragas",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 79013,
+                "name": "Warden Gragas",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 79014,
+                "name": "Warden Gragas",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 79015,
+                "name": "Warden Gragas",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 79016,
+                "name": "Warden Gragas",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 79017,
+                "name": "Warden Gragas",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 79018,
+                "name": "Warden Gragas",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 79019,
+                "name": "Warden Gragas",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -17846,7 +18010,7 @@
           {
             "id": 89010,
             "name": "Solar Eclipse Leona",
-            "description": "Hearken! We beseech thee, O Cruel Sun, and deign to bless with the cleansing flame of thy celestial majesty. May this shield guard against the scourge of dark enchantments, which choke our land. May this blade be the hammer against the servants of witchery and evil. I, Leona, do take this oath forevermore.",
+            "description": "Hearken! We beseech thee, O Savage Moon, and deign to bless with the vermillion shadow of thy celestial majesty. May this shield guard against the scourge of dark enchantments, which choke our land. May this blade be the hammer against the servants of witchery and evil. I, Leona, do take this oath forevermore.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/89010.jpg",
@@ -24493,6 +24657,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/133004.jpg",
             "chromas": null
+          },
+          {
+            "id": 133005,
+            "name": "Warden Quinn",
+            "description": "The Protectorate of old gained its power from bonds: bonds between comrades, bonds to armor, bonds to its edicts. Quinn follows in the footsteps of her ancestors, having forged a bond with a familiar she has named Valor, in honor of the Protectorate's central tenet.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/133005.jpg",
+            "chromas": [
+              {
+                "id": 133006,
+                "name": "Warden Quinn",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 133007,
+                "name": "Warden Quinn",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 133008,
+                "name": "Warden Quinn",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 133009,
+                "name": "Warden Quinn",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 133010,
+                "name": "Warden Quinn",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 133011,
+                "name": "Warden Quinn",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 133012,
+                "name": "Warden Quinn",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 133013,
+                "name": "Warden Quinn",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -28510,6 +28756,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 240009,
+            "name": "Marauder Kled",
+            "description": "Throughout history, the Marauders have balanced on the knife's edge between brutality and cunning. General Kled, one half of the pair that currently leads the regime, is truly the incarnation of their historic brutality… and little more. If it weren't for Xin Zhao, Kled would bet everything on a final, bloody, battle.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/240009.jpg",
+            "chromas": [
+              {
+                "id": 240010,
+                "name": "Marauder Kled",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 240011,
+                "name": "Marauder Kled",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 240012,
+                "name": "Marauder Kled",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 240013,
+                "name": "Marauder Kled",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 240014,
+                "name": "Marauder Kled",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 240015,
+                "name": "Marauder Kled",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 240016,
+                "name": "Marauder Kled",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 240017,
+                "name": "Marauder Kled",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -31150,6 +31478,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/429003.jpg",
             "chromas": null
+          },
+          {
+            "id": 429005,
+            "name": "Marauder Kalista",
+            "description": "The Magelords… furious, brutal, and glorious in their conquest—a sect of warriors long lost to the sands of time. Until now. Resurrected by the current Marauder leaders, Kalista's desire for vengeance has only festered over the millenia. Now she returns, more powerful than ever, to eradicate the Wardens and everything they've built.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/429005.jpg",
+            "chromas": [
+              {
+                "id": 429006,
+                "name": "Marauder Kalista",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 429007,
+                "name": "Marauder Kalista",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 429008,
+                "name": "Marauder Kalista",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 429009,
+                "name": "Marauder Kalista",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 429010,
+                "name": "Marauder Kalista",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 429011,
+                "name": "Marauder Kalista",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 429012,
+                "name": "Marauder Kalista",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 429013,
+                "name": "Marauder Kalista",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -55770,7 +56180,7 @@
         "id": 4795,
         "title": "K/DA ALL OUT Kai'Sa Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige K/DA ALL OUT Kai'Sa skin with event tokens during the Worlds 2020 event.",
-        "set": "K/DA",
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -56150,7 +56560,7 @@
         "id": 4833,
         "title": "Star Guardian Soraka Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige Star Guardian Soraka skin from the 2020 Prestige Point Shop.",
-        "set": null,
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -56390,7 +56800,7 @@
         "id": 4857,
         "title": "Battle Queen Diana Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige Battle Queen Diana skin with event tokens during the 2020 Battle Queens event.",
-        "set": null,
+        "set": "Prestige",
         "yearReleased": 2020,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -56400,11 +56810,51 @@
         "id": 4858,
         "title": "K/DA ALL OUT Kai'Sa Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
-        "set": null,
+        "set": "K/DA",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
         "imagePath": "/assets/icons/4858.jpg"
+      },
+      {
+        "id": 4860,
+        "title": "MINDBLAST! Icon",
+        "description": "This icon was earned by completing an Esports watch mission.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4860.jpg"
+      },
+      {
+        "id": 4861,
+        "title": "Well Done! Icon",
+        "description": "This icon was earned through drops on Lolesports.com.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4861.jpg"
+      },
+      {
+        "id": 4862,
+        "title": "Season 2021  Split 1 Icon",
+        "description": "This icon was earned by winning ranked games in Season 2021 - Split 1.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4862.jpg"
+      },
+      {
+        "id": 4863,
+        "title": "Season 2021 Icon",
+        "description": "This icon was an exclusive reward for participating in the Season 2021 event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4863.jpg"
       },
       {
         "id": 4,
@@ -59678,7 +60128,7 @@
       },
       {
         "id": 839,
-        "title": "Baron Nashor",
+        "title": "Baron Nashor Icon",
         "description": "This icon was released in the store for purchase during 2015.",
         "set": "Summoner's Rift",
         "yearReleased": 2015,
@@ -61505,7 +61955,7 @@
         "description": "This ward was granted to players who have met a Rioter and received a code!",
         "set": null,
         "rarity": "kMythic",
-        "isLegacy": false,
+        "isLegacy": true,
         "imagePath": "/assets/wards/19.png"
       },
       {
@@ -67556,6 +68006,72 @@
         "name": "Oh Well",
         "description": null,
         "imagePath": "/assets/emotes/3571.png"
+      },
+      {
+        "id": 3572,
+        "name": "2020 - Split 1 - Iron",
+        "description": null,
+        "imagePath": "/assets/emotes/3572.png"
+      },
+      {
+        "id": 3573,
+        "name": "2021 - Split 1 - Bronze",
+        "description": null,
+        "imagePath": "/assets/emotes/3573.png"
+      },
+      {
+        "id": 3574,
+        "name": "2021 - Split 1 - Silver",
+        "description": null,
+        "imagePath": "/assets/emotes/3574.png"
+      },
+      {
+        "id": 3575,
+        "name": "2021 - Split 1 - Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3575.png"
+      },
+      {
+        "id": 3576,
+        "name": "2021 - Split 1 - Platinum",
+        "description": null,
+        "imagePath": "/assets/emotes/3576.png"
+      },
+      {
+        "id": 3577,
+        "name": "2021 - Split 1 - Diamond",
+        "description": null,
+        "imagePath": "/assets/emotes/3577.png"
+      },
+      {
+        "id": 3578,
+        "name": "2021 - Split 1 - Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3578.png"
+      },
+      {
+        "id": 3579,
+        "name": "2021 - Split 1 - Grand Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3579.png"
+      },
+      {
+        "id": 3580,
+        "name": "2021 - Split 1 - Challenger",
+        "description": null,
+        "imagePath": "/assets/emotes/3580.png"
+      },
+      {
+        "id": 3581,
+        "name": "Not Today!",
+        "description": null,
+        "imagePath": "/assets/emotes/3581.png"
+      },
+      {
+        "id": 3582,
+        "name": "This for Me?",
+        "description": null,
+        "imagePath": "/assets/emotes/3582.png"
       },
       {
         "id": 4,
