@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.1.353.0727",
+  "version": "11.2.353.8505",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,14 +12,14 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 153,
-    "skins": 1160,
-    "chromas": 2078,
-    "icons": 2857,
-    "emotes": 710,
+    "champions": 154,
+    "skins": 1168,
+    "chromas": 2137,
+    "icons": 2861,
+    "emotes": 722,
     "wards": 209,
-    "tftcompanions": 551,
-    "tftmapskins": 32
+    "tftcompanions": 573,
+    "tftmapskins": 37
   },
   "data": {
     "champions": [
@@ -7655,6 +7655,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/31007.jpg",
             "chromas": null
+          },
+          {
+            "id": 31014,
+            "name": "Shan Hai Scrolls Cho'Gath",
+            "description": "A mythical, titanic beast painted within the mysterious Shan Hai Scrolls, whose gluttony resulted in eternal karmic punishment, Cho'gath has seized upon the Scrolls' connection to the multiverse and plans to devour both his own world and then all others.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/31014.jpg",
+            "chromas": [
+              {
+                "id": 31015,
+                "name": "Shan Hai Scrolls Cho'Gath",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 31016,
+                "name": "Shan Hai Scrolls Cho'Gath",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 31017,
+                "name": "Shan Hai Scrolls Cho'Gath",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 31018,
+                "name": "Shan Hai Scrolls Cho'Gath",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 31019,
+                "name": "Shan Hai Scrolls Cho'Gath",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 31020,
+                "name": "Shan Hai Scrolls Cho'Gath",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 31021,
+                "name": "Shan Hai Scrolls Cho'Gath",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 31022,
+                "name": "Shan Hai Scrolls Cho'Gath",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -10590,6 +10672,79 @@
                 "colors": [
                   "#73BFBE",
                   "#73BFBE"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 43027,
+            "name": "Ruined Karma",
+            "description": "Surviving the initial ruination of Ionia, Karma is ultimately lost during a second one led by Viego himself. With the Spirit of Ionia itself removed from the continent, the Ionian people must band together to save one another, even as Karma twists the souls of millions to a new, horrific purpose.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/43027.jpg",
+            "chromas": [
+              {
+                "id": 43036,
+                "name": "Ruined Karma",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 43037,
+                "name": "Ruined Karma",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 43038,
+                "name": "Ruined Karma",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 43039,
+                "name": "Ruined Karma",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 43040,
+                "name": "Ruined Karma",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 43041,
+                "name": "Ruined Karma",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 43042,
+                "name": "Ruined Karma",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -19945,6 +20100,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/102006.jpg",
             "chromas": null
+          },
+          {
+            "id": 102008,
+            "name": "Ruined Shyvana",
+            "description": "Shyvana's ruination brings a newfound darkness, as well as clarity. Turning swiftly against Demacia for its persecution of magic, and sinking into her more draconic emotions, she appears as an avenging beast of old, ready to topple Demacia for its ignorance.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/102008.jpg",
+            "chromas": [
+              {
+                "id": 102009,
+                "name": "Ruined Shyvana",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 102010,
+                "name": "Ruined Shyvana",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 102011,
+                "name": "Ruined Shyvana",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 102012,
+                "name": "Ruined Shyvana",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 102013,
+                "name": "Ruined Shyvana",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 102014,
+                "name": "Ruined Shyvana",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 102015,
+                "name": "Ruined Shyvana",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21617,6 +21845,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/111006.jpg",
             "chromas": null
+          },
+          {
+            "id": 111009,
+            "name": "Shan Hai Scrolls Nautilus",
+            "description": "A guardian who helped seal the mad god Jhin within a holy waterfall, as depicted within the mysterious painting known as the Shan Hai Scrolls. Over the millenia, Jhin has whispered of power, freedom, and true godhood to Nautilus, until he finally released him. Now twisted with anger, Nautilus's rivers run not with water, but molten magma.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/111009.jpg",
+            "chromas": [
+              {
+                "id": 111010,
+                "name": "Shan Hai Scrolls Nautilus",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 111011,
+                "name": "Shan Hai Scrolls Nautilus",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 111012,
+                "name": "Shan Hai Scrolls Nautilus",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 111013,
+                "name": "Shan Hai Scrolls Nautilus",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 111014,
+                "name": "Shan Hai Scrolls Nautilus",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 111015,
+                "name": "Shan Hai Scrolls Nautilus",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 111016,
+                "name": "Shan Hai Scrolls Nautilus",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 111017,
+                "name": "Shan Hai Scrolls Nautilus",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -22999,6 +23309,79 @@
                 "colors": [
                   "#9C68D7",
                   "#9C68D7"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 119020,
+            "name": "Ruined Draven",
+            "description": "A showman no matter the circumstance, Draven challenged Viego to a duel that the Glorious Executioner immediately lost, resulting in his ruination. Unlike his ruined brethren, little has changed about Draven save for a white shock hair on his head and a slightly more vicious personality than usual.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/119020.jpg",
+            "chromas": [
+              {
+                "id": 119021,
+                "name": "Ruined Draven",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 119022,
+                "name": "Ruined Draven",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 119023,
+                "name": "Ruined Draven",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 119024,
+                "name": "Ruined Draven",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 119025,
+                "name": "Ruined Draven",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 119026,
+                "name": "Ruined Draven",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 119027,
+                "name": "Ruined Draven",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -27324,6 +27707,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/202005.jpg",
             "chromas": null
+          },
+          {
+            "id": 202014,
+            "name": "Shan Hai Scrolls Jhin",
+            "description": "A mad god who resides within a mysterious painting older than creation, Jhin has grown bored of the canvas in which he dwells and wishes to bring his art to new, fresh eyes. He has begun weaving the edges of the painting into the fabric of the multiverse, hoping to escape his confinement.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/202014.jpg",
+            "chromas": [
+              {
+                "id": 202015,
+                "name": "Shan Hai Scrolls Jhin",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 202016,
+                "name": "Shan Hai Scrolls Jhin",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 202017,
+                "name": "Shan Hai Scrolls Jhin",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 202018,
+                "name": "Shan Hai Scrolls Jhin",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 202019,
+                "name": "Shan Hai Scrolls Jhin",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 202020,
+                "name": "Shan Hai Scrolls Jhin",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 202021,
+                "name": "Shan Hai Scrolls Jhin",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 202022,
+                "name": "Shan Hai Scrolls Jhin",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -27904,6 +28369,95 @@
                 "colors": [
                   "#D33528",
                   "#D33528"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 234,
+        "name": "Viego",
+        "alias": "Viego",
+        "title": "The Ruined King",
+        "releaseDate": "2021-01-05",
+        "associatedFactionSlug": "shadow-isles",
+        "shortBio": "Once ruler of a long-lost kingdom, Viego perished over a thousand years ago when his attempt to bring his wife back from the dead triggered the magical catastrophe known as the Ruination. Transformed into a powerful, unliving wraith tortured by an obsessive longing for his centuries-dead queen, Viego now stands as the Ruined King, controlling the deadly Harrowings as he scours Runeterra for anything that might one day restore her, and destroying all in his path as the Black Mist pours endlessly from his cruel, broken heart.",
+        "squarePortraitPath": "/assets/champions/portraits/234.png",
+        "roles": [
+          "assassin",
+          "fighter"
+        ],
+        "skins": [
+          {
+            "id": 234000,
+            "name": "Viego (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/234000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 234001,
+            "name": "Lunar Beast Viego",
+            "description": "Former leader of a past Lunar Ox Squad, Viego decided that they would fight the Lunar Beast and actually defeat it. His plan ended in tragedy as he watched the rest of his squad be devoured-- including his wife. Viego has stewed in bitterness over these losses for years, blaming everyone but himself -- including this year's Lunar Ox Squad.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/234001.jpg",
+            "chromas": [
+              {
+                "id": 234002,
+                "name": "Lunar Beast Viego",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 234003,
+                "name": "Lunar Beast Viego",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 234004,
+                "name": "Lunar Beast Viego",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 234005,
+                "name": "Lunar Beast Viego",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 234006,
+                "name": "Lunar Beast Viego",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 234007,
+                "name": "Lunar Beast Viego",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -32457,6 +33011,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/518011.jpg",
             "chromas": null
+          },
+          {
+            "id": 518012,
+            "name": "Shan Hai Scrolls Neeko",
+            "description": "A kindly god of the Shan Hai Scrolls who remembers her counterpart, Jhin, from before he succumbed to madness, Neeko believes she can return Jhin to the side of good before the painting's magic fades and doom befalls the multiverse, but she knows such an expenditure of power may destroy her in the process.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/518012.jpg",
+            "chromas": [
+              {
+                "id": 518013,
+                "name": "Shan Hai Scrolls Neeko",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 518014,
+                "name": "Shan Hai Scrolls Neeko",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 518015,
+                "name": "Shan Hai Scrolls Neeko",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 518016,
+                "name": "Shan Hai Scrolls Neeko",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 518017,
+                "name": "Shan Hai Scrolls Neeko",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 518018,
+                "name": "Shan Hai Scrolls Neeko",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 518019,
+                "name": "Shan Hai Scrolls Neeko",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 518020,
+                "name": "Shan Hai Scrolls Neeko",
+                "description": null,
+                "colors": [
+                  "#85827F",
+                  "#85827F"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -56857,6 +57493,46 @@
         "imagePath": "/assets/icons/4863.jpg"
       },
       {
+        "id": 4881,
+        "title": "Festival of Beasts Event Icon",
+        "description": "A celebration like this only comes once a year!",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4881.jpg"
+      },
+      {
+        "id": 4882,
+        "title": "LCS Made by Many Icon",
+        "description": "This icon is to celebrate the LCS community.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4882.jpg"
+      },
+      {
+        "id": 4883,
+        "title": "Master's Challenge Season 7 Icon",
+        "description": "Earned by making to the top 2000 in China's Master's Challenge server.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kUltimate",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4883.jpg"
+      },
+      {
+        "id": 4884,
+        "title": "Is My Mic On? Icon",
+        "description": "This icon was earned through drops on Lolesports.com.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4884.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -68074,6 +68750,78 @@
         "imagePath": "/assets/emotes/3582.png"
       },
       {
+        "id": 3587,
+        "name": "Crushed It!",
+        "description": null,
+        "imagePath": "/assets/emotes/3587.png"
+      },
+      {
+        "id": 3588,
+        "name": "Your Move",
+        "description": null,
+        "imagePath": "/assets/emotes/3588.png"
+      },
+      {
+        "id": 3589,
+        "name": "Awesome Sauce!",
+        "description": null,
+        "imagePath": "/assets/emotes/3589.png"
+      },
+      {
+        "id": 3590,
+        "name": "TFT Fates Stage 1 Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3590.png"
+      },
+      {
+        "id": 3591,
+        "name": "TFT Fates Stage 1 Platinum",
+        "description": null,
+        "imagePath": "/assets/emotes/3591.png"
+      },
+      {
+        "id": 3592,
+        "name": "TFT Fates Stage 1 Diamond",
+        "description": null,
+        "imagePath": "/assets/emotes/3592.png"
+      },
+      {
+        "id": 3593,
+        "name": "TFT Fates Stage 1 Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3593.png"
+      },
+      {
+        "id": 3594,
+        "name": "TFT Fates Stage 1 GrandMaster ",
+        "description": null,
+        "imagePath": "/assets/emotes/3594.png"
+      },
+      {
+        "id": 3595,
+        "name": "TFT Fates Stage 1 Challenger",
+        "description": null,
+        "imagePath": "/assets/emotes/3595.png"
+      },
+      {
+        "id": 3596,
+        "name": "Master's Challenge Season 7 Emote 1",
+        "description": null,
+        "imagePath": "/assets/emotes/3596.png"
+      },
+      {
+        "id": 3597,
+        "name": "Master's Challenge Season 7 Emote 2",
+        "description": null,
+        "imagePath": "/assets/emotes/3597.png"
+      },
+      {
+        "id": 3598,
+        "name": "Juicy!",
+        "description": null,
+        "imagePath": "/assets/emotes/3598.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -68472,6 +69220,30 @@
         "imagePath": "/assets/tftcompanions/24003.png"
       },
       {
+        "id": 24019,
+        "name": "Porcelain Bellswayer",
+        "description": "Made from the finest porcelain, this ceramic heirloom proudly displays their beautiful craftsmanship for all to regard. If you're lucky enough to win their favor, they brew you a cup of their magical tea.",
+        "species": "Bellswayer",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/24019.png"
+      },
+      {
+        "id": 24020,
+        "name": "Porcelain Bellswayer",
+        "description": "Made from the finest porcelain, this ceramic heirloom proudly displays their beautiful craftsmanship for all to regard. If you're lucky enough to win their favor, they brew you a cup of their magical tea.",
+        "species": "Bellswayer",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/24020.png"
+      },
+      {
+        "id": 24021,
+        "name": "Porcelain Bellswayer",
+        "description": "Made from the finest porcelain, this ceramic heirloom proudly displays their beautiful craftsmanship for all to regard. If you're lucky enough to win their favor, they brew you a cup of their magical tea.",
+        "species": "Bellswayer",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/24021.png"
+      },
+      {
         "id": 24007,
         "name": "Sugar Rush Bellswayer",
         "description": "A proud, celestial creature found in the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, Bellswayers are just as quick to resume a composed and regal posture.",
@@ -68806,6 +69578,54 @@
         "species": "Choncc",
         "level": 3,
         "imagePath": "/assets/tftcompanions/27018.png"
+      },
+      {
+        "id": 27022,
+        "name": "Lunar Beast Choncc",
+        "description": "Choncc's love of tánghúlu (糖葫芦) is matched only by his enjoyment of the hologram lion dances that parade the crowded streets of Lunar City during the Festival of Beasts.",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27022.png"
+      },
+      {
+        "id": 27023,
+        "name": "Lunar Beast Choncc",
+        "description": "Choncc's love of tánghúlu (糖葫芦) is matched only by his enjoyment of the hologram lion dances that parade the crowded streets of Lunar City during the Festival of Beasts.",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27023.png"
+      },
+      {
+        "id": 27024,
+        "name": "Lunar Beast Choncc",
+        "description": "Choncc's love of tánghúlu (糖葫芦) is matched only by his enjoyment of the hologram lion dances that parade the crowded streets of Lunar City during the Festival of Beasts.",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27024.png"
+      },
+      {
+        "id": 27019,
+        "name": "Lunar Revel Choncc",
+        "description": "Lunar Revel Choncc is best known for stealing Shisa's ancient recipe for dumplings. Those who can get their hands on one are treated to a wonderful morsel of deliciousness.",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27019.png"
+      },
+      {
+        "id": 27020,
+        "name": "Lunar Revel Choncc",
+        "description": "Lunar Revel Choncc is best known for stealing Shisa's ancient recipe for dumplings. Those who can get their hands on one are treated to a wonderful morsel of deliciousness.",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27020.png"
+      },
+      {
+        "id": 27021,
+        "name": "Lunar Revel Choncc",
+        "description": "Lunar Revel Choncc is best known for stealing Shisa's ancient recipe for dumplings. Those who can get their hands on one are treated to a wonderful morsel of deliciousness.",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27021.png"
       },
       {
         "id": 27013,
@@ -70198,6 +71018,54 @@
         "species": "Furyhorn",
         "level": 3,
         "imagePath": "/assets/tftcompanions/3025.png"
+      },
+      {
+        "id": 3026,
+        "name": "Lunar Beast Furyhorn",
+        "description": "A beast on the dance floor, this Furyhorn's moves are some of the best in Lunar City. Unfortunately for the guests around them, tearing up the floor means tearing up the floor... literally.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3026.png"
+      },
+      {
+        "id": 3027,
+        "name": "Lunar Beast Furyhorn",
+        "description": "A beast on the dance floor, this Furyhorn's moves are some of the best in Lunar City. Unfortunately for the guests around them, tearing up the floor means tearing up the floor... literally.",
+        "species": "Furyhorn",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/3027.png"
+      },
+      {
+        "id": 3028,
+        "name": "Lunar Beast Furyhorn",
+        "description": "A beast on the dance floor, this Furyhorn's moves are some of the best in Lunar City. Unfortunately for the guests around them, tearing up the floor means tearing up the floor... literally.",
+        "species": "Furyhorn",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/3028.png"
+      },
+      {
+        "id": 3029,
+        "name": "Lunar Revel Furyhorn",
+        "description": "People think this little Furyhorn is a menace, but they're just misunderstood. All they want is to join in on the festivities and celebrate the New Year, but they're scared off by firecrackers and bright red lanterns.",
+        "species": "Furyhorn",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/3029.png"
+      },
+      {
+        "id": 3030,
+        "name": "Lunar Revel Furyhorn",
+        "description": "People think this little Furyhorn is a menace, but they're just misunderstood. All they want is to join in on the festivities and celebrate the New Year, but they're scared off by firecrackers and bright red lanterns.",
+        "species": "Furyhorn",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/3030.png"
+      },
+      {
+        "id": 3031,
+        "name": "Lunar Revel Furyhorn",
+        "description": "People think this little Furyhorn is a menace, but they're just misunderstood. All they want is to join in on the festivities and celebrate the New Year, but they're scared off by firecrackers and bright red lanterns.",
+        "species": "Furyhorn",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/3031.png"
       },
       {
         "id": 3010,
@@ -71720,6 +72588,54 @@
         "imagePath": "/assets/tftcompanions/12009.png"
       },
       {
+        "id": 12022,
+        "name": "Lunar Beast Shisa",
+        "description": "The slickest magical monkey around, Shisa is only afraid of one thing: a bad hair day.",
+        "species": "Shisa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/12022.png"
+      },
+      {
+        "id": 12023,
+        "name": "Lunar Beast Shisa",
+        "description": "The slickest magical monkey around, Shisa is only afraid of one thing: a bad hair day.",
+        "species": "Shisa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/12023.png"
+      },
+      {
+        "id": 12024,
+        "name": "Lunar Beast Shisa",
+        "description": "The slickest magical monkey around, Shisa is only afraid of one thing: a bad hair day.",
+        "species": "Shisa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/12024.png"
+      },
+      {
+        "id": 12019,
+        "name": "Lunar Revel Shisa",
+        "description": "Shisa's been a part of the Lunar New Year celebration longer than anyone can remember. Part trickster, part warrior, this little monkey king is the cleverest of the bunch!",
+        "species": "Shisa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/12019.png"
+      },
+      {
+        "id": 12020,
+        "name": "Lunar Revel Shisa",
+        "description": "Shisa's been a part of the Lunar New Year celebration longer than anyone can remember. Part trickster, part warrior, this little monkey king is the cleverest of the bunch!",
+        "species": "Shisa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/12020.png"
+      },
+      {
+        "id": 12021,
+        "name": "Lunar Revel Shisa",
+        "description": "Shisa's been a part of the Lunar New Year celebration longer than anyone can remember. Part trickster, part warrior, this little monkey king is the cleverest of the bunch!",
+        "species": "Shisa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/12021.png"
+      },
+      {
         "id": 12001,
         "name": "Shisa",
         "description": "Shisa aims to protect the Star Guardians and all those in its care",
@@ -72208,6 +73124,14 @@
         "imagePath": "/assets/tftcompanions/1.png"
       },
       {
+        "id": 5,
+        "name": "Dumpling Sprite",
+        "description": "Filled with savory pork and flavorful shrimp, this little Dumpling Sprite is sure to be at your table this New Year. Wait, you thought they're for eating? No! Are you insane?",
+        "species": "River Sprite",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/5.png"
+      },
+      {
         "id": 4,
         "name": "Jade Emperor Sprite",
         "description": "River Sprite.",
@@ -72676,6 +73600,36 @@
         "name": "Path",
         "description": null,
         "imagePath": "/assets/tftmapskins/34.png"
+      },
+      {
+        "id": 36,
+        "name": "Club 2 Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/36.png"
+      },
+      {
+        "id": 37,
+        "name": "Lunar City Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/37.png"
+      },
+      {
+        "id": 38,
+        "name": "Lunar Revel Balcony",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/38.png"
+      },
+      {
+        "id": 39,
+        "name": "Lunar Revel Club Square",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/39.png"
+      },
+      {
+        "id": 40,
+        "name": "Lunar Revel Docks",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/40.png"
       },
       {
         "id": 21,
