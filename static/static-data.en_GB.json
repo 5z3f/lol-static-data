@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.2.353.8505",
+  "version": "11.3.356.7268",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,11 +13,11 @@
   ],
   "info": {
     "champions": 154,
-    "skins": 1168,
-    "chromas": 2137,
-    "icons": 2861,
-    "emotes": 722,
-    "wards": 209,
+    "skins": 1179,
+    "chromas": 2212,
+    "icons": 2885,
+    "emotes": 726,
+    "wards": 210,
     "tftcompanions": 573,
     "tftmapskins": 37
   },
@@ -152,6 +152,79 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/1012.jpg",
             "chromas": null
+          },
+          {
+            "id": 1013,
+            "name": "Lunar Beast Annie",
+            "description": "Everyone was shocked when Annie was chosen as Ox Clan's tech operative. A precocious prodigy, Annie serves as the team's recon strategist, making sure the parade route is clear of civilians.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/1013.jpg",
+            "chromas": [
+              {
+                "id": 1014,
+                "name": "Lunar Beast Annie",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 1015,
+                "name": "Lunar Beast Annie",
+                "description": "This chroma was released as a Loot exclusive in the Lunar Beast 2021 event.",
+                "colors": [
+                  "#88FF00",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 1016,
+                "name": "Lunar Beast Annie",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 1017,
+                "name": "Lunar Beast Annie",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 1018,
+                "name": "Lunar Beast Annie",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 1019,
+                "name": "Lunar Beast Annie",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 1020,
+                "name": "Lunar Beast Annie",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -3146,6 +3219,79 @@
                 "colors": [
                   "#ECF9F8",
                   "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12029,
+            "name": "Lunar Beast Alistar",
+            "description": "The leader of Ox Clan, Alistar keeps his stubborn squad in line with his reliability and gruff approval. A bit quick to anger with some squad members' bull-headedness, he's determined that nothing and no one will derail this Lunar New Year festival, or Ox Clan's plan to make it a flawless celebration.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/12029.jpg",
+            "chromas": [
+              {
+                "id": 12030,
+                "name": "Lunar Beast Alistar",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 12031,
+                "name": "Lunar Beast Alistar",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 12032,
+                "name": "Lunar Beast Alistar",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 12033,
+                "name": "Lunar Beast Alistar",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 12034,
+                "name": "Lunar Beast Alistar",
+                "description": "This chroma was released as a Loot exclusive in the Lunar Beast 2021 event.",
+                "colors": [
+                  "#88FF00",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 12035,
+                "name": "Lunar Beast Alistar",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 12036,
+                "name": "Lunar Beast Alistar",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
                 ]
               }
             ]
@@ -11484,6 +11630,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/50011.jpg",
             "chromas": null
+          },
+          {
+            "id": 50012,
+            "name": "Crystal Rose Swain",
+            "description": "Swain knows how important the alliances formed at the Festival of the Crystal Rose are… and how fragile. His determination to see the event go perfectly has gained him a connection with Zyra, the Rose's protector. With her help, he intends this to be the most successful festival ever—and that he will be celebrated as its architect.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/50012.jpg",
+            "chromas": [
+              {
+                "id": 50013,
+                "name": "Crystal Rose Swain",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 50014,
+                "name": "Crystal Rose Swain",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 50015,
+                "name": "Crystal Rose Swain",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 50016,
+                "name": "Crystal Rose Swain",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 50017,
+                "name": "Crystal Rose Swain",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 50018,
+                "name": "Crystal Rose Swain",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 50019,
+                "name": "Crystal Rose Swain",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 50020,
+                "name": "Crystal Rose Swain",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -13460,6 +13688,79 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 59021,
+            "name": "Lunar Beast Jarvan IV",
+            "description": "Jarvan IV's stubborn refusal to join Ox Clan only relented to his father's stubborn insistence. Though he tries his best to shirk the celebrity status that comes with the role, Jarvan comes from a long line of philanthropists, and has found himself caught up in the thrill of bringing businesslike efficiency to the biggest community event of the year.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/59021.jpg",
+            "chromas": [
+              {
+                "id": 59022,
+                "name": "Lunar Beast Jarvan IV",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 59023,
+                "name": "Lunar Beast Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 59024,
+                "name": "Lunar Beast Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 59025,
+                "name": "Lunar Beast Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 59026,
+                "name": "Lunar Beast Jarvan IV",
+                "description": "This chroma was released as a Loot exclusive in the Lunar Beast 2021 event.",
+                "colors": [
+                  "#88FF00",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 59027,
+                "name": "Lunar Beast Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 59028,
+                "name": "Lunar Beast Jarvan IV",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -13714,7 +14015,7 @@
           {
             "id": 61008,
             "name": "Victorious Orianna",
-            "description": "Victorious Orianna was awarded to players who reached Gold or higher in the 2018 season. Her body has been reforged by Piltover's finest artificers, and enhanced with experimental hextech.",
+            "description": "Victorious Orianna was awarded to players who reached Gold or higher in 2 Ranked Queues for Season 8. Her body has been reforged by Piltover's finest artificers, and enhanced with experimental hextech.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/61008.jpg",
@@ -18165,7 +18466,7 @@
           {
             "id": 89010,
             "name": "Solar Eclipse Leona",
-            "description": "Hearken! We beseech thee, O Savage Moon, and deign to bless with the vermillion shadow of thy celestial majesty. May this shield guard against the scourge of dark enchantments, which choke our land. May this blade be the hammer against the servants of witchery and evil. I, Leona, do take this oath forevermore.",
+            "description": "Hearken! We beseech thee, O Cruel Sun, and deign to bless with the cleansing flame of thy celestial majesty. May this shield guard against the scourge of dark enchantments, which choke our land. May this blade be the hammer against the servants of witchery and evil. I, Leona, do take this oath forevermore.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/89010.jpg",
@@ -18717,6 +19018,88 @@
                 "colors": [
                   "#73BFBE",
                   "#73BFBE"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 91029,
+            "name": "Withered Rose Talon",
+            "description": "After the alliance his adopted sister Katarina formed at the last festival was broken, Talon swore revenge. He intends to restore their family's honor by exposing and shattering the entire concept of this celebration of glittering finery and sacred vows. Nothing and no one at this year's festival will escape his wrath.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/91029.jpg",
+            "chromas": [
+              {
+                "id": 91030,
+                "name": "Withered Rose Talon",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 91031,
+                "name": "Withered Rose Talon",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 91032,
+                "name": "Withered Rose Talon",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 91033,
+                "name": "Withered Rose Talon",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 91034,
+                "name": "Withered Rose Talon",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 91035,
+                "name": "Withered Rose Talon",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 91036,
+                "name": "Withered Rose Talon",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 91037,
+                "name": "Withered Rose Talon",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -22629,6 +23012,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 114050,
+            "name": "Lunar Beast Fiora",
+            "description": "Fiora keeps mostly to herself, determined to reclaim her family's honor from her father's failure as a member of the last Ox Squad. She thinks the rest of the squad doesn't take their duties seriously enough, and her determination to avoid another disastrous New Year makes her seem standoffish and cold to her teammates.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/114050.jpg",
+            "chromas": [
+              {
+                "id": 114052,
+                "name": "Lunar Beast Fiora",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 114053,
+                "name": "Lunar Beast Fiora",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 114054,
+                "name": "Lunar Beast Fiora",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 114055,
+                "name": "Lunar Beast Fiora",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 114056,
+                "name": "Lunar Beast Fiora",
+                "description": "This chroma was released as a Loot exclusive in the Lunar Beast 2021 event.",
+                "colors": [
+                  "#88FF00",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 114057,
+                "name": "Lunar Beast Fiora",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 114058,
+                "name": "Lunar Beast Fiora",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 114051,
+            "name": "Lunar Beast Fiora Prestige Edition",
+            "description": "Long days of community service and long nights of tactical planning have left Fiora not drained but energized. Her steely determination has hardened into foresight and loyalty. Whatever the Lunar Beast throws at them, Ox Squad knows Fiora has their back.",
+            "rarity": "kMythic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/114051.jpg",
+            "chromas": null
           }
         ]
       },
@@ -24268,6 +24733,79 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 122024,
+            "name": "Lunar Beast Darius",
+            "description": "Darius' imposing presence and determination to lead by example cause occasional tension between him and Alistar, the actual leader of the squad. Despite how overbearing he can be, Darius is a strong and steadfast friend to his teammates and a rock for the whole Clan.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/122024.jpg",
+            "chromas": [
+              {
+                "id": 122025,
+                "name": "Lunar Beast Darius",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 122026,
+                "name": "Lunar Beast Darius",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 122027,
+                "name": "Lunar Beast Darius",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 122028,
+                "name": "Lunar Beast Darius",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 122029,
+                "name": "Lunar Beast Darius",
+                "description": "This chroma was released as a Loot exclusive in the Lunar Beast 2021 event.",
+                "colors": [
+                  "#88FF00",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 122030,
+                "name": "Lunar Beast Darius",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 122031,
+                "name": "Lunar Beast Darius",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -25283,6 +25821,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 134016,
+            "name": "Withered Rose Syndra",
+            "description": "Syndra has been shunned from the festival for years over her support of the disgraced Zed. Unable to bear this slight any longer, she is determined to infiltrate the event and poison the very heart of the Crystal Rose itself with her sweetly dripping ichor.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/134016.jpg",
+            "chromas": [
+              {
+                "id": 134017,
+                "name": "Withered Rose Syndra",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 134018,
+                "name": "Withered Rose Syndra",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 134019,
+                "name": "Withered Rose Syndra",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 134020,
+                "name": "Withered Rose Syndra",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 134021,
+                "name": "Withered Rose Syndra",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 134022,
+                "name": "Withered Rose Syndra",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 134023,
+                "name": "Withered Rose Syndra",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 134024,
+                "name": "Withered Rose Syndra",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -25837,6 +26457,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/143006.jpg",
             "chromas": null
+          },
+          {
+            "id": 143007,
+            "name": "Crystal Rose Zyra",
+            "description": "Born from a cutting of the Crystal Rose, Zyra wields her piercing thorns against any who seek to harm it. For this year's festival, she has agreed to attend in a social capacity, accompanying Swain as the Crystal Rose Festival's dual hosts. But her respect for his vision will not distract her from springing into action at the slightest hint of danger.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/143007.jpg",
+            "chromas": [
+              {
+                "id": 143008,
+                "name": "Crystal Rose Zyra",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 143009,
+                "name": "Crystal Rose Zyra",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 143010,
+                "name": "Crystal Rose Zyra",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 143011,
+                "name": "Crystal Rose Zyra",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 143012,
+                "name": "Crystal Rose Zyra",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 143013,
+                "name": "Crystal Rose Zyra",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 143014,
+                "name": "Crystal Rose Zyra",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 143015,
+                "name": "Crystal Rose Zyra",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -28403,7 +29105,7 @@
             "name": "Lunar Beast Viego",
             "description": "Former leader of a past Lunar Ox Squad, Viego decided that they would fight the Lunar Beast and actually defeat it. His plan ended in tragedy as he watched the rest of his squad be devoured-- including his wife. Viego has stewed in bitterness over these losses for years, blaming everyone but himself -- including this year's Lunar Ox Squad.",
             "rarity": "kEpic",
-            "isLegacy": false,
+            "isLegacy": true,
             "tilePath": "/assets/champions/tiles/234001.jpg",
             "chromas": [
               {
@@ -28458,6 +29160,15 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              },
+              {
+                "id": 234008,
+                "name": "Lunar Beast Viego",
+                "description": "This chroma was released as a Loot exclusive in the Lunar Beast 2021 event.",
+                "colors": [
+                  "#88FF00",
+                  "#9B1520"
                 ]
               }
             ]
@@ -33187,6 +33898,79 @@
                 "colors": [
                   "#2DA130",
                   "#2DA130"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 523009,
+            "name": "Lunar Beast Aphelios",
+            "description": "Aphelios stays quiet, preferring to worship the Bull God according to obscure “old ways” that are unfamiliar to the rest of his squad. His teammates are welcoming, if curious, but have yet to realize that Aphelios and his sister Alune are actually the Bull God's progeny, placed among the squad to face this year's Lunar Beast.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/523009.jpg",
+            "chromas": [
+              {
+                "id": 523010,
+                "name": "Lunar Beast Aphelios",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 523011,
+                "name": "Lunar Beast Aphelios",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 523012,
+                "name": "Lunar Beast Aphelios",
+                "description": "This chroma was released as a Loot exclusive in the Lunar Beast 2021 event.",
+                "colors": [
+                  "#88FF00",
+                  "#9B1520"
+                ]
+              },
+              {
+                "id": 523013,
+                "name": "Lunar Beast Aphelios",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 523014,
+                "name": "Lunar Beast Aphelios",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 523015,
+                "name": "Lunar Beast Aphelios",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 523016,
+                "name": "Lunar Beast Aphelios",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -57493,6 +58277,166 @@
         "imagePath": "/assets/icons/4863.jpg"
       },
       {
+        "id": 4864,
+        "title": "Lunar Beast Event Icon",
+        "description": "This icon was acquired during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4864.jpg"
+      },
+      {
+        "id": 4865,
+        "title": "Lunar Beast Event Pass Icon",
+        "description": "This icon was acquired during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4865.jpg"
+      },
+      {
+        "id": 4866,
+        "title": "Lunar Beast Prestige Points Icon",
+        "description": "This icon was earned through Loot during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4866.jpg"
+      },
+      {
+        "id": 4867,
+        "title": "Lunar Beast Fiora Icon",
+        "description": "This icon was acquired during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4867.jpg"
+      },
+      {
+        "id": 4868,
+        "title": "Lunar Beast Annie Icon",
+        "description": "This icon was acquired during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4868.jpg"
+      },
+      {
+        "id": 4869,
+        "title": "Lunar Beast Darius Icon",
+        "description": "This icon was acquired during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4869.jpg"
+      },
+      {
+        "id": 4870,
+        "title": "Lunar Beast Jarvan IV Icon",
+        "description": "This icon was acquired during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4870.jpg"
+      },
+      {
+        "id": 4871,
+        "title": "Lunar Beast Alistar Icon",
+        "description": "This icon was acquired during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4871.jpg"
+      },
+      {
+        "id": 4872,
+        "title": "Lunar Beast Aphelios Icon",
+        "description": "This icon was acquired during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4872.jpg"
+      },
+      {
+        "id": 4873,
+        "title": "Lunar Beast Fiora Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Lunar Beast Fiora Prestige Edition skin with event tokens during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4873.jpg"
+      },
+      {
+        "id": 4874,
+        "title": "Lunar Beast Annie Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4874.jpg"
+      },
+      {
+        "id": 4875,
+        "title": "Lunar Beast Darius Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4875.jpg"
+      },
+      {
+        "id": 4876,
+        "title": "Lunar Beast Jarvan IV Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4876.jpg"
+      },
+      {
+        "id": 4877,
+        "title": "Lunar Beast Alistar Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4877.jpg"
+      },
+      {
+        "id": 4878,
+        "title": "Lunar Beast Aphelios Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4878.jpg"
+      },
+      {
+        "id": 4880,
+        "title": "Lunar Beast 2021 Icon",
+        "description": "This icon was earned during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2020,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4880.jpg"
+      },
+      {
         "id": 4881,
         "title": "Festival of Beasts Event Icon",
         "description": "A celebration like this only comes once a year!",
@@ -57531,6 +58475,86 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4884.jpg"
+      },
+      {
+        "id": 4885,
+        "title": "Lunar Beast Viego Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4885.jpg"
+      },
+      {
+        "id": 4886,
+        "title": "Lunar Beast Viego Icon",
+        "description": "This icon was acquired during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4886.jpg"
+      },
+      {
+        "id": 4887,
+        "title": "LEC 2021 Spring",
+        "description": "2020 LEC Summoner Icon - This icon is available only after taking part in one of the LEC online competitions.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4887.jpg"
+      },
+      {
+        "id": 4888,
+        "title": "LEC 2021 Summer",
+        "description": "2021 LEC Summoner Icon - This icon is available only after taking part in one of the LEC online competitions.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4888.jpg"
+      },
+      {
+        "id": 4889,
+        "title": "Warring Kingdoms Jarvan IV Merch Icon",
+        "description": "This icon was acquired by making a purchase from the merch store.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4889.jpg"
+      },
+      {
+        "id": 4890,
+        "title": "Prestige Warring Kingdoms Jarvan IV Merch Icon",
+        "description": "This icon was acquired by making a purchase from the merch store.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4890.jpg"
+      },
+      {
+        "id": 4891,
+        "title": "Excellent... Icon",
+        "description": "This icon was earned through drops on Lolesports.com.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4891.jpg"
+      },
+      {
+        "id": 4892,
+        "title": "Lunar Beast Fiora Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Lunar Beast event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4892.jpg"
       },
       {
         "id": 4,
@@ -64522,6 +65546,16 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/wards/208.png"
+      },
+      {
+        "id": 209,
+        "name": "",
+        "defaultDescription": null,
+        "description": "This ward skin was earned during the 2021 Lunar Beast event.",
+        "set": null,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/209.png"
       }
     ],
     "emotes": [
@@ -68748,6 +69782,30 @@
         "name": "This for Me?",
         "description": null,
         "imagePath": "/assets/emotes/3582.png"
+      },
+      {
+        "id": 3583,
+        "name": "I Want a Turn!",
+        "description": null,
+        "imagePath": "/assets/emotes/3583.png"
+      },
+      {
+        "id": 3584,
+        "name": "I Have No Equal",
+        "description": null,
+        "imagePath": "/assets/emotes/3584.png"
+      },
+      {
+        "id": 3585,
+        "name": "Time to Shine!",
+        "description": null,
+        "imagePath": "/assets/emotes/3585.png"
+      },
+      {
+        "id": 3586,
+        "name": "Too Bad!",
+        "description": null,
+        "imagePath": "/assets/emotes/3586.png"
       },
       {
         "id": 3587,
