@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.3.356.7268",
+  "version": "11.4.359.4239",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -16,7 +16,7 @@
     "skins": 1179,
     "chromas": 2212,
     "icons": 2885,
-    "emotes": 726,
+    "emotes": 727,
     "wards": 210,
     "tftcompanions": 573,
     "tftmapskins": 37
@@ -65549,7 +65549,7 @@
       },
       {
         "id": 209,
-        "name": "",
+        "name": "2021 Lunar Beast Ward",
         "defaultDescription": null,
         "description": "This ward skin was earned during the 2021 Lunar Beast event.",
         "set": null,
@@ -69880,6 +69880,12 @@
         "imagePath": "/assets/emotes/3598.png"
       },
       {
+        "id": 3599,
+        "name": "Outplayed",
+        "description": null,
+        "imagePath": "/assets/emotes/3599.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -70640,7 +70646,7 @@
       {
         "id": 27022,
         "name": "Lunar Beast Choncc",
-        "description": "Choncc's love of tánghúlu (糖葫芦) is matched only by his enjoyment of the hologram lion dances that parade the crowded streets of Lunar City during the Festival of Beasts.",
+        "description": "Choncc's love of tánghúlu is matched only by his enjoyment of the hologram lion dances that parade the crowded streets of Lunar City during the Festival of Beasts.",
         "species": "Choncc",
         "level": 1,
         "imagePath": "/assets/tftcompanions/27022.png"
@@ -70648,7 +70654,7 @@
       {
         "id": 27023,
         "name": "Lunar Beast Choncc",
-        "description": "Choncc's love of tánghúlu (糖葫芦) is matched only by his enjoyment of the hologram lion dances that parade the crowded streets of Lunar City during the Festival of Beasts.",
+        "description": "Choncc's love of tánghúlu is matched only by his enjoyment of the hologram lion dances that parade the crowded streets of Lunar City during the Festival of Beasts.",
         "species": "Choncc",
         "level": 2,
         "imagePath": "/assets/tftcompanions/27023.png"
@@ -70656,7 +70662,7 @@
       {
         "id": 27024,
         "name": "Lunar Beast Choncc",
-        "description": "Choncc's love of tánghúlu (糖葫芦) is matched only by his enjoyment of the hologram lion dances that parade the crowded streets of Lunar City during the Festival of Beasts.",
+        "description": "Choncc's love of tánghúlu is matched only by his enjoyment of the hologram lion dances that parade the crowded streets of Lunar City during the Festival of Beasts.",
         "species": "Choncc",
         "level": 3,
         "imagePath": "/assets/tftcompanions/27024.png"
