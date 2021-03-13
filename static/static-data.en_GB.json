@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.4.359.4239",
+  "version": "11.5.361.5971",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,9 +13,9 @@
   ],
   "info": {
     "champions": 154,
-    "skins": 1179,
-    "chromas": 2212,
-    "icons": 2885,
+    "skins": 1182,
+    "chromas": 2237,
+    "icons": 2889,
     "emotes": 727,
     "wards": 210,
     "tftcompanions": 573,
@@ -18742,6 +18742,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 90018,
+            "name": "Beezahar",
+            "description": "Open your true mind, and beelieve.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/90018.jpg",
+            "chromas": [
+              {
+                "id": 90019,
+                "name": "Beezahar",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 90020,
+                "name": "Beezahar",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 90021,
+                "name": "Beezahar",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 90022,
+                "name": "Beezahar",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 90023,
+                "name": "Beezahar",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 90024,
+                "name": "Beezahar",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 90025,
+                "name": "Beezahar",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 90026,
+                "name": "Beezahar",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 90027,
+                "name": "Beezahar",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -19699,6 +19790,88 @@
                 "colors": [
                   "#E58BA5",
                   "#E58BA5"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 96028,
+            "name": "Bee'Maw",
+            "description": "Snowballing lane won't bring back your precious honey!",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/96028.jpg",
+            "chromas": [
+              {
+                "id": 96029,
+                "name": "Bee'Maw",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 96030,
+                "name": "Bee'Maw",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 96031,
+                "name": "Bee'Maw",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 96032,
+                "name": "Bee'Maw",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 96033,
+                "name": "Bee'Maw",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 96034,
+                "name": "Bee'Maw",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 96035,
+                "name": "Bee'Maw",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 96036,
+                "name": "Bee'Maw",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
                 ]
               }
             ]
@@ -31761,6 +31934,88 @@
                 "colors": [
                   "#85827F",
                   "#85827F"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 350019,
+            "name": "Yuubee",
+            "description": "Hey… there's a bee on you.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/350019.jpg",
+            "chromas": [
+              {
+                "id": 350020,
+                "name": "Yuubee",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 350021,
+                "name": "Yuubee",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 350022,
+                "name": "Yuubee",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 350023,
+                "name": "Yuubee",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 350024,
+                "name": "Yuubee",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 350025,
+                "name": "Yuubee",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 350026,
+                "name": "Yuubee",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 350027,
+                "name": "Yuubee",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
                 ]
               }
             ]
@@ -58555,6 +58810,46 @@
         "rarity": "kEpic",
         "isLegacy": false,
         "imagePath": "/assets/icons/4892.jpg"
+      },
+      {
+        "id": 4893,
+        "title": "Outplayed Karma Icon",
+        "description": "This icon was earned through drops on Lolesports.com.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4893.jpg"
+      },
+      {
+        "id": 4894,
+        "title": "Corgi Corki Merch Icon",
+        "description": "This icon was acquired by making a purchase from the merch store.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4894.jpg"
+      },
+      {
+        "id": 4895,
+        "title": "Busy Bee",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4895.jpg"
+      },
+      {
+        "id": 4896,
+        "title": "Not the Beemo!",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4896.jpg"
       },
       {
         "id": 4,
