@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.5.361.5971",
+  "version": "11.6.364.2723",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,10 +13,10 @@
   ],
   "info": {
     "champions": 154,
-    "skins": 1182,
-    "chromas": 2237,
-    "icons": 2889,
-    "emotes": 727,
+    "skins": 1188,
+    "chromas": 2274,
+    "icons": 2895,
+    "emotes": 728,
     "wards": 210,
     "tftcompanions": 573,
     "tftmapskins": 37
@@ -11929,6 +11929,61 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/51020.jpg",
             "chromas": null
+          },
+          {
+            "id": 51022,
+            "name": "Battle Academia Caitlyn",
+            "description": "A feared and respected second year, head of the Luminary Club, and class president of Labrys God-Weapon Academy. Caitlyn enrolled herself in the famously troubled school specifically to whip the delinquents there into prime fighting shape, hoping to one day become the greatest battlefield general in history. With her perfect record, she's not too far off.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/51022.jpg",
+            "chromas": [
+              {
+                "id": 51023,
+                "name": "Battle Academia Caitlyn",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 51024,
+                "name": "Battle Academia Caitlyn",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 51025,
+                "name": "Battle Academia Caitlyn",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 51026,
+                "name": "Battle Academia Caitlyn",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 51027,
+                "name": "Battle Academia Caitlyn",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -14191,6 +14246,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/62006.jpg",
             "chromas": null
+          },
+          {
+            "id": 62007,
+            "name": "Battle Academia Wukong",
+            "description": "A consummate troublemaker and prankster, Wukong has failed out of every high school in the region, eventually washing out into Labrys as an 'enrollment of last resort'. A naturally gifted fighter in the Battle Club, he still hasn't learned discipline, and only listens to Caitlyn because she can beat him up.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/62007.jpg",
+            "chromas": [
+              {
+                "id": 62008,
+                "name": "Battle Academia Wukong",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 62009,
+                "name": "Battle Academia Wukong",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 62010,
+                "name": "Battle Academia Wukong",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 62011,
+                "name": "Battle Academia Wukong",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 62012,
+                "name": "Battle Academia Wukong",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 62013,
+                "name": "Battle Academia Wukong",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 62014,
+                "name": "Battle Academia Wukong",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
+                ]
+              },
+              {
+                "id": 62015,
+                "name": "Battle Academia Wukong",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -18355,6 +18492,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/86023.jpg",
             "chromas": null
+          },
+          {
+            "id": 86024,
+            "name": "Battle Academia Garen",
+            "description": "'Brother' to Lux, Garen is the only biological child of his family, but was neglected from an early age as his parents spent all their time developing the god-weapon fragment that would one day become their daughter. As he vented his anger in increasingly delinquent ways, Labrys sought him out for enrollment, where he eventually joined the Battle Club.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/86024.jpg",
+            "chromas": [
+              {
+                "id": 86025,
+                "name": "Battle Academia Garen",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 86026,
+                "name": "Battle Academia Garen",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 86027,
+                "name": "Battle Academia Garen",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 86028,
+                "name": "Battle Academia Garen",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 86029,
+                "name": "Battle Academia Garen",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 86030,
+                "name": "Battle Academia Garen",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 86031,
+                "name": "Battle Academia Garen",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 86032,
+                "name": "Battle Academia Garen",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -18562,6 +18781,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 89021,
+            "name": "Battle Academia Leona",
+            "description": "An oddly cheery member of Labrys Academy's Battle Club, Leona's dark side comes out in combat, when her motherly, protective persona is utterly replaced by bloodlust. The change is so dramatic that even the most violent students tend to stay on her good side, hoping to avoid her wrath.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/89021.jpg",
+            "chromas": [
+              {
+                "id": 89024,
+                "name": "Battle Academia Leona",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 89025,
+                "name": "Battle Academia Leona",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 89026,
+                "name": "Battle Academia Leona",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 89027,
+                "name": "Battle Academia Leona",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 89028,
+                "name": "Battle Academia Leona",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 89029,
+                "name": "Battle Academia Leona",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 89030,
+                "name": "Battle Academia Leona",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 89031,
+                "name": "Battle Academia Leona",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 89023,
+            "name": "Battle Academia Leona Prestige Edition",
+            "description": "After being selected for the yearly cross-academy tournament, Leona sharpened her combat prowess almost every free moment she had, knowing she had to beat out other top-ranking students from rival schools like Durandal, Babylon, Amrita, and Sharur. Her bloodlust now honed and her shield at the ready, she will pummel anyone who challenges her into a meaty pulp.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/89023.jpg",
+            "chromas": null
           }
         ]
       },
@@ -34765,6 +35075,88 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 777010,
+            "name": "Battle Academia Yone",
+            "description": "Yone is a brooding, quiet member of the Assassin Club, one whose morose and serious attitude belies the colossal chip on his shoulder. The bad blood between him and his brother is well known, and even speaking about it casually has been known to invoke Yone's fury—something Caitlyn has picked up on for her own purposes.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/777010.jpg",
+            "chromas": [
+              {
+                "id": 777011,
+                "name": "Battle Academia Yone",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 777012,
+                "name": "Battle Academia Yone",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 777013,
+                "name": "Battle Academia Yone",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 777014,
+                "name": "Battle Academia Yone",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 777015,
+                "name": "Battle Academia Yone",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 777016,
+                "name": "Battle Academia Yone",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 777017,
+                "name": "Battle Academia Yone",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 777018,
+                "name": "Battle Academia Yone",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -58852,6 +59244,66 @@
         "imagePath": "/assets/icons/4896.jpg"
       },
       {
+        "id": 4897,
+        "title": "Battle Academia Yone Icon",
+        "description": "This icon was acquired during the 2021 Battle Academia event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4897.jpg"
+      },
+      {
+        "id": 4898,
+        "title": "Battle Academia Caitlyn Icon",
+        "description": "This icon was acquired during the 2021 Battle Academia event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4898.jpg"
+      },
+      {
+        "id": 4899,
+        "title": "Battle Academia Leona Icon",
+        "description": "This icon was acquired during the 2021 Battle Academia event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4899.jpg"
+      },
+      {
+        "id": 4900,
+        "title": "Battle Academia Garen Icon",
+        "description": "This icon was acquired during the 2021 Battle Academia event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4900.jpg"
+      },
+      {
+        "id": 4901,
+        "title": "Battle Academia Wukong Icon",
+        "description": "This icon was acquired during the 2021 Battle Academia event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4901.jpg"
+      },
+      {
+        "id": 4902,
+        "title": "Battle Academia Leona Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Battle Academia Leona skin from the 2020 Prestige Point Shop.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4902.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -70179,6 +70631,12 @@
         "name": "Outplayed",
         "description": null,
         "imagePath": "/assets/emotes/3599.png"
+      },
+      {
+        "id": 3600,
+        "name": "Shook",
+        "description": null,
+        "imagePath": "/assets/emotes/3600.png"
       },
       {
         "id": 4,
