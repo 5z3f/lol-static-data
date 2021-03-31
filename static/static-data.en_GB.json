@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.6.364.2723",
+  "version": "11.7.366.7612",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,11 +13,11 @@
   ],
   "info": {
     "champions": 154,
-    "skins": 1188,
-    "chromas": 2274,
-    "icons": 2895,
-    "emotes": 728,
-    "wards": 210,
+    "skins": 1196,
+    "chromas": 2334,
+    "icons": 2917,
+    "emotes": 733,
+    "wards": 211,
     "tftcompanions": 573,
     "tftmapskins": 37
   },
@@ -5377,6 +5377,97 @@
                 "colors": [
                   "#FFEE59",
                   "#FFEE59"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20016,
+            "name": "Space Groove Nunu & Willump",
+            "description": "Blessed with the strongest boogie-channeling abilities his planet had ever seen, Willump had been recruited by Lissandra to convert good vibes into harsh ones. But when he met Nunu during the siege of Normal World, Willump broke free of Lissandra's control and the two deserted to travel the galaxy, and bring good vibes back to the universe.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/20016.jpg",
+            "chromas": [
+              {
+                "id": 20017,
+                "name": "Space Groove Nunu & Willump",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 20018,
+                "name": "Space Groove Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 20019,
+                "name": "Space Groove Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 20020,
+                "name": "Space Groove Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 20021,
+                "name": "Space Groove Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 20022,
+                "name": "Space Groove Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 20023,
+                "name": "Space Groove Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 20024,
+                "name": "Space Groove Nunu & Willump",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 20025,
+                "name": "Space Groove Nunu & Willump",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Space Groove event.",
+                "colors": [
+                  "#9DFFEF",
+                  "#AA55FF"
                 ]
               }
             ]
@@ -12264,6 +12355,70 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 53029,
+            "name": "Space Groove Blitz & Crank",
+            "description": "Blitz and Crank are Cat Planet's fiercest warriors, and work together seamlessly (mostly) to pilot their mech, Blitzcrank. While Crank believes that he can overcome his lack of rhythm with the help of his exuberant copilot, Blitz is… well… he's busy dancing to his own beat. Together they plan to take over Dog Planet and claim its sunbeams for themselves.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/53029.jpg",
+            "chromas": [
+              {
+                "id": 53030,
+                "name": "Space Groove Blitz & Crank",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 53031,
+                "name": "Space Groove Blitz & Crank",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 53032,
+                "name": "Space Groove Blitz & Crank",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 53033,
+                "name": "Space Groove Blitz & Crank",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 53034,
+                "name": "Space Groove Blitz & Crank",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 53035,
+                "name": "Space Groove Blitz & Crank",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Space Groove event.",
+                "colors": [
+                  "#9DFFEF",
+                  "#AA55FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -15265,6 +15420,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 68013,
+            "name": "Space Groove Rumble",
+            "description": "The Retro-Futuristic Planet is tired of listening to the boring music brought by Lissandra's evil influence. Fashioning a Groove suit of his own design, Rumble now stomps across his adoptive homeworld, unleashing powerful rockets and a groovy bass track on anyone who'd keep the people from dancing.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/68013.jpg",
+            "chromas": [
+              {
+                "id": 68014,
+                "name": "Space Groove Rumble",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 68015,
+                "name": "Space Groove Rumble",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 68016,
+                "name": "Space Groove Rumble",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 68017,
+                "name": "Space Groove Rumble",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 68018,
+                "name": "Space Groove Rumble",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 68019,
+                "name": "Space Groove Rumble",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 68020,
+                "name": "Space Groove Rumble",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 68021,
+                "name": "Space Groove Rumble",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 68022,
+                "name": "Space Groove Rumble",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Space Groove event.",
+                "colors": [
+                  "#9DFFEF",
+                  "#AA55FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -15989,6 +16235,97 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 75025,
+            "name": "Space Groove Nasus",
+            "description": "A storied disc jockey, music librarian, and leader of the Dog Planet, Nasus was once under Lissandra's thrall—seizing all his people's grooviest records and hiding them away, never to be heard again. Yet now, with his heart opened to the power of disco, he leads his people in rebellion against the deadly shock troopers Blitz & Crank.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/75025.jpg",
+            "chromas": [
+              {
+                "id": 75026,
+                "name": "Space Groove Nasus",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 75027,
+                "name": "Space Groove Nasus",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 75028,
+                "name": "Space Groove Nasus",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 75029,
+                "name": "Space Groove Nasus",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 75030,
+                "name": "Space Groove Nasus",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 75031,
+                "name": "Space Groove Nasus",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 75032,
+                "name": "Space Groove Nasus",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 75033,
+                "name": "Space Groove Nasus",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 75034,
+                "name": "Space Groove Nasus",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Space Groove event.",
+                "colors": [
+                  "#9DFFEF",
+                  "#AA55FF"
                 ]
               }
             ]
@@ -20753,6 +21090,97 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/99018.jpg",
             "chromas": null
+          },
+          {
+            "id": 99019,
+            "name": "Space Groove Lux",
+            "description": "A normal girl from the Normal World, Lux picked up a groove-enhancing staff to defend her planet from the Harsh Vibes… inadvertently discovering she could channel mighty blasts of concentrated disco music. Sailing into space with her mercenary bodyguard, Samira, Lux now stands as the bubbly bastion of good against an evil alien armada and their terrible taste in music.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/99019.jpg",
+            "chromas": [
+              {
+                "id": 99020,
+                "name": "Space Groove Lux",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 99021,
+                "name": "Space Groove Lux",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 99022,
+                "name": "Space Groove Lux",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 99023,
+                "name": "Space Groove Lux",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 99024,
+                "name": "Space Groove Lux",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 99025,
+                "name": "Space Groove Lux",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 99026,
+                "name": "Space Groove Lux",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 99027,
+                "name": "Space Groove Lux",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 99028,
+                "name": "Space Groove Lux",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Space Groove event.",
+                "colors": [
+                  "#9DFFEF",
+                  "#AA55FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -24062,6 +24490,106 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/117015.jpg",
+            "chromas": null
+          },
+          {
+            "id": 117026,
+            "name": "Space Groove Lulu",
+            "description": "Hailing from Boogie Wonderland, a planet of Pure Groove, Lulu is uniquely attuned to the resonance of cosmic disco energy. Using her staff to conjure visions of freedom and abandon to the beat of the music, she can get even the most left-footed creatures in the galaxy tapping along.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/117026.jpg",
+            "chromas": [
+              {
+                "id": 117028,
+                "name": "Space Groove Lulu",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 117029,
+                "name": "Space Groove Lulu",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 117030,
+                "name": "Space Groove Lulu",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 117031,
+                "name": "Space Groove Lulu",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 117032,
+                "name": "Space Groove Lulu",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 117033,
+                "name": "Space Groove Lulu",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 117034,
+                "name": "Space Groove Lulu",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 117035,
+                "name": "Space Groove Lulu",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 117036,
+                "name": "Space Groove Lulu",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Space Groove event.",
+                "colors": [
+                  "#9DFFEF",
+                  "#AA55FF"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 117027,
+            "name": "Space Groove Lulu Prestige Edition",
+            "description": "Fresh off a visit from the Three Party Goddesses in the center of the galaxy, Lulu's more in tune with the Groove than ever. Her visions are even more potent, her beats are even more irresistible, and no one knows where Lulu's going to pop up next.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/117027.jpg",
             "chromas": null
           }
         ]
@@ -32432,6 +32960,97 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 360010,
+            "name": "Space Groove Samira",
+            "description": "A groovy, thrill-seeking bodyguard and elite warrior from the Hot Tub Nebula, Samira took a job directly from the Three Party Goddesses to save Lux from an impending invasion of the Normal World. Now, as the pair liberate planets across the galaxy, Samira must do everything in her power to keep Lux safe—both from Lissandra and from Lux's own lack of self preservation instincts.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/360010.jpg",
+            "chromas": [
+              {
+                "id": 360011,
+                "name": "Space Groove Samira",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 360012,
+                "name": "Space Groove Samira",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 360013,
+                "name": "Space Groove Samira",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 360014,
+                "name": "Space Groove Samira",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 360015,
+                "name": "Space Groove Samira",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 360016,
+                "name": "Space Groove Samira",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 360017,
+                "name": "Space Groove Samira",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 360018,
+                "name": "Space Groove Samira",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 360019,
+                "name": "Space Groove Samira",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Space Groove event.",
+                "colors": [
+                  "#9DFFEF",
+                  "#AA55FF"
                 ]
               }
             ]
@@ -59304,6 +59923,226 @@
         "imagePath": "/assets/icons/4902.jpg"
       },
       {
+        "id": 4904,
+        "title": "Space Groove Event Icon",
+        "description": "This icon was acquired during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4904.jpg"
+      },
+      {
+        "id": 4905,
+        "title": "Space Groove Event Pass Icon",
+        "description": "This icon was acquired during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4905.jpg"
+      },
+      {
+        "id": 4906,
+        "title": "Space Groove Prestige Points Icon",
+        "description": "This icon was earned through Loot during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4906.jpg"
+      },
+      {
+        "id": 4907,
+        "title": "Space Groove Lux Icon",
+        "description": "This icon was acquired during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4907.jpg"
+      },
+      {
+        "id": 4908,
+        "title": "Space Groove Rumble Icon",
+        "description": "This icon was acquired during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4908.jpg"
+      },
+      {
+        "id": 4909,
+        "title": "Space Groove Nasus Icon",
+        "description": "This icon was acquired during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4909.jpg"
+      },
+      {
+        "id": 4910,
+        "title": "Space Groove Nunu Icon",
+        "description": "This icon was acquired during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4910.jpg"
+      },
+      {
+        "id": 4911,
+        "title": "Space Groove Blitz & Crank Icon",
+        "description": "This icon was acquired during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4911.jpg"
+      },
+      {
+        "id": 4912,
+        "title": "Space Groove Lulu Icon",
+        "description": "This icon was acquired during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4912.jpg"
+      },
+      {
+        "id": 4913,
+        "title": "Space Groove Samira Icon",
+        "description": "This icon was acquired during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4913.jpg"
+      },
+      {
+        "id": 4914,
+        "title": "Space Groove Lux Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4914.jpg"
+      },
+      {
+        "id": 4915,
+        "title": "Space Groove Rumble Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4915.jpg"
+      },
+      {
+        "id": 4916,
+        "title": "Space Groove Nasus Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4916.jpg"
+      },
+      {
+        "id": 4917,
+        "title": "Space Groove Nunu Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4917.jpg"
+      },
+      {
+        "id": 4918,
+        "title": "Space Groove Blitz & Crank Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4918.jpg"
+      },
+      {
+        "id": 4919,
+        "title": "Space Groove Lulu Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4919.jpg"
+      },
+      {
+        "id": 4920,
+        "title": "Space Groove Samira Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4920.jpg"
+      },
+      {
+        "id": 4921,
+        "title": "Space Groove Lulu Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Space Groove Lulu skin during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4921.jpg"
+      },
+      {
+        "id": 4922,
+        "title": "Space Groove Toofers Icon",
+        "description": "This icon was acquired by choosing a side in the Space Groove Event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4922.jpg"
+      },
+      {
+        "id": 4923,
+        "title": "Space Groove Frank Icon",
+        "description": "This icon was acquired by choosing a side in the Space Groove Event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4923.jpg"
+      },
+      {
+        "id": 4924,
+        "title": "Grey Warwick Meteorite Chroma Icon",
+        "description": "Earned by reaching Honor 5.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4924.jpg"
+      },
+      {
+        "id": 4925,
+        "title": "Medieval Twitch Obsidian Chroma Icon",
+        "description": "Earned by reaching Honor 5.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4925.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -66303,6 +67142,16 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/wards/209.png"
+      },
+      {
+        "id": 210,
+        "name": "2021 Space Groove Ward",
+        "defaultDescription": null,
+        "description": "This ward was earned during the 2021 Space Groove Event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/210.png"
       }
     ],
     "emotes": [
@@ -70634,9 +71483,39 @@
       },
       {
         "id": 3600,
-        "name": "Shook",
+        "name": "Animated Shook",
         "description": null,
         "imagePath": "/assets/emotes/3600.png"
+      },
+      {
+        "id": 3601,
+        "name": "Keep Groovin'!",
+        "description": null,
+        "imagePath": "/assets/emotes/3601.png"
+      },
+      {
+        "id": 3602,
+        "name": "GLOMP!",
+        "description": null,
+        "imagePath": "/assets/emotes/3602.png"
+      },
+      {
+        "id": 3603,
+        "name": "No Talk, Me Sad",
+        "description": null,
+        "imagePath": "/assets/emotes/3603.png"
+      },
+      {
+        "id": 3604,
+        "name": "Peace Out",
+        "description": null,
+        "imagePath": "/assets/emotes/3604.png"
+      },
+      {
+        "id": 3605,
+        "name": "Rock On",
+        "description": null,
+        "imagePath": "/assets/emotes/3605.png"
       },
       {
         "id": 4,
