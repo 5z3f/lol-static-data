@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.7.366.7612",
+  "version": "11.8.369.4139",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,11 +12,11 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 154,
-    "skins": 1196,
-    "chromas": 2334,
-    "icons": 2917,
-    "emotes": 733,
+    "champions": 155,
+    "skins": 1202,
+    "chromas": 2384,
+    "icons": 2920,
+    "emotes": 742,
     "wards": 211,
     "tftcompanions": 573,
     "tftmapskins": 37
@@ -654,6 +654,88 @@
                 "colors": [
                   "#ECF9F8",
                   "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3019,
+            "name": "Dragon Guardian Galio",
+            "description": "A great dragon of old, who protected dragonkind's ancestral nesting grounds from those who might do it harm. Tricked by the mad knight Kayle so she could destroy every clutch of eggs under his charge, he has followed her back to human society, so he might extract his vengeance personally.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/3019.jpg",
+            "chromas": [
+              {
+                "id": 3020,
+                "name": "Dragon Guardian Galio",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 3021,
+                "name": "Dragon Guardian Galio",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 3022,
+                "name": "Dragon Guardian Galio",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 3023,
+                "name": "Dragon Guardian Galio",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 3024,
+                "name": "Dragon Guardian Galio",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 3025,
+                "name": "Dragon Guardian Galio",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 3026,
+                "name": "Dragon Guardian Galio",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 3027,
+                "name": "Dragon Guardian Galio",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -2552,6 +2634,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 10024,
+            "name": "Dragonslayer Kayle",
+            "description": "A famous dragonslayer who vanished into the distant mountains, obsessed with destroying the dragon lineage utterly. Many years later she has returned, so changed by the carnage that she has begun to resemble a dragon herself.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/10024.jpg",
+            "chromas": [
+              {
+                "id": 10025,
+                "name": "Dragonslayer Kayle",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 10026,
+                "name": "Dragonslayer Kayle",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 10027,
+                "name": "Dragonslayer Kayle",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 10028,
+                "name": "Dragonslayer Kayle",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 10029,
+                "name": "Dragonslayer Kayle",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 10030,
+                "name": "Dragonslayer Kayle",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 10031,
+                "name": "Dragonslayer Kayle",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 10032,
+                "name": "Dragonslayer Kayle",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -3706,6 +3870,79 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14022,
+            "name": "Blackfrost Sion",
+            "description": "A fearsome jötunn who once stood at the front of Lissandra's vast armies, Sion fell in battle only for his master's magic to weave itself beneath his massive frame, resurrecting him as a monster of rage and cold.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/14022.jpg",
+            "chromas": [
+              {
+                "id": 14023,
+                "name": "Blackfrost Sion",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 14024,
+                "name": "Blackfrost Sion",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 14025,
+                "name": "Blackfrost Sion",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 14026,
+                "name": "Blackfrost Sion",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 14027,
+                "name": "Blackfrost Sion",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 14028,
+                "name": "Blackfrost Sion",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 14029,
+                "name": "Blackfrost Sion",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -4989,6 +5226,15 @@
                 "colors": [
                   "#2756CE",
                   "#2756CE"
+                ]
+              },
+              {
+                "id": 19023,
+                "name": "Grey Warwick",
+                "description": null,
+                "colors": [
+                  "#5F432B",
+                  "#5F432B"
                 ]
               },
               {
@@ -7367,6 +7613,15 @@
                   "#9C68D7",
                   "#9C68D7"
                 ]
+              },
+              {
+                "id": 29024,
+                "name": "Medieval Twitch",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
               }
             ]
           },
@@ -7572,6 +7827,88 @@
               {
                 "id": 29035,
                 "name": "Twitch Shadowfoot",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 29036,
+            "name": "Dragonslayer Twitch",
+            "description": "A lesser dragon who has learned to blend in among humans… poorly. Twitch worships the true dragons and plans to one day become one himself, though he isn't sure how just yet.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/29036.jpg",
+            "chromas": [
+              {
+                "id": 29037,
+                "name": "Dragonslayer Twitch",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 29038,
+                "name": "Dragonslayer Twitch",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 29039,
+                "name": "Dragonslayer Twitch",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 29040,
+                "name": "Dragonslayer Twitch",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 29041,
+                "name": "Dragonslayer Twitch",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 29042,
+                "name": "Dragonslayer Twitch",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 29043,
+                "name": "Dragonslayer Twitch",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 29044,
+                "name": "Dragonslayer Twitch",
                 "description": null,
                 "colors": [
                   "#ECF9F8",
@@ -14225,7 +14562,7 @@
           {
             "id": 61008,
             "name": "Victorious Orianna",
-            "description": "Victorious Orianna was awarded to players who reached Gold or higher in 2 Ranked Queues for Season 8. Her body has been reforged by Piltover's finest artificers, and enhanced with experimental hextech.",
+            "description": "Victorious Orianna was awarded to players who reached Gold or higher in Ranked Queues for Season 8. Her body has been reforged by Piltover's finest artificers, and enhanced with experimental hextech.",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/61008.jpg",
@@ -15468,7 +15805,7 @@
               {
                 "id": 68018,
                 "name": "Space Groove Rumble",
-                "description": null,
+                "description": "Obtained through Influencer audience giveaways.",
                 "colors": [
                   "#2DA130",
                   "#2DA130"
@@ -28729,6 +29066,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 161011,
+            "name": "Blackfrost Vel'Koz",
+            "description": "Beneath the ice they slumber, trapped as two worlds pass them by. Watching, waiting, for the day they will rise again, and all will be buried in ice.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/161011.jpg",
+            "chromas": [
+              {
+                "id": 161012,
+                "name": "Blackfrost Vel'Koz",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 161013,
+                "name": "Blackfrost Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 161014,
+                "name": "Blackfrost Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 161015,
+                "name": "Blackfrost Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 161016,
+                "name": "Blackfrost Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 161017,
+                "name": "Blackfrost Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 161018,
+                "name": "Blackfrost Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 161019,
+                "name": "Blackfrost Vel'Koz",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -35990,6 +36409,122 @@
                 "colors": [
                   "#0C0C0F",
                   "#B2D1E4"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 887,
+        "name": "Gwen",
+        "alias": "Gwen",
+        "title": "The Hallowed Seamstress",
+        "releaseDate": "2021-03-30",
+        "associatedFactionSlug": "shadow-isles",
+        "shortBio": "A former doll transformed and brought to life by magic, Gwen wields the very tools that once created her. She carries the weight of her maker's love with every step, taking nothing for granted. At her command is the Hallowed Mist, an ancient and protective magic that has blessed Gwen's scissors, needles, and sewing thread. So much is new to her, but Gwen remains joyfully determined to fight for the good that survives in a broken world.",
+        "squarePortraitPath": "/assets/champions/portraits/887.png",
+        "roles": [
+          "fighter",
+          "assassin"
+        ],
+        "skins": [
+          {
+            "id": 887000,
+            "name": "Gwen (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/887000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 887001,
+            "name": "Space Groove Gwen",
+            "description": "It was pretty far out when Gwen applied to be Lux and Samira's quartermaster—after all, no one else did. Cheerfully sewing good vibes into great clothes, she amplifies disco energy through her nifty threads. Though she's new to this whole galactic hero gig, one thing's for sure: no way Gwen lets her friends liberate the galaxy in less-than-stellar outfits.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/887001.jpg",
+            "chromas": [
+              {
+                "id": 887002,
+                "name": "Space Groove Gwen",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 887003,
+                "name": "Space Groove Gwen",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 887004,
+                "name": "Space Groove Gwen",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 887005,
+                "name": "Space Groove Gwen",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 887006,
+                "name": "Space Groove Gwen",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 887007,
+                "name": "Space Groove Gwen",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 887008,
+                "name": "Space Groove Gwen",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 887009,
+                "name": "Space Groove Gwen",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Space Groove event.",
+                "colors": [
+                  "#9DFFEF",
+                  "#AA55FF"
+                ]
+              },
+              {
+                "id": 887010,
+                "name": "Space Groove Gwen",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -49601,7 +50136,7 @@
       {
         "id": 3777,
         "title": "Pick 'Ems Wizard 2018 Icon",
-        "description": "Earned by scoring 34 points in Worlds Pick 'Em during 2018 Worlds.",
+        "description": "Unlocked through crafting in the 2018 Worlds event.",
         "set": "Pick'em Poros",
         "yearReleased": 2018,
         "rarity": "kEpic",
@@ -60141,6 +60676,36 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4925.jpg"
+      },
+      {
+        "id": 4926,
+        "title": "Space Groove Gwen Icon",
+        "description": "This icon was acquired during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4926.jpg"
+      },
+      {
+        "id": 4927,
+        "title": "Space Groove Gwen Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Space Groove event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4927.jpg"
+      },
+      {
+        "id": 4928,
+        "title": "Season 2021 - Split 2 Icon",
+        "description": "This icon was earned by winning ranked games in Season 2021 - Split 2.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4928.jpg"
       },
       {
         "id": 4,
@@ -71516,6 +72081,60 @@
         "name": "Rock On",
         "description": null,
         "imagePath": "/assets/emotes/3605.png"
+      },
+      {
+        "id": 3606,
+        "name": "2021 - Split 2 - Iron",
+        "description": "This emote was earned by winning ranked games in Season 2021 - Split 2",
+        "imagePath": "/assets/emotes/3606.png"
+      },
+      {
+        "id": 3607,
+        "name": "2021 - Split 2 - Bronze",
+        "description": "This emote was earned by winning ranked games in Season 2021 - Split 2",
+        "imagePath": "/assets/emotes/3607.png"
+      },
+      {
+        "id": 3608,
+        "name": "2021 - Split 2 - Silver",
+        "description": "This emote was earned by winning ranked games in Season 2021 - Split 2",
+        "imagePath": "/assets/emotes/3608.png"
+      },
+      {
+        "id": 3609,
+        "name": "2021 - Split 2 - Gold",
+        "description": "This emote was earned by winning ranked games in Season 2021 - Split 2",
+        "imagePath": "/assets/emotes/3609.png"
+      },
+      {
+        "id": 3610,
+        "name": "2021 - Split 2 - Platinum",
+        "description": "This emote was earned by winning ranked games in Season 2021 - Split 2",
+        "imagePath": "/assets/emotes/3610.png"
+      },
+      {
+        "id": 3611,
+        "name": "2021 - Split 2 - Diamond",
+        "description": "This emote was earned by winning ranked games in Season 2021 - Split 2",
+        "imagePath": "/assets/emotes/3611.png"
+      },
+      {
+        "id": 3612,
+        "name": "2021 - Split 2 - Master",
+        "description": "This emote was earned by winning ranked games in Season 2021 - Split 2",
+        "imagePath": "/assets/emotes/3612.png"
+      },
+      {
+        "id": 3613,
+        "name": "2021 - Split 2 - Grand Master",
+        "description": "This emote was earned by winning ranked games in Season 2021 - Split 2",
+        "imagePath": "/assets/emotes/3613.png"
+      },
+      {
+        "id": 3614,
+        "name": "2021 - Split 2 - Challenger",
+        "description": "This emote was earned by winning ranked games in Season 2021 - Split 2",
+        "imagePath": "/assets/emotes/3614.png"
       },
       {
         "id": 4,
