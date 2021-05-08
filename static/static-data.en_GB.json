@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.8.369.4139",
+  "version": "11.9.372.2066",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,13 +13,13 @@
   ],
   "info": {
     "champions": 155,
-    "skins": 1202,
-    "chromas": 2384,
-    "icons": 2920,
-    "emotes": 742,
+    "skins": 1209,
+    "chromas": 2389,
+    "icons": 2945,
+    "emotes": 767,
     "wards": 211,
-    "tftcompanions": 573,
-    "tftmapskins": 37
+    "tftcompanions": 640,
+    "tftmapskins": 42
   },
   "data": {
     "champions": [
@@ -661,7 +661,7 @@
           {
             "id": 3019,
             "name": "Dragon Guardian Galio",
-            "description": "A great dragon of old, who protected dragonkind's ancestral nesting grounds from those who might do it harm. Tricked by the mad knight Kayle so she could destroy every clutch of eggs under his charge, he has followed her back to human society, so he might extract his vengeance personally.",
+            "description": "A great dragon of old, who protected dragonkind's ancestral nesting grounds from those who might do it harm. Tricked by the mad knight Kayle so she could destroy every clutch of eggs under his charge, he has followed her back to human society, so he might exact his vengeance personally.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/3019.jpg",
@@ -960,6 +960,25 @@
                 "colors": [
                   "#E58BA5",
                   "#E58BA5"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4023,
+            "name": "DWG Twisted Fate",
+            "description": "Honoring ShowMaker's winning performance as Twisted Fate during the 2020 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/4023.jpg",
+            "chromas": [
+              {
+                "id": 4024,
+                "name": "DWG Twisted Fate",
+                "description": "This chroma was released as a bundle exclusive during MSI 2021.",
+                "colors": [
+                  "#050B19",
+                  "#0055FF"
                 ]
               }
             ]
@@ -3309,7 +3328,7 @@
             "name": "Conqueror Alistar",
             "description": "Commemorating the 2019 Mid-Season Invitational in Asia.",
             "rarity": "kRare",
-            "isLegacy": false,
+            "isLegacy": true,
             "tilePath": "/assets/champions/tiles/12020.jpg",
             "chromas": [
               {
@@ -6607,6 +6626,24 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 24020,
+            "name": "Conqueror Jax",
+            "description": "Celebrating MSI 2021 in Reykjavík.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/24020.jpg",
+            "chromas": null
+          },
+          {
+            "id": 24021,
+            "name": "Conqueror Jax Prestige Edition",
+            "description": "Celebrating MSI 2021 in Reykjavík.",
+            "rarity": "kMythic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/24021.jpg",
+            "chromas": null
           }
         ]
       },
@@ -16928,6 +16965,25 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 76027,
+            "name": "DWG Nidalee",
+            "description": "Honoring Canyon's winning performance as Nidalee during the 2020 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/76027.jpg",
+            "chromas": [
+              {
+                "id": 76028,
+                "name": "DWG Nidalee",
+                "description": "This chroma was released as a bundle exclusive during MSI 2021.",
+                "colors": [
+                  "#050B19",
+                  "#0055FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -18931,6 +18987,25 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 85023,
+            "name": "DWG Kennen",
+            "description": "Honoring Nuguri's winning performance as Kennen during the 2020 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/85023.jpg",
+            "chromas": [
+              {
+                "id": 85024,
+                "name": "DWG Kennen",
+                "description": "This chroma was released as a bundle exclusive during MSI 2021.",
+                "colors": [
+                  "#050B19",
+                  "#0055FF"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -19534,6 +19609,25 @@
                 "colors": [
                   "#ECF9F8",
                   "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 89022,
+            "name": "DWG Leona",
+            "description": "Honoring BeryL's winning performance as Leona during the 2020 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/89022.jpg",
+            "chromas": [
+              {
+                "id": 89032,
+                "name": "DWG Leona",
+                "description": "This chroma was released as a bundle exclusive during MSI 2021.",
+                "colors": [
+                  "#050B19",
+                  "#0055FF"
                 ]
               }
             ]
@@ -23473,7 +23567,7 @@
             "name": "Conqueror Nautilus",
             "description": "Commemorating the 2020 Spring Split Champions.",
             "rarity": "kRare",
-            "isLegacy": false,
+            "isLegacy": true,
             "tilePath": "/assets/champions/tiles/111006.jpg",
             "chromas": null
           },
@@ -29918,6 +30012,25 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 202023,
+            "name": "DWG Jhin",
+            "description": "Honoring Ghost's winning performance as Jhin during the 2020 World Championship.",
+            "rarity": "kEpic",
+            "isLegacy": true,
+            "tilePath": "/assets/champions/tiles/202023.jpg",
+            "chromas": [
+              {
+                "id": 202024,
+                "name": "DWG Jhin",
+                "description": "This chroma was released as a bundle exclusive during MSI 2021.",
+                "colors": [
+                  "#050B19",
+                  "#0055FF"
                 ]
               }
             ]
@@ -60708,6 +60821,256 @@
         "imagePath": "/assets/icons/4928.jpg"
       },
       {
+        "id": 4929,
+        "title": "DWG Jhin Signature Icon",
+        "description": "Honoring Ghost's winning Jhin in the 2020 World Championship",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4929.jpg"
+      },
+      {
+        "id": 4930,
+        "title": "DWG Nidalee Signature Icon",
+        "description": "Honoring Canyon's winning Nidalee in the 2020 World Championship",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4930.jpg"
+      },
+      {
+        "id": 4931,
+        "title": "DWG Kennen Signature Icon",
+        "description": "Honoring Nuguri's winning Kennen in the 2020 World Championship",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4931.jpg"
+      },
+      {
+        "id": 4932,
+        "title": "DWG Leona Signature Icon",
+        "description": "Honoring BeryL's winning Leona in the 2020 World Championship",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4932.jpg"
+      },
+      {
+        "id": 4933,
+        "title": "DWG Twisted Fate Signature Icon",
+        "description": "Honoring ShowMaker's winning Twisted Fate in the 2020 World Championship",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4933.jpg"
+      },
+      {
+        "id": 4934,
+        "title": "Conqueror Jax Icon",
+        "description": "This icon was released as a bundle exclusive in 2021",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4934.jpg"
+      },
+      {
+        "id": 4935,
+        "title": "Conqueror Jax Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Conqueror Jax skin with Prestige Points",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4935.jpg"
+      },
+      {
+        "id": 4936,
+        "title": "Cloud9 MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4936.jpg"
+      },
+      {
+        "id": 4937,
+        "title": "MAD Lions MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4937.jpg"
+      },
+      {
+        "id": 4938,
+        "title": "DWG KIA MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4938.jpg"
+      },
+      {
+        "id": 4939,
+        "title": "DetonatioN FocusMe MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4939.jpg"
+      },
+      {
+        "id": 4940,
+        "title": "Infinity Esports MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4940.jpg"
+      },
+      {
+        "id": 4941,
+        "title": "Pentanet.GG MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4941.jpg"
+      },
+      {
+        "id": 4942,
+        "title": "Royal Never Give Up MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4942.jpg"
+      },
+      {
+        "id": 4943,
+        "title": "Edward Gaming MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4943.jpg"
+      },
+      {
+        "id": 4944,
+        "title": "FunPlus Phoenix MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4944.jpg"
+      },
+      {
+        "id": 4945,
+        "title": "PaiN Gaming MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4945.jpg"
+      },
+      {
+        "id": 4946,
+        "title": "Vorax MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4946.jpg"
+      },
+      {
+        "id": 4947,
+        "title": "Unicorns of Love MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4947.jpg"
+      },
+      {
+        "id": 4948,
+        "title": "CrowCrowd MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4948.jpg"
+      },
+      {
+        "id": 4949,
+        "title": "PSG Talon MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4949.jpg"
+      },
+      {
+        "id": 4950,
+        "title": "Beyond Gaming MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4950.jpg"
+      },
+      {
+        "id": 4951,
+        "title": "Machi Esports MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4951.jpg"
+      },
+      {
+        "id": 4952,
+        "title": "1907 Fenerbahçe Esports MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4952.jpg"
+      },
+      {
+        "id": 4953,
+        "title": "fastPay Wildcats MSI 2021 Icon",
+        "description": "This icon was released in the store for purchase during MSI 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4953.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -72137,6 +72500,156 @@
         "imagePath": "/assets/emotes/3614.png"
       },
       {
+        "id": 3615,
+        "name": "Evil Grin",
+        "description": null,
+        "imagePath": "/assets/emotes/3615.png"
+      },
+      {
+        "id": 3616,
+        "name": "Please Ruin Me",
+        "description": null,
+        "imagePath": "/assets/emotes/3616.png"
+      },
+      {
+        "id": 3617,
+        "name": "God King Faceoff",
+        "description": null,
+        "imagePath": "/assets/emotes/3617.png"
+      },
+      {
+        "id": 3618,
+        "name": "Perseverance",
+        "description": null,
+        "imagePath": "/assets/emotes/3618.png"
+      },
+      {
+        "id": 3619,
+        "name": "Tenacity",
+        "description": null,
+        "imagePath": "/assets/emotes/3619.png"
+      },
+      {
+        "id": 3620,
+        "name": "Devotion",
+        "description": null,
+        "imagePath": "/assets/emotes/3620.png"
+      },
+      {
+        "id": 3621,
+        "name": "We're Number One!",
+        "description": null,
+        "imagePath": "/assets/emotes/3621.png"
+      },
+      {
+        "id": 3624,
+        "name": "Cloud9 MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3624.png"
+      },
+      {
+        "id": 3625,
+        "name": "MAD Lions MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3625.png"
+      },
+      {
+        "id": 3626,
+        "name": "DWG KIA MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3626.png"
+      },
+      {
+        "id": 3627,
+        "name": "DetonatioN FocusMe MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3627.png"
+      },
+      {
+        "id": 3628,
+        "name": "Infinity Esports MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3628.png"
+      },
+      {
+        "id": 3629,
+        "name": "Pentanet.GG MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3629.png"
+      },
+      {
+        "id": 3630,
+        "name": "Royal Never Give Up MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3630.png"
+      },
+      {
+        "id": 3631,
+        "name": "Edward Gaming MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3631.png"
+      },
+      {
+        "id": 3632,
+        "name": "FunPlus Phoenix MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3632.png"
+      },
+      {
+        "id": 3633,
+        "name": "PaiN Gaming MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3633.png"
+      },
+      {
+        "id": 3634,
+        "name": "Vorax MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3634.png"
+      },
+      {
+        "id": 3635,
+        "name": "Unicorns of Love MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3635.png"
+      },
+      {
+        "id": 3636,
+        "name": "CrowCrowd MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3636.png"
+      },
+      {
+        "id": 3637,
+        "name": "PSG Talon MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3637.png"
+      },
+      {
+        "id": 3638,
+        "name": "Beyond Gaming MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3638.png"
+      },
+      {
+        "id": 3639,
+        "name": "Machi Esports MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3639.png"
+      },
+      {
+        "id": 3640,
+        "name": "1907 Fenerbahçe Esports MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3640.png"
+      },
+      {
+        "id": 3641,
+        "name": "fastPay Wildcats MSI 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3641.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -72967,6 +73480,78 @@
         "imagePath": "/assets/tftcompanions/27015.png"
       },
       {
+        "id": 27025,
+        "name": "Splash Town Choncc",
+        "description": "Splash Town Choncc's dream is winning the Splash Party surfing competition. And with how much napping they do, they're likely to keep on dreaming.",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27025.png"
+      },
+      {
+        "id": 27026,
+        "name": "Splash Town Choncc",
+        "description": "Splash Town Choncc's dream is winning the Splash Party surfing competition. And with how much napping they do, they're likely to keep on dreaming.",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27026.png"
+      },
+      {
+        "id": 27027,
+        "name": "Splash Town Choncc",
+        "description": "Splash Town Choncc's dream is winning the Splash Party surfing competition. And with how much napping they do, they're likely to keep on dreaming.",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27027.png"
+      },
+      {
+        "id": 27028,
+        "name": "Lifeguard Choncc",
+        "description": "Splash Town locals and tourists alike can feel safer knowing Lifeguard Choncc is on the lookout. On the lookout for the best waves, and Chonccest vibes of course.",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27028.png"
+      },
+      {
+        "id": 27029,
+        "name": "Lifeguard Choncc",
+        "description": "Splash Town locals and tourists alike can feel safer knowing Lifeguard Choncc is on the lookout. On the lookout for the best waves, and Chonccest vibes of course.",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27029.png"
+      },
+      {
+        "id": 27030,
+        "name": "Lifeguard Choncc",
+        "description": "Splash Town locals and tourists alike can feel safer knowing Lifeguard Choncc is on the lookout. On the lookout for the best waves, and Chonccest vibes of course.",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27030.png"
+      },
+      {
+        "id": 27031,
+        "name": "Sun Kissed Choncc",
+        "description": "Lifeguard Choncc may be the best swimmer, surfer, and boogie boarder, but Sun Kissed Choncc is better at some really important stuff too. Stuff like, humming, belly bongos, playing the ukulele, and Hula dancing!",
+        "species": "Choncc",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/27031.png"
+      },
+      {
+        "id": 27032,
+        "name": "Sun Kissed Choncc",
+        "description": "Lifeguard Choncc may be the best swimmer, surfer, and boogie boarder, but Sun Kissed Choncc is better at some really important stuff too. Stuff like, humming, belly bongos, playing the ukulele, and Hula dancing!",
+        "species": "Choncc",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/27032.png"
+      },
+      {
+        "id": 27033,
+        "name": "Sun Kissed Choncc",
+        "description": "Lifeguard Choncc may be the best swimmer, surfer, and boogie boarder, but Sun Kissed Choncc is better at some really important stuff too. Stuff like, humming, belly bongos, playing the ukulele, and Hula dancing!",
+        "species": "Choncc",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/27033.png"
+      },
+      {
         "id": 19016,
         "name": "Cosmic Squink",
         "description": "Sometimes Squink gets so scared that it inks itself, and in its frantic attempt to dash away it accidentally blots out an entire galaxy!",
@@ -73447,6 +74032,150 @@
         "imagePath": "/assets/tftcompanions/21003.png"
       },
       {
+        "id": 29001,
+        "name": "Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/29001.png"
+      },
+      {
+        "id": 29002,
+        "name": "Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/29002.png"
+      },
+      {
+        "id": 29003,
+        "name": "Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/29003.png"
+      },
+      {
+        "id": 29004,
+        "name": "Koi Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/29004.png"
+      },
+      {
+        "id": 29005,
+        "name": "Koi Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/29005.png"
+      },
+      {
+        "id": 29006,
+        "name": "Koi Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/29006.png"
+      },
+      {
+        "id": 29007,
+        "name": "Jelly Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/29007.png"
+      },
+      {
+        "id": 29008,
+        "name": "Jelly Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/29008.png"
+      },
+      {
+        "id": 29009,
+        "name": "Jelly Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/29009.png"
+      },
+      {
+        "id": 29010,
+        "name": "Waffle Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/29010.png"
+      },
+      {
+        "id": 29011,
+        "name": "Waffle Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/29011.png"
+      },
+      {
+        "id": 29012,
+        "name": "Waffle Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/29012.png"
+      },
+      {
+        "id": 29013,
+        "name": "Iridescent Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/29013.png"
+      },
+      {
+        "id": 29014,
+        "name": "Iridescent Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/29014.png"
+      },
+      {
+        "id": 29015,
+        "name": "Iridescent Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/29015.png"
+      },
+      {
+        "id": 29016,
+        "name": "Nightbringer Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/29016.png"
+      },
+      {
+        "id": 29017,
+        "name": "Nightbringer Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/29017.png"
+      },
+      {
+        "id": 29018,
+        "name": "Nightbringer Dowsie",
+        "description": "Looking to add a mystical mer-mage to your party? Look no further than... wait, where'd that Dowsie go? Oh, right—Dowsie can adapt to nearly all surroundings, so you'll have to lure them out. And if you are luring one out, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/29018.png"
+      },
+      {
         "id": 23016,
         "name": "Neexie",
         "description": "This mischievous prankster from the spirit realm enjoys playing tricks on hapless mortals who have the misfortune of stumbling upon them. Sweet one moment and deadly the next, Nixie's pranks sometimes take on a life of their own!",
@@ -73589,6 +74318,150 @@
         "species": "Nixie",
         "level": 3,
         "imagePath": "/assets/tftcompanions/23012.png"
+      },
+      {
+        "id": 30001,
+        "name": "Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/30001.png"
+      },
+      {
+        "id": 30002,
+        "name": "Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/30002.png"
+      },
+      {
+        "id": 30003,
+        "name": "Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/30003.png"
+      },
+      {
+        "id": 30004,
+        "name": "Shurima Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/30004.png"
+      },
+      {
+        "id": 30005,
+        "name": "Shurima Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/30005.png"
+      },
+      {
+        "id": 30006,
+        "name": "Shurima Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/30006.png"
+      },
+      {
+        "id": 30007,
+        "name": "Golden Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/30007.png"
+      },
+      {
+        "id": 30008,
+        "name": "Golden Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/30008.png"
+      },
+      {
+        "id": 30009,
+        "name": "Golden Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/30009.png"
+      },
+      {
+        "id": 30010,
+        "name": "Skyborn Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/30010.png"
+      },
+      {
+        "id": 30011,
+        "name": "Skyborn Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/30011.png"
+      },
+      {
+        "id": 30012,
+        "name": "Skyborn Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/30012.png"
+      },
+      {
+        "id": 30013,
+        "name": "Nightbringer Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/30013.png"
+      },
+      {
+        "id": 30014,
+        "name": "Nightbringer Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/30014.png"
+      },
+      {
+        "id": 30015,
+        "name": "Nightbringer Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/30015.png"
+      },
+      {
+        "id": 30016,
+        "name": "Kanmei Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/30016.png"
+      },
+      {
+        "id": 30017,
+        "name": "Kanmei Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/30017.png"
+      },
+      {
+        "id": 30018,
+        "name": "Kanmei Fenroar",
+        "description": "So, you want the ghost wolf, Fenroar, to join your party. Fenroar are fiercely loyal warriors. But don't let the sword intimidate you. They become eternally bound to their Puproar as well as their friends, which they make quite easily after a round or two of fetch the orbs. ",
+        "species": "Fenroar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/30018.png"
       },
       {
         "id": 18010,
@@ -74919,6 +75792,150 @@
         "imagePath": "/assets/tftcompanions/5018.png"
       },
       {
+        "id": 31001,
+        "name": "Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/31001.png"
+      },
+      {
+        "id": 31002,
+        "name": "Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/31002.png"
+      },
+      {
+        "id": 31003,
+        "name": "Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/31003.png"
+      },
+      {
+        "id": 31004,
+        "name": "Nightbringer Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/31004.png"
+      },
+      {
+        "id": 31005,
+        "name": "Nightbringer Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/31005.png"
+      },
+      {
+        "id": 31006,
+        "name": "Nightbringer Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/31006.png"
+      },
+      {
+        "id": 31007,
+        "name": "Redeemed Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/31007.png"
+      },
+      {
+        "id": 31008,
+        "name": "Redeemed Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/31008.png"
+      },
+      {
+        "id": 31009,
+        "name": "Redeemed Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/31009.png"
+      },
+      {
+        "id": 31010,
+        "name": "Kinkou Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/31010.png"
+      },
+      {
+        "id": 31011,
+        "name": "Kinkou Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/31011.png"
+      },
+      {
+        "id": 31012,
+        "name": "Kinkou Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/31012.png"
+      },
+      {
+        "id": 31013,
+        "name": "Verdant Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/31013.png"
+      },
+      {
+        "id": 31014,
+        "name": "Verdant Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/31014.png"
+      },
+      {
+        "id": 31015,
+        "name": "Verdant Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/31015.png"
+      },
+      {
+        "id": 31016,
+        "name": "Forgotten Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/31016.png"
+      },
+      {
+        "id": 31017,
+        "name": "Forgotten Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/31017.png"
+      },
+      {
+        "id": 31018,
+        "name": "Forgotten Nimblefoot",
+        "description": "A cunning master of speed, traps, and thievery, Nimblefoot quickly turns any journey into a mischievous misadventure. Their enchanted red pouch can hold anything and everything, from gold to orbs to… wait, is that cheese? ",
+        "species": "Nimblefoot",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/31018.png"
+      },
+      {
         "id": 22016,
         "name": "Arcade Lightcharger",
         "description": "The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.",
@@ -75109,6 +76126,30 @@
         "species": "Lightcharger",
         "level": 3,
         "imagePath": "/assets/tftcompanions/22009.png"
+      },
+      {
+        "id": 6032,
+        "name": "Chaos Pengu",
+        "description": "When Pengu made contact with the corrupting forces of the Black Mist, Chaos Pengu burst from the Feather Knight we know and love. And—while Chaos Pengu's hair, dance moves, and rap theme are superior—it's important to note that Chaos Pengu is just that, superior.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6032.png"
+      },
+      {
+        "id": 6033,
+        "name": "Chaos Pengu",
+        "description": "When Pengu made contact with the corrupting forces of the Black Mist, Chaos Pengu burst from the Feather Knight we know and love. And—while Chaos Pengu's hair, dance moves, and rap theme are superior—it's important to note that Chaos Pengu is just that, superior.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6033.png"
+      },
+      {
+        "id": 6034,
+        "name": "Chaos Pengu",
+        "description": "When Pengu made contact with the corrupting forces of the Black Mist, Chaos Pengu burst from the Feather Knight we know and love. And—while Chaos Pengu's hair, dance moves, and rap theme are superior—it's important to note that Chaos Pengu is just that, superior.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6034.png"
       },
       {
         "id": 6001,
@@ -76431,6 +77472,14 @@
         "imagePath": "/assets/tftcompanions/9015.png"
       },
       {
+        "id": 6,
+        "name": "Chaos Sprite",
+        "description": "Chaos Sprite has never understood River Sprite. But we're sure they'd be friends if flames weren't so easily extinguished by water.",
+        "species": "River Sprite",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6.png"
+      },
+      {
         "id": 1,
         "name": "River Sprite",
         "description": "River Sprite",
@@ -76963,6 +78012,36 @@
         "name": "Odyssey Yasuo Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/22.png"
+      },
+      {
+        "id": 45,
+        "name": "Court of Chaos Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/45.png"
+      },
+      {
+        "id": 44,
+        "name": "Realm of Harmony Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/44.png"
+      },
+      {
+        "id": 41,
+        "name": "Count Spatula Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/41.png"
+      },
+      {
+        "id": 43,
+        "name": "Sanctum of Order Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/43.png"
+      },
+      {
+        "id": 42,
+        "name": "Splash Party Arena",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/42.png"
       },
       {
         "id": 29,
