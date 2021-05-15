@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.9.372.2066",
+  "version": "11.10.374.9538",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,12 +13,12 @@
   ],
   "info": {
     "champions": 155,
-    "skins": 1209,
-    "chromas": 2389,
-    "icons": 2945,
-    "emotes": 767,
+    "skins": 1213,
+    "chromas": 2421,
+    "icons": 2962,
+    "emotes": 775,
     "wards": 211,
-    "tftcompanions": 640,
+    "tftcompanions": 642,
     "tftmapskins": 42
   },
   "data": {
@@ -15842,7 +15842,7 @@
               {
                 "id": 68018,
                 "name": "Space Groove Rumble",
-                "description": "Obtained through Influencer audience giveaways.",
+                "description": null,
                 "colors": [
                   "#2DA130",
                   "#2DA130"
@@ -21733,6 +21733,88 @@
                 "colors": [
                   "#D33528",
                   "#D33528"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 101012,
+            "name": "Arcana Xerath",
+            "description": "Ensnared by his own desires, Xerath leads citizens of Low Arcana to act on their basest urges. The more they are entranced by the forbidden, the more his power grows. But while Xerath believes their temptation will lead to his deliverance, he does not realize that the stronger he becomes, the more tightly his chains bind him. ",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/101012.jpg",
+            "chromas": [
+              {
+                "id": 101013,
+                "name": "Arcana Xerath",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 101014,
+                "name": "Arcana Xerath",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 101015,
+                "name": "Arcana Xerath",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 101016,
+                "name": "Arcana Xerath",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 101017,
+                "name": "Arcana Xerath",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 101018,
+                "name": "Arcana Xerath",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 101019,
+                "name": "Arcana Xerath",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 101020,
+                "name": "Arcana Xerath",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -29474,6 +29556,88 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/164010.jpg",
             "chromas": null
+          },
+          {
+            "id": 164011,
+            "name": "Arcana Camille",
+            "description": "Poised precariously above the city, on the edge of High Arcana, Camille's power comes from surprise and defying expectations. Her patterns seem confusing and alarming—even perilous—to those who cross her path, but they always resolve to her benefit. When burdened on the brink, Camille is at her strongest, but no one truly knows what she plans to use all that strength for...",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/164011.jpg",
+            "chromas": [
+              {
+                "id": 164012,
+                "name": "Arcana Camille",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 164013,
+                "name": "Arcana Camille",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 164014,
+                "name": "Arcana Camille",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 164015,
+                "name": "Arcana Camille",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 164016,
+                "name": "Arcana Camille",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 164017,
+                "name": "Arcana Camille",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 164018,
+                "name": "Arcana Camille",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 164019,
+                "name": "Arcana Camille",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -30617,6 +30781,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 223011,
+            "name": "Arcana Tahm Kench",
+            "description": "The epitome of power and opulence, Tahm Kench's power drips from his tongue. Its ornate patterns captivate and cajole his listeners. He leverages those he rules, staking his power to ensure the patterns always shift in his favor—“correcting” his subjects who have gone astray.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/223011.jpg",
+            "chromas": [
+              {
+                "id": 223012,
+                "name": "Arcana Tahm Kench",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 223013,
+                "name": "Arcana Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 223014,
+                "name": "Arcana Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 223015,
+                "name": "Arcana Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 223016,
+                "name": "Arcana Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 223017,
+                "name": "Arcana Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 223018,
+                "name": "Arcana Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 223019,
+                "name": "Arcana Tahm Kench",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -31173,6 +31419,88 @@
                 "colors": [
                   "#2756CE",
                   "#2756CE"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 236031,
+            "name": "Arcana Lucian",
+            "description": "Lucian believes in balance: that no one Archetype should have excessive influence on the world. With one gun amplifying patterns and the other canceling them out, Lucian maintains the world's fragile order within the new power vacuum—even as the likes of Tahm Kench move to fill it.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/236031.jpg",
+            "chromas": [
+              {
+                "id": 236032,
+                "name": "Arcana Lucian",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 236033,
+                "name": "Arcana Lucian",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 236034,
+                "name": "Arcana Lucian",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 236035,
+                "name": "Arcana Lucian",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 236036,
+                "name": "Arcana Lucian",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 236037,
+                "name": "Arcana Lucian",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 236038,
+                "name": "Arcana Lucian",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 236039,
+                "name": "Arcana Lucian",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -60571,6 +60899,16 @@
         "imagePath": "/assets/icons/4902.jpg"
       },
       {
+        "id": 4903,
+        "title": "Pride 2021 Icon",
+        "description": "This icon was earned through missions in celebration of May 17th, 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4903.jpg"
+      },
+      {
         "id": 4904,
         "title": "Space Groove Event Icon",
         "description": "This icon was acquired during the 2021 Space Groove event.",
@@ -61069,6 +61407,166 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/4953.jpg"
+      },
+      {
+        "id": 4954,
+        "title": "Sylas Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4954.jpg"
+      },
+      {
+        "id": 4955,
+        "title": "Jarvan IV Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4955.jpg"
+      },
+      {
+        "id": 4956,
+        "title": "Samira Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4956.jpg"
+      },
+      {
+        "id": 4957,
+        "title": "Kayn Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4957.jpg"
+      },
+      {
+        "id": 4958,
+        "title": "Sett Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4958.jpg"
+      },
+      {
+        "id": 4959,
+        "title": "Yone Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4959.jpg"
+      },
+      {
+        "id": 4960,
+        "title": "Lillia Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4960.jpg"
+      },
+      {
+        "id": 4961,
+        "title": "Syndra Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4961.jpg"
+      },
+      {
+        "id": 4962,
+        "title": "Volibear Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4962.jpg"
+      },
+      {
+        "id": 4963,
+        "title": "Tryndamere Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4963.jpg"
+      },
+      {
+        "id": 4964,
+        "title": "Braum Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4964.jpg"
+      },
+      {
+        "id": 4965,
+        "title": "Taliyah Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4965.jpg"
+      },
+      {
+        "id": 4966,
+        "title": "Amumu Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4966.jpg"
+      },
+      {
+        "id": 4967,
+        "title": "Rengar Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4967.jpg"
+      },
+      {
+        "id": 4968,
+        "title": "Fiora Champie Icon",
+        "description": "This icon was released in the store for purchase in 2021.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4968.jpg"
+      },
+      {
+        "id": 4969,
+        "title": "Blood Moon Aatrox Merch Icon",
+        "description": "This icon was acquired by making a purchase from the merch store.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4969.jpg"
       },
       {
         "id": 4,
@@ -72542,6 +73040,18 @@
         "imagePath": "/assets/emotes/3621.png"
       },
       {
+        "id": 3622,
+        "name": "Beside You",
+        "description": null,
+        "imagePath": "/assets/emotes/3622.png"
+      },
+      {
+        "id": 3623,
+        "name": "Pride 2021",
+        "description": null,
+        "imagePath": "/assets/emotes/3623.png"
+      },
+      {
         "id": 3624,
         "name": "Cloud9 MSI 2021",
         "description": null,
@@ -72648,6 +73158,42 @@
         "name": "fastPay Wildcats MSI 2021",
         "description": null,
         "imagePath": "/assets/emotes/3641.png"
+      },
+      {
+        "id": 3642,
+        "name": "TFT Fates Act II Gold",
+        "description": "Awarded for ranked placement in Teamfight Tactics: Fates Act II",
+        "imagePath": "/assets/emotes/3642.png"
+      },
+      {
+        "id": 3643,
+        "name": "TFT Fates Act II Platinum",
+        "description": "Awarded for ranked placement in Teamfight Tactics: Fates Act II",
+        "imagePath": "/assets/emotes/3643.png"
+      },
+      {
+        "id": 3644,
+        "name": "TFT Fates Act II Diamond",
+        "description": "Awarded for ranked placement in Teamfight Tactics: Fates Act II",
+        "imagePath": "/assets/emotes/3644.png"
+      },
+      {
+        "id": 3645,
+        "name": "TFT Fates Act II Master",
+        "description": "Awarded for ranked placement in Teamfight Tactics: Fates Act II",
+        "imagePath": "/assets/emotes/3645.png"
+      },
+      {
+        "id": 3646,
+        "name": "TFT Fates Act II Grandmaster",
+        "description": "Awarded for ranked placement in Teamfight Tactics: Fates Act II",
+        "imagePath": "/assets/emotes/3646.png"
+      },
+      {
+        "id": 3647,
+        "name": "TFT Fates Act II Challenger",
+        "description": "Awarded for ranked placement in Teamfight Tactics: Fates Act II",
+        "imagePath": "/assets/emotes/3647.png"
       },
       {
         "id": 4,
@@ -74750,6 +75296,22 @@
         "species": "Protector",
         "level": 3,
         "imagePath": "/assets/tftcompanions/7018.png"
+      },
+      {
+        "id": 7020,
+        "name": "Triumphant Protector",
+        "description": "Victorious Protector was awarded to players who reached Gold or higher in at least one ranked stage of Set 4, Fates. Triumphant Protector was awarded to players who readched Gold or higher all stages of Set 4, Fates.",
+        "species": "Protector",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/7020.png"
+      },
+      {
+        "id": 7019,
+        "name": "Victorious Protector",
+        "description": "Victorious Protector was awarded to players who reached Gold or higher in at least one ranked stage of Set 4, Fates. Triumphant Protector was awarded to players who readched Gold or higher all stages of Set 4, Fates.",
+        "species": "Protector",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/7019.png"
       },
       {
         "id": 1016,
