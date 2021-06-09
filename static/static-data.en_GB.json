@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.11.377.6311",
+  "version": "11.12.379.4946",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,12 +13,12 @@
   ],
   "info": {
     "champions": 155,
-    "skins": 1220,
-    "chromas": 2472,
-    "icons": 2979,
-    "emotes": 778,
+    "skins": 1222,
+    "chromas": 2493,
+    "icons": 2980,
+    "emotes": 780,
     "wards": 212,
-    "tftcompanions": 642,
+    "tftcompanions": 645,
     "tftmapskins": 42
   },
   "data": {
@@ -9338,7 +9338,7 @@
         "title": "the Madman of Zaun",
         "releaseDate": "2009-09-02",
         "associatedFactionSlug": "zaun",
-        "shortBio": "Utterly insane, unrepentantly homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun's citizens indoors on particularly dark nights. This monosyllabic monstrosity seems to want nothing more than pain—both the giving of it, and the receiving of it. Wielding his massive meat cleaver as if it were weightless, Mundo is infamous for capturing and torturing dozens of Zaun's citizens for his nefarious “operations,” which seem to have no overall point or goal. He is brutal. He is unpredictable. He goes where he pleases. He is also not, technically, a doctor.",
+        "shortBio": "Utterly mad, tragically homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun's citizens indoors on particularly dark nights. Now a self-proclaimed physician, he was once a patient of Zaun's most infamous asylum. After \"curing\" the entire staff, Dr. Mundo established his practice in the empty wards that once treated him and began mimicking the highly unethical procedures he had so often experienced himself. With a full cabinet of medicines and zero medical knowledge, he now makes himself more monstrous with each injection and terrifies the hapless \"patients\" who wander near his office.",
         "squarePortraitPath": "/assets/champions/portraits/36.png",
         "roles": [
           "fighter",
@@ -9357,7 +9357,7 @@
           {
             "id": 36001,
             "name": "Toxic Dr. Mundo",
-            "description": null,
+            "description": "Mundo not toxic, Mundo has healthy emotional coping mechanisms—oh, you mean purple goo? Mundo is sure that's fine, too.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/36001.jpg",
@@ -9366,7 +9366,7 @@
           {
             "id": 36002,
             "name": "Mr. Mundoverse",
-            "description": null,
+            "description": "Mundo didn't mean to become fitness influencer, but Mundo's gains speak for themselves. Mundo recommends never skipping leg day, eating lots of protein, and smashing that like and subscribe button for more Mr. Mundoverse content.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/36002.jpg",
@@ -9375,11 +9375,57 @@
           {
             "id": 36003,
             "name": "Corporate Mundo",
-            "description": "Mundo's actually planning a large layoff for the company he just acquired, but it doesn't matter. He literally beat someone to death in the lobby this morning and no one did anything. People watched.",
+            "description": "Mundo is not financial advisor. This is not financial advice. But you should buy the skin. Mundo likes the skin.",
             "rarity": "kLegendary",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/36003.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 36016,
+                "name": "Corporate Mundo",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 36017,
+                "name": "Corporate Mundo",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 36018,
+                "name": "Corporate Mundo",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 36019,
+                "name": "Corporate Mundo",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 36020,
+                "name": "Corporate Mundo",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           },
           {
             "id": 36004,
@@ -9393,7 +9439,7 @@
           {
             "id": 36005,
             "name": "Executioner Mundo",
-            "description": "Mundo is a man of few words, only appearing in public after donning his infamous executioner's cowl. Where this mad giant came from, and what he wants, no one can say… but he loves to execute prisoners, and does so as he pleases.",
+            "description": "Executioner Mundo thinks people should not be so scared of him. Executioner Mundo puts on pants and chops up prisoners one leg at a time, just like Mundo pleases.",
             "rarity": "kNoRarity",
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/36005.jpg",
@@ -9402,8 +9448,8 @@
           {
             "id": 36006,
             "name": "Rageborn Mundo",
-            "description": null,
-            "rarity": "kNoRarity",
+            "description": "There are many tales of the Rageborn menace: that he's slain dragons with a single cleave, that the mightiest wizards cannot halt his advances, that no noble knight foolish enough to try and stop him has ever come back alive. The accounts often contradict each other, but the one thing they all agree on is this: Where Mundo goes, no one else pleases.",
+            "rarity": "kRare",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/36006.jpg",
             "chromas": null
@@ -9421,7 +9467,7 @@
             "id": 36008,
             "name": "Pool Party Mundo",
             "description": "Pool Party Mundo enjoys his hat and ukulele, but what he really loves are his shorts. They're comfy, and easy to wear.",
-            "rarity": "kNoRarity",
+            "rarity": "kRare",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/36008.jpg",
             "chromas": null
@@ -9446,7 +9492,7 @@
               {
                 "id": 36011,
                 "name": "Frozen Prince Mundo",
-                "description": "This chroma was released as a bundle exclusive during 2018.",
+                "description": "This chroma was released as a bundle exclusive in 2018.",
                 "colors": [
                   "#D33528",
                   "#D33528"
@@ -23649,7 +23695,7 @@
           {
             "id": 110016,
             "name": "PROJECT: Varus",
-            "description": null,
+            "description": "A replacement for the traitorous Ashe model, Varus is the latest in PROJECT Corporation's biological weapons... and a controversial experiment, with one body inhabited by three sentient minds. A Command Line counter-espionage operative acting on behalf of the PROJECT initiative, they work alongside the resistance to mitigate the risk posed by Mordekaiser to their corporate interests.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/110016.jpg",
@@ -30288,6 +30334,88 @@
                 "colors": [
                   "#E58BA5",
                   "#6FFDFF"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 201033,
+            "name": "Pool Party Braum",
+            "description": "Braum's tiki lemonades are a lot like him—tall, sweet, and very popular with poros. Even the Boss is willing to wait his turn to get a glass!",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/201033.jpg",
+            "chromas": [
+              {
+                "id": 201034,
+                "name": "Pool Party Braum",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 201035,
+                "name": "Pool Party Braum",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 201036,
+                "name": "Pool Party Braum",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 201037,
+                "name": "Pool Party Braum",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 201038,
+                "name": "Pool Party Braum",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 201039,
+                "name": "Pool Party Braum",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 201040,
+                "name": "Pool Party Braum",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 201041,
+                "name": "Pool Party Braum",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
                 ]
               }
             ]
@@ -37274,6 +37402,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/875009.jpg",
             "chromas": null
+          },
+          {
+            "id": 875010,
+            "name": "Pool Party Sett",
+            "description": "Braum's tropical drinks are a favorite of Sett's—the sweeter the taste and the bigger the flowers, the better! Anyone who has a problem with that can take it up with the Boss. He'll call the Lifeguard for you.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/875010.jpg",
+            "chromas": [
+              {
+                "id": 875011,
+                "name": "Pool Party Sett",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 875012,
+                "name": "Pool Party Sett",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 875013,
+                "name": "Pool Party Sett",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 875014,
+                "name": "Pool Party Sett",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 875015,
+                "name": "Pool Party Sett",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 875016,
+                "name": "Pool Party Sett",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 875017,
+                "name": "Pool Party Sett",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 875018,
+                "name": "Pool Party Sett",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -44221,6 +44431,16 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/28.jpg"
+      },
+      {
+        "id": 29,
+        "title": "Helmet Bro",
+        "description": null,
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kNoRarity",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/29.jpg"
       },
       {
         "id": 2,
@@ -73922,6 +74142,18 @@
         "imagePath": "/assets/emotes/3650.png"
       },
       {
+        "id": 3651,
+        "name": "Just You Wait",
+        "description": null,
+        "imagePath": "/assets/emotes/3651.png"
+      },
+      {
+        "id": 3652,
+        "name": "Here's To Me",
+        "description": null,
+        "imagePath": "/assets/emotes/3652.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -75326,6 +75558,30 @@
         "species": "Dowsie",
         "level": 3,
         "imagePath": "/assets/tftcompanions/29003.png"
+      },
+      {
+        "id": 29019,
+        "name": "URF Dowsie",
+        "description": "If you're looking for a Dowsie, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/29019.png"
+      },
+      {
+        "id": 29020,
+        "name": "URF Dowsie",
+        "description": "If you're looking for a Dowsie, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/29020.png"
+      },
+      {
+        "id": 29021,
+        "name": "URF Dowsie",
+        "description": "If you're looking for a Dowsie, stay calm and remember they're only bashful— until angered, then they might bash-you-full of spells.",
+        "species": "Dowsie",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/29021.png"
       },
       {
         "id": 29004,
