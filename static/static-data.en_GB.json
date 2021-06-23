@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.12.379.4946",
+  "version": "11.13.382.1241",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,12 +13,12 @@
   ],
   "info": {
     "champions": 155,
-    "skins": 1222,
-    "chromas": 2493,
-    "icons": 2980,
+    "skins": 1227,
+    "chromas": 2525,
+    "icons": 2983,
     "emotes": 780,
     "wards": 212,
-    "tftcompanions": 645,
+    "tftcompanions": 646,
     "tftmapskins": 42
   },
   "data": {
@@ -8843,6 +8843,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/33016.jpg",
             "chromas": null
+          },
+          {
+            "id": 33017,
+            "name": "Astronaut Rammus",
+            "description": "Rammus was supposed to be the Space Program's core asset for terraforming new planets, and he was—until his digging unearthed a purple surprise no one was ready for. Now he has become something wholly different, his power turned to nefarious ends at the hands of the evil invader-meeps.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/33017.jpg",
+            "chromas": [
+              {
+                "id": 33018,
+                "name": "Astronaut Rammus",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 33019,
+                "name": "Astronaut Rammus",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 33020,
+                "name": "Astronaut Rammus",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 33021,
+                "name": "Astronaut Rammus",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 33022,
+                "name": "Astronaut Rammus",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 33023,
+                "name": "Astronaut Rammus",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 33024,
+                "name": "Astronaut Rammus",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 33025,
+                "name": "Astronaut Rammus",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -11006,6 +11088,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 42026,
+            "name": "Astronaut Corki",
+            "description": "Commander Corki is both a veteran of the space program and its fearless leader. After traveling to a new and undiscovered planet with his intrepid crew, he befriended a stray alien meep that became his assistant and ally in exploring the galaxy. Together they fly, holding off the encroaching invasion of evil purple meeps that threaten the cosmos.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/42026.jpg",
+            "chromas": [
+              {
+                "id": 42027,
+                "name": "Astronaut Corki",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 42028,
+                "name": "Astronaut Corki",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 42029,
+                "name": "Astronaut Corki",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 42030,
+                "name": "Astronaut Corki",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 42031,
+                "name": "Astronaut Corki",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 42032,
+                "name": "Astronaut Corki",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 42033,
+                "name": "Astronaut Corki",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 42034,
+                "name": "Astronaut Corki",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -11888,6 +12052,88 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 45032,
+            "name": "Astronaut Veigar",
+            "description": "A scientist conducting research on alien energy sources, Veigar ventured too far into empty space... but the Veigar that came back wass different from the one that was set adrift. No one is sure why, but something about him is more… evil? And purple.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/45032.jpg",
+            "chromas": [
+              {
+                "id": 45033,
+                "name": "Astronaut Veigar",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 45034,
+                "name": "Astronaut Veigar",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 45035,
+                "name": "Astronaut Veigar",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 45036,
+                "name": "Astronaut Veigar",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 45037,
+                "name": "Astronaut Veigar",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 45038,
+                "name": "Astronaut Veigar",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 45039,
+                "name": "Astronaut Veigar",
+                "description": null,
+                "colors": [
+                  "#C1F2FF",
+                  "#C1F2FF"
+                ]
+              },
+              {
+                "id": 45040,
+                "name": "Astronaut Veigar",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
                 ]
               }
             ]
@@ -13855,6 +14101,88 @@
                 "colors": [
                   "#2756CE",
                   "#2756CE"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 57024,
+            "name": "Astronaut Maokai",
+            "description": "The first tree to grow on planet M33P, Maokai gained sentience due to the latent power of the meeps that took up residence in his trunk. He now fosters life on this new home of his, collecting and caring for young meeps that could use a helping hand (or branch).",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/57024.jpg",
+            "chromas": [
+              {
+                "id": 57025,
+                "name": "Astronaut Maokai",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 57026,
+                "name": "Astronaut Maokai",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 57027,
+                "name": "Astronaut Maokai",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 57028,
+                "name": "Astronaut Maokai",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 57029,
+                "name": "Astronaut Maokai",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 57030,
+                "name": "Astronaut Maokai",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 57031,
+                "name": "Astronaut Maokai",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 57032,
+                "name": "Astronaut Maokai",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
                 ]
               }
             ]
@@ -31146,10 +31474,10 @@
         "id": 223,
         "name": "Tahm Kench",
         "alias": "TahmKench",
-        "title": "the River King",
+        "title": "The River King",
         "releaseDate": "2015-07-09",
         "associatedFactionSlug": "unaffiliated",
-        "shortBio": "Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a vagabond in search of unsuspecting prey. His lashing tongue can stun even a heavily armored warrior from a dozen paces, and to fall into his rumbling belly is to tumble into an abyss from which there is little hope of return.",
+        "shortBio": "",
         "squarePortraitPath": "/assets/champions/portraits/223.png",
         "roles": [
           "support",
@@ -32350,6 +32678,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 238030,
+            "name": "PROJECT: Zed Prestige Edition",
+            "description": "Faced with imminent defeat at the hands of Mordekaiser and the numberless hordes of infected machines, Zed seeks out a dilapidated research facility in the heart of the wasteland, searching for illegal and potentially dangerous upgrades. His return may mark a tipping point in the battle for the City… though he has transformed into something beyond both human and machine.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/238030.jpg",
+            "chromas": null
           }
         ]
       },
@@ -62487,6 +62824,36 @@
         "imagePath": "/assets/icons/4986.jpg"
       },
       {
+        "id": 4987,
+        "title": "PROJECT: Zed Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige PROJECT: Zed skin from the 2020 Prestige Point Shop.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4987.jpg"
+      },
+      {
+        "id": 4988,
+        "title": "RNG 2021 Mid-Season Invitational Icon",
+        "description": "This icon commemorates the 2021 Mid-Season Invitational Winner, RNG! ",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4988.jpg"
+      },
+      {
+        "id": 4989,
+        "title": "PROJECT 2021 Capsule Bundle Icon",
+        "description": "This icon was acquired as a bundle-exclusive in 2021",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4989.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -77334,6 +77701,14 @@
         "species": "Runespirit",
         "level": 3,
         "imagePath": "/assets/tftcompanions/5018.png"
+      },
+      {
+        "id": 5019,
+        "name": "Birthday Cakespirit",
+        "description": null,
+        "species": "Runespirit",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/5019.png"
       },
       {
         "id": 31001,
