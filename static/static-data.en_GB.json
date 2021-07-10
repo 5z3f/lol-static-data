@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.13.382.1241",
+  "version": "11.14.384.6677",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,11 +13,11 @@
   ],
   "info": {
     "champions": 155,
-    "skins": 1227,
-    "chromas": 2525,
-    "icons": 2983,
-    "emotes": 780,
-    "wards": 212,
+    "skins": 1234,
+    "chromas": 2579,
+    "icons": 3011,
+    "emotes": 801,
+    "wards": 214,
     "tftcompanions": 646,
     "tftmapskins": 42
   },
@@ -465,6 +465,97 @@
                 "colors": [
                   "#5F432B",
                   "#5F432B"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2025,
+            "name": "Sentinel Olaf",
+            "description": "After a vicious encounter on the Freljordian front, Olaf is convinced to join the Sentinels to satiate his hunger for battle. Only then would he have the power to challenge Viego, the greatest threat the world has ever known, and satisfy his urge to fearlessly face death in glorious combat.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/2025.jpg",
+            "chromas": [
+              {
+                "id": 2026,
+                "name": "Sentinel Olaf",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 2027,
+                "name": "Sentinel Olaf",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 2028,
+                "name": "Sentinel Olaf",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 2029,
+                "name": "Sentinel Olaf",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 2030,
+                "name": "Sentinel Olaf",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 2031,
+                "name": "Sentinel Olaf",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 2032,
+                "name": "Sentinel Olaf",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 2033,
+                "name": "Sentinel Olaf",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 2034,
+                "name": "Sentinel Olaf",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinels event.",
+                "colors": [
+                  "#080808",
+                  "#8E0A38"
                 ]
               }
             ]
@@ -10267,6 +10358,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 39026,
+            "name": "Sentinel Irelia",
+            "description": "After the fall of the Ionian Grand Temple, Irelia could not stand idly by while her home was ravaged by the Black Mist. Deputized by the Sentinels, she fights the Ruination as one of their comrades: a natural-born leader who understands the threat that Ruined Karma poses, she will stop at nothing to save the Spirit of Ionia.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/39026.jpg",
+            "chromas": [
+              {
+                "id": 39027,
+                "name": "Sentinel Irelia",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 39028,
+                "name": "Sentinel Irelia",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 39029,
+                "name": "Sentinel Irelia",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 39030,
+                "name": "Sentinel Irelia",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 39031,
+                "name": "Sentinel Irelia",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 39032,
+                "name": "Sentinel Irelia",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 39033,
+                "name": "Sentinel Irelia",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 39034,
+                "name": "Sentinel Irelia",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 39035,
+                "name": "Sentinel Irelia",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinels event.",
+                "colors": [
+                  "#080808",
+                  "#8E0A38"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -11567,6 +11749,15 @@
                   "#ECF9F8",
                   "#ECF9F8"
                 ]
+              },
+              {
+                "id": 43043,
+                "name": "Ruined Karma",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinels event.",
+                "colors": [
+                  "#050B19",
+                  "#ECC124"
+                ]
               }
             ]
           }
@@ -12059,7 +12250,7 @@
           {
             "id": 45032,
             "name": "Astronaut Veigar",
-            "description": "A scientist conducting research on alien energy sources, Veigar ventured too far into empty space... but the Veigar that came back wass different from the one that was set adrift. No one is sure why, but something about him is more… evil? And purple.",
+            "description": "A scientist conducting research on alien energy sources, Veigar ventured too far into empty space... but the Veigar that came back was different from the one that was set adrift. No one is sure why, but something about him is more… evil? And purple.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/45032.jpg",
@@ -16098,6 +16289,70 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 67025,
+            "name": "Sentinel Vayne",
+            "description": "Ever striving to become a better monster hunter, Vayne joins the Sentinels primarily to advance her own arsenal and learn from their battle with the Black Mist. It doesn't hurt that she is also defending Runeterra from evil, of course. If she must endure the friendship of a fool like Graves to do so, she will. The cause is worth it.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/67025.jpg",
+            "chromas": [
+              {
+                "id": 67026,
+                "name": "Sentinel Vayne",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 67027,
+                "name": "Sentinel Vayne",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 67028,
+                "name": "Sentinel Vayne",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 67029,
+                "name": "Sentinel Vayne",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 67030,
+                "name": "Sentinel Vayne",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 67031,
+                "name": "Sentinel Vayne",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinels event.",
+                "colors": [
+                  "#080808",
+                  "#8E0A38"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -18166,6 +18421,106 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 80025,
+            "name": "Ruined Pantheon",
+            "description": "The Mist did not just subsume Atreus, but also resurrected the long-dead spirit of Pantheon: the old Aspect of War himself. With Atreus' stubborn defiance silenced, Pantheon can resume control and revel in battle once again. It doesn't matter to him whose banner he fights under. If that banner is the Ruined King's? So be it.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/80025.jpg",
+            "chromas": [
+              {
+                "id": 80027,
+                "name": "Ruined Pantheon",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 80028,
+                "name": "Ruined Pantheon",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 80029,
+                "name": "Ruined Pantheon",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 80030,
+                "name": "Ruined Pantheon",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 80031,
+                "name": "Ruined Pantheon",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 80032,
+                "name": "Ruined Pantheon",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 80033,
+                "name": "Ruined Pantheon",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 80034,
+                "name": "Ruined Pantheon",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 80035,
+                "name": "Ruined Pantheon",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinels event.",
+                "colors": [
+                  "#050B19",
+                  "#ECC124"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 80026,
+            "name": "Ascended Pantheon Prestige Edition",
+            "description": "Pantheon was defeated once, but with all of Runeterra on the line now Atreus must defeat it himself. Seizing back control from the Aspect of War, Atreus harnesses the celestial power of Targon itself—briefly becoming not just a vessel or an Aspect, but something new. Something immensely powerful and entirely his own.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/80026.jpg",
+            "chromas": null
           }
         ]
       },
@@ -21052,7 +21407,7 @@
           {
             "id": 92023,
             "name": "Spirit Blossom Riven",
-            "description": "A brave warrior from an ancient land, Riven was ignobly cut down in the heat of battle thousands of years ago, her sword shattering in the process. Unable to find peace, she obsessively scours an otherworldly battlefield for pieces of her broken blade, possessed by a horrific darkness that guides her into oblivion.",
+            "description": "Riven joins the Sentinels hoping to atone for her role in the Noxian invasion of Ionia. After fighting her way out of a rapidly destabilizing Noxus Prime, she understands that her time may be fleeting. However, she believes her life is a small price to pay to make amends.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92023.jpg",
@@ -21127,6 +21482,97 @@
                 "colors": [
                   "#0C0C0F",
                   "#B2D1E4"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 92034,
+            "name": "Sentinel Riven",
+            "description": "Riven joins the Sentinels hoping to atone for her role in the Noxian invasion of Ionia. After fighting her way out of a rapidly destabilizing Noxus Prime, she understands that her time may be fleeting. However, she believes her life is a small price to pay to make amends.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/92034.jpg",
+            "chromas": [
+              {
+                "id": 92035,
+                "name": "Sentinel Riven",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 92036,
+                "name": "Sentinel Riven",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 92037,
+                "name": "Sentinel Riven",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 92038,
+                "name": "Sentinel Riven",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 92039,
+                "name": "Sentinel Riven",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 92040,
+                "name": "Sentinel Riven",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 92041,
+                "name": "Sentinel Riven",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 92042,
+                "name": "Sentinel Riven",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 92043,
+                "name": "Sentinel Riven",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinels event.",
+                "colors": [
+                  "#080808",
+                  "#8E0A38"
                 ]
               }
             ]
@@ -22506,6 +22952,15 @@
                 "colors": [
                   "#ECF9F8",
                   "#ECF9F8"
+                ]
+              },
+              {
+                "id": 102016,
+                "name": "Ruined Shyvana",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinels event.",
+                "colors": [
+                  "#050B19",
+                  "#ECC124"
                 ]
               }
             ]
@@ -26083,6 +26538,15 @@
                   "#ECF9F8",
                   "#ECF9F8"
                 ]
+              },
+              {
+                "id": 119028,
+                "name": "Ruined Draven",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinels event.",
+                "colors": [
+                  "#050B19",
+                  "#ECC124"
+                ]
               }
             ]
           }
@@ -27752,6 +28216,97 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/131026.jpg",
             "chromas": null
+          },
+          {
+            "id": 131027,
+            "name": "Sentinel Diana",
+            "description": "The Ruination of Targon and the loss of the Aspect of War devastated the Rakkor tribes. But the only way to fight an Aspect's power is with another Aspect—and so Diana takes up her blade as a member of the Sentinels, knowing that Viego would destroy everything the moonlight touches.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/131027.jpg",
+            "chromas": [
+              {
+                "id": 131028,
+                "name": "Sentinel Diana",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 131029,
+                "name": "Sentinel Diana",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 131030,
+                "name": "Sentinel Diana",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 131031,
+                "name": "Sentinel Diana",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 131032,
+                "name": "Sentinel Diana",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 131033,
+                "name": "Sentinel Diana",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 131034,
+                "name": "Sentinel Diana",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 131035,
+                "name": "Sentinel Diana",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 131036,
+                "name": "Sentinel Diana",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinels event.",
+                "colors": [
+                  "#080808",
+                  "#8E0A38"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -31477,7 +32032,7 @@
         "title": "The River King",
         "releaseDate": "2015-07-09",
         "associatedFactionSlug": "unaffiliated",
-        "shortBio": "",
+        "shortBio": "Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a vagabond in search of unsuspecting prey. His lashing tongue can stun even a heavily armored warrior from a dozen paces, and to fall into his rumbling belly is to tumble into an abyss from which there is little hope of return.",
         "squarePortraitPath": "/assets/champions/portraits/223.png",
         "roles": [
           "support",
@@ -62854,6 +63409,96 @@
         "imagePath": "/assets/icons/4989.jpg"
       },
       {
+        "id": 4990,
+        "title": "Sentinels of Light Event Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4990.jpg"
+      },
+      {
+        "id": 4991,
+        "title": "Sentinels of Light Pass Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4991.jpg"
+      },
+      {
+        "id": 4992,
+        "title": "Sentinels of Light Prestige Points Icon",
+        "description": "This icon was earned through Loot during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4992.jpg"
+      },
+      {
+        "id": 4993,
+        "title": "Sentinel Vayne Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4993.jpg"
+      },
+      {
+        "id": 4994,
+        "title": "Sentinel Irelia Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4994.jpg"
+      },
+      {
+        "id": 4995,
+        "title": "Sentinel Diana Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4995.jpg"
+      },
+      {
+        "id": 4996,
+        "title": "Sentinel Riven Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4996.jpg"
+      },
+      {
+        "id": 4997,
+        "title": "Sentinel Olaf Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4997.jpg"
+      },
+      {
+        "id": 4999,
+        "title": "Ruined Karma Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/4999.jpg"
+      },
+      {
         "id": 4,
         "title": "Blue Mountain Icon",
         "description": "Unlocked by creating an account in League of Legends.",
@@ -62862,6 +63507,136 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/4.jpg"
+      },
+      {
+        "id": 5000,
+        "title": "Ruined Draven Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5000.jpg"
+      },
+      {
+        "id": 5001,
+        "title": "Ruined Shyvana Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5001.jpg"
+      },
+      {
+        "id": 5002,
+        "title": "Ruined Pantheon Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5002.jpg"
+      },
+      {
+        "id": 5003,
+        "title": "Sentinel Vayne Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5003.jpg"
+      },
+      {
+        "id": 5004,
+        "title": "Sentinel Irelia Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5004.jpg"
+      },
+      {
+        "id": 5005,
+        "title": "Sentinel Diana Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5005.jpg"
+      },
+      {
+        "id": 5006,
+        "title": "Sentinel Riven Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5006.jpg"
+      },
+      {
+        "id": 5007,
+        "title": "Sentinel Olaf Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5007.jpg"
+      },
+      {
+        "id": 5008,
+        "title": "Ruined Karma Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5008.jpg"
+      },
+      {
+        "id": 5009,
+        "title": "Ruined Draven Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5009.jpg"
+      },
+      {
+        "id": 5010,
+        "title": "Ruined Shyvana Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5010.jpg"
+      },
+      {
+        "id": 5011,
+        "title": "Ruined Pantheon Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5011.jpg"
+      },
+      {
+        "id": 5012,
+        "title": "Ascended Pantheon Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Ascended Pantheon skin during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5012.jpg"
       },
       {
         "id": 501,
@@ -62874,6 +63649,56 @@
         "imagePath": "/assets/icons/501.jpg"
       },
       {
+        "id": 5021,
+        "title": "The Night Hunter Sentinel Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5021.jpg"
+      },
+      {
+        "id": 5022,
+        "title": "The Blade Dancer Sentinel Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5022.jpg"
+      },
+      {
+        "id": 5023,
+        "title": "The Moon Sentinel Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5023.jpg"
+      },
+      {
+        "id": 5024,
+        "title": "The Exile Sentinel Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5024.jpg"
+      },
+      {
+        "id": 5025,
+        "title": "The Berserker Sentinel Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5025.jpg"
+      },
+      {
         "id": 502,
         "title": "Time Portal Icon",
         "description": "Acquired by purchasing or unlocking the Pulsefire Ezreal ultimate skin.",
@@ -62882,6 +63707,16 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/icons/502.jpg"
+      },
+      {
+        "id": 5030,
+        "title": "Season 2021 - Split 3 Icon",
+        "description": "This icon was earned by winning ranked games in Season 2021 - Split 3.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5030.jpg"
       },
       {
         "id": 503,
@@ -69870,9 +70705,29 @@
         "defaultDescription": null,
         "description": "This ward was earned during the 2021 PROJECT Event.",
         "set": null,
-        "rarity": "kNoRarity",
+        "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/wards/211.png"
+      },
+      {
+        "id": 212,
+        "name": "Sentinel Ward",
+        "defaultDescription": null,
+        "description": "This ward was earned during the 2021 Sentinels of Light event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/212.png"
+      },
+      {
+        "id": 215,
+        "name": "Ruined Ward",
+        "defaultDescription": null,
+        "description": "This ward was earned during the 2021 Sentinels of Light event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/215.png"
       }
     ],
     "emotes": [
@@ -74519,6 +75374,132 @@
         "name": "Here's To Me",
         "description": null,
         "imagePath": "/assets/emotes/3652.png"
+      },
+      {
+        "id": 3653,
+        "name": "Boo",
+        "description": null,
+        "imagePath": "/assets/emotes/3653.png"
+      },
+      {
+        "id": 3654,
+        "name": "Spooked",
+        "description": null,
+        "imagePath": "/assets/emotes/3654.png"
+      },
+      {
+        "id": 3655,
+        "name": "The Crown",
+        "description": null,
+        "imagePath": "/assets/emotes/3655.png"
+      },
+      {
+        "id": 3656,
+        "name": "Sentinel Crest",
+        "description": null,
+        "imagePath": "/assets/emotes/3656.png"
+      },
+      {
+        "id": 3657,
+        "name": "So proud!",
+        "description": null,
+        "imagePath": "/assets/emotes/3657.png"
+      },
+      {
+        "id": 3658,
+        "name": "I Got You!",
+        "description": null,
+        "imagePath": "/assets/emotes/3658.png"
+      },
+      {
+        "id": 3659,
+        "name": "Sentinel Senna",
+        "description": null,
+        "imagePath": "/assets/emotes/3659.png"
+      },
+      {
+        "id": 3660,
+        "name": "Sentinel Vayne",
+        "description": null,
+        "imagePath": "/assets/emotes/3660.png"
+      },
+      {
+        "id": 3661,
+        "name": "Sentinel Olaf",
+        "description": null,
+        "imagePath": "/assets/emotes/3661.png"
+      },
+      {
+        "id": 3662,
+        "name": "Sentinel Riven",
+        "description": null,
+        "imagePath": "/assets/emotes/3662.png"
+      },
+      {
+        "id": 3663,
+        "name": "Sentinel Irelia",
+        "description": null,
+        "imagePath": "/assets/emotes/3663.png"
+      },
+      {
+        "id": 3664,
+        "name": "Sentinel Diana",
+        "description": null,
+        "imagePath": "/assets/emotes/3664.png"
+      },
+      {
+        "id": 3665,
+        "name": "2021 - Split 3 - Iron",
+        "description": null,
+        "imagePath": "/assets/emotes/3665.png"
+      },
+      {
+        "id": 3666,
+        "name": "2021 - Split 3 - Bronze",
+        "description": null,
+        "imagePath": "/assets/emotes/3666.png"
+      },
+      {
+        "id": 3667,
+        "name": "2021 - Split 3 - Silver",
+        "description": null,
+        "imagePath": "/assets/emotes/3667.png"
+      },
+      {
+        "id": 3668,
+        "name": "2021 - Split 3 - Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3668.png"
+      },
+      {
+        "id": 3669,
+        "name": "2021 - Split 3 - Platinum",
+        "description": null,
+        "imagePath": "/assets/emotes/3669.png"
+      },
+      {
+        "id": 3670,
+        "name": "2021 - Split 3 - Diamond",
+        "description": null,
+        "imagePath": "/assets/emotes/3670.png"
+      },
+      {
+        "id": 3671,
+        "name": "2021 - Split 3 - Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3671.png"
+      },
+      {
+        "id": 3672,
+        "name": "2021 - Split 3 - Grand Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3672.png"
+      },
+      {
+        "id": 3673,
+        "name": "2021 - Split 3 - Challenger",
+        "description": null,
+        "imagePath": "/assets/emotes/3673.png"
       },
       {
         "id": 4,
