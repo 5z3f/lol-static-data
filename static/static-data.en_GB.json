@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.14.384.6677",
+  "version": "11.15.387.5736",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -12,14 +12,14 @@
     "TFTMAPSKINS"
   ],
   "info": {
-    "champions": 155,
-    "skins": 1234,
-    "chromas": 2579,
-    "icons": 3011,
-    "emotes": 801,
+    "champions": 156,
+    "skins": 1240,
+    "chromas": 2620,
+    "icons": 3023,
+    "emotes": 812,
     "wards": 214,
-    "tftcompanions": 646,
-    "tftmapskins": 42
+    "tftcompanions": 693,
+    "tftmapskins": 47
   },
   "data": {
     "champions": [
@@ -6032,6 +6032,97 @@
             "isLegacy": true,
             "tilePath": "/assets/champions/tiles/21020.jpg",
             "chromas": null
+          },
+          {
+            "id": 21021,
+            "name": "Ruined Miss Fortune",
+            "description": "Miss Fortune thought that being the Pirate Queen of Bilgewater would be enough. Even with her revenge complete, Sarah now faced a new chaos with Bilgewater's factions vying for control. Viego's arrival offered her an opportunity to seize the strength needed to crush anyone beneath her heel, even if it came at a price.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/21021.jpg",
+            "chromas": [
+              {
+                "id": 21022,
+                "name": "Ruined Miss Fortune",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 21023,
+                "name": "Ruined Miss Fortune",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 21024,
+                "name": "Ruined Miss Fortune",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 21025,
+                "name": "Ruined Miss Fortune",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 21026,
+                "name": "Ruined Miss Fortune",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 21027,
+                "name": "Ruined Miss Fortune",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 21028,
+                "name": "Ruined Miss Fortune",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 21029,
+                "name": "Ruined Miss Fortune",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 21030,
+                "name": "Ruined Miss Fortune",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinel event.",
+                "colors": [
+                  "#050B19",
+                  "#ECC124"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21407,7 +21498,7 @@
           {
             "id": 92023,
             "name": "Spirit Blossom Riven",
-            "description": "Riven joins the Sentinels hoping to atone for her role in the Noxian invasion of Ionia. After fighting her way out of a rapidly destabilizing Noxus Prime, she understands that her time may be fleeting. However, she believes her life is a small price to pay to make amends.",
+            "description": "Riven joins the Sentinels hoping to atone for her role in the Noxian invasion of Ionia. After fighting her way out of a rapidly destabilizing City of Noxus, she understands that her time may be fleeting. However, she believes her life is a small price to pay to make amends.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92023.jpg",
@@ -21489,7 +21580,7 @@
           {
             "id": 92034,
             "name": "Sentinel Riven",
-            "description": "Riven joins the Sentinels hoping to atone for her role in the Noxian invasion of Ionia. After fighting her way out of a rapidly destabilizing Noxus Prime, she understands that her time may be fleeting. However, she believes her life is a small price to pay to make amends.",
+            "description": "Riven joins the Sentinels hoping to atone for her role in the Noxian invasion of Ionia. After fighting her way out of a rapidly destabilizing City of Noxus, she understands that her time may be fleeting. However, she believes her life is a small price to pay to make amends.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92034.jpg",
@@ -23698,6 +23789,70 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 104035,
+            "name": "Sentinel Graves",
+            "description": "Graves could give a damn about saving the world, but the Ruined King is getting in the way of his criminal undertakings, and that he cannot abide. When the Sentinels come calling, Graves reckons he can play the hero for once—long enough to make sure there's a world left to rob, anyway.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/104035.jpg",
+            "chromas": [
+              {
+                "id": 104036,
+                "name": "Sentinel Graves",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 104037,
+                "name": "Sentinel Graves",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 104038,
+                "name": "Sentinel Graves",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 104039,
+                "name": "Sentinel Graves",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 104040,
+                "name": "Sentinel Graves",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 104041,
+                "name": "Sentinel Graves",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinel event.",
+                "colors": [
+                  "#080808",
+                  "#8E0A38"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -24308,6 +24463,97 @@
                 "colors": [
                   "#E58BA5",
                   "#E58BA5"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 107030,
+            "name": "Sentinel Rengar",
+            "description": "What game is bigger than a King? As a hunter, Rengar could not pass up the opportunity to take on what would be his ultimate prey, and the ultimate trophy. Even with Sentinel weapons in hand, they will need the skills of a true apex predator to take Viego down.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/107030.jpg",
+            "chromas": [
+              {
+                "id": 107031,
+                "name": "Sentinel Rengar",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 107032,
+                "name": "Sentinel Rengar",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 107033,
+                "name": "Sentinel Rengar",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 107034,
+                "name": "Sentinel Rengar",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 107035,
+                "name": "Sentinel Rengar",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 107036,
+                "name": "Sentinel Rengar",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 107037,
+                "name": "Sentinel Rengar",
+                "description": "Obtained through Influencer audience giveaways.",
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 107038,
+                "name": "Sentinel Rengar",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 107039,
+                "name": "Sentinel Rengar",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinel event.",
+                "colors": [
+                  "#080808",
+                  "#8E0A38"
                 ]
               }
             ]
@@ -30908,6 +31154,113 @@
         ]
       },
       {
+        "id": 166,
+        "name": "Akshan",
+        "alias": "Akshan",
+        "title": "the Rogue Sentinel",
+        "releaseDate": "2021-07-08T19:43:26Z",
+        "associatedFactionSlug": "shurima",
+        "shortBio": "Raising an eyebrow in the face of danger, Akshan fights evil with dashing charisma, righteous vengeance, and a conspicuous lack of shirts. He is highly skilled in the art of stealth combat, able to evade the eyes of his enemies and reappear when they least expect him. With a keen sense of justice and a legendary death-reversing weapon, he rights the wrongs of Runeterra's many scoundrels while living by his own moral code: “Don't be an ass.”",
+        "squarePortraitPath": "/assets/champions/portraits/166.png",
+        "roles": [
+          "marksman",
+          "assassin"
+        ],
+        "skins": [
+          {
+            "id": 166000,
+            "name": "Akshan (default)",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/166000.jpg",
+            "chromas": null
+          },
+          {
+            "id": 166001,
+            "name": "Cyber Pop Akshan",
+            "description": "The Neon Rogue of Sound City has become the hero of the underground, largely due to his bravery, his wit, and his uncanny ability to sneak into highly-secure corporate buildings without being detected. Being charming as hell doesn't hurt, either.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/166001.jpg",
+            "chromas": [
+              {
+                "id": 166002,
+                "name": "Cyber Pop Akshan",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 166003,
+                "name": "Cyber Pop Akshan",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 166004,
+                "name": "Cyber Pop Akshan",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 166005,
+                "name": "Cyber Pop Akshan",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 166006,
+                "name": "Cyber Pop Akshan",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 166007,
+                "name": "Cyber Pop Akshan",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 166008,
+                "name": "Cyber Pop Akshan",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 166009,
+                "name": "Cyber Pop Akshan",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": 201,
         "name": "Braum",
         "alias": "Braum",
@@ -35626,6 +35979,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 412027,
+            "name": "Unbound Thresh",
+            "description": null,
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/412027.jpg",
+            "chromas": null
           }
         ]
       },
@@ -37995,6 +38357,97 @@
                 "colors": [
                   "#27211C",
                   "#27211C"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 555034,
+            "name": "Sentinel Pyke",
+            "description": "Pyke may seem an unlikely Sentinel to take up the oath, but Viego's name is next on his list. Pacified—for now—by the influence of Nagakabouros, the real danger is that he might snap at any moment, killing allies and enemies alike.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/555034.jpg",
+            "chromas": [
+              {
+                "id": 555035,
+                "name": "Sentinel Pyke",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 555036,
+                "name": "Sentinel Pyke",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 555037,
+                "name": "Sentinel Pyke",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 555038,
+                "name": "Sentinel Pyke",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 555039,
+                "name": "Sentinel Pyke",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 555040,
+                "name": "Sentinel Pyke",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 555041,
+                "name": "Sentinel Pyke",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 555042,
+                "name": "Sentinel Pyke",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              },
+              {
+                "id": 555043,
+                "name": "Sentinel Pyke",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Sentinel event.",
+                "colors": [
+                  "#080808",
+                  "#8E0A38"
                 ]
               }
             ]
@@ -63382,7 +63835,7 @@
         "id": 4987,
         "title": "PROJECT: Zed Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige PROJECT: Zed skin from the 2020 Prestige Point Shop.",
-        "set": null,
+        "set": "PROJECT",
         "yearReleased": 2021,
         "rarity": "kMythic",
         "isLegacy": false,
@@ -63412,7 +63865,7 @@
         "id": 4990,
         "title": "Sentinels of Light Event Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63422,7 +63875,7 @@
         "id": 4991,
         "title": "Sentinels of Light Pass Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63432,7 +63885,7 @@
         "id": 4992,
         "title": "Sentinels of Light Prestige Points Icon",
         "description": "This icon was earned through Loot during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63442,7 +63895,7 @@
         "id": 4993,
         "title": "Sentinel Vayne Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63452,7 +63905,7 @@
         "id": 4994,
         "title": "Sentinel Irelia Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63462,7 +63915,7 @@
         "id": 4995,
         "title": "Sentinel Diana Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63472,7 +63925,7 @@
         "id": 4996,
         "title": "Sentinel Riven Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63482,7 +63935,7 @@
         "id": 4997,
         "title": "Sentinel Olaf Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63492,7 +63945,7 @@
         "id": 4999,
         "title": "Ruined Karma Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Ruined",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63512,7 +63965,7 @@
         "id": 5000,
         "title": "Ruined Draven Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Ruined",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63522,7 +63975,7 @@
         "id": 5001,
         "title": "Ruined Shyvana Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Ruined",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63532,7 +63985,7 @@
         "id": 5002,
         "title": "Ruined Pantheon Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Ruined",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -63542,7 +63995,7 @@
         "id": 5003,
         "title": "Sentinel Vayne Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63552,7 +64005,7 @@
         "id": 5004,
         "title": "Sentinel Irelia Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63562,7 +64015,7 @@
         "id": 5005,
         "title": "Sentinel Diana Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63572,7 +64025,7 @@
         "id": 5006,
         "title": "Sentinel Riven Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63582,7 +64035,7 @@
         "id": 5007,
         "title": "Sentinel Olaf Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63592,7 +64045,7 @@
         "id": 5008,
         "title": "Ruined Karma Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Ruined",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63602,7 +64055,7 @@
         "id": 5009,
         "title": "Ruined Draven Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Ruined",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63612,7 +64065,7 @@
         "id": 5010,
         "title": "Ruined Shyvana Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Ruined",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63622,7 +64075,7 @@
         "id": 5011,
         "title": "Ruined Pantheon Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Ruined",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63632,11 +64085,81 @@
         "id": 5012,
         "title": "Ascended Pantheon Prestige Edition Icon",
         "description": "This icon was acquired by obtaining the Prestige Ascended Pantheon skin during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kMythic",
         "isLegacy": false,
         "imagePath": "/assets/icons/5012.jpg"
+      },
+      {
+        "id": 5013,
+        "title": "Sentinel Graves Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": "Sentinel",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5013.jpg"
+      },
+      {
+        "id": 5014,
+        "title": "Sentinel Pyke Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": "Sentinel",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5014.jpg"
+      },
+      {
+        "id": 5015,
+        "title": "Sentinel Rengar Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": "Sentinel",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5015.jpg"
+      },
+      {
+        "id": 5016,
+        "title": "Ruined Miss Fortune Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": "Ruined",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5016.jpg"
+      },
+      {
+        "id": 5017,
+        "title": "Sentinel Graves Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": "Sentinel",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5017.jpg"
+      },
+      {
+        "id": 5018,
+        "title": "Sentinel Pyke Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": "Sentinel",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5018.jpg"
+      },
+      {
+        "id": 5019,
+        "title": "Sentinel Rengar Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": "Sentinel",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5019.jpg"
       },
       {
         "id": 501,
@@ -63647,6 +64170,16 @@
         "rarity": "kNoRarity",
         "isLegacy": false,
         "imagePath": "/assets/icons/501.jpg"
+      },
+      {
+        "id": 5020,
+        "title": "Ruined Miss Fortune Chroma Icon",
+        "description": "This icon was acquired from the Event Pass Token Shop during the 2021 Sentinels of Light event.",
+        "set": "Ruined",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5020.jpg"
       },
       {
         "id": 5021,
@@ -63662,7 +64195,7 @@
         "id": 5022,
         "title": "The Blade Dancer Sentinel Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63672,7 +64205,7 @@
         "id": 5023,
         "title": "The Moon Sentinel Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63682,7 +64215,7 @@
         "id": 5024,
         "title": "The Exile Sentinel Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -63692,11 +64225,51 @@
         "id": 5025,
         "title": "The Berserker Sentinel Icon",
         "description": "This icon was acquired during the 2021 Sentinels of Light event.",
-        "set": null,
+        "set": "Sentinel",
         "yearReleased": 2021,
         "rarity": "kEpic",
         "isLegacy": false,
         "imagePath": "/assets/icons/5025.jpg"
+      },
+      {
+        "id": 5026,
+        "title": "The Outlaw Sentinel Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": "Sentinel",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5026.jpg"
+      },
+      {
+        "id": 5027,
+        "title": "The Ripper Sentinel Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": "Sentinel",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5027.jpg"
+      },
+      {
+        "id": 5028,
+        "title": "The Pridestalker Sentinel Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": "Sentinel",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5028.jpg"
+      },
+      {
+        "id": 5029,
+        "title": "The Rogue Sentinel Icon",
+        "description": "This icon was acquired during the 2021 Sentinels of Light event.",
+        "set": "Sentinel",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5029.jpg"
       },
       {
         "id": 502,
@@ -63712,7 +64285,7 @@
         "id": 5030,
         "title": "Season 2021 - Split 3 Icon",
         "description": "This icon was earned by winning ranked games in Season 2021 - Split 3.",
-        "set": null,
+        "set": "Ranked",
         "yearReleased": 2021,
         "rarity": "kRare",
         "isLegacy": false,
@@ -75502,6 +76075,72 @@
         "imagePath": "/assets/emotes/3673.png"
       },
       {
+        "id": 3674,
+        "name": "Sentinel Graves",
+        "description": null,
+        "imagePath": "/assets/emotes/3674.png"
+      },
+      {
+        "id": 3675,
+        "name": "Sentinel Rengar",
+        "description": null,
+        "imagePath": "/assets/emotes/3675.png"
+      },
+      {
+        "id": 3676,
+        "name": "Sentinel Pyke",
+        "description": null,
+        "imagePath": "/assets/emotes/3676.png"
+      },
+      {
+        "id": 3677,
+        "name": "Sentinel Akshan",
+        "description": null,
+        "imagePath": "/assets/emotes/3677.png"
+      },
+      {
+        "id": 3678,
+        "name": "Viego Undone",
+        "description": null,
+        "imagePath": "/assets/emotes/3678.png"
+      },
+      {
+        "id": 3679,
+        "name": "Amused and Confused",
+        "description": null,
+        "imagePath": "/assets/emotes/3679.png"
+      },
+      {
+        "id": 3680,
+        "name": "The Kindest Cut",
+        "description": null,
+        "imagePath": "/assets/emotes/3680.png"
+      },
+      {
+        "id": 3681,
+        "name": "Surprise!!!",
+        "description": null,
+        "imagePath": "/assets/emotes/3681.png"
+      },
+      {
+        "id": 3682,
+        "name": "TFT Reckoning II: Tenacity",
+        "description": null,
+        "imagePath": "/assets/emotes/3682.png"
+      },
+      {
+        "id": 3683,
+        "name": "TFT Reckoning II: Perseverance",
+        "description": null,
+        "imagePath": "/assets/emotes/3683.png"
+      },
+      {
+        "id": 3684,
+        "name": "TFT Reckoning II: Devotion",
+        "description": null,
+        "imagePath": "/assets/emotes/3684.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -76594,6 +77233,126 @@
         "species": "Squink",
         "level": 3,
         "imagePath": "/assets/tftcompanions/19015.png"
+      },
+      {
+        "id": 19025,
+        "name": "Cactus Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19025.png"
+      },
+      {
+        "id": 19026,
+        "name": "Cactus Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19026.png"
+      },
+      {
+        "id": 19027,
+        "name": "Cactus Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19027.png"
+      },
+      {
+        "id": 19028,
+        "name": "High Noon Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19028.png"
+      },
+      {
+        "id": 19029,
+        "name": "High Noon Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19029.png"
+      },
+      {
+        "id": 19030,
+        "name": "High Noon Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19030.png"
+      },
+      {
+        "id": 19031,
+        "name": "Order Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19031.png"
+      },
+      {
+        "id": 19032,
+        "name": "Order Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19032.png"
+      },
+      {
+        "id": 19033,
+        "name": "Order Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19033.png"
+      },
+      {
+        "id": 19034,
+        "name": "Kernel Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19034.png"
+      },
+      {
+        "id": 19035,
+        "name": "Kernel Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19035.png"
+      },
+      {
+        "id": 19036,
+        "name": "Kernel Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19036.png"
+      },
+      {
+        "id": 19037,
+        "name": "Outlaw Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/19037.png"
+      },
+      {
+        "id": 19038,
+        "name": "Outlaw Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/19038.png"
+      },
+      {
+        "id": 19039,
+        "name": "Outlaw Squink",
+        "description": "Desperate times in the High Noon Saloon call for a hero, Squinks got the boots and spurs to live up to the test.",
+        "species": "Squink",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/19039.png"
       },
       {
         "id": 20001,
@@ -78396,6 +79155,30 @@
         "imagePath": "/assets/tftcompanions/4021.png"
       },
       {
+        "id": 4028,
+        "name": "Chaos Molediver",
+        "description": "No longer hiding in the ground, Molediver joined the Fellowship to put their melee skills to the test.",
+        "species": "Molediver",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4028.png"
+      },
+      {
+        "id": 4029,
+        "name": "Chaos Molediver",
+        "description": "No longer hiding in the ground, Molediver joined the Fellowship to put their melee skills to the test.",
+        "species": "Molediver",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/4029.png"
+      },
+      {
+        "id": 4030,
+        "name": "Chaos Molediver",
+        "description": "No longer hiding in the ground, Molediver joined the Fellowship to put their melee skills to the test.",
+        "species": "Molediver",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/4030.png"
+      },
+      {
         "id": 4013,
         "name": "Clumsy Molediver",
         "description": "He shovels very well.",
@@ -78466,6 +79249,54 @@
         "species": "Molediver",
         "level": 3,
         "imagePath": "/assets/tftcompanions/4003.png"
+      },
+      {
+        "id": 4025,
+        "name": "Ironclad Molediver",
+        "description": "No longer hiding in the ground, Molediver joined the Fellowship to put their melee skills to the test.",
+        "species": "Molediver",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4025.png"
+      },
+      {
+        "id": 4026,
+        "name": "Ironclad Molediver",
+        "description": "No longer hiding in the ground, Molediver joined the Fellowship to put their melee skills to the test.",
+        "species": "Molediver",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/4026.png"
+      },
+      {
+        "id": 4027,
+        "name": "Ironclad Molediver",
+        "description": "No longer hiding in the ground, Molediver joined the Fellowship to put their melee skills to the test.",
+        "species": "Molediver",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/4027.png"
+      },
+      {
+        "id": 4022,
+        "name": "Order Molediver",
+        "description": "No longer hiding in the ground, Molediver joined the Fellowship to put their melee skills to the test.",
+        "species": "Molediver",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/4022.png"
+      },
+      {
+        "id": 4023,
+        "name": "Order Molediver",
+        "description": "No longer hiding in the ground, Molediver joined the Fellowship to put their melee skills to the test.",
+        "species": "Molediver",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/4023.png"
+      },
+      {
+        "id": 4024,
+        "name": "Order Molediver",
+        "description": "No longer hiding in the ground, Molediver joined the Fellowship to put their melee skills to the test.",
+        "species": "Molediver",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/4024.png"
       },
       {
         "id": 4007,
@@ -79100,6 +79931,14 @@
         "imagePath": "/assets/tftcompanions/6006.png"
       },
       {
+        "id": 6038,
+        "name": "Esports Pengu",
+        "description": "Esports Pengu",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6038.png"
+      },
+      {
         "id": 6007,
         "name": "True Ice Featherknight",
         "description": "A noble Featherknight.",
@@ -79170,6 +80009,30 @@
         "species": "Featherknight",
         "level": 3,
         "imagePath": "/assets/tftcompanions/6030.png"
+      },
+      {
+        "id": 6035,
+        "name": "Order Pengu",
+        "description": "In great times of need Order Pengu can be summoned. On the Convergence, times of need happen all too frequently.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6035.png"
+      },
+      {
+        "id": 6036,
+        "name": "Order Pengu",
+        "description": "In great times of need Order Pengu can be summoned. On the Convergence, times of need happen all too frequently.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6036.png"
+      },
+      {
+        "id": 6037,
+        "name": "Order Pengu",
+        "description": "In great times of need Order Pengu can be summoned. On the Convergence, times of need happen all too frequently.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6037.png"
       },
       {
         "id": 6016,
@@ -79580,6 +80443,30 @@
         "imagePath": "/assets/tftcompanions/10018.png"
       },
       {
+        "id": 11028,
+        "name": "Chaos Fuwa",
+        "description": "No dungeon or path is too treacherous when you have a healer like Fuwa on your side!",
+        "species": "Fuwa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/11028.png"
+      },
+      {
+        "id": 11029,
+        "name": "Chaos Fuwa",
+        "description": "No dungeon or path is too treacherous when you have a healer like Fuwa on your side!",
+        "species": "Fuwa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/11029.png"
+      },
+      {
+        "id": 11030,
+        "name": "Chaos Fuwa",
+        "description": "No dungeon or path is too treacherous when you have a healer like Fuwa on your side!",
+        "species": "Fuwa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/11030.png"
+      },
+      {
         "id": 11016,
         "name": "Daystar Fuwa",
         "description": "Fuwa longs to someday find the Guardian it's destined for.",
@@ -79746,6 +80633,54 @@
         "species": "Fuwa",
         "level": 3,
         "imagePath": "/assets/tftcompanions/11021.png"
+      },
+      {
+        "id": 11025,
+        "name": "Verdant Fuwa",
+        "description": "No dungeon or path is too treacherous when you have a healer like Fuwa on your side!",
+        "species": "Fuwa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/11025.png"
+      },
+      {
+        "id": 11026,
+        "name": "Verdant Fuwa",
+        "description": "No dungeon or path is too treacherous when you have a healer like Fuwa on your side!",
+        "species": "Fuwa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/11026.png"
+      },
+      {
+        "id": 11027,
+        "name": "Verdant Fuwa",
+        "description": "No dungeon or path is too treacherous when you have a healer like Fuwa on your side!",
+        "species": "Fuwa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/11027.png"
+      },
+      {
+        "id": 11022,
+        "name": "Order Fuwa",
+        "description": "No dungeon or path is too treacherous when you have a healer like Fuwa on your side!",
+        "species": "Fuwa",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/11022.png"
+      },
+      {
+        "id": 11023,
+        "name": "Order Fuwa",
+        "description": "No dungeon or path is too treacherous when you have a healer like Fuwa on your side!",
+        "species": "Fuwa",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/11023.png"
+      },
+      {
+        "id": 11024,
+        "name": "Order Fuwa",
+        "description": "No dungeon or path is too treacherous when you have a healer like Fuwa on your side!",
+        "species": "Fuwa",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/11024.png"
       },
       {
         "id": 12016,
@@ -80396,6 +81331,14 @@
         "imagePath": "/assets/tftcompanions/5.png"
       },
       {
+        "id": 14,
+        "name": "Order Sprite",
+        "description": "It's a heavy burden being the Sprite responsible for Order. Good thing Sprites are featherlight.",
+        "species": "River Sprite",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/14.png"
+      },
+      {
         "id": 4,
         "name": "Jade Emperor Sprite",
         "description": "River Sprite.",
@@ -80612,6 +81555,30 @@
         "imagePath": "/assets/tftcompanions/26015.png"
       },
       {
+        "id": 26025,
+        "name": "Chaos Umbra",
+        "description": "Umbra's joining in on the adventure to protect what's theirs, whether that's their loot, their lute, or their friends!",
+        "species": "Umbra",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/26025.png"
+      },
+      {
+        "id": 26026,
+        "name": "Chaos Umbra",
+        "description": "Umbra's joining in on the adventure to protect what's theirs, whether that's their loot, their lute, or their friends!",
+        "species": "Umbra",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/26026.png"
+      },
+      {
+        "id": 26027,
+        "name": "Chaos Umbra",
+        "description": "Umbra's joining in on the adventure to protect what's theirs, whether that's their loot, their lute, or their friends!",
+        "species": "Umbra",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/26027.png"
+      },
+      {
         "id": 26001,
         "name": "Umbra",
         "description": "Umbra, a shadow dragon, appears guarded and reserved at first. However, once a mortal has earned their trust, they show sweet affection and fierce dedication, conjuring shadow and flame to defend their allies.",
@@ -80682,6 +81649,54 @@
         "species": "Umbra",
         "level": 3,
         "imagePath": "/assets/tftcompanions/26018.png"
+      },
+      {
+        "id": 26022,
+        "name": "Draconic Umbra",
+        "description": "Umbra's joining in on the adventure to protect what's theirs, whether that's their loot, their lute, or their friends!",
+        "species": "Umbra",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/26022.png"
+      },
+      {
+        "id": 26023,
+        "name": "Draconic Umbra",
+        "description": "Umbra's joining in on the adventure to protect what's theirs, whether that's their loot, their lute, or their friends!",
+        "species": "Umbra",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/26023.png"
+      },
+      {
+        "id": 26024,
+        "name": "Draconic Umbra",
+        "description": "Umbra's joining in on the adventure to protect what's theirs, whether that's their loot, their lute, or their friends!",
+        "species": "Umbra",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/26024.png"
+      },
+      {
+        "id": 26019,
+        "name": "Order Umbra",
+        "description": "Umbra's joining in on the adventure to protect what's theirs, whether that's their loot, their lute, or their friends!",
+        "species": "Umbra",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/26019.png"
+      },
+      {
+        "id": 26020,
+        "name": "Order Umbra",
+        "description": "Umbra's joining in on the adventure to protect what's theirs, whether that's their loot, their lute, or their friends!",
+        "species": "Umbra",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/26020.png"
+      },
+      {
+        "id": 26021,
+        "name": "Order Umbra",
+        "description": "Umbra's joining in on the adventure to protect what's theirs, whether that's their loot, their lute, or their friends!",
+        "species": "Umbra",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/26021.png"
       },
       {
         "id": 26010,
@@ -80912,6 +81927,36 @@
         "name": "Odyssey Yasuo Arena",
         "description": null,
         "imagePath": "/assets/tftmapskins/22.png"
+      },
+      {
+        "id": 50,
+        "name": "Dankest Dungeon",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/50.png"
+      },
+      {
+        "id": 49,
+        "name": "Desert Path",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/49.png"
+      },
+      {
+        "id": 48,
+        "name": "Journey's Beginning",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/48.png"
+      },
+      {
+        "id": 46,
+        "name": "Golden Bakery",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/46.png"
+      },
+      {
+        "id": 47,
+        "name": "High Noon Saloon",
+        "description": null,
+        "imagePath": "/assets/tftmapskins/47.png"
       },
       {
         "id": 45,
