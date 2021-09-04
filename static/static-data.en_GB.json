@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.15.387.5736",
+  "version": "11.17.393.0607",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,12 +13,12 @@
   ],
   "info": {
     "champions": 156,
-    "skins": 1240,
-    "chromas": 2620,
-    "icons": 3023,
-    "emotes": 812,
-    "wards": 214,
-    "tftcompanions": 693,
+    "skins": 1255,
+    "chromas": 2753,
+    "icons": 3057,
+    "emotes": 828,
+    "wards": 216,
+    "tftcompanions": 696,
     "tftmapskins": 47
   },
   "data": {
@@ -1073,6 +1073,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 4025,
+            "name": "Crime City Nightmare Twisted Fate",
+            "description": "No one knows if the Mysterious Gentleman is human or something Else, but he has somehow injected himself into every crime family in Valoran City. With honeyed words and a conman's grin, he convinced them all to embrace the horrors of the Beyond... Now the only thing to do is sit back and watch them tear each other apart.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/4025.jpg",
+            "chromas": [
+              {
+                "id": 4026,
+                "name": "Crime City Nightmare Twisted Fate",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 4027,
+                "name": "Crime City Nightmare Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 4028,
+                "name": "Crime City Nightmare Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 4029,
+                "name": "Crime City Nightmare Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 4030,
+                "name": "Crime City Nightmare Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 4031,
+                "name": "Crime City Nightmare Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 4032,
+                "name": "Crime City Nightmare Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 4033,
+                "name": "Crime City Nightmare Twisted Fate",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 4034,
+                "name": "Crime City Nightmare Twisted Fate",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Crime City Nightmare event.",
+                "colors": [
+                  "#181121",
+                  "#53022D"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -1921,6 +2012,15 @@
                   "#2756CE",
                   "#2756CE"
                 ]
+              },
+              {
+                "id": 7034,
+                "name": "Coven LeBlanc",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
+                ]
               }
             ]
           },
@@ -1960,6 +2060,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 7033,
+            "name": "Coven LeBlanc Prestige Edition",
+            "description": "Resurrected by the Black Crane, LeBlanc has rejoined her sisters with renewed purpose—yet the gifts of the Old Gods do not come without a price. As her body twists into new and strange forms, LeBlanc has discovered that she is the vessel through which her own dead god will return, and that it has granted her impossible power.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/7033.jpg",
+            "chromas": null
           }
         ]
       },
@@ -5575,6 +5684,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 19035,
+            "name": "Old God Warwick",
+            "description": "Once known as Father Wolf, Warwick roamed the wood and reveled in moonlight's bloody hunt. The Eclipse Order thought to slay him in his den and end his barbarity—but death means nothing to Old Gods, and he did not stay down. Father Wolf howls into the night once more, now slavering for the taste of human flesh.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/19035.jpg",
+            "chromas": [
+              {
+                "id": 19036,
+                "name": "Old God Warwick",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 19037,
+                "name": "Old God Warwick",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 19038,
+                "name": "Old God Warwick",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 19039,
+                "name": "Old God Warwick",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 19040,
+                "name": "Old God Warwick",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 19041,
+                "name": "Old God Warwick",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 19042,
+                "name": "Old God Warwick",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 19043,
+                "name": "Old God Warwick",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 19044,
+                "name": "Old God Warwick",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -6431,6 +6631,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 22032,
+            "name": "Coven Ashe",
+            "description": "They came to Ashe in a bone-deep chill—the frost of the Jet-Black Ibex, entombing the world in ice. She descended the mountain and brought a harrowing winter with her… but that is not the only thing that followed Ashe into the night. The mountain itself rumbles.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/22032.jpg",
+            "chromas": [
+              {
+                "id": 22033,
+                "name": "Coven Ashe",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 22034,
+                "name": "Coven Ashe",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 22035,
+                "name": "Coven Ashe",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 22036,
+                "name": "Coven Ashe",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 22037,
+                "name": "Coven Ashe",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 22038,
+                "name": "Coven Ashe",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 22039,
+                "name": "Coven Ashe",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 22040,
+                "name": "Coven Ashe",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 22041,
+                "name": "Coven Ashe",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -7196,6 +7487,15 @@
                   "#27211C",
                   "#27211C"
                 ]
+              },
+              {
+                "id": 25040,
+                "name": "Coven Morgana",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
+                ]
               }
             ]
           }
@@ -7760,6 +8060,70 @@
                 "colors": [
                   "#0C0C0F",
                   "#272A3F"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 28024,
+            "name": "Coven Evelynn",
+            "description": "The covens of the south join their sisters for the great resurrection, as old things stir once more, and old grudges are at last repaid in full. Evelynn, daughter of the Great Harrier, gladly joins her sisters for the darkness to come—a trail of brutality and death always in her wake.",
+            "rarity": "kLegendary",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/28024.jpg",
+            "chromas": [
+              {
+                "id": 28025,
+                "name": "Coven Evelynn",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 28026,
+                "name": "Coven Evelynn",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 28027,
+                "name": "Coven Evelynn",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 28028,
+                "name": "Coven Evelynn",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 28029,
+                "name": "Coven Evelynn",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 28030,
+                "name": "Coven Evelynn",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
                 ]
               }
             ]
@@ -9368,6 +9732,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 34027,
+            "name": "Divine Phoenix Anivia",
+            "description": "The legendary fenghuang watches over the world, awaiting the rise of selfless champions. Anivia grants power to those who fight for others with bravery and kindness in their hearts.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/34027.jpg",
+            "chromas": [
+              {
+                "id": 34028,
+                "name": "Divine Phoenix Anivia",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 34029,
+                "name": "Divine Phoenix Anivia",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 34030,
+                "name": "Divine Phoenix Anivia",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 34031,
+                "name": "Divine Phoenix Anivia",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 34032,
+                "name": "Divine Phoenix Anivia",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 34033,
+                "name": "Divine Phoenix Anivia",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 34034,
+                "name": "Divine Phoenix Anivia",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 34035,
+                "name": "Divine Phoenix Anivia",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -9589,6 +10035,97 @@
                 "colors": [
                   "#54209B",
                   "#54209B"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 35023,
+            "name": "Crime City Nightmare Shaco",
+            "description": "Once a mere courier for the Twitch syndicate, Shaco is now barely human. The eldritch corruption has stripped him of reason and identity, turning him into a chittering horde of knife-wielding monsters that haunt the boroughs of Valoran City. None of them are sure which is the “real” Shaco anymore. None of them care.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/35023.jpg",
+            "chromas": [
+              {
+                "id": 35024,
+                "name": "Crime City Nightmare Shaco",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 35025,
+                "name": "Crime City Nightmare Shaco",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 35026,
+                "name": "Crime City Nightmare Shaco",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 35027,
+                "name": "Crime City Nightmare Shaco",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 35028,
+                "name": "Crime City Nightmare Shaco",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 35029,
+                "name": "Crime City Nightmare Shaco",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 35030,
+                "name": "Crime City Nightmare Shaco",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 35031,
+                "name": "Crime City Nightmare Shaco",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 35032,
+                "name": "Crime City Nightmare Shaco",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Crime City Nightmare event.",
+                "colors": [
+                  "#181121",
+                  "#53022D"
                 ]
               }
             ]
@@ -13629,6 +14166,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 54027,
+            "name": "Old God Malphite",
+            "description": "Appearing to mortals as a Jet-Black Ibex, Malphite was an Old God of the mountain slain by the Eclipse order and cast down onto the rocks below. Death did not claim him, but the mountain did—and now he rises in its hulking earthen form, the land itself twisted with hatred and consumed by new and terrible hungers.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/54027.jpg",
+            "chromas": [
+              {
+                "id": 54028,
+                "name": "Old God Malphite",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 54029,
+                "name": "Old God Malphite",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 54030,
+                "name": "Old God Malphite",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 54031,
+                "name": "Old God Malphite",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 54032,
+                "name": "Old God Malphite",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 54033,
+                "name": "Old God Malphite",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 54034,
+                "name": "Old God Malphite",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 54035,
+                "name": "Old God Malphite",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 54036,
+                "name": "Old God Malphite",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -14064,7 +14692,7 @@
           },
           {
             "id": 56007,
-            "name": "Elderwood Nocturne",
+            "name": "Old God Nocturne",
             "description": "The great corpses of the Old Gods fed the land, and in time even the Elderwood would come to grow over their putrid rot–hiding it, perhaps, for a time. But the Gods never truly died and, with the resurgence of the Coven, one has risen again–Nocturne, the Eternal Nightmare.",
             "rarity": "kEpic",
             "isLegacy": false,
@@ -14072,7 +14700,7 @@
             "chromas": [
               {
                 "id": 56008,
-                "name": "Elderwood Nocturne",
+                "name": "Old God Nocturne",
                 "description": "This chroma was released as a bundle exclusive in 2019.",
                 "colors": [
                   "#D33528",
@@ -14081,7 +14709,7 @@
               },
               {
                 "id": 56009,
-                "name": "Elderwood Nocturne",
+                "name": "Old God Nocturne",
                 "description": null,
                 "colors": [
                   "#FFEE59",
@@ -14090,7 +14718,7 @@
               },
               {
                 "id": 56010,
-                "name": "Elderwood Nocturne",
+                "name": "Old God Nocturne",
                 "description": null,
                 "colors": [
                   "#2377FF",
@@ -14099,7 +14727,7 @@
               },
               {
                 "id": 56011,
-                "name": "Elderwood Nocturne",
+                "name": "Old God Nocturne",
                 "description": null,
                 "colors": [
                   "#6ABBEE",
@@ -14108,7 +14736,7 @@
               },
               {
                 "id": 56012,
-                "name": "Elderwood Nocturne",
+                "name": "Old God Nocturne",
                 "description": null,
                 "colors": [
                   "#ECF9F8",
@@ -14117,7 +14745,7 @@
               },
               {
                 "id": 56013,
-                "name": "Elderwood Nocturne",
+                "name": "Old God Nocturne",
                 "description": null,
                 "colors": [
                   "#E58BA5",
@@ -14126,7 +14754,7 @@
               },
               {
                 "id": 56014,
-                "name": "Elderwood Nocturne",
+                "name": "Old God Nocturne",
                 "description": null,
                 "colors": [
                   "#27211C",
@@ -14135,7 +14763,7 @@
               },
               {
                 "id": 56015,
-                "name": "Elderwood Nocturne",
+                "name": "Old God Nocturne",
                 "description": null,
                 "colors": [
                   "#2DA130",
@@ -16845,6 +17473,97 @@
                 "colors": [
                   "#0C0C0F",
                   "#B2D1E4"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 69018,
+            "name": "Coven Cassiopeia",
+            "description": "They came to Cassiopeia as a shadow within the fog—the shape of the Silver Cobra, slithering up from the numberless graves of the ancient dead. She now stalks the ruling families of humankind, her sculpture garden full of wayward souls who strayed too far from the safety of castle walls, now eternally frozen in the throes of terror.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/69018.jpg",
+            "chromas": [
+              {
+                "id": 69019,
+                "name": "Coven Cassiopeia",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 69020,
+                "name": "Coven Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 69021,
+                "name": "Coven Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 69022,
+                "name": "Coven Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 69023,
+                "name": "Coven Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 69024,
+                "name": "Coven Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 69025,
+                "name": "Coven Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 69026,
+                "name": "Coven Cassiopeia",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 69027,
+                "name": "Coven Cassiopeia",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
                 ]
               }
             ]
@@ -19737,6 +20456,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 84050,
+            "name": "Crime City Nightmare Akali",
+            "description": "A loyal enforcer for the Graves family, Akali took the same deal everyone else did when the Mysterious Gentleman came calling. The power changed her, twisted her into something that hears a siren song echoing from beyond the veil of reality. Now she acts in ruthless, horrific violence, seeking an inscrutable 'balance' even she cannot name.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/84050.jpg",
+            "chromas": [
+              {
+                "id": 84051,
+                "name": "Crime City Nightmare Akali",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 84052,
+                "name": "Crime City Nightmare Akali",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 84053,
+                "name": "Crime City Nightmare Akali",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 84054,
+                "name": "Crime City Nightmare Akali",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 84055,
+                "name": "Crime City Nightmare Akali",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 84056,
+                "name": "Crime City Nightmare Akali",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 84057,
+                "name": "Crime City Nightmare Akali",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 84058,
+                "name": "Crime City Nightmare Akali",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 84059,
+                "name": "Crime City Nightmare Akali",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Crime City Nightmare event.",
+                "colors": [
+                  "#181121",
+                  "#53022D"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21498,7 +22308,7 @@
           {
             "id": 92023,
             "name": "Spirit Blossom Riven",
-            "description": "Riven joins the Sentinels hoping to atone for her role in the Noxian invasion of Ionia. After fighting her way out of a rapidly destabilizing City of Noxus, she understands that her time may be fleeting. However, she believes her life is a small price to pay to make amends.",
+            "description": "A brave warrior from an ancient land, Riven was ignobly cut down in the heat of battle thousands of years ago, her sword shattering in the process. Unable to find peace, she obsessively scours an otherworldly battlefield for pieces of her broken blade, possessed by a horrific darkness that guides her into oblivion.",
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/92023.jpg",
@@ -23451,6 +24261,97 @@
                 "colors": [
                   "#0C0C0F",
                   "#272A3F"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 103042,
+            "name": "Coven Ahri",
+            "description": "They came to Ahri at the first stirrings of dusk—the laughter of the Half-Light Jackal, ever stalking the world as it turned towards its own inevitable entropy. A vicious predator and powerful witch, Ahri sucks the life from all she lures close, siphoning it towards her lord within the gloom.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/103042.jpg",
+            "chromas": [
+              {
+                "id": 103043,
+                "name": "Coven Ahri",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 103044,
+                "name": "Coven Ahri",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 103045,
+                "name": "Coven Ahri",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 103046,
+                "name": "Coven Ahri",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 103047,
+                "name": "Coven Ahri",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 103048,
+                "name": "Coven Ahri",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 103049,
+                "name": "Coven Ahri",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 103050,
+                "name": "Coven Ahri",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 103051,
+                "name": "Coven Ahri",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
                 ]
               }
             ]
@@ -27751,6 +28652,97 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 122033,
+            "name": "Crime City Nightmare Darius",
+            "description": "All Darius wanted was to secure a place for himself at the top of the underworld. Becoming Miss Fortune's personal bodyguard was the first step, but the second was embracing the power of the Mysterious Gentleman: welcoming forces from beyond space and time that have molded him into something far more powerful than he could ever have imagined.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/122033.jpg",
+            "chromas": [
+              {
+                "id": 122034,
+                "name": "Crime City Nightmare Darius",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 122035,
+                "name": "Crime City Nightmare Darius",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 122036,
+                "name": "Crime City Nightmare Darius",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 122037,
+                "name": "Crime City Nightmare Darius",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 122038,
+                "name": "Crime City Nightmare Darius",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 122039,
+                "name": "Crime City Nightmare Darius",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 122040,
+                "name": "Crime City Nightmare Darius",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 122041,
+                "name": "Crime City Nightmare Darius",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 122042,
+                "name": "Crime City Nightmare Darius",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Crime City Nightmare event.",
+                "colors": [
+                  "#181121",
+                  "#53022D"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -28106,6 +29098,15 @@
                 "colors": [
                   "#DED6B0",
                   "#DED6B0"
+                ]
+              },
+              {
+                "id": 127022,
+                "name": "Coven Lissandra",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
                 ]
               }
             ]
@@ -29483,7 +30484,89 @@
             "rarity": "kEpic",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/143005.jpg",
-            "chromas": null
+            "chromas": [
+              {
+                "id": 143017,
+                "name": "Coven Zyra",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 143018,
+                "name": "Coven Zyra",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 143019,
+                "name": "Coven Zyra",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 143020,
+                "name": "Coven Zyra",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 143021,
+                "name": "Coven Zyra",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 143022,
+                "name": "Coven Zyra",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 143023,
+                "name": "Coven Zyra",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 143024,
+                "name": "Coven Zyra",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 143025,
+                "name": "Coven Zyra",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
+                ]
+              }
+            ]
           },
           {
             "id": 143006,
@@ -29572,6 +30655,97 @@
                 "colors": [
                   "#DF9117",
                   "#DF9117"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 143016,
+            "name": "Crime City Nightmare Zyra",
+            "description": "Zyra was once a longtime associate of Graves and a skilled con artist, but grew dissatisfied with the monotony of a low-end criminal lifestyle. Seeing a way out, Zyra merged with the 4th-dimensional horrors from Beyond. She now follows the edicts of an alien power, ripping veins of sentient sludge from the earth and rending her enemies asunder.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/143016.jpg",
+            "chromas": [
+              {
+                "id": 143026,
+                "name": "Crime City Nightmare Zyra",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 143027,
+                "name": "Crime City Nightmare Zyra",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 143028,
+                "name": "Crime City Nightmare Zyra",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 143029,
+                "name": "Crime City Nightmare Zyra",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 143030,
+                "name": "Crime City Nightmare Zyra",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 143031,
+                "name": "Crime City Nightmare Zyra",
+                "description": null,
+                "colors": [
+                  "#9C68D7",
+                  "#9C68D7"
+                ]
+              },
+              {
+                "id": 143032,
+                "name": "Crime City Nightmare Zyra",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 143033,
+                "name": "Crime City Nightmare Zyra",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 143034,
+                "name": "Crime City Nightmare Zyra",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Crime City Nightmare event.",
+                "colors": [
+                  "#181121",
+                  "#53022D"
                 ]
               }
             ]
@@ -29852,6 +31026,88 @@
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/147001.jpg",
             "chromas": null
+          },
+          {
+            "id": 147004,
+            "name": "Graceful Phoenix Seraphine",
+            "description": "A champion of the common folk, Seraphine's music united her community in defense against a mysterious force that sought to wipe them out. The fenghuang heard Seraphine's graceful song, and blessed her with the power to fight the darkness back.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/147004.jpg",
+            "chromas": [
+              {
+                "id": 147005,
+                "name": "Graceful Phoenix Seraphine",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 147006,
+                "name": "Graceful Phoenix Seraphine",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 147007,
+                "name": "Graceful Phoenix Seraphine",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 147008,
+                "name": "Graceful Phoenix Seraphine",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 147009,
+                "name": "Graceful Phoenix Seraphine",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 147010,
+                "name": "Graceful Phoenix Seraphine",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 147011,
+                "name": "Graceful Phoenix Seraphine",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 147012,
+                "name": "Graceful Phoenix Seraphine",
+                "description": null,
+                "colors": [
+                  "#73BFBE",
+                  "#73BFBE"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -31056,6 +32312,15 @@
                 "colors": [
                   "#73BFBE",
                   "#73BFBE"
+                ]
+              },
+              {
+                "id": 164020,
+                "name": "Coven Camille",
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "colors": [
+                  "#162B30",
+                  "#8E0A38"
                 ]
               }
             ]
@@ -35983,7 +37248,7 @@
           {
             "id": 412027,
             "name": "Unbound Thresh",
-            "description": null,
+            "description": "With every soul the Ruination seized, Thresh's lantern burned brighter. He had planned for this moment, after all: the chance to scour far beyond the Shadow Isles, the Mist's reach so much greater than his own. Reaping all he had so meticulously sown, Thresh was at last unbound from the shackles of the isles. He had forgotten how good it feels to have skin...",
             "rarity": "kNoRarity",
             "isLegacy": false,
             "tilePath": "/assets/champions/tiles/412027.jpg",
@@ -36457,7 +37722,7 @@
           },
           {
             "id": 427011,
-            "name": "Elderwood Ivern",
+            "name": "Old God Ivern",
             "description": "A nightmarish totem forged of witchcraft and forbidden incantations, Ivern stood among the Old Gods in the days before their destruction. Left inert for hundreds of years, he has risen along with his brethren to annihilate the paltry works of man.",
             "rarity": "kEpic",
             "isLegacy": false,
@@ -36465,7 +37730,7 @@
             "chromas": [
               {
                 "id": 427012,
-                "name": "Elderwood Ivern",
+                "name": "Old God Ivern",
                 "description": "This chroma was released as a bundle exclusive in 2020.",
                 "colors": [
                   "#D33528",
@@ -36474,7 +37739,7 @@
               },
               {
                 "id": 427013,
-                "name": "Elderwood Ivern",
+                "name": "Old God Ivern",
                 "description": null,
                 "colors": [
                   "#DF9117",
@@ -36483,7 +37748,7 @@
               },
               {
                 "id": 427014,
-                "name": "Elderwood Ivern",
+                "name": "Old God Ivern",
                 "description": null,
                 "colors": [
                   "#2DA130",
@@ -36492,7 +37757,7 @@
               },
               {
                 "id": 427015,
-                "name": "Elderwood Ivern",
+                "name": "Old God Ivern",
                 "description": null,
                 "colors": [
                   "#2756CE",
@@ -36501,7 +37766,7 @@
               },
               {
                 "id": 427016,
-                "name": "Elderwood Ivern",
+                "name": "Old God Ivern",
                 "description": null,
                 "colors": [
                   "#54209B",
@@ -36510,7 +37775,7 @@
               },
               {
                 "id": 427017,
-                "name": "Elderwood Ivern",
+                "name": "Old God Ivern",
                 "description": null,
                 "colors": [
                   "#E58BA5",
@@ -36519,7 +37784,7 @@
               },
               {
                 "id": 427018,
-                "name": "Elderwood Ivern",
+                "name": "Old God Ivern",
                 "description": "This chroma was released as a Loot exclusive in the 2020 Battle Queens event.",
                 "colors": [
                   "#27211C",
@@ -36528,7 +37793,7 @@
               },
               {
                 "id": 427019,
-                "name": "Elderwood Ivern",
+                "name": "Old God Ivern",
                 "description": null,
                 "colors": [
                   "#ECF9F8",
@@ -37197,6 +38462,88 @@
                 "colors": [
                   "#D33528",
                   "#D33528"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 498017,
+            "name": "Brave Phoenix Xayah",
+            "description": "Xayah is a defender of ancient magic, protecting relics and places of great power from those who would use them for evil. Honoring her service, the fenghuang bestowed upon her a single feather, granting Xayah impossible power.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/498017.jpg",
+            "chromas": [
+              {
+                "id": 498018,
+                "name": "Brave Phoenix Xayah",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 498019,
+                "name": "Brave Phoenix Xayah",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 498020,
+                "name": "Brave Phoenix Xayah",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 498021,
+                "name": "Brave Phoenix Xayah",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 498022,
+                "name": "Brave Phoenix Xayah",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 498023,
+                "name": "Brave Phoenix Xayah",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 498024,
+                "name": "Brave Phoenix Xayah",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 498025,
+                "name": "Brave Phoenix Xayah",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -57246,9 +58593,9 @@
       },
       {
         "id": 4282,
-        "title": "Elderwood Nocturne Icon",
+        "title": "Old God Nocturne Icon",
         "description": "This icon was acquired by purchasing one of the Elderwood bundles in 2019.",
-        "set": "Elderwood",
+        "set": "Coven",
         "yearReleased": 2019,
         "rarity": "kRare",
         "isLegacy": false,
@@ -62423,9 +63770,9 @@
       },
       {
         "id": 4844,
-        "title": "Elderwood Ivern Icon",
+        "title": "Old God Ivern Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
-        "set": "Elderwood",
+        "set": "Coven",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -62513,9 +63860,9 @@
       },
       {
         "id": 4853,
-        "title": "Elderwood Ivern Chroma Icon",
+        "title": "Old God Ivern Chroma Icon",
         "description": "This icon was acquired from the Event Pass Token Shop during the 2020 Battle Queens event.",
-        "set": "Elderwood",
+        "set": "Coven",
         "yearReleased": 2020,
         "rarity": "kEpic",
         "isLegacy": false,
@@ -64292,6 +65639,96 @@
         "imagePath": "/assets/icons/5030.jpg"
       },
       {
+        "id": 5031,
+        "title": "2021 Coven Event Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5031.jpg"
+      },
+      {
+        "id": 5032,
+        "title": "2021 Coven Pass Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5032.jpg"
+      },
+      {
+        "id": 5033,
+        "title": "2021 Coven Prestige Points Icon",
+        "description": "This icon was earned through Loot during the 2021 Coven event.",
+        "set": "Prestige",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5033.jpg"
+      },
+      {
+        "id": 5034,
+        "title": "Coven Evelynn Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5034.jpg"
+      },
+      {
+        "id": 5035,
+        "title": "Old God Malphite Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5035.jpg"
+      },
+      {
+        "id": 5036,
+        "title": "Old God Warwick Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5036.jpg"
+      },
+      {
+        "id": 5037,
+        "title": "Coven Cassiopeia Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5037.jpg"
+      },
+      {
+        "id": 5038,
+        "title": "Coven Ahri Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5038.jpg"
+      },
+      {
+        "id": 5039,
+        "title": "Coven Ashe Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5039.jpg"
+      },
+      {
         "id": 503,
         "title": "Harrowing 2012 - Spiteful Specter",
         "description": "Acquired by purchasing any amount of RP during the 2012 Harrowing event.",
@@ -64300,6 +65737,106 @@
         "rarity": "kEpic",
         "isLegacy": false,
         "imagePath": "/assets/icons/503.jpg"
+      },
+      {
+        "id": 5040,
+        "title": "Coven LeBlanc Prestige Edition Icon",
+        "description": "This icon was acquired by obtaining the Prestige Coven LeBlanc skin during the 2021 Coven event.",
+        "set": "Prestige",
+        "yearReleased": 2021,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5040.jpg"
+      },
+      {
+        "id": 5041,
+        "title": "Coven Evelynn Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5041.jpg"
+      },
+      {
+        "id": 5042,
+        "title": "Old God Malphite Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5042.jpg"
+      },
+      {
+        "id": 5043,
+        "title": "Old God Warwick Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5043.jpg"
+      },
+      {
+        "id": 5044,
+        "title": "Coven Cassiopeia Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5044.jpg"
+      },
+      {
+        "id": 5045,
+        "title": "Coven Ahri Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5045.jpg"
+      },
+      {
+        "id": 5046,
+        "title": "Coven Ashe Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5046.jpg"
+      },
+      {
+        "id": 5047,
+        "title": "Mordekaiser Merch Icon",
+        "description": "This icon was acquired by making a purchase from the merch store.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5047.jpg"
+      },
+      {
+        "id": 5048,
+        "title": "Garena Anniversary Limited Icon",
+        "description": "This icon was earned during the Garena anniversary period.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5048.jpg"
+      },
+      {
+        "id": 5049,
+        "title": "LLA - Summer 2021",
+        "description": "This icon is to celebrate the LLA fans across the globe.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5049.jpg"
       },
       {
         "id": 504,
@@ -64312,6 +65849,106 @@
         "imagePath": "/assets/icons/504.jpg"
       },
       {
+        "id": 5050,
+        "title": "TCL - Summer 2021",
+        "description": "This icon is to celebrate the TCL fans across the globe.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5050.jpg"
+      },
+      {
+        "id": 5051,
+        "title": "Annie-versary Merch Icon",
+        "description": "This icon was acquired by making a purchase from the merch store.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5051.jpg"
+      },
+      {
+        "id": 5052,
+        "title": "Dawn of Heroes Event Icon",
+        "description": "A world of new adventures awaits!",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5052.jpg"
+      },
+      {
+        "id": 5053,
+        "title": "Coven LeBlanc Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5053.jpg"
+      },
+      {
+        "id": 5054,
+        "title": "Coven Zyra Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5054.jpg"
+      },
+      {
+        "id": 5055,
+        "title": "Coven Morgana Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5055.jpg"
+      },
+      {
+        "id": 5056,
+        "title": "Coven Camille Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5056.jpg"
+      },
+      {
+        "id": 5057,
+        "title": "Coven Lissandra Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": "Coven",
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5057.jpg"
+      },
+      {
+        "id": 5058,
+        "title": "Crime City Nightmare Akali Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5058.jpg"
+      },
+      {
+        "id": 5059,
+        "title": "Crime City Nightmare Darius Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5059.jpg"
+      },
+      {
         "id": 505,
         "title": "Harrowing 2012 - Vengeful Wraith",
         "description": "Acquired by purchasing at least 10000 RP during the 2012 Harrowing event.",
@@ -64320,6 +65957,56 @@
         "rarity": "kMythic",
         "isLegacy": false,
         "imagePath": "/assets/icons/505.jpg"
+      },
+      {
+        "id": 5060,
+        "title": "Crime City Nightmare Twisted Fate Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5060.jpg"
+      },
+      {
+        "id": 5061,
+        "title": "Crime City Nightmare Shaco Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5061.jpg"
+      },
+      {
+        "id": 5062,
+        "title": "Crime City Nightmare Zyra Chroma Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5062.jpg"
+      },
+      {
+        "id": 5063,
+        "title": "Moon, I Make A Wish Icon",
+        "description": "Let's make a wish with Ahri! Collective icon for 2021 Full Moon Event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5063.jpg"
+      },
+      {
+        "id": 5064,
+        "title": "Divine Phoenix Anivia Icon",
+        "description": "This icon was acquired during the 2021 Coven event.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5064.jpg"
       },
       {
         "id": 506,
@@ -71293,6 +72980,16 @@
         "imagePath": "/assets/wards/212.png"
       },
       {
+        "id": 213,
+        "name": "Coven Ward",
+        "defaultDescription": null,
+        "description": "This ward was earned during the 2021 Coven event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/213.png"
+      },
+      {
         "id": 215,
         "name": "Ruined Ward",
         "defaultDescription": null,
@@ -71301,6 +72998,16 @@
         "rarity": "kRare",
         "isLegacy": false,
         "imagePath": "/assets/wards/215.png"
+      },
+      {
+        "id": 216,
+        "name": "Phoenix Ward",
+        "defaultDescription": null,
+        "description": "This ward was earned during the 2021 Coven event.",
+        "set": null,
+        "rarity": "kRare",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/216.png"
       }
     ],
     "emotes": [
@@ -76141,6 +77848,102 @@
         "imagePath": "/assets/emotes/3684.png"
       },
       {
+        "id": 3685,
+        "name": "Hello There",
+        "description": null,
+        "imagePath": "/assets/emotes/3685.png"
+      },
+      {
+        "id": 3686,
+        "name": "Look Into My Eyes",
+        "description": null,
+        "imagePath": "/assets/emotes/3686.png"
+      },
+      {
+        "id": 3687,
+        "name": "The Hunt Begins!",
+        "description": null,
+        "imagePath": "/assets/emotes/3687.png"
+      },
+      {
+        "id": 3688,
+        "name": "Master's Challenge Season 8",
+        "description": null,
+        "imagePath": "/assets/emotes/3688.png"
+      },
+      {
+        "id": 3689,
+        "name": "Garena Anniversary Limited Emote",
+        "description": "This emote was earned during the Garena anniversary period.",
+        "imagePath": "/assets/emotes/3689.png"
+      },
+      {
+        "id": 3690,
+        "name": "Reckoning - Hyper Roll: Blue Tier",
+        "description": "Awarded for reaching Blue Tier in Reckoning - Hyper Roll",
+        "imagePath": "/assets/emotes/3690.png"
+      },
+      {
+        "id": 3691,
+        "name": "Reckoning - Hyper Roll: Purple Tier",
+        "description": "Awarded for reaching Purple Tier in Reckoning- Hyper Roll",
+        "imagePath": "/assets/emotes/3691.png"
+      },
+      {
+        "id": 3692,
+        "name": "Reckoning - Hyper Roll: Hyper Tier",
+        "description": "Awarded for reaching Hyper Tier in Reckoning - Hyper Roll",
+        "imagePath": "/assets/emotes/3692.png"
+      },
+      {
+        "id": 3693,
+        "name": "TFT Reckoning Stage I Gold",
+        "description": null,
+        "imagePath": "/assets/emotes/3693.png"
+      },
+      {
+        "id": 3694,
+        "name": "TFT Reckoning Stage I Platinum",
+        "description": null,
+        "imagePath": "/assets/emotes/3694.png"
+      },
+      {
+        "id": 3695,
+        "name": "TFT Reckoning Stage I Diamond",
+        "description": null,
+        "imagePath": "/assets/emotes/3695.png"
+      },
+      {
+        "id": 3696,
+        "name": "TFT Reckoning Stage I Master",
+        "description": null,
+        "imagePath": "/assets/emotes/3696.png"
+      },
+      {
+        "id": 3697,
+        "name": "TFT Reckoning Stage I Grandmaster",
+        "description": null,
+        "imagePath": "/assets/emotes/3697.png"
+      },
+      {
+        "id": 3698,
+        "name": "TFT Reckoning Stage I Challenger",
+        "description": null,
+        "imagePath": "/assets/emotes/3698.png"
+      },
+      {
+        "id": 3699,
+        "name": "Moon, I Make A Wish",
+        "description": null,
+        "imagePath": "/assets/emotes/3699.png"
+      },
+      {
+        "id": 3700,
+        "name": "Divine Phoenix Anivia",
+        "description": null,
+        "imagePath": "/assets/emotes/3700.png"
+      },
+      {
         "id": 4,
         "name": "Mastery 4",
         "description": "Champion Mastery Level 4",
@@ -76753,6 +78556,14 @@
         "species": "Flutterbug",
         "level": 3,
         "imagePath": "/assets/tftcompanions/17009.png"
+      },
+      {
+        "id": 17019,
+        "name": "Sentinel Flutterbug",
+        "description": "Flutterbug wants to take over the world -- and eat all the yummiest things in it. But, he's very small. He often has to hide under things in order to not get squashed. While he hides, he machinates on his complex plans.",
+        "species": "Flutterbug",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/17019.png"
       },
       {
         "id": 17004,
@@ -78219,6 +80030,14 @@
         "imagePath": "/assets/tftcompanions/18009.png"
       },
       {
+        "id": 18019,
+        "name": " Sentinel Craggle",
+        "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
+        "species": "Craggle",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/18019.png"
+      },
+      {
         "id": 18004,
         "name": "True Ice Craggle",
         "description": "Craggle has a soft spot for the vulnerable creatures of the world, and tries to protect them with every ounce of his strength as if he was a giant colossus -- even if he is still growing. ",
@@ -78529,6 +80348,14 @@
         "species": "Hauntling",
         "level": 3,
         "imagePath": "/assets/tftcompanions/1015.png"
+      },
+      {
+        "id": 1021,
+        "name": "Sentinel Hauntling",
+        "description": "The spookiest of the Little Legends.",
+        "species": "Hauntling",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/1021.png"
       },
       {
         "id": 1001,
