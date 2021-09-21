@@ -1,5 +1,5 @@
 ﻿{
-  "version": "11.17.393.0607",
+  "version": "11.18.395.7538",
   "locale": "en_GB",
   "content": [
     "CHAMPIONS",
@@ -13,12 +13,12 @@
   ],
   "info": {
     "champions": 156,
-    "skins": 1255,
-    "chromas": 2753,
-    "icons": 3057,
+    "skins": 1263,
+    "chromas": 2809,
+    "icons": 3059,
     "emotes": 828,
-    "wards": 216,
-    "tftcompanions": 696,
+    "wards": 217,
+    "tftcompanions": 741,
     "tftmapskins": 47
   },
   "data": {
@@ -556,6 +556,88 @@
                 "colors": [
                   "#080808",
                   "#8E0A38"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2035,
+            "name": "Pentakill III: Lost Chapter Olaf",
+            "description": "All hail, Olaf, the Blastbeat Barbarian, and Chosen of Stentorus! As wild as a tempest, as brutal as an earthquake, he laughs in the faces of his enemies, his pounding drumbeats shaking the very foundations of the world.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/2035.jpg",
+            "chromas": [
+              {
+                "id": 2036,
+                "name": "Pentakill III: Lost Chapter Olaf",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 2037,
+                "name": "Pentakill III: Lost Chapter Olaf",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 2038,
+                "name": "Pentakill III: Lost Chapter Olaf",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 2039,
+                "name": "Pentakill III: Lost Chapter Olaf",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 2040,
+                "name": "Pentakill III: Lost Chapter Olaf",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 2041,
+                "name": "Pentakill III: Lost Chapter Olaf",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 2042,
+                "name": "Pentakill III: Lost Chapter Olaf",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 2043,
+                "name": "Pentakill III: Lost Chapter Olaf",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -2932,6 +3014,88 @@
                 "colors": [
                   "#ECF9F8",
                   "#ECF9F8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10033,
+            "name": "Pentakill III: Lost Chapter Kayle",
+            "description": "All hail, Kayle, the Bringer of Woe! With the strength of a self-righteous angel, she claims justice and judgment soar on her wings of wrath. Surely, if any can rally the warrior host of metal, it will be her.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/10033.jpg",
+            "chromas": [
+              {
+                "id": 10034,
+                "name": "Pentakill III: Lost Chapter Kayle",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 10035,
+                "name": "Pentakill III: Lost Chapter Kayle",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 10036,
+                "name": "Pentakill III: Lost Chapter Kayle",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 10037,
+                "name": "Pentakill III: Lost Chapter Kayle",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 10038,
+                "name": "Pentakill III: Lost Chapter Kayle",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 10039,
+                "name": "Pentakill III: Lost Chapter Kayle",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 10040,
+                "name": "Pentakill III: Lost Chapter Kayle",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 10041,
+                "name": "Pentakill III: Lost Chapter Kayle",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
                 ]
               }
             ]
@@ -5404,6 +5568,15 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 18040,
+            "name": "Hextech Tristana",
+            "description": "Hex-powered munitions have been around since the early days of hextech innovation, but no one has perfected their use like Tristana. Decorated for her service in protecting the innocent with her Hexcrystal Cannon (Mark III), she stands at the forefront of martial hextechnology as a staunch and noble advocate.",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/18040.jpg",
+            "chromas": null
           }
         ]
       },
@@ -8669,6 +8842,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 30017,
+            "name": "Pentakill III: Lost Chapter Karthus",
+            "description": "All hail, Karthus, the Voice of Doom, and Chosen of Perpetuum! His songs are bleak murder ballads, a bitter reminder that all things must die. Though, perhaps, not him?",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/30017.jpg",
+            "chromas": [
+              {
+                "id": 30018,
+                "name": "Pentakill III: Lost Chapter Karthus",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 30019,
+                "name": "Pentakill III: Lost Chapter Karthus",
+                "description": null,
+                "colors": [
+                  "#FFEE59",
+                  "#FFEE59"
+                ]
+              },
+              {
+                "id": 30020,
+                "name": "Pentakill III: Lost Chapter Karthus",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 30021,
+                "name": "Pentakill III: Lost Chapter Karthus",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 30022,
+                "name": "Pentakill III: Lost Chapter Karthus",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 30023,
+                "name": "Pentakill III: Lost Chapter Karthus",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 30024,
+                "name": "Pentakill III: Lost Chapter Karthus",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 30025,
+                "name": "Pentakill III: Lost Chapter Karthus",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -10587,6 +10842,88 @@
                 "colors": [
                   "#B2D1E4",
                   "#3CABFF"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 37026,
+            "name": "Pentakill III: Lost Chapter Sona",
+            "description": "All hail, Sona, the Silent Virtuoso! An artist's soul can change the world, and with the harmonious power of creation at her fingertips, she will prove that what is made can yet be unmade.",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/37026.jpg",
+            "chromas": [
+              {
+                "id": 37027,
+                "name": "Pentakill III: Lost Chapter Sona",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 37028,
+                "name": "Pentakill III: Lost Chapter Sona",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 37029,
+                "name": "Pentakill III: Lost Chapter Sona",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 37030,
+                "name": "Pentakill III: Lost Chapter Sona",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 37031,
+                "name": "Pentakill III: Lost Chapter Sona",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 37032,
+                "name": "Pentakill III: Lost Chapter Sona",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 37033,
+                "name": "Pentakill III: Lost Chapter Sona",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              },
+              {
+                "id": 37034,
+                "name": "Pentakill III: Lost Chapter Sona",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
                 ]
               }
             ]
@@ -19788,6 +20125,88 @@
                 ]
               }
             ]
+          },
+          {
+            "id": 82023,
+            "name": "Pentakill III: Lost Chapter Mordekaiser",
+            "description": "All hail, Mordekaiser, the Master of Metal, and Chosen of Cacophoni! The brazen giant boasts of his legendary skill with the axe, for none who face its edge live to tell of it…",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/82023.jpg",
+            "chromas": [
+              {
+                "id": 82024,
+                "name": "Pentakill III: Lost Chapter Mordekaiser",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 82025,
+                "name": "Pentakill III: Lost Chapter Mordekaiser",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 82026,
+                "name": "Pentakill III: Lost Chapter Mordekaiser",
+                "description": null,
+                "colors": [
+                  "#B6E084",
+                  "#B6E084"
+                ]
+              },
+              {
+                "id": 82027,
+                "name": "Pentakill III: Lost Chapter Mordekaiser",
+                "description": null,
+                "colors": [
+                  "#6ABBEE",
+                  "#6ABBEE"
+                ]
+              },
+              {
+                "id": 82028,
+                "name": "Pentakill III: Lost Chapter Mordekaiser",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 82029,
+                "name": "Pentakill III: Lost Chapter Mordekaiser",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 82030,
+                "name": "Pentakill III: Lost Chapter Mordekaiser",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 82031,
+                "name": "Pentakill III: Lost Chapter Mordekaiser",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -19992,6 +20411,88 @@
                 "colors": [
                   "#E58BA5",
                   "#E58BA5"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 83021,
+            "name": "Pentakill III: Lost Chapter Yorick",
+            "description": "All hail, Yorick, the Four-String Fanatic! He bestrides the realms of the living and the dead, and knows the fate that comes to all mortal things. It pays to beware the honorable man...",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/83021.jpg",
+            "chromas": [
+              {
+                "id": 83022,
+                "name": "Pentakill III: Lost Chapter Yorick",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 83023,
+                "name": "Pentakill III: Lost Chapter Yorick",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 83024,
+                "name": "Pentakill III: Lost Chapter Yorick",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 83025,
+                "name": "Pentakill III: Lost Chapter Yorick",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 83026,
+                "name": "Pentakill III: Lost Chapter Yorick",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 83027,
+                "name": "Pentakill III: Lost Chapter Yorick",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 83028,
+                "name": "Pentakill III: Lost Chapter Yorick",
+                "description": null,
+                "colors": [
+                  "#ECF9F8",
+                  "#ECF9F8"
+                ]
+              },
+              {
+                "id": 83029,
+                "name": "Pentakill III: Lost Chapter Yorick",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -33924,6 +34425,88 @@
                 "colors": [
                   "#88FF00",
                   "#9B1520"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 234010,
+            "name": "Dissonance of Pentakill Viego",
+            "description": "Only the broken-hearted can know the true sound of grief, that yearning for perfection that goes unheard by all others. Viego exists in a world of ashes and shadow, when it ought to be filled with light, and now looks beyond these grey horizons for new sounds and visions to make it so...",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "tilePath": "/assets/champions/tiles/234010.jpg",
+            "chromas": [
+              {
+                "id": 234011,
+                "name": "Dissonance of Pentakill Viego",
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "colors": [
+                  "#D33528",
+                  "#D33528"
+                ]
+              },
+              {
+                "id": 234012,
+                "name": "Dissonance of Pentakill Viego",
+                "description": null,
+                "colors": [
+                  "#DF9117",
+                  "#DF9117"
+                ]
+              },
+              {
+                "id": 234013,
+                "name": "Dissonance of Pentakill Viego",
+                "description": null,
+                "colors": [
+                  "#2DA130",
+                  "#2DA130"
+                ]
+              },
+              {
+                "id": 234014,
+                "name": "Dissonance of Pentakill Viego",
+                "description": null,
+                "colors": [
+                  "#E58BA5",
+                  "#E58BA5"
+                ]
+              },
+              {
+                "id": 234015,
+                "name": "Dissonance of Pentakill Viego",
+                "description": null,
+                "colors": [
+                  "#DED6B0",
+                  "#DED6B0"
+                ]
+              },
+              {
+                "id": 234016,
+                "name": "Dissonance of Pentakill Viego",
+                "description": null,
+                "colors": [
+                  "#2756CE",
+                  "#2756CE"
+                ]
+              },
+              {
+                "id": 234017,
+                "name": "Dissonance of Pentakill Viego",
+                "description": null,
+                "colors": [
+                  "#54209B",
+                  "#54209B"
+                ]
+              },
+              {
+                "id": 234018,
+                "name": "Dissonance of Pentakill Viego",
+                "description": null,
+                "colors": [
+                  "#27211C",
+                  "#27211C"
                 ]
               }
             ]
@@ -66009,6 +66592,26 @@
         "imagePath": "/assets/icons/5064.jpg"
       },
       {
+        "id": 5065,
+        "title": "LPL 2021 Fight",
+        "description": "This icon is to celebrate the rebranding of LPL.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5065.jpg"
+      },
+      {
+        "id": 5066,
+        "title": "LPL 2021 Crazy",
+        "description": "This icon is to celebrate the rebranding of LPL.",
+        "set": null,
+        "yearReleased": 2021,
+        "rarity": "kEpic",
+        "isLegacy": false,
+        "imagePath": "/assets/icons/5066.jpg"
+      },
+      {
         "id": 506,
         "title": "Harrowing 2012 - Deadfall Treant",
         "description": "Acquired by purchasing at least 5000 RP during the 2012 Harrowing event.",
@@ -72990,6 +73593,16 @@
         "imagePath": "/assets/wards/213.png"
       },
       {
+        "id": 214,
+        "name": "2021 Hextech Ward",
+        "defaultDescription": null,
+        "description": "This ward was obtained through the Hextech Crafting",
+        "set": null,
+        "rarity": "kMythic",
+        "isLegacy": false,
+        "imagePath": "/assets/wards/214.png"
+      },
+      {
         "id": 215,
         "name": "Ruined Ward",
         "defaultDescription": null,
@@ -78246,6 +78859,126 @@
         "imagePath": "/assets/tftcompanions/25009.png"
       },
       {
+        "id": 25019,
+        "name": "Azure Inktales Ao Shin",
+        "description": "They say that when you're feeling it, the music flows through you. Azure Ao Shins can get behind that.",
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25019.png"
+      },
+      {
+        "id": 25020,
+        "name": "Azure Inktales Ao Shin",
+        "description": "They say that when you're feeling it, the music flows through you. Azure Ao Shin can get behind that.",
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25020.png"
+      },
+      {
+        "id": 25021,
+        "name": "Azure Inktales Ao Shin",
+        "description": "They say that when you're feeling it, the music flows through you. Azure Ao Shin can get behind that.",
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25021.png"
+      },
+      {
+        "id": 25022,
+        "name": "Galeborn Inktales Ao Shin",
+        "description": "Air guitar champion of the Convergence, Galeborn Ao Shin breezes through endless chords, floating cloudy riffs.",
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25022.png"
+      },
+      {
+        "id": 25023,
+        "name": "Galeborn Inktales Ao Shin",
+        "description": "Air guitar champion of the Convergence, Galeborn Ao Shin breezes through endless chords, floating cloudy riffs.",
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25023.png"
+      },
+      {
+        "id": 25024,
+        "name": "Galeborn Inktales Ao Shin",
+        "description": "Air guitar champion of the Convergence, Galeborn Ao Shin breezes through endless chords, floating cloudy riffs.",
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25024.png"
+      },
+      {
+        "id": 25025,
+        "name": "Ember Inktales Ao Shin",
+        "description": "Let the savory riffs of this guitarist set your soul ablaze.",
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25025.png"
+      },
+      {
+        "id": 25026,
+        "name": "Ember Inktales Ao Shin",
+        "description": "Let the savory riffs of this guitarist set your soul ablaze.",
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25026.png"
+      },
+      {
+        "id": 25027,
+        "name": "Ember Inktales Ao Shin",
+        "description": "Let the savory riffs of this guitarist set your soul ablaze.",
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25027.png"
+      },
+      {
+        "id": 25028,
+        "name": "Darkspark Inktales Ao Shin",
+        "description": "The Darkspark Ao Shin creative spark comes from only the darkest skies.",
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25028.png"
+      },
+      {
+        "id": 25029,
+        "name": "Darkspark Inktales Ao Shin",
+        "description": "The Darkspark Ao Shin creative spark comes from only the darkest skies.",
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25029.png"
+      },
+      {
+        "id": 25030,
+        "name": "Darkspark Inktales Ao Shin",
+        "description": "The Darkspark Ao Shin creative spark comes from only the darkest skies.",
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25030.png"
+      },
+      {
+        "id": 25031,
+        "name": "Terra Inktales Ao Shin",
+        "description": null,
+        "species": "Ao Shin",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/25031.png"
+      },
+      {
+        "id": 25032,
+        "name": "Terra Inktales Ao Shin",
+        "description": null,
+        "species": "Ao Shin",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/25032.png"
+      },
+      {
+        "id": 25033,
+        "name": "Terra Inktales Ao Shin",
+        "description": null,
+        "species": "Ao Shin",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/25033.png"
+      },
+      {
         "id": 25016,
         "name": "Star Forger Ao Shin",
         "description": "A descendant of the Storm Dragon lineage, Ao Shin is a guardian of the storm, wielding the duality of gentle rains and the ferocity of lightning and thunder.",
@@ -81760,7 +82493,7 @@
       {
         "id": 6038,
         "name": "Esports Pengu",
-        "description": "Esports Pengu",
+        "description": "Esports Pengu has the most consistent top eight performances throughout the multiverse.<br>",
         "species": "Featherknight",
         "level": 1,
         "imagePath": "/assets/tftcompanions/6038.png"
@@ -81956,6 +82689,126 @@
         "species": "Featherknight",
         "level": 3,
         "imagePath": "/assets/tftcompanions/6024.png"
+      },
+      {
+        "id": 6039,
+        "name": "Darkspark Inktales Featherknight",
+        "description": "Darkspark Featherknights power to create life is drawn from the darkest storms.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6039.png"
+      },
+      {
+        "id": 6040,
+        "name": "Darkspark Inktales Featherknight",
+        "description": "Darkspark Featherknights power to create life is drawn from the darkest storms.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6040.png"
+      },
+      {
+        "id": 6041,
+        "name": "Darkspark Inktales Featherknight",
+        "description": "Darkspark Featherknights power to create life is drawn from the darkest storms.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6041.png"
+      },
+      {
+        "id": 6042,
+        "name": "Ember Inktales Featherknight",
+        "description": "With a burning passion to paint and create, Ember Featherknights dance with fire. ",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6042.png"
+      },
+      {
+        "id": 6043,
+        "name": "Ember Inktales Featherknight",
+        "description": "With a burning passion to paint and create, Ember Featherknights dance with fire. ",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6043.png"
+      },
+      {
+        "id": 6044,
+        "name": "Ember Inktales Featherknight",
+        "description": "With a burning passion to paint and create, Ember Featherknights dance with fire. ",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6044.png"
+      },
+      {
+        "id": 6045,
+        "name": "Galeborn Inktales Featherknight",
+        "description": "Galeborn Featherknights power to create life is drawn from the whispering winds.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6045.png"
+      },
+      {
+        "id": 6046,
+        "name": "Galeborn Inktales Featherknight",
+        "description": "Galeborn Featherknights power to create life is drawn from the whispering winds.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6046.png"
+      },
+      {
+        "id": 6047,
+        "name": "Galeborn Inktales Featherknight",
+        "description": "Galeborn Featherknights power to create life is drawn from the whispering winds.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6047.png"
+      },
+      {
+        "id": 6048,
+        "name": "Terra Inktales Featherknight",
+        "description": "Terra Featherknights borrow the colors of the earth to paint a better world.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6048.png"
+      },
+      {
+        "id": 6049,
+        "name": "Terra Inktales Featherknight",
+        "description": "Terra Featherknights borrow the colors of the earth to paint a better world.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6049.png"
+      },
+      {
+        "id": 6050,
+        "name": "Terra Inktales Featherknight",
+        "description": "Terra Featherknights borrow the colors of the earth to paint a better world.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6050.png"
+      },
+      {
+        "id": 6051,
+        "name": "Azure Inktales Featherknight",
+        "description": "Azure Featherknights power to create life is drawn from the deepest waters.",
+        "species": "Featherknight",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/6051.png"
+      },
+      {
+        "id": 6052,
+        "name": "Azure Inktales Featherknight",
+        "description": "Azure Featherknights power to create life is drawn from the deepest waters.",
+        "species": "Featherknight",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/6052.png"
+      },
+      {
+        "id": 6053,
+        "name": "Azure Inktales Featherknight",
+        "description": "Azure Featherknights power to create life is drawn from the deepest waters.",
+        "species": "Featherknight",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/6053.png"
       },
       {
         "id": 6013,
@@ -83284,6 +84137,126 @@
         "species": "Paddlemar",
         "level": 3,
         "imagePath": "/assets/tftcompanions/8015.png"
+      },
+      {
+        "id": 8019,
+        "name": "Azure Inktales Paddlemar",
+        "description": "Let the gentle waves of sleep wash over you, and carry you to new shores.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8019.png"
+      },
+      {
+        "id": 8020,
+        "name": "Azure Inktales Paddlemar",
+        "description": "Let the gentle waves of sleep wash over you, and carry you to new shores.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8020.png"
+      },
+      {
+        "id": 8021,
+        "name": "Azure Inktales Paddlemar",
+        "description": "Let the gentle waves of sleep wash over you, and carry you to new shores.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8021.png"
+      },
+      {
+        "id": 8022,
+        "name": "Terra Inktales Paddlemar",
+        "description": "Slow and steady wins the race,  just like Terra Paddlemar, and the moving tectonic plates.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8022.png"
+      },
+      {
+        "id": 8023,
+        "name": "Terra Inktales Paddlemar",
+        "description": "Slow and steady wins the race,  just like Terra Paddlemar, and the moving tectonic plates.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8023.png"
+      },
+      {
+        "id": 8024,
+        "name": "Terra Inktales Paddlemar",
+        "description": "Slow and steady wins the race,  just like Terra Paddlemar, and the moving tectonic plates.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8024.png"
+      },
+      {
+        "id": 8025,
+        "name": "Ember Inktales Paddlemar",
+        "description": "The Ember Paddlemars' scroll that takes ages to ink takes only seconds to burn.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8025.png"
+      },
+      {
+        "id": 8026,
+        "name": "Ember Inktales Paddlemar",
+        "description": "The Ember Paddlemars' scroll that takes ages to ink takes only seconds to burn.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8026.png"
+      },
+      {
+        "id": 8027,
+        "name": "Ember Inktales Paddlemar",
+        "description": "The Ember Paddlemars' scroll that takes ages to ink takes only seconds to burn.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8027.png"
+      },
+      {
+        "id": 8028,
+        "name": "Darkspark Inktales Paddlemar",
+        "description": "Hold fast your brush, for Darkspark Paddlemars will guide you through even the stormiest seas.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8028.png"
+      },
+      {
+        "id": 8029,
+        "name": "Darkspark Inktales Paddlemar",
+        "description": "Hold fast your brush, for Darkspark Paddlemars will guide you through even the stormiest seas.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8029.png"
+      },
+      {
+        "id": 8030,
+        "name": "Darkspark Inktales Paddlemar",
+        "description": "Hold fast your brush, for Darkspark Paddlemars will guide you through even the stormiest seas.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8030.png"
+      },
+      {
+        "id": 8031,
+        "name": "Galeborn Inktales Paddlemar",
+        "description": "Galeborn Paddlemars best ideas come and go with the breeze.",
+        "species": "Paddlemar",
+        "level": 1,
+        "imagePath": "/assets/tftcompanions/8031.png"
+      },
+      {
+        "id": 8032,
+        "name": "Galeborn Inktales Paddlemar",
+        "description": "Galeborn Paddlemars best ideas come and go with the breeze.",
+        "species": "Paddlemar",
+        "level": 2,
+        "imagePath": "/assets/tftcompanions/8032.png"
+      },
+      {
+        "id": 8033,
+        "name": "Galeborn Inktales Paddlemar",
+        "description": "Galeborn Paddlemars best ideas come and go with the breeze.",
+        "species": "Paddlemar",
+        "level": 3,
+        "imagePath": "/assets/tftcompanions/8033.png"
       },
       {
         "id": 8010,
