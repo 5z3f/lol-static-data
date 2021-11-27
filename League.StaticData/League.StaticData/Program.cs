@@ -8,6 +8,8 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading;
+using System.Management;
+using System.Text.RegularExpressions;
 
 namespace Riot.StaticData
 {
@@ -51,12 +53,26 @@ namespace Riot.StaticData
             string LeagueRootDir = LeagueExecutablePath.Contains("RADS") 
                 ? Path.GetFullPath(Path.Combine(LeagueExecutablePath, @"..\..\..\..\..\..\..\")) : Path.GetDirectoryName(LeagueExecutablePath);
 
-            string[] lockFileData = null;
+            var lockFileData = new string[5];
 
-            using (FileStream fileStream = File.Open(LeagueRootDir + "/lockfile", FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
-            using (StreamReader streamReader = new StreamReader(fileStream))
-                while (!streamReader.EndOfStream)
-                    lockFileData = streamReader.ReadToEnd().Split(':');
+            //using (FileStream fileStream = File.Open(LeagueRootDir + "/lockfile", FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
+            //using (StreamReader streamReader = new StreamReader(fileStream))
+            //    while (!streamReader.EndOfStream)
+            //        lockFileData = streamReader.ReadToEnd().Split(':');
+
+            lockFileData[0] = "LeagueClient";
+            lockFileData[1] = "123";
+            lockFileData[4] = "https";
+
+            ManagementObjectSearcher searcher = new ManagementObjectSearcher("root\\CIMV2", "select CommandLine from Win32_Process where name = 'LeagueClientUx.exe'");
+            foreach (ManagementObject queryObj in searcher.Get())
+            {
+                foreach ( var a in queryObj.Properties)
+                {
+                    lockFileData[2] = Regex.Match(a.Value.ToString(), "--app-port=([0-9]*)").Groups[1].Value;
+                    lockFileData[3] = Regex.Match(a.Value.ToString(), "--remoting-auth-token=([\\w-]*)").Groups[1].Value;
+                }
+            }
 
             Console.WriteLine($"\tWould you like to save assets? [y/N]");
             Console.Write("\t>> ");
